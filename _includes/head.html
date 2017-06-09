@@ -1,0 +1,26 @@
+<head>
+<meta charset="utf-8">
+<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<!-- Meta data -->
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
+<!-- Meta data-->
+<!--[if gte IE 9 | !IE ]><!-->
+<link href="{{ site.baseurl }}/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
+<link rel="stylesheet" href="{{ site.baseurl }}/wet-boew/css/theme.min.css">
+<!--<![endif]-->
+<!--[if lt IE 9]>
+		<link href="{{ site.baseurl }}/wet-boew/assets/favicon.ico" rel="shortcut icon" />
+		
+		<link rel="stylesheet" href="./wet-boew/css/ie8-theme.min.css" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script src="{{ site.baseurl }}/wet-boew/js/ie8-wet-boew.min.js"></script>
+		<![endif]-->
+<!--[if lte IE 9]>
+		
+		
+		<![endif]-->
+<noscript><link rel="stylesheet" href="{{ site.baseurl }}/wet-boew/css/noscript.min.css" /></noscript>
+</head>
