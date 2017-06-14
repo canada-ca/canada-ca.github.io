@@ -1,27 +1,32 @@
 <ul id="wb-tphp">
 <li class="wb-slc">
-<a class="wb-sl" href="#wb-cont">Skip to main content</a>
+<a class="wb-sl" href="#wb-cont">{{ site.SkipToMain[page.lang] }}</a>
 </li>
 <li class="wb-slc visible-sm visible-md visible-lg">
-<a class="wb-sl" href="#wb-info">Skip to "About this site"</a>
+<a class="wb-sl" href="#wb-info">{{ site.SkipToAbout[page.lang] }}</a>
 </li>
 </ul><header role="banner">
 <div id="wb-bnr" class="container">
 <section id="wb-lng" class="visible-md visible-lg text-right">
-<h2 class="wb-inv">Language selection</h2>
+<h2 class="wb-inv">{{ site.LanguageSelection[page.lang] }}</h2>
 <div class="row">
 <div class="col-md-12">
 <ul class="list-inline margin-bottom-none">
 
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-  {% for post in posts %}
-    <li><a lang="{{ post.lang }}" hreflang="{{ post.lang }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.lang }}</a></li>
-  {% endfor %}
+  {% for my_post in posts %}
+    {% if my_post.lang != page.lang %}
+      <li><a lang="{{ my_post.lang }}" hreflang="{{ my_post.lang }}" href="{{ my_post.url | prepend: post.baseurl }}">{{ site.language[my_post.lang] }}</a></li>
+    {% endif %}
+  {% endfor %}  
 
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for page in pages %}
-    <li><a lang="{{ page.lang }}" hreflang="{{ page.lang }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.lang }}</a></li>
+  {% for my_page in pages %}
+    {% if my_page.lang != page.lang %}
+      <li><a lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.language[my_page.lang] }}</a></li>
+    {% endif %}
   {% endfor %}
+  
 
 </ul>
 </div>
@@ -29,12 +34,12 @@
 </section>
 <div class="row">
 <div class="brand col-xs-8 col-sm-9 col-md-6">
-<a href="https://www.canada.ca/en.html"><object type="image/svg+xml" tabindex="-1" data="{{ site.baseurl }}/wet-boew/assets/sig-blk-en.svg"></object><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a>
+<a href="https://www.canada.ca/en.html"><object type="image/svg+xml" tabindex="-1" data="{{ site.baseurl }}/wet-boew/assets/sig-blk-{{ page.lang }}.svg"></object><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a>
 </div>
 <section class="wb-mb-links col-xs-4 col-sm-3 visible-sm visible-xs" id="wb-glb-mn">
-<h2>Search and menus</h2>
+<h2>{{ site.SearchAndMenus[page.lang] }}</h2>
 <ul class="list-inline text-right chvrn">
-<li><a href="#mb-pnl" title="Search and menus" aria-controls="mb-pnl" class="overlay-lnk" role="button"><span class="glyphicon glyphicon-search"><span class="glyphicon glyphicon-th-list"><span class="wb-inv">Search and menus</span></span></span></a></li>
+<li><a href="#mb-pnl" title="{{ site.SearchAndMenus[page.lang] }}" aria-controls="mb-pnl" class="overlay-lnk" role="button"><span class="glyphicon glyphicon-search"><span class="glyphicon glyphicon-th-list"><span class="wb-inv">{{ site.SearchAndMenus[page.lang] }}</span></span></span></a></li>
 </ul>
 <div id="mb-pnl"></div>
 </section>
@@ -42,15 +47,15 @@
 <h2>Search</h2>
 <form action="#" method="post" name="cse-search-box" role="search" class="form-inline">
 <div class="form-group">
-<label for="wb-srch-q" class="wb-inv">Search website</label>
-<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="27" maxlength="150" placeholder="Search Canada.ca">
+<label for="wb-srch-q" class="wb-inv">{{ site.SearchWebsite[page.lang] }}</label>
+<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="27" maxlength="150" placeholder="{{ site.SearchCanadaCa[page.lang] }}">
 <datalist id="wb-srch-q-ac">
 <!--[if lte IE 9]><select><![endif]-->
 <!--[if lte IE 9]></select><![endif]-->
 </datalist>
 </div>
 <div class="form-group submit">
-<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">{{ site.Search[page.lang] }}</span></button>
 </div>
 </form>
 </section>
@@ -58,7 +63,7 @@
 </div>
 <nav role="navigation" id="wb-sm" data-ajax-replace="http://cdn.canada.ca/gcweb-cdn-live/sitemenu/sitemenu-{{ page.lang }}.html" data-trgt="mb-pnl" class="wb-menu visible-md visible-lg" typeof="SiteNavigationElement">
 <div class="container nvbar">
-<h2>Topics menu</h2>
+<h2>{{ site.TopicsMenu[page.lang] }}</h2>
 <div class="row">
 <ul class="list-inline menu">
 <li><a href="#">Jobs</a></li>
@@ -74,7 +79,7 @@
 </div>
 </nav>
 <nav role="navigation" id="wb-bc" property="breadcrumb">
-<h2>You are here:</h2>
+<h2>{{ site.YouAreHere[page.lang] }}:</h2>
 <div class="container">
 <div class="row">
 <ol class="breadcrumb">
