@@ -8,7 +8,7 @@ lang: en
 ---
 Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements to meet depending on the size and type of business, spread across the provinces and federal departments including of course, the Canada Revenue Agency since hopefully the business will make money. Recently, the Canada.ca User Experience team xxx a team with Industry Canada and Canada Revenue Agency to improve online access and service to Canadians starting a business. We started with user needs and worked through from end to end.  
 
-Topic pages fill the cracks between departments 
+##H2 Topic pages fill the cracks between departments 
 
 One of the important service objectives for Canada.ca is to xxxxx - and topic pages play a key role. Topic pages bring together all of the service tasks onto one page, across federal departments. They act almost as a ‘home page’ for that set of services. If you are a mariner for example, the [Marine Transportation topic page]: https://www.canada.ca/en/services/transport/marine.html on Canada.ca  shows tasks from 7 different departments, from navigating to licensing to pollution. 
 
@@ -18,4 +18,4 @@ Topic pages all look the same because they are based on a template outlined in t
 And here it is afterward - [Live version of Starting a business topic page on Canada.ca]:  https://www.canada.ca/en/services/business/start.html
 ![Starting a business page now with steps and no photo of leaves at the top](https://github.com/canada-ca.github.io/posts/images/Starting_topic_Oct2016_567x523.png "Starting a business topic page in August 2017")
 
-
+There is more to write - this time box of 1 hour got the post up, reminded me of Markdown and got the image folder and image links in as examples. 
