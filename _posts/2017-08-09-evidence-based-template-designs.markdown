@@ -32,7 +32,7 @@ To do this, we made a single column of links, each of them numbered. We needed t
 
 
 
-
+(break)
 
 Under each step though, there were decisions that entrepreneurs had to make, some of them with long term consequences for their taxes and business structure. Added difficulty could come from the many different organisations, both public and private sector that would offer various steps, often in competition with each other.
 
