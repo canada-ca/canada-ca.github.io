@@ -16,6 +16,6 @@ Topic pages all look the same because they are based on a template outlined in t
 ![Starting a business page back in October with publications regulations and random ordered topics](./images/Starting_topic_Oct2016_567x523.png "Starting a business topic page in October 2016")
 
 And here it is afterward - [Live version of Starting a business topic page on Canada.ca]  (https://www.canada.ca/en/services/business/start.html)
-![Starting a business page now with steps and no photo of leaves at the top](./images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
+![Starting a business page now with steps and no photo of leaves at the top](.../_posts/images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
 
 There is more to write - this time box of 1 hour got the post up, reminded me of Markdown and got the image folder and image links in as examples. 
