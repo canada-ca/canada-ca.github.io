@@ -10,12 +10,12 @@ Starting a business is a top task for Canadians and it’s not an easy one. Ther
 
 ##H2 Topic pages fill the cracks between departments 
 
-One of the important service objectives for Canada.ca is to xxxxx - and topic pages play a key role. Topic pages bring together all of the service tasks onto one page, across federal departments. They act almost as a ‘home page’ for that set of services. If you are a mariner for example, the [Marine Transportation topic page]: https://www.canada.ca/en/services/transport/marine.html on Canada.ca  shows tasks from 7 different departments, from navigating to licensing to pollution. 
+One of the important service objectives for Canada.ca is to xxxxx - and topic pages play a key role. Topic pages bring together all of the service tasks onto one page, across federal departments. They act almost as a ‘home page’ for that set of services. If you are a mariner for example, the [Marine Transportation topic page](https://www.canada.ca/en/services/transport/marine.html) on Canada.ca  shows tasks from 7 different departments, from navigating to licensing to pollution. 
 
 Topic pages all look the same because they are based on a template outlined in the Content and IA spec. Over time, some parts of the topic page template have been improved as user research, usually task-based usability testing with Canadians, has highlighted problems. But on the whole, there has only been the one template available, with some optional pieces. When the team started the optimization project, the topic page looked like this: 
 ![Starting a business page back in October with publications regulations and random ordered topics](https://github.com/canada-ca.github.io/posts/images/starting_template_Aug2017_599x49.png "Starting a business topic page in October 2016")
 
-And here it is afterward - [Live version of Starting a business topic page on Canada.ca]:  https://www.canada.ca/en/services/business/start.html
+And here it is afterward - [Live version of Starting a business topic page on Canada.ca]  (https://www.canada.ca/en/services/business/start.html)
 ![Starting a business page now with steps and no photo of leaves at the top](https://github.com/canada-ca.github.io/posts/images/Starting_topic_Oct2016_567x523.png "Starting a business topic page in August 2017")
 
 There is more to write - this time box of 1 hour got the post up, reminded me of Markdown and got the image folder and image links in as examples. 
