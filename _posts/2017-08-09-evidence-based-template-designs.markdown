@@ -13,10 +13,10 @@ Starting a business is a top task for Canadians and it’s not an easy one. Ther
 Canada.ca exists to provide better online service to Canadians for their top tasks and topic pages play a key role. Many people don't know or care which department offers a particular service. Topic pages bring together all of the service tasks onto one page, across federal departments. They act almost as a ‘home page’ for that set of services. If you are a mariner for example, the [Marine Transportation topic page](https://www.canada.ca/en/services/transport/marine.html) on Canada.ca shows tasks from 7 different departments, from navigating to licensing to pollution. 
 
 Topic pages have a consistent look based on a template outlined in the Content and IA spec. Over time, some parts of the topic page template have been improved as user research, usually task-based usability testing with Canadians, has highlighted problems. But on the whole, there has only been the one template available, with some optional pieces. When the team started the optimization project, the start a business topic page looked like this: 
-![Starting a business page back in October with publications regulations and random ordered topics]({{site.url}}/.images/Starting_topic_Oct2016_567x523.png "Starting a business topic page in October 2016")
+![Starting a business page back in October with publications regulations and random ordered topics](/images/Starting_topic_Oct2016_567x523.png "Starting a business topic page in October 2016")
 
 And here it is afterward - [Live version of Starting a business topic page on Canada.ca]  (https://www.canada.ca/en/services/business/start.html)
-![Starting a business page now with steps and no photo of leaves at the top](./images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
+![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
 
 ## Starting with user needs
 One of the first things we noticed in our user researchpeople considering starting a business were often at different phases in their familiarity in the process. Some entrepreneurs knew exactly what they wanted to do, for example, just get a business number and operate provincially or incorporate with the federal government. Others were daunted by all the decisions and wondered if they needed to hire some kind of advisor to dig through the rules and options. 
