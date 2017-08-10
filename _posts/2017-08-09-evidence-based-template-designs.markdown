@@ -55,7 +55,7 @@ We were excited when we saw how comfortable the first few participants were with
 
 They also didn't feel the need to start from step 1, jumping right to the task for them. The steps gave them confidence that they weren't missing something crucial and could come back somewhere after completing each step.
 
-After it was launched on the live site, we noticed 
+After it was launched on the live site, we noticed that:
 - a drop in searches for all the main steps including 'naming a business', 'registering a business' and 'incorporation'
 - more Canadians using BizPal, the Industry Canada wizard to find permits and licences
 - more Canadians using both the incorporation and sole-priorietorship or partnership routes
