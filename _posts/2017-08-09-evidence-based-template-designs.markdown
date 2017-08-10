@@ -18,7 +18,7 @@ Topic pages have a consistent look based on a template outlined in the Content a
 And here it is afterward - [Live version of Starting a business topic page on Canada.ca]  (https://www.canada.ca/en/services/business/start.html)
 ![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
 
-## Starting with user needs
+## Sharing the headaches of start-up entrepreneurs in Canada
 One of the first things we noticed in our user research on starting a business was that Canadians considering who came to the topic page were often at different phases in their familiarity with the process. Some entrepreneurs knew exactly what they wanted to do, such as get a business number and operate provincially or incorporate with the federal government. Others were daunted by all the links and content, often looking for a checklist to try to avoid missing something important.
 
 Only 67% of the participants in our baseline test could identify essential legal steps to start a business. Some even confided in us that when they started their own business, they would probably have to hire an accountant or lawyer.
@@ -32,7 +32,7 @@ These processes are further complicated by the different priorities of governmen
 To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions they had to make when starting their business.
 ![Decisions and subsequent steps to start a business](/images/Starting_a_business_decisions_Nov2016.png  "Decision points to start a business")
 
-## From user needs to design requirements
+## From pain points to user needs
 It was clear that just dropping the tasks with the highest traffic at the top of the page wasn't going to cut it. Canadians simply didn't know where to look for the registration that was right for them, and with so many links on the Starting a business page, they went off in all directions. 
 
 When an entrepreneur came to the topic page, we needed to make sure they could:
@@ -40,27 +40,15 @@ When an entrepreneur came to the topic page, we needed to make sure they could:
 2. Understand which steps they might have done already and which were relevant to them, since many don't do all the steps with one government or agency
 3. For those entrepreneurs who had one task, we wanted to make sure they weren't forced to read everything and could get to the specific application they needed
 
-
-
-The main role of government in starting a business is to support those legal steps - steps like registering the business, choosing a name that didn"t already exist, getting a business number and opening GST and payroll accounts. 
-
-
-## Conveying the sequence and understanding it ourselves
-The steps required to start a business weren't clearly laid out on the topic page - 
-
-
-
-
-
-To do this, we made a single column of links, each of them numbered. 
-
 Identifying the steps, sometimes involved pruning the options. Steps have to be stand-alone and simple enough to differentiate from other steps. To that end, instead of having guides, business plans and before starting a business, step 1 became a single link to business planning. 
 
-In contrast, parts of the process had to be added to the page. Choosing a business name is a step all businesses have to go through, whether incorporating federally or provincially or just getting a business number. In the past, however, the website just included it in the bucket of links under business registration.
+In contrast, choosing a business name is a crucial step to registering many businesses. This wasn't even present on the start a business topic in the past, found only when Canadians went to registration pages. 
 
+## Conveying sequence in simplicity
+Once we had struck a balance with a set of steps that would be simple enough to follow and broad enough to cover the key things new businesses legally are required to do, we were ready to tackel the design.
 
+The steps required to start a business had to be clearly laid out page and still look like a Canada.ca topic page. We iterated the design, having people walk through it and discussing it with our teams and experts.
 
+First, we added numbers and changed the heading to say 'steps'. When we noticed participants were still getting distracted, we removed the 'most requested' and 'what we are doing' links from the page. We found that a single column list was faster to scan and even managed to put the 'most requested' links back on the page for those entrepreneurs who wanted to skip through the supporting content.
 
 "With the new simplified steps page, 100% of participants in a series of two additional studies could identify essential legal steps to start a business"
-
-
