@@ -51,4 +51,9 @@ The steps required to start a business had to be clearly laid out page and still
 
 First, we added numbers and changed the heading to say 'steps'. When we noticed participants were still getting distracted, we removed the 'most requested' and 'what we are doing' links from the page. We found that a single column list was faster to scan and even managed to put the 'most requested' links back on the page for those entrepreneurs who wanted to skip through the supporting content.
 
+## Reviewing how we did
 "With the new simplified steps page, 100% of participants in a series of two additional studies could identify essential legal steps to start a business"
+
+We were excited when we saw how comfortable the first few participants were with the page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process.
+
+They also didn't feel the need to start from step 1, jumping right to the task for them. The steps gave them confidence that they weren't missing something crucial and could come back somewhere after completing each step.
