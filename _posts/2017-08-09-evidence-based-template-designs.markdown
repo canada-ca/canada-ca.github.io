@@ -23,20 +23,55 @@ One of the first things we noticed in our user researchpeople considering starti
 
 "Only 67% of participants in our baseline test could identify essential legal steps to start a business
 
+Before we came up with the approach, to understand what entrepreneurs were going through, the project team started by asking 'What are the things that entrepreneurs have to know to make their decisions about registration?'. Each of the business steps have a lot of thinking behind them:
+
+Should I incorporate?
+- Will I benefit from corporate tax rates?
+- What are the liability risks for my business sector?
+
+Should I set up a sole-proprietorship, partnership or cooperative?
+- Will I be sharing the profits with a business partner or a set of investors?
+
+Do I need to get a unique business name?
+- Will operating under my own name harm my chances at success?
+- Will I be selling my products online or in different provinces?
+
+What tax accounts do I need?
+- Am I planning to hire? - Payroll
+- Is my business going to make more than $30k this year? - GST/HST
+- Are my products or services exempt from GST/HST? - GST/HST
+- Do I need to import or export? - Import/export
+
+What other things do I have to register for?
+- Am I operating in a province where business insurance is required?
+- What provinces am I operating in?
+- What other permits or licences apply to my business activities?
+
+What do I need to get my business started?
+- Can I get start-up financing or grants?
+- Do I need brand protection or intellectual property protection?
+
+Even if an entrepreneur knows all their business inside-out, if they don't know the implications or thresholds, it can be a tricky maze with heavy repercussions. For a small business making less than $30k per year, accidentally registering for a GST/HST number means they'll be required to add a 10% tax charge on all their sales, a requirement that can be burdensome on small business. Similarly, an entrepreneur that didn't incorporate because they thought it was too complicated and didn't understand the value, could find themselves in a higher tax bracket, or personally bearing the financial liability for a court case against the company.
+
+## Conveying the sequence and understanding it ourselves
 The steps required to start a business weren't clearly laid out on the topic page - people simply didn't know where to find them, and with so many links on the Starting a business page, they went off in all directions. Yet the main role of government in starting a business is to support those legal steps - steps like registering the business, choosing a name that didn"t already exist, getting a business number and opening GST and payroll accounts. 
 
 These decisions were complicated by the different government priorities. Industry Canada was interested in helping people who wanted to incorporate federally, CRA with GST and corporate tax accounts, provinces with their own incorporation or permits. How could we bring it all into one process - particularly when the sequence wasn't clear even to us. 
 
-## Conveying the sequence and understanding it ourselves
 The sequential topic page focused on ensuring entrepreneurs could:
-1. Deal with one decision at a time, with the security that they weren't forgetting something
+1. Deal with one decision at a time, feeling secure that they weren't forgetting something
 2. Understand which steps they could ignore and which were relevant to them, if they had already started the process somewhere else
 3. Skip all the process pages and jump to the specific applications and registrations they needed
 
-To do this, we made a single column of links, each of them numbered. We needed to reduce some of the options to make it cleaner. Instead of having guides, business plans and before starting a business, we gave a single link to business planning. In contrast, choosing a business name was added, as a prerequisite to the other registration steps. A lot of the specific things entrepreneurs are trying to do are still available through the most requested links to the right.
+To do this, we made a single column of links, each of them numbered. 
 
-(break)
+Identifying the steps, sometimes involved pruning the options. Steps have to be stand-alone and simple enough to differentiate from other steps. To that end, instead of having guides, business plans and before starting a business, step 1 became a single link to business planning. 
 
-Under each step though, there were decisions that entrepreneurs had to make, some of them with long term consequences for their taxes and business structure. Added difficulty could come from the many different organisations, both public and private sector that would offer various steps, often in competition with each other.
+In contrast, parts of the process had to be added to the page. Choosing a business name is a step all businesses have to go through, whether incorporating federally or provincially or just getting a business number. In the past, however, the website just included it in the bucket of links under business registration.
+
+
+
 
 "With the new simplified steps page, 100% of participants in a series of two additional studies could identify essential legal steps to start a business"
+
+
