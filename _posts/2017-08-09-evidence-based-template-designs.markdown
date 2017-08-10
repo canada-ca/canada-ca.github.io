@@ -57,3 +57,9 @@ First, we added numbers and changed the heading to say 'steps'. When we noticed 
 We were excited when we saw how comfortable the first few participants were with the page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process.
 
 They also didn't feel the need to start from step 1, jumping right to the task for them. The steps gave them confidence that they weren't missing something crucial and could come back somewhere after completing each step.
+
+After it was launched on the live site, we noticed 
+- a drop in searches for all the main steps including 'naming a business', 'registering a business' and 'incorporation'
+- more Canadians using BizPal, the Industry Canada wizard to find permits and licences
+- more Canadians using both the incorporation and sole-priorietorship or partnership routes
+- a sharp increase in people on the start a business page finding the grants and financing page
