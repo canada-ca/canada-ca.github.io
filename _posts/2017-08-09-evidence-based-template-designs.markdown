@@ -19,49 +19,38 @@ And here it is afterward - [Live version of Starting a business topic page on Ca
 ![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
 
 ## Starting with user needs
-One of the first things we noticed in our user researchpeople considering starting a business were often at different phases in their familiarity in the process. Some entrepreneurs knew exactly what they wanted to do, for example, just get a business number and operate provincially or incorporate with the federal government. Others were daunted by all the decisions and wondered if they needed to hire some kind of advisor to dig through the rules and options. 
+One of the first things we noticed in our user research on starting a business was that Canadians considering who came to the topic page were often at different phases in their familiarity with the process. Some entrepreneurs knew exactly what they wanted to do, such as get a business number and operate provincially or incorporate with the federal government. Others were daunted by all the links and content, often looking for a checklist to try to avoid missing something important.
 
-"Only 67% of participants in our baseline test could identify essential legal steps to start a business
+Only 67% of the participants in our baseline test could identify essential legal steps to start a business. Some even confided in us that when they started their own business, they would probably have to hire an accountant or lawyer.
 
-Before we came up with the approach, to understand what entrepreneurs were going through, the project team started by asking 'What are the things that entrepreneurs have to know to make their decisions about registration?'. Each of the business steps have a lot of thinking behind them:
+Unfortunately, starting a business is pretty complex. To register, an entrepreneur not only has to know which questions to ask, but they have to understand the threshholds, risks and limitations the options.
 
-Should I incorporate?
-- Will I benefit from corporate tax rates?
-- What are the liability risks for my business sector?
+For a small business making less than $30k per year, accidentally registering for a GST/HST number means they'll be required to add a 10% tax charge on all their sales that they otherwise wouldn't have had to charge. Deciding to incorporate a business could mean more paperwork, fees and accountants for a small business that could operate effectively as a sole proprietorship. Conversely, getting off the ground with a sole proprietorship could end up in fewer options to get start-up funding and higher personal financial risk for some.
 
-Should I set up a sole-proprietorship, partnership or cooperative?
-- Will I be sharing the profits with a business partner or a set of investors?
+These processes are further complicated by the different priorities of government agencies. Industry Canada was interested in helping people who wanted to incorporate federally, CRA with GST and corporate tax accounts, provinces with their own incorporation or permits. How could we bring it all into one process - particularly when the sequence wasn't clear even to us?
 
-Do I need to get a unique business name?
-- Will operating under my own name harm my chances at success?
-- Will I be selling my products online or in different provinces?
+To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions they had to make when starting their business.
+![Decisions and subsequent steps to start a business](/images/Start a business decision flow.jpg  "Decision points to start a business")
 
-What tax accounts do I need?
-- Am I planning to hire? - Payroll
-- Is my business going to make more than $30k this year? - GST/HST
-- Are my products or services exempt from GST/HST? - GST/HST
-- Do I need to import or export? - Import/export
+## From user needs to design requirements
+It was clear that just dropping the tasks with the highest traffic at the top of the page wasn't going to cut it. Canadians simply didn't know where to look for the registration that was right for them, and with so many links on the Starting a business page, they went off in all directions. 
 
-What other things do I have to register for?
-- Am I operating in a province where business insurance is required?
-- What provinces am I operating in?
-- What other permits or licences apply to my business activities?
+When an entrepreneur came to the topic page, we needed to make sure they could:
+1. Deal with one decision at a time, feeling secure that they weren't forgetting or missing something
+2. Understand which steps they might have done already and which were relevant to them, since many don't do all the steps with one government or agency
+3. For those entrepreneurs who had one task, we wanted to make sure they weren't forced to read everything and could get to the specific application they needed
 
-What do I need to get my business started?
-- Can I get start-up financing or grants?
-- Do I need brand protection or intellectual property protection?
 
-Even if an entrepreneur knows all their business inside-out, if they don't know the implications or thresholds, it can be a tricky maze with heavy repercussions. For a small business making less than $30k per year, accidentally registering for a GST/HST number means they'll be required to add a 10% tax charge on all their sales, a requirement that can be burdensome on small business. Similarly, an entrepreneur that didn't incorporate because they thought it was too complicated and didn't understand the value, could find themselves in a higher tax bracket, or personally bearing the financial liability for a court case against the company.
+
+The main role of government in starting a business is to support those legal steps - steps like registering the business, choosing a name that didn"t already exist, getting a business number and opening GST and payroll accounts. 
+
 
 ## Conveying the sequence and understanding it ourselves
-The steps required to start a business weren't clearly laid out on the topic page - people simply didn't know where to find them, and with so many links on the Starting a business page, they went off in all directions. Yet the main role of government in starting a business is to support those legal steps - steps like registering the business, choosing a name that didn"t already exist, getting a business number and opening GST and payroll accounts. 
+The steps required to start a business weren't clearly laid out on the topic page - 
 
-These decisions were complicated by the different government priorities. Industry Canada was interested in helping people who wanted to incorporate federally, CRA with GST and corporate tax accounts, provinces with their own incorporation or permits. How could we bring it all into one process - particularly when the sequence wasn't clear even to us. 
 
-The sequential topic page focused on ensuring entrepreneurs could:
-1. Deal with one decision at a time, feeling secure that they weren't forgetting something
-2. Understand which steps they could ignore and which were relevant to them, if they had already started the process somewhere else
-3. Skip all the process pages and jump to the specific applications and registrations they needed
+
+
 
 To do this, we made a single column of links, each of them numbered. 
 
