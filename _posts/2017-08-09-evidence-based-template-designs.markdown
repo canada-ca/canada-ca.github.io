@@ -27,6 +27,8 @@ Unfortunately, starting a business is pretty complex. To register, an entreprene
 
 To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions they had to make when starting their business.
 
+![Name a business part of the start a business decision map](/images/Name_a_business_decisions_Nov2016_grey_666x330.png  "Name a business decisions")
+
 ## From pain points to user needs
 It was clear that just dropping the tasks with the highest traffic at the top of the page wasn't going to cut it. Canadians simply didn't know where to look for the registration that was right for them, and with so many links on the Starting a business page, they went off in all directions. 
 
