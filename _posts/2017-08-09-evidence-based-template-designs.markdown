@@ -15,7 +15,7 @@ Topic pages have a consistent layout based on a template described in the [Canad
 ![Starting a business page back in October with publications regulations and random ordered topics](/images/Starting_topic_Oct2016_567x523.png "Starting a business topic page in October 2016")
 
 
-And here it is afterward - [Live version of Starting a business topic page on Canada.ca]  (https://www.canada.ca/en/services/business/start.html)
+And here it is afterward - [Live version of Starting a business topic page on Canada.ca](https://www.canada.ca/en/services/business/start.html)
 ![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
 
 ## Sharing the headaches of start-up entrepreneurs in Canada
@@ -55,7 +55,7 @@ We were excited when we saw how comfortable the first few participants were with
 
 They also didn't feel the need to start from step 1, jumping right to the task for them. The steps gave them confidence that they weren't missing something crucial and could come back somewhere after completing each step.
 
-After it was launched on the live site, we noticed that:
+After it was launched on the live site, we noticed:
 - a drop in searches for all the main steps including 'naming a business', 'registering a business' and 'incorporation'
 - more Canadians using BizPal, the Industry Canada wizard to find permits and licences
 - more Canadians using both the incorporation and sole-priorietorship or partnership routes
