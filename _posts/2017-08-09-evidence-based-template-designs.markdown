@@ -21,25 +21,13 @@ When the team started the optimization project, the Start a business topic page 
 
 Many of the participants were business students. Some even confided in us that when they started their own business, they would probably have to hire an accountant or lawyer.
 
-Unfortunately, starting a business is pretty complex. To register, an entrepreneur not only has to know which questions to ask, but they have to understand the threshholds, risks and limitations inherent in the options available to them. These processes are further complicated by the different priorities of government agencies. ISED was interested in helping people who wanted to incorporate federally, CRA with GST and corporate tax accounts, provinces with their own incorporation or permits. How could we bring it all into one process - particularly when the sequence wasn't clear even to us?
-
-To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions they had to make when starting their business.
-
-![Name a business part of the start a business decision map](/images/Name_a_business_decisions_Nov2016_grey_666x330.png  "Name a business decisions")
-
-## From pain points to user needs
-It was clear that just dropping the tasks with the highest traffic at the top of the page wasn't going to cut it. Canadians simply didn't know where to look for the registration that was right for them, and with so many links on the Starting a business page, they went off in all directions. 
-
-When an entrepreneur came to the topic page, we needed to make sure they could:
-1. Deal with one decision at a time, feeling secure that they weren't forgetting or missing something
-2. Understand which steps they might have done already and which were relevant to them, since many don't do all the steps with one government or agency
-3. For those entrepreneurs who had one task, we wanted to make sure they weren't forced to read everything and could get to the specific application they needed
-
-Identifying the steps sometimes involved pruning the options. Steps have to be stand-alone and simple enough to differentiate from other steps. To that end, instead of having guides, business plans and before starting a business, step 1 became a single link to business planning. 
-
-In contrast, choosing a business name is a crucial step to registering many businesses. This wasn't even present on the start a business topic in the past, found only when Canadians went to registration pages. 
+Unfortunately, starting a business is pretty complex. To register, an entrepreneur not only has to know which questions to ask, but they have to understand the threshholds, risks and limitations inherent in the options available to them. These processes are further complicated by the different priorities of government agencies. ISED was interested in helping people who wanted to incorporate federally, CRA with GST and corporate tax accounts, provinces with their own incorporation or permits. How could we bring it all into one process?
 
 ## Conveying sequence in simplicity
+It was clear that just dropping the tasks with the highest traffic at the top of the page wasn't going to cut it. Canadians simply didn't know where to look for the registration that was right for them, and with so many links, they went off in all directions. 
+
+The solution was to organize the tasks sequentially, in a step-by-step process. We explain how we came to this understanding [here](https://canada-ca.github.io).  
+
 Once we had struck a balance with a set of steps that would be simple enough to follow and broad enough to cover the key things new businesses legally are required to do, we were ready to tackle the design.
 
 The steps required to start a business had to be clearly laid out and still work like a Canada.ca topic page. We iterated the prototypes, having people walk through it and discussing it with our teams and experts.
@@ -50,7 +38,7 @@ So here is what we ended up with - [Live version of Starting a business topic pa
 ![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
 
 ## Reviewing how we did
->With the new simplified steps pattern, 100% of participants in a series of two additional studies could identify essential legal steps to start a business
+>With the new simplified steps pattern, 100% of participants in a series of two additional usability studies could identify essential legal steps to start a business
 >Business student participant: “I’d be going through all of these steps”
 
 We were excited when we saw how comfortable the first few participants were with the page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process.
@@ -62,3 +50,5 @@ After it was launched on the live site, we noticed:
 - more Canadians using BizPal, the Industry Canada wizard to find permits and licences
 - more Canadians using both the incorporation and sole-priorietorship or partnership routes
 - a sharp increase in people on the start a business page finding the grants and financing page
+
+This confirmed to us that we had a solid design pattern on our hands, so we've included sequential steps as an option for Canada.ca topic pages in the Content and Information Architecture Specification. Use this approach when 
