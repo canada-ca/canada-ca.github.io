@@ -24,9 +24,11 @@ These processes are further complicated by the different priorities of governmen
 To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions they had to make when starting their business.
 ![Decisions and subsequent steps to start a business](/images/Starting_a_business_decisions_Nov2016_grey_1194x818.png  "Decision points to start a business")
 
+Wow! There's a lot for entrepreneurs to consider.
+
 ## From pain points to user needs
 
-When an entrepreneur came to the topic page, we needed to make sure they could:
+To manage this complexity, we needed to make sure entrepreneurs could:
 1. Deal with one decision at a time, feeling secure that they weren't forgetting or missing something
 2. Understand which steps they might have done already and which were relevant to them, since many don't do all the steps with one government or agency
 3. For those entrepreneurs who had one task, we wanted to make sure they weren't forced to read everything and could get to the specific application they needed
@@ -35,22 +37,4 @@ Identifying the steps, sometimes involved pruning the options. Steps have to be 
 
 In contrast, choosing a business name is a crucial step to registering many businesses. This wasn't even present on the start a business topic in the past, found only when Canadians went to registration pages. 
 
-## Conveying sequence in simplicity
-Once we had struck a balance with a set of steps that would be simple enough to follow and broad enough to cover the key things new businesses legally are required to do, we were ready to tackel the design.
-
-The steps required to start a business had to be clearly laid out page and still look like a Canada.ca topic page. We iterated the design, having people walk through it and discussing it with our teams and experts.
-
-First, we added numbers and changed the heading to say 'steps'. When we noticed participants were still getting distracted, we removed the 'most requested' and 'what we are doing' links from the page. We found that a single column list was faster to scan and even managed to put the 'most requested' links back on the page for those entrepreneurs who wanted to skip through the supporting content.
-
-## Reviewing how we did
-"With the new simplified steps page, 100% of participants in a series of two additional studies could identify essential legal steps to start a business"
-
-We were excited when we saw how comfortable the first few participants were with the page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process.
-
-They also didn't feel the need to start from step 1, jumping right to the task for them. The steps gave them confidence that they weren't missing something crucial and could come back somewhere after completing each step.
-
-After it was launched on the live site, we noticed 
-- a drop in searches for all the main steps including 'naming a business', 'registering a business' and 'incorporation'
-- more Canadians using BizPal, the Industry Canada wizard to find permits and licences
-- more Canadians using both the incorporation and sole-priorietorship or partnership routes
-- a sharp increase in people on the start a business page finding the grants and financing page
+## Focus on explaining the logic modelling process
