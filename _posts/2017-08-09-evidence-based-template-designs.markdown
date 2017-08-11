@@ -6,7 +6,8 @@ date:   2017-08-09 09:48:44 +0100
 categories: category
 lang: en
 ---
-Starting a business is a top task for Canadians and it’s not an easy one. There are many legal requirements to meet depending on the size and type of business, spread across the provinces and federal departments and agencies. We set out to simplify the Starting a Business task on Canada.ca and discovered that many of those steps have to be done in a particular order. Canadians in our research study not only couldnt figure out the order from the Canada.ca site at the time, but many couldnt even find any of the legal requirements at all.  To address this need, an Optimization   Together with Innovation, Science and Economic Development Canada (ISED) and Canada Revenue Agency (CRA), the TBS User Experience Optimization Team created a simplified sequential pattern for topic pages that can be used for any high-level complex step by step sequence.  
+During our optimization project with Innovation, Science and Economic Development Canada (ISED) and Canada Revenue Agency (CRA), the TBS User Experience Optimization Team created a simplified sequential pattern for topic pages that can be used for any high-level complex step by step sequence.  
+
 ## Topic pages fill the cracks between departments 
 
 Canada.ca exists to provide better online service to Canadians for their top tasks and topic pages play a key role. Many people don't know or care which department offers a particular service. Topic pages bring together all of the service tasks onto one page, across federal departments. They act like a ‘home page’ for that set of services, providing links to help citizens find their tasks. 
