@@ -22,7 +22,7 @@ When the team started the optimization project, the Start a business topic page 
 
 Many of the participants were business students. Some even confided in us that when they started their own business, they would probably have to hire an accountant or lawyer.
 
-Unfortunately, starting a business is pretty complex. To register, an entrepreneur not only has to know which questions to ask, but they have to understand the threshholds, risks and limitations inherent in the options available to them. These processes are further complicated by the different priorities of government agencies. ISED was interested in helping people who wanted to incorporate federally, CRA with GST and corporate tax accounts, provinces with their own incorporation or permits. How could we bring it all into one process?
+Clearly, starting a business is pretty complex. How could we bring it all together?
 
 ## Conveying sequence in simplicity
 It was clear that just dropping the tasks with the highest traffic at the top of the page wasn't going to cut it. Canadians simply didn't know where to look for the registration that was right for them, and with so many links, they went off in all directions. 
