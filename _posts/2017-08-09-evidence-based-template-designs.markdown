@@ -6,7 +6,7 @@ date:   2017-08-09 09:48:44 +0100
 categories: category
 lang: en
 ---
-One of the key aspects of the Canada.ca design is a consistent template for topic pages, which group related services and information to help citizens find their tasks with the federal government. As an outcome of our optimization project for starting a business with Innovation, Science and Economic Development Canada (ISED) and Canada Revenue Agency (CRA), the TBS User Experience Optimization Team created a simplified sequential pattern for topic pages that can be used for any high-level complex step by step sequence.  
+One of the key aspects of the Canada.ca design is a consistent template for topic pages, which group related services and information to help citizens find their tasks with the federal government. As an outcome of our optimization project for starting a business with Innovation, Science and Economic Development Canada (ISED) and Canada Revenue Agency (CRA), the TBS User Experience Optimization Team created a simplified sequential pattern for topic pages that can be used to organize top tasks in step by step sequence.  
 
 ## Topic pages fill the cracks between departments 
 
