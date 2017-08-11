@@ -6,7 +6,7 @@ date:   2017-08-15 09:48:44 +0100
 categories: category
 lang: en
 ---
-Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements to meet depending on the size and type of business, spread across the provinces and federal departments. Together with Innnovation Science and Economic Development Canada and Canada Revenue Agency, the TBS User Experience Optimization Team set out to improve online access and service to Canadians starting a business. We started with user needs and worked through from end to end.  
+Starting a business is a top task for Canadians and it’s not an easy one. There are varying legal requirements to meet, depending on the size and type of business, spread across the provinces and federal departments. Together with Innnovation Science and Economic Development Canada and Canada Revenue Agency, the TBS User Experience Optimization Team set out to improve online access and service to Canadians starting a business. We started with user needs and worked through from end to end.  
 
 ## People wonder "What is the first thing I have to do?" 
 THIS ARTICLE IS A DRAFT - IT IS NOT FINISHED!!
