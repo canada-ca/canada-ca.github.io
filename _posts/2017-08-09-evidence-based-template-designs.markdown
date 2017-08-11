@@ -50,6 +50,7 @@ First, we added numbers and changed the heading to say 'steps'. When we noticed 
 
 ## Reviewing how we did
 >With the new simplified steps page, 100% of participants in a series of two additional studies could identify essential legal steps to start a business
+>Business student participant: “I’d be going through all of these steps”
 
 We were excited when we saw how comfortable the first few participants were with the page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process.
 
