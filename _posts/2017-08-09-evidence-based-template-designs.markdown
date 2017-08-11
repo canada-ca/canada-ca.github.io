@@ -14,10 +14,6 @@ Canada.ca exists to provide better online service to Canadians for their top tas
 Topic pages have a consistent layout based on a template described in the [Canada.ca Content and Information Architecture Specifications](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html). Over time, some parts of the topic page template have been improved as user research, usually task-based usability testing with Canadians, has highlighted problems. But on the whole, there has only been the one template available, with some optional pieces. When the team started the optimization project, the Start a business topic page looked like this: 
 ![Starting a business page back in October with publications regulations and random ordered topics](/images/Starting_topic_Oct2016_567x523.png "Starting a business topic page in October 2016")
 
-
-And here it is afterward - [Live version of Starting a business topic page on Canada.ca](https://www.canada.ca/en/services/business/start.html)
-![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
-
 ## Sharing the headaches of start-up entrepreneurs in Canada
 > Only 67% of the participants in our baseline test could identify essential legal steps to start a business. 
 
@@ -47,6 +43,9 @@ Once we had struck a balance with a set of steps that would be simple enough to 
 The steps required to start a business had to be clearly laid out page and still look like a Canada.ca topic page. We iterated the design, having people walk through it and discussing it with our teams and experts.
 
 First, we added numbers and changed the heading to say 'steps'. When we noticed participants were still getting distracted, we removed the 'most requested' and 'what we are doing' links from the page. We found that a single column list was faster to scan and even managed to put the 'most requested' links back on the page for those entrepreneurs who wanted to skip through the supporting content.
+
+And here it is afterward - [Live version of Starting a business topic page on Canada.ca](https://www.canada.ca/en/services/business/start.html)
+![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
 
 ## Reviewing how we did
 >With the new simplified steps page, 100% of participants in a series of two additional studies could identify essential legal steps to start a business
