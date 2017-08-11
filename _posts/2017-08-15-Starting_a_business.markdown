@@ -6,10 +6,12 @@ date:   2017-08-15 09:48:44 +0100
 categories: category
 lang: en
 ---
+
+THIS ARTICLE IS A DRAFT - IT IS NOT FINISHED!!
+
 Starting a business is a top task for Canadians and it’s not an easy one. There are varying legal requirements to meet, depending on the size and type of business, spread across the provinces and federal departments. Together with Innnovation Science and Economic Development Canada and Canada Revenue Agency, the TBS User Experience Optimization Team set out to improve online access and service to Canadians starting a business. We started with user needs and worked through from end to end.  
 
 ## People wonder "What is the first thing I have to do?" 
-THIS ARTICLE IS A DRAFT - IT IS NOT FINISHED!!
 
 One of the first things we noticed in our user research was that Canadians considering staring a business were often at different phases in their familiarity with the process. Some entrepreneurs knew exactly what they wanted to do, such as get a business number and operate provincially or incorporate with the federal government. Others were daunted by all the links and content available to them, often looking for a checklist to try to avoid missing something important.
 
@@ -38,3 +40,5 @@ Identifying the steps, sometimes involved pruning the options. Steps have to be 
 In contrast, choosing a business name is a crucial step to registering many businesses. This wasn't even present on the start a business topic in the past, found only when Canadians went to registration pages. 
 
 ## Focus on explaining the logic modelling process
+
+HOW DID WE GAIN THE INSIGHT TO ORG SEQUENTIALLY? DOESNT REALLY COME THROUGH YET.
