@@ -35,22 +35,22 @@ When an entrepreneur came to the topic page, we needed to make sure they could:
 2. Understand which steps they might have done already and which were relevant to them, since many don't do all the steps with one government or agency
 3. For those entrepreneurs who had one task, we wanted to make sure they weren't forced to read everything and could get to the specific application they needed
 
-Identifying the steps, sometimes involved pruning the options. Steps have to be stand-alone and simple enough to differentiate from other steps. To that end, instead of having guides, business plans and before starting a business, step 1 became a single link to business planning. 
+Identifying the steps sometimes involved pruning the options. Steps have to be stand-alone and simple enough to differentiate from other steps. To that end, instead of having guides, business plans and before starting a business, step 1 became a single link to business planning. 
 
 In contrast, choosing a business name is a crucial step to registering many businesses. This wasn't even present on the start a business topic in the past, found only when Canadians went to registration pages. 
 
 ## Conveying sequence in simplicity
-Once we had struck a balance with a set of steps that would be simple enough to follow and broad enough to cover the key things new businesses legally are required to do, we were ready to tackel the design.
+Once we had struck a balance with a set of steps that would be simple enough to follow and broad enough to cover the key things new businesses legally are required to do, we were ready to tackle the design.
 
-The steps required to start a business had to be clearly laid out page and still look like a Canada.ca topic page. We iterated the design, having people walk through it and discussing it with our teams and experts.
+The steps required to start a business had to be clearly laid out and still work like a Canada.ca topic page. We iterated the prototypes, having people walk through it and discussing it with our teams and experts.
 
-First, we added numbers and changed the heading to say 'steps'. When we noticed participants were still getting distracted, we removed the 'most requested' and 'what we are doing' links from the page. We found that a single column list was faster to scan and even managed to put the 'most requested' links back on the page for those entrepreneurs who wanted to skip through the supporting content.
+First, we added numbers and changed the heading to say 'steps'. When we noticed participants were still getting distracted, we removed the 'most requested' and 'what we are doing' links from the page, and put the remaining steps into a single column. We found that a single-column list was faster to scan and even managed to put the 'most requested' links back on the page for those entrepreneurs who wanted to skip through the supporting content.
 
-And here it is afterward - [Live version of Starting a business topic page on Canada.ca](https://www.canada.ca/en/services/business/start.html)
+So here is what we ended up with - [Live version of Starting a business topic page on Canada.ca](https://www.canada.ca/en/services/business/start.html)
 ![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
 
 ## Reviewing how we did
->With the new simplified steps page, 100% of participants in a series of two additional studies could identify essential legal steps to start a business
+>With the new simplified steps pattern, 100% of participants in a series of two additional studies could identify essential legal steps to start a business
 >Business student participant: “I’d be going through all of these steps”
 
 We were excited when we saw how comfortable the first few participants were with the page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process.
