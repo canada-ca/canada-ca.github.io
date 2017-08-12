@@ -5,7 +5,7 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
   
   <div class="post-content" itemprop="articleBody">
@@ -13,3 +13,19 @@ layout: default
   </div>
 
 </article>
+
+<ul class="pagination">
+{% assign posts=site.posts | where:"lang", page.lang %}
+{% for post in posts %}
+    {% if post.title == page.title %}
+        {% unless forloop.last %}
+            {% assign next = posts[forloop.index] %}
+            <li><a href="{{ site.baseurl }}{{ next.url }}" rel="prev">{{ next.title }}</a></li>
+        {% endunless %}
+        {% unless forloop.first %}
+            <li><a href="{{ site.baseurl }}{{ prev.url }}" rel="next">{{ prev.title }}</a></li>
+        {% endunless %}
+    {% endif %}
+    {% assign prev = post %}
+{% endfor %}
+</ul>
