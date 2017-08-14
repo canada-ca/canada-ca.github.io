@@ -47,9 +47,8 @@ We were excited when we saw how comfortable the first few participants were with
 They also didn't feel the need to start from step 1, jumping right to the task for them. The steps gave them confidence that they weren't missing something crucial and could come back somewhere after completing each step.
 
 After it was launched on the live site, we noticed:
-- a drop in searches for all the main steps including 'naming a business', 'registering a business' and 'incorporation'
-- more Canadians using BizPal, the Industry Canada wizard to find permits and licences
-- more Canadians using both the incorporation and sole-priorietorship or partnership routes
-- a sharp increase in people on the start a business page finding the grants and financing page
+- a 57% decrease in searches for the main steps to register a business (ex: 'nuans', 'registering a business' 'incorporation')
+- 33% more Canadians using BizPal, the Industry Canada wizard to find permits and licences
+- a 75% increase in people finding the grants and financing link on the start a business topic page
 
 This confirmed to us that we had a solid design pattern on our hands, so we've included sequential steps as an option for Canada.ca topic pages in the Content and Information Architecture Specification. When you've got evidence showing that thepoepl need to understand their tasks in sequence, use this to pattern to help them find what they're looking for. 
