@@ -15,7 +15,7 @@ Canada.ca exists to provide better online service to Canadians for their top tas
 Topic pages have a consistent layout based on a template described in the [Canada.ca Content and Information Architecture Specifications](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html). Over time, some parts of the topic page template have been improved as task-based usability testing with Canadians has highlighted problems. But on the whole, there has only been the one template available, with links to tasks prioritized by demand or web traffic volume. 
 
 When the team started the optimization project, the Start a business topic page looked like this: 
-![Starting a business page back in October with publications regulations and random ordered topics](/images/Starting_topic_Oct2016_567x523.png "Starting a business topic page in October 2016")
+![Starting a business page back in October with publications regulations and random ordered topics](/images/Starting_topic_Oct2016_567x522.png "Starting a business topic page in October 2016")
 
 ## Sharing the headaches of start-up entrepreneurs in Canada
 > Only 67% of the participants in our baseline test could identify essential legal steps to start a business. 
