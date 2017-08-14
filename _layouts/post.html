@@ -14,18 +14,21 @@ layout: default
 
 </article>
 
-<ul class="pagination">
-{% assign posts=site.posts | where:"lang", page.lang %}
-{% for post in posts %}
-    {% if post.title == page.title %}
-        {% unless forloop.last %}
-            {% assign next = posts[forloop.index] %}
-            <li><a href="{{ site.baseurl }}{{ next.url }}" rel="prev">{{ next.title }}</a></li>
-        {% endunless %}
-        {% unless forloop.first %}
-            <li><a href="{{ site.baseurl }}{{ prev.url }}" rel="next">{{ prev.title }}</a></li>
-        {% endunless %}
-    {% endif %}
-    {% assign prev = post %}
-{% endfor %}
-</ul>
+<nav role="navigation"> 
+  <h2 class="wb-inv">Document navigation</h2> 
+  <ul class="pager">
+  {% assign posts=site.posts | where:"lang", page.lang %}
+  {% for post in posts %}
+      {% if post.title == page.title %}
+          {% unless forloop.last %}
+              {% assign next = posts[forloop.index] %}
+              <li class="previous"><a href="{{ site.baseurl }}{{ next.url }}" rel="prev">{{ next.title }}</a></li>
+          {% endunless %}
+          {% unless forloop.first %}
+              <li class="next"><a href="{{ site.baseurl }}{{ prev.url }}" rel="next">{{ prev.title }}</a></li>
+          {% endunless %}
+      {% endif %}
+      {% assign prev = post %}
+  {% endfor %}
+  </ul>
+</nav>
