@@ -24,7 +24,7 @@ For a small business making less than $30k per year, accidentally registering fo
 These processes are further complicated by the different priorities of government agencies. Industry Canada was interested in helping people who wanted to incorporate federally, CRA with GST and corporate tax accounts, provinces with their own incorporation or permits. How could we bring it all into one process - particularly when the sequence wasn't clear even to us?
 
 To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions they had to make when starting their business.
-![Decisions and subsequent steps to start a business](/images/Starting_a_business_decisions_Nov2016_grey_1194x818.png  "Decision points to start a business")
+![Decisions and subsequent steps to start a business](/images/Starting_a_business_decisions_Nov2016_grey_900x926.png  "Decision points to start a business")
 
 Wow! There's a lot for entrepreneurs to consider.
 
