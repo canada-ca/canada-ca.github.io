@@ -36,7 +36,7 @@ The steps required to start a business had to be clearly laid out and still work
 First, we added numbers and changed the heading to say 'steps'. When we noticed participants were still getting distracted, we removed the 'most requested' and 'what we are doing' links from the page, and put the remaining steps into a single column. We found that a single-column list was faster to scan and even managed to put the 'most requested' links back on the page for those entrepreneurs who wanted to skip through the supporting content.
 
 So here is what we ended up with - [Live version of Starting a business topic page on Canada.ca](https://www.canada.ca/en/services/business/start.html)
-![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x492.png  "Starting a business topic page on Canada.ca in simplified Steps template")
+![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x467.png  "Starting a business topic page on Canada.ca in simplified Steps template")
 
 ## Reviewing how we did
 >With the new simplified steps pattern, 100% of participants in a series of two additional usability studies could identify essential legal steps to start a business
