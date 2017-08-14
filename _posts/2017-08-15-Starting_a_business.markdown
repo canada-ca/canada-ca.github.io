@@ -42,3 +42,13 @@ In contrast, choosing a business name is a crucial step to registering many busi
 ## Focus on explaining the logic modelling process
 
 HOW DID WE GAIN THE INSIGHT TO ORG SEQUENTIALLY? DOESNT REALLY COME THROUGH YET.
+
+## Impact on new entrepreneurs
+
+It was immediately clear that getting to the business name search from Canada.ca was easier than before. The pages you had to traverse fell from 5 to 2, the labels using the acronym 'nuans' were updated to 'search name' and the 'order [a report] now' link was sidestepped.
+
+And here's the increase in conversion:
+![Naming a business conversion funnel from Canada.ca](/images/Naming_a_business_funnel_876x495.png  "Change in traffic to name search from Canada.ca")
+
+
+
