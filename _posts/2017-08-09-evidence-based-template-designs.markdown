@@ -25,16 +25,12 @@ Although none of the participants had ever started a business before, many were 
 Clearly, starting a business is pretty complex. How could we narrow the scope to focus on the government-mandated services, and convey the sequence?
 
 ## Conveying sequence in simplicity
-It was clear that just dropping some of the service links wasn't going to cut it. Canadians simply didn't know where to look for the registration that was right for them, and with so many links, they went off in all directions. They also weren't able to find one of the most important steps - that of choosing a name for their business - it needed to be brought up to the surface.  
-
-The solution was to organize the tasks sequentially, in a step-by-step process. We explain how we came to this understanding, which wasn't at all clear on the baseline web site in a separate post:
+The solution was to pare down and describe only the essential tasks in a step-by-step process. We explain how we came to this understanding, which wasn't at all clear on the baseline web site, in a separate post:
 [title of post](https://canada-ca.github.io/category/2017/08/15/Starting_a_business.html).  
 
-Once we had struck a balance with a set of steps that would be simple enough to follow and broad enough to cover the key things new businesses legally are required to do, we were ready to tackle the design.
+Once we had struck a balance with a set of steps that would be simple enough to follow and broad enough to cover the key things new businesses legally are required to do, we were ready to tackle the design. We built a working prototype of the site with the new template design and refined it through several iterations, having people walk through it and discussing it with our teams and experts.
 
-The steps required to start a business had to be clearly laid out and still work like a Canada.ca topic page. We built a working prototype of the site with the new template design and refined it through several iterations, having people walk through it and discussing it with our teams and experts.
-
-First, we added numbers and changed the heading to say 'steps'. This helped, but we noticed the new set of participants were still getting distracted, so we removed the 'What we are doing' links from the page, and put the steps into a single vertical column. We found that a single-column list was faster to scan and even managed to keep the 'most requested' links on the page for those entrepreneurs who wanted to skip through to top tasks.
+First, we added numbers and changed the heading to say 'steps'. This helped, but we noticed the new set of participants were still getting distracted, so we removed the 'What we are doing' links from the page, and put the steps into a single vertical column. We found that a single-column list was faster to scan and better conveyed the sequence.
 
 The live Starting a Business page matches our final working prototype very closely - [Live version of Starting a business topic page on Canada.ca](https://www.canada.ca/en/services/business/start.html)
 ![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x467.png  "Starting a business topic page on Canada.ca in simplified Steps template")
@@ -42,9 +38,7 @@ The live Starting a Business page matches our final working prototype very close
 ## Improved outcomes for Canadians starting a business
 >100% of participants in a series of two additional usability studies could identify essential legal steps to start a business, with the new simplified steps template page in place. 
 
-We were excited when we saw how comfortable the first few participants were with the page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process.
-
-They also didn't feel the need to start from step 1, jumping right to the task that was right for them. The steps gave them confidence that they wouldn't miss something crucial, and they could come back to the Steps page after completing each step.
+We were excited when we saw how comfortable the first few participants were with the page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process.The steps gave them confidence that they wouldn't miss something crucial, and they could come back to the Steps page after completing each step.
 
 A few months after the Starting a business steps page launched, the web analytics (traffic) data showed these improvements:  
 - 57% fewer searches for the main steps to register a business (ex: 'nuans', 'registering a business' 'incorporation')
