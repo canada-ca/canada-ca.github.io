@@ -25,3 +25,9 @@ Registering or logging in should be handled as quickly as possible, so also maki
 To mitigate this issue, we leveraged the overlay design pattern, which allows secondary content to be available if people are interested, but doesn’t force them to access it.
 
 Many variations of overlays are available in the Web Experience Toolkit, but to ensure maximum accessibility, we recommend the [WET Centred popup (Lightbox)](http://wet-boew.github.io/wet-boew/demos/overlay/overlay-en.html) component.
+
+This pattern will be documented in the next iteration of the [Canada.ca Content and Information Architecture Specification](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html) – look for disclaimer overlays in the section on common design patterns.
+
+# Design recommendation
+
+When a disclaimer is required, using overlays will help you reduce barriers to input, so that citizens can more easily get on with their task. 
