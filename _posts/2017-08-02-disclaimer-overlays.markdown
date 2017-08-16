@@ -20,7 +20,7 @@ The core issue here is that for someone who wants to participate in an online co
 
 Registering or logging in should be handled as quickly as possible, so also making viewing  them down even further on their path to participating. (Better yet, look for ways to avoid requiring registration in the first place!)  
 
-# Solution
+# Solution 
 
 To mitigate this issue, we leveraged the overlay design pattern, which allows secondary content to be available if people are interested, but doesn’t force them to access it.
 
