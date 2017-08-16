@@ -9,15 +9,10 @@ lang: en
 
 THIS ARTICLE IS A DRAFT - IT IS NOT FINISHED!!
 
-Starting a business is a top task for Canadians and it’s not an easy one. There are varying legal requirements to meet, depending on the size and type of business, spread across the provinces and federal departments. Together with Innnovation Science and Economic Development Canada and Canada Revenue Agency, the TBS User Experience Optimization Team set out to improve online access and service to Canadians starting a business. We started with user needs and worked through from end to end.  
+Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements spread across the provinces and federal departments, that depend on the size and type of business. Together with Innnovation Science and Economic Development Canada and Canada Revenue Agency, the TBS User Experience Optimization Team set out to improve online access and service to Canadians starting a business. We started with discovery of pain points on user journeys through the government processes and worked to resolve them.  
 
 ## People wonder "What is the first thing I have to do?" 
-
-One of the first things we noticed in our user research was that Canadians considering staring a business were often at different phases in their familiarity with the process. Some entrepreneurs knew exactly what they wanted to do, such as get a business number and operate provincially or incorporate with the federal government. Others were daunted by all the links and content available to them, often looking for a checklist to try to avoid missing something important.
-
-Only 67% of the participants in our baseline test could identify essential legal steps to start a business. Some even confided in us that when they started their own business, they would probably have to hire an accountant or lawyer.
-
-Unfortunately, starting a business is pretty complex. To register, an entrepreneur not only has to know which questions to ask, but they have to understand the threshholds, risks and limitations the options.
+Unfortunately, starting a business is complex. To register, an entrepreneur not only has to know which questions to ask, but they have to understand the threshholds, risks and limitations the options.
 
 For a small business making less than $30k per year, accidentally registering for a GST/HST number means they'll be required to add a 10% tax charge on all their sales that they otherwise wouldn't have had to charge. Deciding to incorporate a business could mean more paperwork, fees and accountants for a small business that could operate effectively as a sole proprietorship. Conversely, getting off the ground with a sole proprietorship could end up in fewer options to get start-up funding and higher personal financial risk for some.
 
