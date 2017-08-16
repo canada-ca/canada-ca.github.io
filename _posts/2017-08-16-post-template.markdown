@@ -11,4 +11,14 @@ This template is meant for articles that summarize issues and solutions from the
 
 Add introduction here - context on what the template or pattern is  - Max 2-3 (?) sentences.
 
-*Usability Issue*
+# Usability issue
+
+Include a succinct description of the problem (column c) and contributing factors (column d). Include clips where possible (column i). Cite any task findability or task completion %s or #s that quantify the issue (this will actually involve going back to the reports again to pull these in many cases). Max 2-3 (?) paragraphs.
+
+# Solution
+
+Describe what we did in response (usually a mix of column e and column h). If spec changes have been published, provide the link, otherwise mention that it’s coming (columns j, k, l). Max 2-3 (?) paragraphs.
+
+# Design recommendation
+
+Single-sentence summary - use this kind of structure: When you’re building [template or pattern], this [restate the change] should help address [restate the problem].
