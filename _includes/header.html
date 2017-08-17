@@ -83,7 +83,10 @@
 <div class="container">
 <div class="row">
 <ol class="breadcrumb">
-<li><a href="https://canada-ca.github.io">{{ site.home[page.lang] }}</a></li>
+<li><a href="https://www.canada.ca/{{ page.lang }}.html">{{ site.home[page.lang] }}</a></li>
+{% if page.ref != "index" %}
+  <li><a href="/">{{ site.AllPosts[page.lang] }}</a></li>
+{% endif %}
 </ol>
 </div>
 </div>
@@ -91,13 +94,4 @@
 </header>
 
 <main role="main" property="mainContentOfPage" class="container">
-
-      <div>
-        {% assign pages=site.pages | where:"lang", page.lang %}
-        {% for my_page in pages %}
-          {% if my_page.title %}
-          <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
 
