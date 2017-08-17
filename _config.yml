@@ -25,6 +25,9 @@ index:
 home:
   en: Home
   fr: Accueil
+AllPosts:
+  en: All Posts
+  fr: Tous les Articles
 feed:
   en: /feed.xml
   fr: /flux.xml
