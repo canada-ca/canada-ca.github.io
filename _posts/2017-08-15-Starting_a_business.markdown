@@ -46,4 +46,5 @@ Explore more about Starting a business:
 * Use the Business menu at the top of the page to see the Canada.ca Starting a business steps and find out if your business name idea is unique by via the new Choosing a name step 
 * More on the Steps template and research evidence in the post [User needs drive new templates: Steps](https://canada-ca.github.io/category/2017/08/09/evidence-based-template-designs.html)
 * The importance of the logic flow map for the Starting a business project in [Bringing logic to a government design sprint](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast)
+UK GDS blog on business optimization [Taking care of business on Gov.UK] (https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/)
 
