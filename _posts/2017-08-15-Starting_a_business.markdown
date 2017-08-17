@@ -17,7 +17,7 @@ Unfortunately, starting a business is complex. An entrepreneur not only has to k
 (DELETE? Lovely but not contributing to this particular story) In addition, people have to understand the threshholds, risks and limitations of all of the options. Deciding to incorporate their business could mean more paperwork, fees and accountants for a small business that could operate effectively as a sole proprietorship. Conversely, getting off the ground with a sole proprietorship could end up in fewer options to get start-up funding and higher personal financial risk for some. For someone just starting out selling online who will make less than $30k per year, accidentally registering for a GST/HST number means they'll be required to add a 10% tax charge on all their sales that they otherwise wouldn't have had to charge. 
 
 To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions they had to make and the sequence required for the government steps when starting their business.  Highlighted below is the step of Choosing a business name, which wasn't even present on the original Starting a Business page, but turned out to be fundamental to progressing through the rest of the sequence. 
-![Decisions and subsequent steps to start a business](/images/Starting_a_business_decisions_Nov2016_grey_900x926.png  "Decision points to start a business")
+![Decisions and subsequent steps to start a business](/images/Starting_a_business_decisions_Nov2016_grey_900x676.png  "Decision points to start a business")
 
 Just making this map took a lot of investigation, despite the team's extensive expertise in their respective subject areas. 
 
@@ -39,7 +39,8 @@ The team prototyped new designs based on the research evidence and our flow map,
 >Success at the Find out if a name is taken task rose from 37% to 94% success in our studies 
 
 After the new designs went live on the Canada.ca site, we validated the outcomes through changes in the web analytic traffic.  It was immediately clear that getting to the business name search from Canada.ca was easier and more obvious than before. Adding the link as a step and reducing the number of clicks,  hugely increased the number of people getting to the search for a unique name from the Starting a business page:
-![Naming a business conversion funnel from Canada.ca](/images/Naming_a_business_funnel_876x495.png  "Change in traffic to name search from Canada.ca")
+![Naming a business conversion funnel from Canada.ca](/images/Naming_a_business_funnel_938x501.png  "Change in traffic to name search from Canada.ca")
+(Measured from Feb 4 to Apr 4 2017 and May 26 to July 24 2017.)
 
 Explore more about Starting a business: 
 * Use the Business menu at the top of the page to see the Canada.ca Starting a business steps and find out if your business name idea is unique by via the new Choosing a name step 
