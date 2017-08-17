@@ -13,6 +13,8 @@ There are many scenarios on Canada.ca when citizens provide input, such as regis
 
 During usability testing in August and October 2016 on how people interact with consultations on Canada.ca, we observed that disclaimers were often a barrier to participation. This was because in many cases, people were forced to actively provide their consent, even though according to the TBS Directive on Privacy Practices, [consent is usually not required](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18309).
 
+IS THERE A CLIP WE CAN EMBED?
+
 The core issue here is that for someone who wants to participate in an online consultation, the process of registering and logging in is secondary to their main goal of sharing an idea or providing a comment. Forcing people to wade through disclaimers as part of this process exacerbates this situation by:
 
 * blocking their path with large blocks of difficult-to-parse text
