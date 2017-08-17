@@ -25,4 +25,4 @@ Single-sentence summary - use this kind of structure: When you’re building \[t
 
 ## Explore further
 
-* insert [related link 1](http://#)
+* insert [related link 1](http://../#)
