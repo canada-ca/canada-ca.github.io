@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Steps on Canada.ca: new templates are driven by user needs"
+title:  "User needs drive new templates: Steps"
 ref: steps
 date:   2017-08-09 09:48:44 +0100
 categories: category
