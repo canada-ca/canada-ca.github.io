@@ -4,6 +4,7 @@ title:  "Template for posts"
 ref: template
 date:   2017-01-01 09:48:44 +0100
 categories: category
+published: false
 lang: en
 ---
 
@@ -26,3 +27,5 @@ Single-sentence summary - use this kind of structure: When you’re building \[t
 ## Explore further
 
 * insert [related link 1](http://../#)
+* insert [related link 2](http://../#)
+* insert [related link 3](http://../#)
