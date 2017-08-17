@@ -9,12 +9,10 @@ lang: en
 
 THIS ARTICLE IS A DRAFT - IT IS NOT FINISHED!!
 
-Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements spread across the provinces and federal departments that depend on the size and type of business. Together with Innnovation Science and Economic Development Canada and Canada Revenue Agency, the TBS User Experience Optimization Team set out to improve online access and service to Canadians starting a business. Canada.ca brings together tasks across federal departments and agencies, so we started with discovery of pain points on user journeys through the complete set of government processes and worked to resolve them.  
+Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements spread across the provinces and federal departments that depend on the size and type of business. Together with Innnovation Science and Economic Development Canada and Canada Revenue Agency, the TBS User Experience Optimization Team set out to improve Canada.ca's online service to Canadians starting a business. Canada.ca brings together tasks across federal departments and agencies, so we started with discovery of pain points on user journeys through the complete set of government processes and worked to resolve them.  
 
 ## Where to start and what to do next
 Unfortunately, starting a business is complex. An entrepreneur not only has to know where to start, but they have to understand the sequence and implications of their starting points. These processes are further complicated by the different priorities of government agencies. Industry Canada was interested in helping people who wanted to incorporate federally, CRA with Business numbers, GST and corporate tax accounts, and the provinces with their own incorporation or permits. We needed to bring it all together into one process - even thought the sequence wasn't clear, even to us.
-
-(DELETE? Lovely but not contributing to this particular story) In addition, people have to understand the threshholds, risks and limitations of all of the options. Deciding to incorporate their business could mean more paperwork, fees and accountants for a small business that could operate effectively as a sole proprietorship. Conversely, getting off the ground with a sole proprietorship could end up in fewer options to get start-up funding and higher personal financial risk for some. For someone just starting out selling online who will make less than $30k per year, accidentally registering for a GST/HST number means they'll be required to add a 10% tax charge on all their sales that they otherwise wouldn't have had to charge. 
 
 To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions they had to make and the sequence required for the government steps when starting their business.  Highlighted below is the step of Choosing a business name, which wasn't even present on the original Starting a Business page, but turned out to be fundamental to progressing through the rest of the sequence. 
 ![Decisions and subsequent steps to start a business](/images/Starting_a_business_decisions_Nov2016_grey_900x676.png  "Decision points to start a business")
@@ -42,9 +40,15 @@ After the new designs went live on the Canada.ca site, we validated the outcomes
 ![Naming a business conversion funnel from Canada.ca](/images/Naming_a_business_funnel_938x501.png  "Change in traffic to name search from Canada.ca")
 (Measured from Feb 4 to Apr 4 2017 and May 26 to July 24 2017.)
 
+We're sharing what we learned - talk to one of the team members from TBS: Miguel Borges-Porteous, Patrick Lajeunesse, Peter Smith, Lisa Fast, Gil Coté or from Innnovation Science and Economic Development Canada:  Annie Crombie, Monica Baxter-Burkitt (other people Corporations Canada etc) and Canada Revenue Agency: Shawn Arsenault, Joey Montpellier, and Ross Kippen. 
+
+Annie Crombie from the ISED team spoke about the project at [World IA Day at Shopify in March] (https://medium.com/@AngelaCounter/world-ia-day-2017-shopify-365a36baa80)
+
 Explore more about Starting a business: 
 * Use the Business menu at the top of the page to see the Canada.ca Starting a business steps and find out if your business name idea is unique by via the new Choosing a name step 
 * More on the Steps template and research evidence in the post [User needs drive new templates: Steps](https://canada-ca.github.io/category/2017/08/09/evidence-based-template-designs.html)
 * The importance of the logic flow map for the Starting a business project in [Bringing logic to a government design sprint](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast)
-UK GDS blog on business optimization [Taking care of business on Gov.UK] (https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/)
+* UK GDS on their business optimization project [Taking care of business on Gov.UK] (https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/)
+
+
 
