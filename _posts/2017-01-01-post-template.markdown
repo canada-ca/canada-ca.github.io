@@ -22,3 +22,7 @@ Describe what we did in response (usually a mix of column e and column h). If ch
 ## Design recommendation
 
 Single-sentence summary - use this kind of structure: When you’re building \[template or pattern\], this \[restate the change\] should help address \[restate the problem\].
+
+## Explore further
+
+* insert [related link 1](http://#)
