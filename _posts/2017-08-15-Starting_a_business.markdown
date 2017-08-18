@@ -15,7 +15,7 @@ Starting a business is a top task for Canadians and it’s not an easy one. Ther
 Unfortunately, starting a business is complex. An entrepreneur not only has to know where to start, but they have to understand the sequence and implications of their starting points. These processes are further complicated by the different priorities of government agencies. Industry Canada was interested in helping people who wanted to incorporate federally, CRA with Business numbers, GST and corporate tax accounts, and the provinces with their own incorporation or permits. We needed to bring it all together into one process - even thought the sequence wasn't clear, even to us.
 
 To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions they had to make and the sequence required for the government steps when starting their business.  Highlighted below is the step of Choosing a business name, which wasn't even present on the original Starting a Business page, but turned out to be fundamental to progressing through the rest of the sequence. 
-![Decisions and subsequent steps to name a business](/images/Naming a business decisions.JPG  "Decision points to name a business")
+![Decisions and subsequent steps to name a business](/images/Naming_a_business_decisions.JPG  "Decision points to name a business")
 
 Just making this map took a lot of investigation, despite the team's extensive expertise in their respective subject areas. 
 
