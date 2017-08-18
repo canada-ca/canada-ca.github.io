@@ -17,8 +17,6 @@ Unfortunately, starting a business is complex. An entrepreneur not only has to k
 To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions they had to make and the sequence required for the government steps when starting their business.  Highlighted below is the step of Choosing a business name, which wasn't even present on the original Starting a Business page, but turned out to be fundamental to progressing through the rest of the sequence. 
 ![Decisions and subsequent steps to name a business](/images/Naming_a_business_decisions.JPG  "Decision points to name a business")
 
-More on the [start a business decision tree](/images/Starting_a_business_decisions_Nov2016_1194x818.png).
-
 Just making this map took a lot of investigation, despite the team's extensive expertise in their respective subject areas. 
 
 ## From pain points to decision steps
@@ -52,6 +50,7 @@ Annie Crombie from the ISED team spoke about the project at [World IA Day at Sho
 Explore more about Starting a business: 
 * Use the Business menu at the top of the page to see the Canada.ca Starting a business steps and find out if your business name idea is unique by via the new Choosing a name step 
 * More on the Steps template and research evidence in the post [User needs drive new templates: Steps](https://canada-ca.github.io/category/2017/08/09/evidence-based-template-designs.html)
+* More on the [start a business decision tree](/images/Starting_a_business_decisions_Nov2016_1194x818.png)
 * The importance of the logic flow map for the Starting a business project in [Bringing logic to a government design sprint](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast)
 * UK GDS on their business optimization project [Taking care of business on Gov.UK] (https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/)
 
