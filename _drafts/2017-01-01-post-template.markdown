@@ -10,7 +10,7 @@ lang: en
 
 \[This template is meant for articles that summarize issues and solutions from the usability testing we've done on Canada.ca - use in conjunction with the spreadsheet that documents issues from usability tests - https://docs.google.com/spreadsheets/d/1qmlBb7JbXl1KjM3Y5N4s638pupz1-MsBnMUYUGfwNLQ/edit?usp=sharing \]
 
-Add introduction here - context on the scenario, template or pattern  - Max 2-3 (?) sentences.
+Add introduction here - context on the scenario, template or pattern - indicate the user need. Max 2-3 (?) sentences.
 
 ## Usability issue
 
