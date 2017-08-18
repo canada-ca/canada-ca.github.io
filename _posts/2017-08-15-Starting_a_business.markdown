@@ -37,7 +37,7 @@ The team prototyped new designs based on the research evidence and our flow map,
 >Success at the Find out if a name is taken task rose from 37% to 94% success in our studies 
 
 After the new designs went live on the Canada.ca site, we validated the outcomes through changes in the web analytic traffic.  It was immediately clear that getting to the business name search from Canada.ca was easier and more obvious than before. Adding the link as a step and reducing the number of clicks,  hugely increased the number of people getting to the search for a unique name from the Starting a business page:
-![Naming a business conversion funnel from Canada.ca](/images/Naming_a_business_funnel_938x501.png  "Change in traffic to name search from Canada.ca")
+![Naming a business conversion funnel from Canada.ca](/images/Naming_a_business_funnel_938x497.png  "Change in traffic to name search from Canada.ca")
 
 Measured from Feb 4 to Apr 4 2017 and May 26 to July 24 2017.
 
