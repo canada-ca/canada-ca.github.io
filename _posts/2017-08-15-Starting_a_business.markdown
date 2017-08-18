@@ -15,6 +15,7 @@ Starting a business is a top task for Canadians and it’s not an easy one. Ther
 Unfortunately, starting a business is complex. An entrepreneur not only has to know where to start, but they have to understand the sequence and implications of their starting points. These processes are further complicated by the different priorities of government agencies. Industry Canada was interested in helping people who wanted to incorporate federally, CRA with Business numbers, GST and corporate tax accounts, and the provinces with their own incorporation or permits. We needed to bring it all together into one process - even thought the sequence wasn't clear, even to us.
 
 To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions an entrepreneur had to make and the sequence required for the government steps when starting their business. As we explored, we noticed that the step of choosing a business name was fundamental to progressing through the rest of the sequence. We used the decision points to craft tasks for the task-based usability tests we would conduct before and after our design sprints began. 
+
 ![Decisions and subsequent steps to name a business](/images/Naming_a_business_decisions.JPG  "Decision points to name a business")
 
 ## From pain points to decision steps
@@ -34,8 +35,10 @@ In contrast, choosing a unique business name had surfaced as a crucial step but 
 The team prototyped new designs based on the research evidence and our flow map,and tested with more Canadians during the design process. We surfaced 'Choosing a name' as a step in Starting a business, and designed a sequence to skip directly through the layers of government sites like NUANS to the search pages. We updated the link labels using the acronym 'NUANS' to the clearer title 'Search name' and the 'order [a NUANS report] now' link was sidestepped completely, so that people could search without worrying that they had to place an order first. Once all the various pieces of the new design came together, we launched another usability testing research study with a similar set of business students. 
 >Success at the Find out if a name is taken task rose from 37% to 94% success in our studies 
 
-After the new designs went live on the Canada.ca site, we validated the outcomes through changes in the web analytic traffic.  It was immediately clear that getting to the business name search from Canada.ca was easier and more obvious than before. Adding the link as a step and reducing the number of clicks,  hugely increased the number of people getting to the search for a unique name from the Starting a business page:
-Web analtyics data for Before (Feb 4 to Apr 4 2017) and After (May 26 to July 24 2017)
+After the new designs went live on the Canada.ca site, we validated the outcomes through changes in the web analytic traffic.  It was immediately clear that getting to the business name search from Canada.ca was easier and more obvious than before. Adding the link as a step and reducing the number of clicks,  hugely increased the number of people getting to the search for a unique name from the Starting a business page.
+
+Conversion funnel data for Canada.ca before (Feb 4 to Apr 4 2017) and after optimization (May 26 to July 24 2017)
+
 ![Naming a business conversion funnel from Canada.ca showing substantial increases in people making it through the funnel between before and after](/images/Naming_a_business_funnel_938x497.png  "Change in traffic to name search from Canada.ca")
 
 
@@ -46,7 +49,7 @@ Annie Crombie from the ISED team spoke about the project at [World IA Day at Sho
 ![Annie speaking at World IA Day 2017](/images/AnnieWorldIADay_794x443.jpg "World IA Day")
 
 Explore more about Starting a business: 
-* Use the Business menu at the top of the page to see the Canada.ca Starting a business steps and find out if your business name idea is unique by via the new Choosing a name step 
+* Use the Business menu at the top of this page to see the optimized Starting a business steps 
 * More on the Steps template and research evidence in the post [User needs drive new templates: Steps](https://canada-ca.github.io/category/2017/08/09/evidence-based-template-designs.html)
 * See the full decision flow diagram for starting a business  [start a business decision map](/images/Starting_a_business_decisions_Nov2016_1194x818.png)
 * The importance of the logic flow map for the Starting a business project in [Bringing logic to a government design sprint](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast)
