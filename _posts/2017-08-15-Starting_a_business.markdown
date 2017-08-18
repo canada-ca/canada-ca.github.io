@@ -17,6 +17,8 @@ Unfortunately, starting a business is complex. An entrepreneur not only has to k
 To develop our own understanding of what entrepreneurs would need, the project team mapped out the different decisions they had to make and the sequence required for the government steps when starting their business.  Highlighted below is the step of Choosing a business name, which wasn't even present on the original Starting a Business page, but turned out to be fundamental to progressing through the rest of the sequence. 
 ![Decisions and subsequent steps to name a business](/images/Naming_a_business_decisions.JPG  "Decision points to name a business")
 
+This went into a larger decision map which you can find [here](/images/Starting_a_business_decisions_Nov2016_1194x818.png).
+
 Just making this map took a lot of investigation, despite the team's extensive expertise in their respective subject areas. 
 
 ## From pain points to decision steps
