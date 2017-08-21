@@ -25,7 +25,7 @@ Although none of the participants had ever started a business before, many were 
 Clearly, starting a business is pretty complex. **The essential steps mandated by government were unclear for too many participants.** How could we narrow the scope ~~to focus on the government-mandated services,~~ and convey the sequence?
 
 ## Conveying sequence in simplicity
-The solution was to pare down and describe only the essential tasks in a step-by-step process. We explain how we came to this understanding~~, which wasn't at all clear on the baseline web site,~~ in a separate post:
+The solution was to pare down and describe only the essential tasks in a step-by-step process. We explain how we came to this understanding ~~, which wasn't at all clear on the baseline web site,~~ in a separate post:
 [title of post](https://canada-ca.github.io/category/2017/08/15/Starting_a_business.html).  
 
 Once we had struck a balance with a set of steps that would be simple enough to follow and broad enough to cover the key things new businesses legally are required to do, we were ready to tackle the design. We built a working prototype of the site with the new template design and refined it through several iterations, having people walk through it and discussing it with our teams and experts.
