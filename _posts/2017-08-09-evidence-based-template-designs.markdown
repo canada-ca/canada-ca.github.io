@@ -19,6 +19,7 @@ The **Starting** a business topic page used the standard template when the Optim
 
 ## Sharing the headaches of start-up entrepreneurs in Canada
 > Only 67% of the participants in our baseline usability test of the site could identify any essential legal steps to start a business.
+<!--- should we include actual numbers ie 8 of 12 participants --->
 
 Although none of the participants had ever started a business before, many were students studying business. After they tried the tasks, some confided that based on the experience on the baseline site, they would probably have to hire an accountant or lawyer to start their own business someday.
 
@@ -37,6 +38,7 @@ The live Starting a business page matches our final working prototype very close
 
 ## Improved outcomes for Canadians starting a business
 >100% of participants in a series of two additional usability studies could identify essential legal steps to start a business, with the new simplified steps template page in place. 
+<!--- again actual numbers here because there was 30-something participants right? --->
 
 We were excited when we saw how comfortable the first few participants were with the **steps pattern on the Starting a business topic** page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process. The steps gave them confidence that they wouldn't miss something crucial, and they could come back to the **topic** page after completing each step.
 
