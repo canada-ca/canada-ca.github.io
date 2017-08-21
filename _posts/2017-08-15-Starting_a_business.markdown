@@ -44,7 +44,7 @@ Conversion funnel data for Canada.ca before (Feb 4 to Apr 4 2017) and after opti
 
 We're sharing what we learned - talk to one of the team members from TBS: Miguel Borges-Porteous, Patrick Lajeunesse, Peter Smith, Lisa Fast, Gil Coté or from Innnovation Science and Economic Development Canada:  Annie Crombie, Monica Baxter-Burkitt (other people Corporations Canada etc) and Canada Revenue Agency: Shawn Arsenault, Joey Montpellier, and Ross Kippen. 
 
-Annie Crombie from the ISED team spoke about the project at [World IA Day at Shopify in March](https://medium.com/@AngelaCounter/world-ia-day-2017-shopify-365a36baa80)
+Annie Crombie from the ISED team spoke about the project at [World IA Day at Shopify in March 2017](https://medium.com/@AngelaCounter/world-ia-day-2017-shopify-365a36baa80)
 
 ![Annie speaking at World IA Day 2017](/images/AnnieWorldIADay_794x443.jpg "World IA Day")
 
