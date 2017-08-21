@@ -16,6 +16,8 @@ Add introduction here - context on the scenario, template or pattern - indicate 
 
 Include a succinct description of the problem (column c) and contributing factors (column d). Reference the usability testing: include clips where possible (column i). Where possible, cite any task findability or task completion %s or #s that quantify the issue (may need to go back to the reports again to pull these). Max 2-3 (?) paragraphs.
 
+<!--- to do: embed the blah blah blah clip as a sample clip --->
+
 ## Solution
 
 Describe what we did in response (usually a mix of column e and column h). If changes to the Content and IA Specification have been published, provide the link, otherwise mention that it’s coming (columns j, k, l). Max 2-3 (?) paragraphs.
