@@ -46,5 +46,6 @@ A few months after the **updated** Starting a business ~~steps~~ page launched, 
 - 57% fewer searches for the main steps to register a business (ex: 'nuans', 'registering a business' 'incorporation')
 - 33% more people getting to BizPal, the Business Permits and Licensing wizard that customizes needed permits and licences
 - 75% more people finding the Grants and financing link on the start a business steps page
+<!--- what was the time period for these percentages and rough order of magnitude for the volume --->
 
 These outcomes from Canadians using the Canada.ca site support the prototype testing results. The **steps-based** ~~template~~ design clearly addressed a real need, and filled a gap in our template design patterns.  **This design pattern** is now available as an option for Canada.ca topic pages **, and will soon be included** in the Content and Information Architecture Specification. Services on Canada.ca can now use this to pattern to help Canadians understand and find the steps they're looking for. 
