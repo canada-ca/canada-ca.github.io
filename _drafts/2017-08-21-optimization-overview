@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "How we're optimizing top tasks on Canada.ca"
+ref: template
+date:   2017-08-21 09:48:44 +0100
+categories: category
+published: false
+lang: en
+---
+
+Over the last few months, the product design team at TBS has been working on improving specific top tasks on Canada.ca by adapting lean and agile approaches to a government context. Here's how we are tackling these projects by working with content owners in Government of Canada departments.
+
+## What is a Canada.ca optimization project?
+
+Canada.ca optimization projects are aimed at improving existing digital services for citizens. Working in a short 3-4 month product cycle, our team collaborates with GC institutions to test and improve specific aspects of high-demand online services and information.
+
+## The process
+
+The basic process for optimization projects involves five steps:
+
+1. Discovery - research to identify core tasks, develop hypotheses and finalize testing scenarios
+2. Baseline test - moderated usability testing sessions with participants performing the scenarios on the existing site
+3. Design and prototyping - sprints to tackle issues uncovered during baseline testing
+4. Validation test - moderated usability testing with participants performing the scenarios on the prototypes
+5. Launch - if the validation test shows a measurable improvement, the prototypes are then integrated into production and released at the earliest opportunity 
+
+Throughout the process, we ensure close collaboration between the TBS team and the institutional team through frequent face-to-face contact - meetings, workshops, etc.
+
+## Usability testing is key
+
+You'll notice that two of the steps in the process involve moderated usability testing. In fact, usability testing is key to the success of the entire process.
+
+Through moderated usability testing, we are attempting to accomplish two things:
+
+ - measure improvements in terms of task findability and task completion
+ - leverage insights into usability issues to facilitate improvement
+
+In terms of measuring improvements, we are aiming to achieve a noticeable increase in participants' ability to both find and complete the tasks. Usually, this means something in the range of 10 to 20 percentage points when comparing the baseline testing results to the validation round, depending on where the baseline sits. It's a lot easier to go from from 50% to 70% task success in a single project than it is to go from 70% to 90%. 
+
+The insights drawn from usability testing are leveraged not only to steer the design and prototyping phase in each optimization project, but also to improve the overall design system for Canada.ca. We're always looking for patterns in the issues that the testing uncovers, and when we spot one, we work on updating our design manuals to address them. You'll see the evidence of this in updates to the Canada.ca Content and Information Architecture Specification and Canada.ca Content Style Guide.
+
+## There's more to come
+
+To date we have undertaken two Canada.ca optimization projects, and we're working on more. We'll be writing up our experiences with these activities in future articles, so stay tuned for more!
+
+## Explore further
+
+- insert links
