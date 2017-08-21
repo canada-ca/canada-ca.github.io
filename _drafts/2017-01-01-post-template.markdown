@@ -20,7 +20,7 @@ Include a succinct description of the problem (column c) and contributing factor
 
 Describe what we did in response (usually a mix of column e and column h). If changes to the Content and IA Specification have been published, provide the link, otherwise mention that it’s coming (columns j, k, l). Max 2-3 (?) paragraphs.
 
-![Decisions and subsequent steps to name a business](/images/Naming_a_business_decisions.JPG  "Decision points to name a business")
+![Sample placeholder image](/images/sample-echantillon-685x458px.png  "sample placeholder image")
 
 ## Design recommendation
 
