@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Template for posts"
+title:  "Template for usability testing posts"
 ref: template
 date:   2017-01-01 09:48:44 +0100
 categories: category
