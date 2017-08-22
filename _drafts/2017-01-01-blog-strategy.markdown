@@ -50,10 +50,10 @@ lang: en
 ## Structure
 - default structure - blog (articles in reverse chrono) 
 - tags & categories
--- categories for series of articles:
+	- categories for series of articles:
 	1. usability issues - documenting issues and solutions
 	2. optimization projects - things we saw, lessons learned
--- tags for article topics/subjects
+	- tags for article topics/subjects
 
 ## Writing techniques
 - Short articles – think in terms of “one pagers”
