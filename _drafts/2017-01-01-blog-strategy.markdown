@@ -12,11 +12,11 @@ lang: en
  
 - Blog as expression of what are we about: improving digital services for citizens
 - principles: 
--- evidence based design
--- relentlessly continuously improving - adopting lean and agile approaches
--- ruthlessly prioritizing citizen needs - top tasks driving & feeding Canada.ca design
--- content first (not fancy features or functionalites)
--- coherent UX for Canadians
+	- evidence based design
+	- relentlessly continuously improving - adopting lean and agile approaches
+	- ruthlessly prioritizing citizen needs - top tasks driving & feeding Canada.ca design
+	- content first (not fancy features or functionalites)
+	- coherent UX for Canadians
 
 # Objectives
  
