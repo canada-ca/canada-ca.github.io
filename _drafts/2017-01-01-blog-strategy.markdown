@@ -12,16 +12,16 @@ lang: en
  
 - Blog as expression of what are we about: improving digital services for citizens
 - principles: 
-	- evidence based design
-	- relentlessly continuously improving - adopting lean and agile approaches
-	- ruthlessly prioritizing citizen needs - top tasks driving & feeding Canada.ca design
+	- evidence based design/decision-making
+	- relentlessly continuously improving - adopting lean and agile approaches, learning as we go
+	- ruthlessly prioritizing citizen needs - top tasks driving & feeding overall Canada.ca design
 	- content first (not fancy features or functionalites)
 	- coherent UX for Canadians
 
 # Objectives
  
 - Align with overall strategy of working in the open & showing our accountability
-- Demonstrates leadership in terms of #GCdigital, product design, usability 
+- Demonstrate leadership in terms of #GCdigital, product design, usability, research and testing 
 - It’s a lifestyle, baby (also recruiting)
 
 # Who are we doing this for?
@@ -79,7 +79,7 @@ lang: en
 ## Images and multimedia
 - DO use images and videos 
 - DO get permission first
-- DO credit sources
+- DO give credit - if we are not the source, mention source 
 - DO follow spec and style guide 
 - DON’T break privacy rules - review before posting
 
