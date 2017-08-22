@@ -16,12 +16,14 @@ Add introduction here - context on the scenario, template or pattern - indicate 
 
 Include a succinct description of the problem (column c) and contributing factors (column d). Reference the usability testing: include clips where possible (column i). Where possible, cite any task findability or task completion %s or #s that quantify the issue (may need to go back to the reports again to pull these). Max 2-3 (?) paragraphs.
 
+<!--- To embed a video from Youtube, just grab the embed code and paste in your doc --->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hvFE-49NYYE" frameborder="0" allowfullscreen></iframe>
 
 ## Solution
 
 Describe what we did in response (usually a mix of column e and column h). If changes to the Content and IA Specification have been published, provide the link, otherwise mention that it’s coming (columns j, k, l). Max 2-3 (?) paragraphs.
 
+<!--- to insert an image, upload the picture file to the images folder, then reference it using the following syntax --->
 ![Sample placeholder image](/images/sample-echantillon-685x458px.png  "sample placeholder image")
 
 ## Design recommendation
