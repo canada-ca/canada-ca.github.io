@@ -29,7 +29,7 @@ lang: en
 - Primary audience: people who make web things in GC
 - Secondary audiences: people who make web things in other govts, in the private sector etc.
 
-# Considerations / constraints 
+# Considerations / ground rules 
 
 - Bilingual
 - Accessible
