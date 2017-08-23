@@ -9,15 +9,13 @@ lang: en
 
 THIS ARTICLE IS A DRAFT - IT IS NOT FINISHED!!
 
-Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements spread across the provinces and federal departments that depend on the size and type of business. Together with Innnovation Science and Economic Development Canada and Canada Revenue Agency, the Canada.ca product team at TBS set out to improve Canada.ca's online service to Canadians starting a business. Canada.ca brings together tasks across federal departments and agencies, so we started with discovery of pain points on user journeys through the complete set of government processes and then held a series of design sprints and user research to resolve them. The new designs went live in the Business menu on Canada.ca in March 2017, with the web data showing big positive changes. 
+Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements spread across the provinces and federal departments that depend on the size and type of business. Together with Innnovation Science and Economic Development Canada and Canada Revenue Agency, the Canada.ca product team at TBS set out to improve Canada.ca's online service to Canadians starting a business. The team started with discovery of pain points on user journeys through the complete set of government processes. We held a series of design sprints to address the pain points, testing design prototypes with Canadians as we went and measuring improvements against baseline results.  
 
-After the new designs went live on the Canada.ca site, we validated the outcomes through changes in the web analytic traffic.  It was immediately clear that getting to the business name search from Canada.ca was easier and more obvious than before. Adding the link as a step and reducing the number of clicks,  hugely increased the number of people getting to the search for a unique name from the Starting a business page.
+The new designs went live in the Business menu on Canada.ca in March 2017. After a few months, we measured the outcomes in te in rms of changes in the flow of the web vistors.  It was immediately clear that the important step of searching for business names was easier to get to and more obvious than before. In the conversion funnel below, there is a huge increase in the number of people getting to the search for a unique business name from the Starting a business page.
 
 Conversion funnel data for Canada.ca before (Feb 4 to Apr 4 2017) and after optimization (May 26 to July 24 2017)
 
 ![Naming a business conversion funnel from Canada.ca showing substantial increases in people making it through the funnel between before and after](/images/Naming_a_business_funnel_938x497.png  "Change in traffic to name search from Canada.ca")
-
-
 
 ## Where to start and what to do next
 Unfortunately, starting a business is complex. An entrepreneur not only has to know where to start, but they have to understand the sequence and implications of their starting points. These processes are further complicated by the different priorities of government agencies. Industry Canada was interested in helping people who wanted to incorporate federally, CRA with Business numbers, GST and corporate tax accounts, and the provinces with their own incorporation or permits. We needed to bring it all together into one process - even thought the sequence wasn't clear, even to us.
@@ -56,6 +54,3 @@ Explore more about Starting a business:
 * See the full decision flow diagram for starting a business  [start a business decision map](/images/Starting_a_business_decisions_Nov2016_1194x818.png)
 * The importance of the logic flow map for the Starting a business project in [Bringing logic to a government design sprint](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast)
 * UK GDS on their business optimization project [Taking care of business on Gov.UK](https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/)
-
-
-
