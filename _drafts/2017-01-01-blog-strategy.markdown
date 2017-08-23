@@ -8,10 +8,10 @@ published: false
 lang: en
 ---
 
-# Communicating our value proposition
- 
-- Blog as expression of what are we about: improving digital services for citizens
-- principles: 
+# What is this blog for?
+
+- Communicating our value proposition - improving digital services for citizens
+- Blog as expression of what are we about: 
 	- evidence based design/decision-making
 	- relentlessly continuously improving - adopting lean and agile approaches, learning as we go
 	- ruthlessly prioritizing citizen needs - top tasks driving & feeding overall Canada.ca design
@@ -22,12 +22,15 @@ lang: en
  
 - Align with overall strategy of working in the open & showing our accountability
 - Demonstrate leadership in terms of #GCdigital, product design, usability, research and testing 
+- Catalyze workforce transformation by example
 - It’s a lifestyle, baby (also recruiting)
 
 # Who are we doing this for?
 
-- Primary audience: people who make web things in GC - and people who manage the services/programs
-- Secondary audiences: people who make web things in other govts, in the private sector etc.
+- Primary audience: people making web things in GC - from noobs to unicorns, from design to content to code
+- Secondary audiences: 
+	- people who manage GC services/programs and need to consider digital more deeply
+	- people who make web things in other govts, in the private sector etc.
 
 # Considerations / ground rules 
 
