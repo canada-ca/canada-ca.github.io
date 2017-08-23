@@ -15,7 +15,7 @@ lang: en
 	- evidence based design/decision-making
 	- relentlessly continuously improving - adopting lean and agile approaches, learning as we go
 	- ruthlessly prioritizing citizen needs - top tasks driving & feeding overall Canada.ca design
-	- content first (not fancy features or functionalites)
+	- content first (rather than fancy features or functionalites)
 	- coherent UX for Canadians
 
 # Objectives
