@@ -93,7 +93,7 @@ lang: en
 ## Linking
 - DO link to external sources: other govts who are doing similar work, experts in the field, etc.
 - DON'T link to internal-to-GC stuff, it's rude to exclude people who can't get at gcpedia etc.
-- DON’T link in-line; gather links in an “explore further” block at the end of the article
+- DON’T link in-line; make links stand alone between paragraphs or gather links in an “explore further” block at the end of the article
 
 ## Citing data and evidence
 - DO mention sources - keep it simple
