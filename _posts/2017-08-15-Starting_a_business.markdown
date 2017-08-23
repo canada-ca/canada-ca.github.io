@@ -11,22 +11,21 @@ THIS ARTICLE IS A DRAFT - IT IS NOT FINISHED!!
 
 Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements spread across the provinces and federal departments that depend on the size and type of business. Together with Innnovation Science and Economic Development Canada and Canada Revenue Agency, the Canada.ca product team at TBS set out to improve Canada.ca's online service to Canadians starting a business. The team started with discovery of pain points on the journey through the complete set of government processes, and a baseline set of task success measurements. We held a series of design sprints to address the pain points, testing design prototypes with Canadians as we went and measuring improvements against the baseline results.   
 
-The new designs went live in the Business menu on Canada.ca in March 2017. After a few months, we measured the impact on the flow of web visitors. One of the big changes the team made was to bring the important step of 'Choosing a business name' up to the Starting a business page, and to streamline the route to the name search page. The conversion funnel below shows the successful outcome. In the 2 month period before the optimization, only 10 people made it from the Starting a business page to the name search target. In the 2 months afterwards, over 1,200 people took the simplified path to that important page. 
+The new designs went live in the Business menu on Canada.ca in March 2017. After a few months, we measured the impact on the flow of web visitors. One of the big changes the team made was to bring the important step of 'Choosing a business name' up onto the Starting a business page, and to streamline the route to the name search page. The conversion funnel below shows the successful outcome. In the 2 month period before the optimization, only 10 people made it from the Starting a business page to the name search target. In the 2 months afterwards, over 1,200 people took the simplified path to that important page. 
 
 Conversion funnel for Canada.ca Starting a business to Name search before (Feb 4 to Apr 4 2017) and after optimization (May 26 to July 24 2017)
 
 ![Naming a business conversion funnel from Canada.ca showing substantial increases in people making it through the funnel between before and after](/images/Naming_a_business_funnel_938x497.png  "Change in traffic to name search from Canada.ca")
 
-## Focusing on where to start
+## Discovering decision and pain points
 Unfortunately, starting a business is complex. An entrepreneur has to know where to start, and they have to understand the sequence and implications of their decisions. Building this understanding is further complicated by the different priorities of government agencies. Corporations Canada is interested in helping people who wanted to incorporate federally, the Canada Revenue Agency wants to make sure business get Business numbers, GST and corporate tax accounts, and the provinces have their own incorporation and permit processes.
 
-We needed to bring it all together to help convey the legal requirements - even thought the sequence wasn't clear, even to us. We mapped out the different decisions and the sequence of the government steps when starting a business. As we explored, we noticed that choosing a business name was essential to progressing through the rest of almost all of the other steps.  
+We mapped out the different decisions and the sequence of the government requirements when starting a business. As we explored,  we noticed that decisions around choosing a business name had to be made before taking almost any of the government registration steps. Evidence from research with Canadians also highlighted that some of the decisions and the sequences were causing problems for people and for the government departments trying to serve them. 
 
 ![Decisions and subsequent steps to name a business](/images/Naming_a_business_decisions.JPG  "Decision points to name a business")
 
-## From pain points to decision steps
-
-To manage this complexity, we needed to make sure entrepreneurs could:
+## Exploring design options
+To manage the complexity revealed in our map, we needed to make sure entrepreneurs could:
 1. Deal with one decision at a time, in the right order, feeling secure that they weren't forgetting or missing something 
 2. Understand which steps they might have done already and which were relevant to them, since many don't do all the steps with one government or agency
 3. For those entrepreneurs who had one task, we wanted to make sure they weren't forced to read everything and could get to the specific application they needed
