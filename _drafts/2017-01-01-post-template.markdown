@@ -8,7 +8,7 @@ published: false
 lang: en
 ---
 
-\[This template is meant for articles that summarize issues and solutions from the usability testing we've done on Canada.ca - use in conjunction with the spreadsheet that documents issues from usability tests - https://docs.google.com/spreadsheets/d/1qmlBb7JbXl1KjM3Y5N4s638pupz1-MsBnMUYUGfwNLQ/edit?usp=sharing \]
+\[This template is for articles that summarize issues and solutions from the usability testing we've done on Canada.ca - use in conjunction with the spreadsheet that documents issues from usability tests - https://docs.google.com/spreadsheets/d/1qmlBb7JbXl1KjM3Y5N4s638pupz1-MsBnMUYUGfwNLQ/edit?usp=sharing \]
 
 Add introduction here - context on the scenario, template or pattern - indicate the user need. Max 2-3 (?) sentences.
 
@@ -29,6 +29,10 @@ Describe what we did in response (usually a mix of column e and column h). If ch
 ## Design recommendation
 
 Single-sentence summary - use this kind of structure: When you’re building \[template or pattern\], this \[restate the change\] should help address \[restate the problem\].
+
+## Contact us
+
+Want to know more? Email us at ux.eu@tbs-sct.gc.ca
 
 ## Explore further
 
