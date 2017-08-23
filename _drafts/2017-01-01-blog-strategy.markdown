@@ -17,6 +17,7 @@ lang: en
 	- ruthlessly prioritizing citizen needs - top tasks driving & feeding overall Canada.ca design
 	- content first (rather than fancy features or functionalites)
 	- coherent UX for Canadians
+- Why bother doing this? The rationale is that .... (see comms and engagement strat)
 
 # Objectives
  
@@ -69,7 +70,7 @@ lang: en
 - Use pair writing, timeboxing and trading off to keep moving
 
 
-# Do’s and don’ts
+# Writing articles - Do’s and don’ts
 
 ## Overall tone
 - DO use a conversational tone
