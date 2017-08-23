@@ -26,7 +26,7 @@ lang: en
 
 # Who are we doing this for?
 
-- Primary audience: people who make web things in GC
+- Primary audience: people who make web things in GC - and people who manage the services/programs
 - Secondary audiences: people who make web things in other govts, in the private sector etc.
 
 # Considerations / ground rules 
