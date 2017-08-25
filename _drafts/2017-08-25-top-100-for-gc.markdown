@@ -12,13 +12,13 @@ Every government institution should have a complete understanding of the tasks t
  
 ## What we mean by a task
  
-A task is what someone wants to do. For example, some typical tasks might be: 
+A task is basically what someone wants to do. For example, some typical tasks might be: 
 
 * renew my passport
-* look up a vaccination schedule
-* apply for funding for my farm
+* find out when vaccinations are needed
+* get insurance for my crops
 
-These are the kinds of individual tasks we want to identify and help support. 
+These are the kinds of tasks we want to identify and help support. 
 
 The Government of Canada supports an incredibly wide list of tasks. Government departments and agencies have to manage all of these. Looking at Canada.ca as a whole, we need to focus on the tasks used by most people. If we understand these top tasks, we can refine content, information architecture, and functionality to make them easier to achieve. 
  
@@ -27,15 +27,15 @@ The Government of Canada supports an incredibly wide list of tasks. Government d
  
 ## The government-wide top task list
  
-In 2013, we began working towards a more centralized web presence for the Government of Canada. While some people know which department provides a service, most don’t know or care. It doesn't always make sense to organize services and information by the department that provides it. By focusing on tasks instead of departments, we could organize content based on what people were actually looking for. 
+In 2013, we began working towards a more centralized web presence for the Government of Canada. While some people know which department provides a service, most don’t know or care. It doesn't always make sense to organize services and information by the department that provides them. By focusing on tasks instead of departments, we can organize content based on what people are actually looking for. 
 
 This work resulted in an initial list of top tasks across the government. We used that list to help design the themes that organize Canada.ca content. The list was updated in 2015, and this most recent update continues on from those efforts. 
  
-For this round, we began by collecting top tasks from theme lead institutions. (These are the government departments or agencies that were assigned to manage one or more Canada.ca themes. The theme leads tend to be the departments that manage most of the tasks within each theme.) Then we extended the request to other institutions who had tasks on the previous lists. 
+For this round, we began by collecting top tasks from theme lead institutions. (These are the government departments or agencies that were assigned to manage one or more Canada.ca themes.) Then we extended the request to other institutions who had tasks on the previous lists. 
  
 ## What we collected
 
-We provided each department with a spreadsheet to capture the data we needed. 
+The core information we collected included:
 
 ### The institution's top tasks
  
@@ -48,27 +48,27 @@ Some institutions had already conducted exercises to determine their top tasks. 
 * stakeholder input
 * past research or surveys
 
-By reviewing these sources and carefully analyzing the results, departments could identify all of the tasks they support for the public. 
+By reviewing these sources and carefully analyzing the results, institutions could identify all of the tasks they support for the public. 
  
 ### Where people "start" the task
  
-In previous versions of the list, we found that some tasks seemed to have an unusually high number of visits. This might be because there were a lot of pages associated with a task, or because the task involved a search interface that was reporting separately for every search result. To try to avoid complications from these issues, we instead tried to focus on the page where most people tend to start the task. 
+In previous versions of the list, we found that some tasks seemed to have an unusually high number of visits. This might be because there were a lot of pages associated with a task, or because the task involved a search interface that reported separately for every search result. To avoid complications from these issues, we instead focused on the page where most people tend to start the task. 
 
 ### A sense of the traffic
  
-Once we have a start page, we wanted to get a sense of the amount of traffic the page gets. This isn't necessarily a strong indicator of how important a task is. It's possible that a task is a top task, but people have a hard time finding it, so visits are low. It's less likely that something might not be a top task, but still gets a lot of traffic; but it's possible. 
+Once we have a start page, we wanted to get a sense of how much traffic the page gets. This isn't necessarily a strong indicator of how important a task is. It's possible that something is a top task, but people have a hard time finding it. 
 
 ### Search terms people use to get to the task
  
-Search logs provide a view into what people are thinking when they visit a website. They provide insight into the terms people use. They also show how often people are looking for particular things. If you can tell what terms people used to get to the top tasks, then you can refine the related content to make that path even easier for people. 
+Search logs provide a view into what people are thinking when they visit a website. They also show how often people look for particular things. If you can tell what terms people used to get to the top tasks, then you can refine the related content to make that path even easier for people. 
 
-See [Search-Log Analysis: The Most Overlooked Opportunity in Web UX Research](https://www.nngroup.com/articles/search-log-analysis/) for more information on why and how to analyze search log data.
+See [Search-Log Analysis: The Most Overlooked Opportunity in Web UX Research](https://www.nngroup.com/articles/search-log-analysis/) for tips on why and how to analyze search log data.
 
 ### Top requests to call centres
 
-Call centres get to actually talk directly to the people using government services. If we know what issues the call centre hears about, we get a good sense of what’s important to people. Also, if people have to call to get information it may mean that it’s not presented very well online. 
+Call centres get to talk directly to the people using government services. If we know what issues the call centre hears about, we get a good sense of what’s important to people.  
 
-Again, just because an issue comes to a call centre a lot doesn’t mean it’s a top task. For example, one of the most common inquiries Agriculture and Agri-Food Canada gets is whether dogs are allowed on the [Central Experimental Farm](http://www.agr.gc.ca/eng/about-us/offices-and-locations/central-experimental-farm/?id=1170701489551)! 
+Again, just because an issue comes to a call centre a lot doesn’t mean it’s a top task. For example, one of the most common questions Agriculture and Agri-Food Canada gets is whether dogs are allowed on the [Central Experimental Farm](http://www.agr.gc.ca/eng/about-us/offices-and-locations/central-experimental-farm/?id=1170701489551). Important information for some, but not a top task for the department. 
  
 ### Proportion of mobile visits
  
@@ -78,13 +78,13 @@ We have a good view of how many people are visiting Canada.ca with mobile device
  
 Once we had the data, it was just a matter of digging through to make the list. A big part of this work was identifying a core task and its supporting sub-tasks. 
 
-For example, “Get a passport” is a common task. There might be a lot of tasks behind that. It  could include things like “renew a passport”, “passport photo requirements”; even down to “download the passport renewal form". If you were working on the passport content, then you’d want to keep track of all of these tasks. But for our government-wide view, “get a passport” is enough. 
+For example, “Get a passport” is a popular task. There might be a lot of tasks behind that. It  could include things like “renew a passport”, “see passport photo requirements”; even down to “download the passport renewal form". If you were working on the passport content, then you’d want to keep track of all of these tasks. But for our government-wide view, “get a passport” is enough. 
  
-We wrote each task as a verb, to make clearer what people were attempting to actually do. We could have simply used "Canadian passports", but thought that it was important to keep the tasks as answers to the question, "why are people coming to the site?". 
+We wrote each task as a verb, to make clearer what people are trying to do. We could have simply used "Canadian passports", but wanted to keep the tasks as answers to the question, "why are people coming to the site?"
  
-That doesn't necessarily mean that this is how you should write link labels on your site! “Passports” is a perfectly good navigation label to use to bring people to the section of the site where they can do everything about passports - including getting one. 
+> That doesn't necessarily mean that this is how you should write link labels on your site! “Passports” is a perfectly good navigation label to use to bring people to the section of the site where they can do everything about passports - including getting one. 
 
-We collected hundreds of tasks, but picked out 100 of the most visited tasks to make the current top task list, sorted by visits to the start page. The list provides a good snapshot of what most people are coming to government websites to do.
+We collected hundreds of tasks, but picked out 100 of the most visited tasks to make the current top task list. 
  
 ## Next steps
  
