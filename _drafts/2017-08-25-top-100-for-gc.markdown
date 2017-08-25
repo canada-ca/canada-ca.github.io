@@ -10,21 +10,8 @@ lang: en
 ---
  
 Every government institution should have a complete understanding of the tasks they support. In managing Canada.ca, we want to understand the top tasks across the entire government. To help with that, we've compiled a [top task list for the Government of Canada](). 
- 
-## What we mean by a task
- 
-A task is basically what someone wants to do. For example, some typical tasks might be: 
-
-* renew my passport
-* find out when vaccinations are needed
-* get insurance for my crops
-
-These are the kinds of tasks we want to identify and help support. 
 
 The Government of Canada supports an incredibly wide list of tasks. Government departments and agencies have to manage all of these. Looking at Canada.ca as a whole, we need to focus on the tasks used by most people. If we understand these top tasks, we can refine content, information architecture, and functionality to make them easier to achieve. 
- 
-* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
-* [How to conduct a top task analysis](https://measuringu.com/top-tasks/)
  
 ## The government-wide top task list
  
