@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Getting the top tasks for the Government of Canada"
+gradelevel: 7.7
 ref: template
 date:   2017-08-25 09:48:44 +0100
 categories: category
@@ -82,7 +83,7 @@ For example, “Get a passport” is a popular task. There might be a lot of tasks b
  
 We wrote each task as a verb, to make clearer what people are trying to do. We could have simply used "Canadian passports", but wanted to keep the tasks as answers to the question, "why are people coming to the site?"
  
-> That doesn't necessarily mean that this is how you should write link labels on your site! “Passports” is a perfectly good navigation label to use to bring people to the section of the site where they can do everything about passports - including getting one. 
+That doesn't necessarily mean that this is how you should write link labels on your site! “Passports” is a perfectly good navigation label to use to bring people to the section of the site where they can do everything about passports - including getting one. 
 
 We collected hundreds of tasks, but picked out 100 of the most visited tasks to make the current top task list. 
  
