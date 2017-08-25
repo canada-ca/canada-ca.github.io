@@ -10,7 +10,7 @@ lang: en
  
 Every government institution should have a complete understanding of the tasks they support. All of the content on your site should support one or more actual tasks. In managing Canada.ca, we want to understand the top tasks across the entire government. 
  
-##What we mean by a task
+## What we mean by a task
  
 A task is what someone comes to the site to do. For example, someone might want to renew their passport, look up a vaccination schedule, or apply for funding for their farm. These are the kinds of individual tasks we want to identify and help support. 
 
@@ -19,7 +19,7 @@ The Government of Canada supports an incredibly wide list of tasks. Government d
 * [What Really Matters: Focusing on Top Tasks]()
 * [How to conduct a top task analysis]()
  
-##The government-wide top task list
+## The government-wide top task list
  
 In 2013, we began working towards a more centralized web presence for the Government of Canada. While some people know which department provides a service, most don’t know or care. We focused on tasks instead of departments, so we could organize content based on what people were actually looking for. 
 
@@ -27,11 +27,11 @@ This work resulted in an initial list of top tasks across the government. We use
  
 For this round, we began by collecting top tasks from theme lead institutions. (These are the government departments or agencies that were assigned to manage one or more Canada.ca themes. The theme leads tend to be the departments that manage most of the tasks within each theme.) Then we extended the request to other institutions who had tasks on the previous lists. 
  
-##What we collected
+## What we collected
 
 We provided each department with a spreadsheet to capture the data we needed. 
 
-###The institution's top tasks
+### The institution's top tasks
  
 Some institutions had already conducted exercises to determine their top tasks. For others, we asked them to consider a variety of sources:
 
@@ -48,39 +48,39 @@ We didn't specify how many tasks to provide. There's a big difference in the siz
  
 We asked institutions to provide at least one task for each theme where they have content. Basically, if they have content in a theme, there has to be a reason for people to read it. If the content doesn’t support a real task, then it shouldn't be there!
  
-###Where people "start" the task
+### Where people "start" the task
  
 In previous versions of the list, we found that some tasks seemed to have an unusually high number of visits. This might be because there were a lot of pages associated with a task, or because the task involved a search interface that was reporting separately for every search result. To try to avoid complications from these issues, we instead tried to focus on the page where most people tend to start the task. 
  
 For example, we have a lot of content related to immigrating to Canada. You might go through several pages to understand eligibility, entry requirements, timelines etc. But a reasonable start page for this task is the Immigrate to Canada topic page. By tracking just that page, we get a sense of the number of people attempting the task. You could find out how to immigrate without going to that page, but this method provides a more equal comparison across the tasks. 
  
-###A sense of the traffic
+### A sense of the traffic
  
 Once we have a start page, we wanted to get a sense of the amount of traffic the page gets. This isn't necessarily a strong indicator of how important a task is. It's possible that a task is a top task, but people have a hard time finding it, so visits are low. It's less likely that something might not be a top task, but still gets a lot of traffic; but it's possible. 
  
 This isn’t a perfect method. Some tasks might not have an obvious start page. Or, there may well be a start page that people don't necessarily go to. A good example of that is the interface to search federal corporations. The search interface seems like a reasonable start page, but it's not actively visited. Instead, most people get to a company page by searching for the company in Google. Still, on balance this method provides a reasonable means of assessing the relative interest in a task. 
  
-###Search terms people use to get to the task
+### Search terms people use to get to the task
  
 Search logs provide a view into what people are thinking when they visit a website. They provide insight into the terms people use. They also show how often people are looking for particular things. If you can tell what terms people used to get to the top tasks, then you can refine the related content to make that path even easier for people. 
 
 See [Search-Log Analysis: The Most Overlooked Opportunity in Web UX Research]() for more information on why and how to analyze search log data.
 
-###Top requests to call centres
+### Top requests to call centres
 
 Call centres get to actually talk directly to the people using government services. If we know what issues the call centre hears about, we get a good sense of what’s important to people. Also, if people have to call to get information it may mean that it’s not presented very well online. 
 
 Again, just because an issue comes to a call centre a lot doesn’t mean it’s a top task. For example, one of the most common inquiries Agriculture and Agri-Food Canada gets is whether dogs are allowed on the Central Experimental Farm! 
  
-###Proportion of mobile visits
+### Proportion of mobile visits
  
 We have a good view of how many people are visiting Canada.ca with mobile devices, but not how that proportion varies from task to task. This data provides a useful view into where some tasks remain solidly on the desktop, and which tend to be accessed more through mobile devices.
 
-###The theme where the task is accomplished
+### The theme where the task is accomplished
  
 Every task should fit within one of the themes on Canada.ca. Knowing which theme each task belongs to helps us understand how the site is organized. If there is no reasonable place to position a task, then that’s a sign that the structure of the site may need some work. 
  
-##Analyzing the results
+## Analyzing the results
  
 Once we had the data, it was just a matter of digging through to make the list. A big part of this work was identifying a core task and its supporting sub-tasks. 
 
@@ -92,7 +92,7 @@ That doesn't necessarily mean that this is how you should write link labels on y
 
 We collected hundreds of tasks, but picked out 100 of the most visited tasks to make the current top task list, sorted by visits to the start page. The list provides a good snapshot of what most people are coming to government websites to do.
  
-##What's next
+## What's next
  
 We're already using the list to help us plan and prioritize upcoming task-based optimization projects. It also feeds into overall Canada.ca optimization, both at the theme level and above. We want to keep this list evergreen, constantly refining it as we learn more about what people are coming to Canada.ca to do. To that end, we’ll continue to collect this data from institutions across government. 
  
