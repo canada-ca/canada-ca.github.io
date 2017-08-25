@@ -34,6 +34,7 @@ Once we had struck a balance with a set of steps that would be simple enough to 
 First, we added numbers and changed the heading to say 'steps'. This helped, but we noticed the new set of participants were still getting distracted, so we removed the 'What we are doing' links from the page, and put the steps into a single vertical column. We found that a single-column list was faster to scan and better conveyed the sequence.
 
 The live Starting a business page matches our final working prototype very closely - [Live version of Starting a business topic page on Canada.ca](https://www.canada.ca/en/services/business/start.html)
+
 ![Starting a business page now with steps and no photo of leaves at the top](/images/Starting_template_Aug2017_599x467.png  "Starting a business topic page on Canada.ca in simplified Steps template")
 
 ## Improved outcomes for Canadians starting a business
