@@ -16,8 +16,8 @@ A task is what someone comes to the site to do. For example, someone might want 
 
 The Government of Canada supports an incredibly wide list of tasks. Government departments and agencies have to manage all of these, but at the top level of Canada.ca, we need to focus on the tasks used by the majority of people. If we understand these tasks, we can refine content, information architecture, and interactions to make them easier to achieve. 
  
-* [What Really Matters: Focusing on Top Tasks]()
-* [How to conduct a top task analysis]()
+* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
+* [How to conduct a top task analysis](https://measuringu.com/top-tasks/)
  
 ## The government-wide top task list
  
@@ -52,25 +52,25 @@ We asked institutions to provide at least one task for each theme where they hav
  
 In previous versions of the list, we found that some tasks seemed to have an unusually high number of visits. This might be because there were a lot of pages associated with a task, or because the task involved a search interface that was reporting separately for every search result. To try to avoid complications from these issues, we instead tried to focus on the page where most people tend to start the task. 
  
-For example, we have a lot of content related to immigrating to Canada. You might go through several pages to understand eligibility, entry requirements, timelines etc. But a reasonable start page for this task is the Immigrate to Canada topic page. By tracking just that page, we get a sense of the number of people attempting the task. You could find out how to immigrate without going to that page, but this method provides a more equal comparison across the tasks. 
+For example, we have a lot of content related to immigrating to Canada. You might go through several pages to understand eligibility, entry requirements, timelines etc. But a reasonable start page for this task is the [Immigrate to Canada](http://www.cic.gc.ca/english/immigrate/index.asp) topic page. By tracking just that page, we get a sense of the number of people attempting the task. You could find out how to immigrate without going to that page, but this method provides a more equal comparison across the tasks. 
  
 ### A sense of the traffic
  
 Once we have a start page, we wanted to get a sense of the amount of traffic the page gets. This isn't necessarily a strong indicator of how important a task is. It's possible that a task is a top task, but people have a hard time finding it, so visits are low. It's less likely that something might not be a top task, but still gets a lot of traffic; but it's possible. 
  
-This isn’t a perfect method. Some tasks might not have an obvious start page. Or, there may well be a start page that people don't necessarily go to. A good example of that is the interface to search federal corporations. The search interface seems like a reasonable start page, but it's not actively visited. Instead, most people get to a company page by searching for the company in Google. Still, on balance this method provides a reasonable means of assessing the relative interest in a task. 
+This isn’t a perfect method. Some tasks might not have an obvious start page. Or, there may well be a start page that people don't necessarily go to. A good example of that is the interface to [search federal corporations](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA). The search interface seems like a reasonable start page, but it's not actively visited. Instead, most people get to a company page by searching for the company in Google. Still, on balance this method provides a reasonable means of assessing the relative interest in a task. 
  
 ### Search terms people use to get to the task
  
 Search logs provide a view into what people are thinking when they visit a website. They provide insight into the terms people use. They also show how often people are looking for particular things. If you can tell what terms people used to get to the top tasks, then you can refine the related content to make that path even easier for people. 
 
-See [Search-Log Analysis: The Most Overlooked Opportunity in Web UX Research]() for more information on why and how to analyze search log data.
+See [Search-Log Analysis: The Most Overlooked Opportunity in Web UX Research](https://www.nngroup.com/articles/search-log-analysis/) for more information on why and how to analyze search log data.
 
 ### Top requests to call centres
 
 Call centres get to actually talk directly to the people using government services. If we know what issues the call centre hears about, we get a good sense of what’s important to people. Also, if people have to call to get information it may mean that it’s not presented very well online. 
 
-Again, just because an issue comes to a call centre a lot doesn’t mean it’s a top task. For example, one of the most common inquiries Agriculture and Agri-Food Canada gets is whether dogs are allowed on the Central Experimental Farm! 
+Again, just because an issue comes to a call centre a lot doesn’t mean it’s a top task. For example, one of the most common inquiries Agriculture and Agri-Food Canada gets is whether dogs are allowed on the [Central Experimental Farm](http://www.agr.gc.ca/eng/about-us/offices-and-locations/central-experimental-farm/?id=1170701489551)! 
  
 ### Proportion of mobile visits
  
