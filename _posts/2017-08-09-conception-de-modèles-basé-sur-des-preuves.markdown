@@ -43,9 +43,9 @@ La page Lancer une entreprise en ligne correspond beaucoup à notre prototype fo
 Nous étions heureux de voir à quel point les quelques premiers participants étaient à l’aise avec le patron sur la page de sujet Lancer une entreprise. Ils n’étaient pas obligés de passer du temps à lire des liens et des descriptions; ils parcourraient plutôt la page pour voir le lien numéroté qui était à l’étape où ils se trouvaient dans le processus. Les étapes leur ont donné l’assurance qu’ils ne sautaient rien d’essentiel, et qu’ils pourraient retourner à la page de sujet après avoir rempli chaque étape.
 
 Quelques mois après le lancement de la page Lancer une entreprise, les données d’analyses Web (trafic) ont montré ces améliorations :
-- réduction de 57 % des recherches des étapes principales pour enregistrer une entreprise (exemple : « nuans », « enregistrer une entreprise », « incorporation »)
+- réduction de 57 % *(footnote: n out of n)* des recherches des étapes principales pour enregistrer une entreprise (exemple : « nuans », « enregistrer une entreprise », « incorporation »)
 - augmentation de 33 % du nombre des personnes qui se rendent à PerLE, l’assistant Permis et licences d’entreprises qui personnalise les permis et les licences nécessaires
 - augmentation de 75 % du nombre des personnes qui trouvent le lien Subventions et financement à la page des étapes pour lancer une entreprise
-<!--- what was the time period for these percentages and rough order of magnitude for the volume --->
+<!--- time period --->
 
 Ces résultats provenant des Canadiens qui utilisent le site Canada.ca appuient les résultats des essais du prototype. La conception basé sur le patron d’étapes a clairement répondu à un besoin réel, et a comblé une lacune dans nos patrons pour les conceptions de modèle. Le patron d’étapes est maintenant disponible comme une option pour les pages de sujets du site Canada.ca, et sera inclus dans les Spécifications du contenu et de l’architecture de l’information. Les services dans le site Canada.ca peuvent maintenant utiliser ce modèle pour aider les Canadiens à comprendre et à trouver les étapes qu’ils recherchent.
