@@ -11,8 +11,10 @@ Starting a business is a top task for Canadians and it’s not an easy one. Ther
 
 The new designs went live in the Business menu on Canada.ca in March 2017. After a few months, we measured the impact on the flow of web visitors. One of the big changes the team made was to bring the important step of 'Choosing a business name' up onto the Starting a business page, and to streamline the route to the name search page. The conversion funnel below shows the successful outcome. In the 2 month period before the optimization, only 10 people made it from the Starting a business page to the name search target. In the 2 months afterwards, over 1,200 people took the simplified path to that important page. 
 
-**Conversion funnel for Canada.ca Starting a business to Name search - before and after optimization** 
-*Before: Feb 4 to Apr 4 2017*
+**Conversion funnel for Canada.ca Starting a business to Name search - before and after optimization**    
+
+*Before: Feb 4 to Apr 4 2017*   
+
 *After optimization: May 26 to July 24 2017
 
 <img class="img-responsive" alt="Naming a business conversion funnel from Canada.ca showing substantial increases in people making it through the funnel between before and after" src="/images/Naming_a_business_funnel_952x495.png">
