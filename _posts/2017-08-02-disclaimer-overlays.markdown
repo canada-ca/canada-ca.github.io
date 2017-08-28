@@ -26,7 +26,7 @@ Registering or logging in should be handled as quickly as possible, so also maki
 
 To mitigate this issue, we leveraged the overlay design pattern, which allows secondary content to be available if people are interested, but doesn’t force them to access it.
 
-![disclaimer overlay mockup](/images/disclaimer-overlay_776x575.png  "optional title here")
+<img class="img-responsive" alt="disclaimer overlay mockup" src="/images/disclaimer-overlay_776x575.png">
 
 Many variations of overlays are available in the Web Experience Toolkit, but to ensure maximum accessibility, we recommend the [WET Centred popup (Lightbox)](http://wet-boew.github.io/wet-boew/demos/overlay/overlay-en.html) component.
 
