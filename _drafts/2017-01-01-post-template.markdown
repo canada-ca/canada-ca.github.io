@@ -24,7 +24,7 @@ Include a succinct description of the problem (column c) and contributing factor
 Describe what we did in response (usually a mix of column e and column h). If changes to the Content and IA Specification have been published, provide the link, otherwise mention that it’s coming (columns j, k, l). Max 2-3 (?) paragraphs.
 
 <!--- to insert an image, upload the picture file to the images folder, then reference it using the following syntax --->
-![Sample placeholder image](/images/sample-echantillon-685x458px.png  "sample placeholder image")
+<img class="img-responsive" alt="Sample placeholder image" src="/images/sample-echantillon-685x458px.png">
 
 ## Design recommendation
 
