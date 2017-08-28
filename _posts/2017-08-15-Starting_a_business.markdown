@@ -9,7 +9,7 @@ lang: en
 
 Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements spread across the provinces and federal departments that depend on the size and type of business. Together with Innnovation Science and Economic Development Canada (ISED) and the Canada Revenue Agency (CRA), the Canada.ca team at TBS set out to improve the experience for Canadians starting a business via Canada.ca. The team started by exploring the user journey through the government requirements. The decisions identified in that journey were turned into tasks for a usability study with Canadians on the baseline Canada.ca site. We held a series of design sprints, testing design prototypes with Canadians as we went and measuring improvements against the baseline data.   
 
-The new designs went live in the Business menu on Canada.ca in March 2017. After a few months, we measured the impact on the flow of web visitors. One of the big changes the team made was to bring the important step of 'Choosing a business name' up onto the Starting a business page, and to streamline the route to the name search page. The conversion funnel below shows the successful outcome. In the 2 month period before the optimization, only 10 people made it from the Starting a business page to the name search target. In the 2 months afterwards, over 1,200 people took the simplified path to that important page. 
+The new designs went live in the Business menu on Canada.ca in March 2017. After a few months, we measured the impact on the flow of web visitors. One of the big changes the team made was to bring the important step of 'Choosing a business name' up onto the Starting a business page, and to streamline the route to the name search page. The conversion funnel below shows the successful outcome. In the 2 month period before the optimization, only 10 people made it from the Starting a business page to the name search target. In the 2 months afterwards, almost 500 people took the simplified path to that important page. 
 
 **Conversion funnel for Canada.ca Starting a business to Name search - before and after optimization**    
 
@@ -39,7 +39,9 @@ In contrast, choosing a business name had surfaced as a crucial step but there w
 ## Direct outcomes for Canadians starting a business
 
 The team prototyped new designs based on the research evidence and our flow map,and tested with more Canadians during the design process. We surfaced 'Choosing a name' as a step in Starting a business, and designed a sequence to skip directly through the layers of government sites like NUANS to the search pages. We updated the link labels using the acronym 'NUANS' to the clearer title 'Search name' and the 'order [a NUANS report] now' link was sidestepped completely, so that people could search without worrying that they had to place an order first. Once all the various pieces of the new design came together, we launched another usability testing research study with a similar set of business students. 
->Success at the 'Find out if a name is taken' task rose from 37% to 94% success in our task-based studies  
+>Success at the 'Find out if a name is taken' task rose from 37% to 94% success in our task-based usabiilty study
+
+In terms of actual outcomes, in addition to channelling many more web visitors to the name search pages, we also saw searches for the word 'NUANS' decline as people could easily find the NUANS search and the free search registry within a few clicks. We will keep evaluating and working with CRA and ISED on the Start a business tasks to make them better for entrepreneurs in Canada. 
 
 Annie Crombie from the ISED team spoke about the project at [World IA Day at Shopify in March 2017](https://medium.com/@AngelaCounter/world-ia-day-2017-shopify-365a36baa80)
 
