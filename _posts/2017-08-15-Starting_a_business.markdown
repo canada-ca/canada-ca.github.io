@@ -22,8 +22,8 @@ Conversion funnel for Canada.ca Starting a business to Name search before (Feb 4
         2. The browser doesn't support media queries  -->
    <div data-src="/images/Naming_a_business_funnel_944x487.png"></div>
  
-  <!-- <!-- Images for browsers with CSS media query support -->
-   <div data-src="small.jpg" data-media="(min-width: 0px)"></div>
+  <!-- Images for browsers with CSS media query support -->
+   <!-- <div data-src="small.jpg" data-media="(min-width: 0px)"></div>
    <div data-src="medium.jpg" data-media="(min-width: 500px)"></div>
    <div data-src="large.jpg" data-media="(min-width: 960px)"></div>
    <div data-src="extralarge.jpg" data-media="(min-width: 1200px)"></div>-->
