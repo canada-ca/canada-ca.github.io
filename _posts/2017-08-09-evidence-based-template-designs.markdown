@@ -16,7 +16,7 @@ Topic pages have a consistent layout based on a template described in the [Canad
 
 The Starting a business topic page used the standard template when the Optimization team started: 
 
-<img class="Starting a business page back in October with publications regulations and random ordered topics" src="/images/Starting_topic_Oct2016_567x522.png">
+<img class="img-responsive" alt="Starting a business page back in October with publications regulations and random ordered topics" src="/images/Starting_topic_Oct2016_567x522.png">
 
 ## Sharing the headaches of start-up entrepreneurs in Canada
 > Only 67% of the participants in our baseline usability test of the site could identify any essential legal steps to start a business.
@@ -36,7 +36,7 @@ First, we added numbers and changed the heading to say 'steps'. This helped, but
 
 The live Starting a business page matches our final working prototype very closely - [Live version of Starting a business topic page on Canada.ca](https://www.canada.ca/en/services/business/start.html)
 
-<img class="Starting a business page now with steps and no photo of leaves at the top" src="/images/Starting_template_Aug2017_599x467.png">
+<img class="img-responsive" alt="Starting a business page now with steps and no photo of leaves at the top" src="/images/Starting_template_Aug2017_599x467.png">
 
 ## Improved outcomes for Canadians starting a business
 >100% of participants in a series of two additional usability studies could identify essential legal steps to start a business, with the new simplified steps pattern. 
