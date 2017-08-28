@@ -9,8 +9,8 @@ lang: fr
 
 Image placeholders
 
-![Decisions et étapes pour le nom d'une entreprise](/images/Nom_dentreprise_decisions.jpg  "Decisions de nom d'une entreprise")
+<img class="img-responsive" alt="Decisions et étapes pour le nom d'une entreprise" src="/images/Nom_dentreprise_decisions.jpg">
 
-![Entonnoir de conversions pour choisir un nom d'entreprise Canada.ca](/images/Nom_dentreprise_entonnoir_944x487.png  "Changement de l'achalandage pour chercher un nom d'entreprise sur Canada.ca")
+<img class="Entonnoir de conversions pour choisir un nom d'entreprise Canada.ca" src="/images/Nom_dentreprise_entonnoir_944x487.png">
 
-![Annie speaking at World IA Day 2017](/images/AnnieWorldIADay_794x443.jpg "World IA Day")
+<img class="Annie speaking at World IA Day 2017" src="/images/AnnieWorldIADay_794x443.jpg">
