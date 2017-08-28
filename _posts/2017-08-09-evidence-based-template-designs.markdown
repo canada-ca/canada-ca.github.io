@@ -28,7 +28,7 @@ Clearly, starting a business is pretty complex. The essential steps mandated by 
 
 ## Conveying sequence in simplicity
 The solution was to pare down and describe only the essential tasks in a step-by-step process. We explain how we came to this understanding in a separate post:
-[title of post](https://canada-ca.github.io/category/2017/08/15/Starting_a_business.html).  
+[Helping Canadians start a business](https://canada-ca.github.io/category/2017/08/15/Starting_a_business.html).  
 
 Once we had struck a balance with a set of steps that would be simple enough to follow and broad enough to cover the key things new businesses legally are required to do, we were ready to tackle the design. We built a working prototype of the site with the new pattern design and refined it through several iterations, having people walk through it and discussing it with our teams and experts.
 
