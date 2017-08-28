@@ -15,22 +15,7 @@ The new designs went live in the Business menu on Canada.ca in March 2017. After
 
 Conversion funnel for Canada.ca Starting a business to Name search before (Feb 4 to Apr 4 2017) and after optimization (May 26 to July 24 2017)
 
-<div data-picture="data-picture" data-alt="Naming a business conversion funnel from Canada.ca showing substantial increases in people making it through the funnel between before and after" class="wet-boew-responsiveimg">
-   <!-- Default image: <div [data-src]> with no data-media
-        attribute is displayed when:
-        1. None of the other <div [data-src]> media queries match.
-        2. The browser doesn't support media queries  -->
-   <div data-src="/images/Naming_a_business_funnel_944x487.png"></div>
- 
-  <!-- Images for browsers with CSS media query support -->
-   <!-- <div data-src="small.jpg" data-media="(min-width: 0px)"></div>
-   <div data-src="medium.jpg" data-media="(min-width: 500px)"></div>
-   <div data-src="large.jpg" data-media="(min-width: 960px)"></div>
-   <div data-src="extralarge.jpg" data-media="(min-width: 1200px)"></div>-->
- 
-   <!-- Fallback content for non-JS browsers. -->
-   <noscript><img src="/images/Naming_a_business_funnel_944x487.png" alt="Nanananana"></noscript>
-</div>
+<img class="img-responsive" alt="Naming a business conversion funnel from Canada.ca showing substantial increases in people making it through the funnel between before and after" src="/images/Naming_a_business_funnel_944x487.png" >
 
 
 
