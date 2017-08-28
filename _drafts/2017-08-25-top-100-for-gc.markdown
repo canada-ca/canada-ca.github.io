@@ -9,10 +9,19 @@ published: false
 lang: en
 ---
  
-Every government institution should have a complete understanding of the tasks they support. In managing Canada.ca, we want to understand the top tasks across the entire government. To help with that, we've compiled a [top task list for the Government of Canada](). 
+Each department and agency should have a complete understanding of the tasks they support, whether that's the services Canadians apply for, the guides or statistics people read or the regulations citizens need to understand.
 
-The Government of Canada supports an incredibly wide list of tasks. Government departments and agencies have to manage all of these. Looking at Canada.ca as a whole, we need to focus on the tasks used by most people. If we understand these top tasks, we can refine content, information architecture, and functionality to make them easier to achieve. 
- 
+To manage Canada.ca, we want to understand the top tasks across the entire government. If we understand which tasks are used by the most people, we can focus on refining content and information architecture to make them easier to find and complete.
+
+That's why we've compiled a [top task list for the Government of Canada]().
+
+## What is a Canada.ca task?
+
+Citizens and other clients often have to go beyond the website when they complete their task with the Government of Canada. To renew a passport, for instance, Canadians have to send their application by post, or go to a Service Canada office. Departments and agencies need to think of their programs and services, taking into account in person service, calls, or management of government managed loans or accounts through third parties, such as banks, where Canadians can apply for a Registered Retirement Savings Plans (RRSP).
+
+Even online, there are accounts and databases where citizens and clients need to do something beyond Canada.ca. 
+
+
 ## The government-wide top task list
  
 In 2013, we began working towards a more centralized web presence for the Government of Canada. While some people know which department provides a service, most don’t know or care. It doesn't always make sense to organize services and information by the department that provides them. By focusing on tasks instead of departments, we can organize content based on what people are actually looking for. 
