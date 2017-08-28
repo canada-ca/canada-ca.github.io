@@ -15,10 +15,7 @@ The new designs went live in the Business menu on Canada.ca in March 2017. After
 
 Conversion funnel for Canada.ca Starting a business to Name search before (Feb 4 to Apr 4 2017) and after optimization (May 26 to July 24 2017)
 
-<img class="img-responsive" alt="Naming a business conversion funnel from Canada.ca showing substantial increases in people making it through the funnel between before and after" src="/images/Naming_a_business_funnel_944x487.png" >
-
-
-
+<img class="img-responsive" alt="Naming a business conversion funnel from Canada.ca showing substantial increases in people making it through the funnel between before and after" src="/images/Naming_a_business_funnel_944x487.png">
 
 ## Discovering where to start
 Unfortunately, starting a business is complex. An entrepreneur has to know where to start, and they have to understand the sequence and implications of their decisions. Building this understanding is further complicated by the different priorities of government agencies. Corporations Canada is interested in helping people who wanted to incorporate federally, the Canada Revenue Agency wants to make sure business get Business numbers, GST and corporate tax accounts, and the provinces have their own incorporation and permit processes. While the web pages delivered to those needs, the team focused on the needs of the people starting a business in Canada. 
@@ -30,7 +27,7 @@ Needs of the entrepreneurs:
 
 We mapped out the different decisions and the sequence of the government requirements when starting a business. As we explored,  we noticed that decisions around choosing a business name had to be made before taking almost any of the government registration steps. Evidence from research with Canadians also highlighted that some of the decisions and the sequences that were particular pain points for people. 
 
-![Decisions and subsequent steps to name a business](/images/Naming_a_business_decisions.JPG  "Decision points to name a business")
+<img class="img-responsive" alt="Decisions and subsequent steps to name a business" src="/images/Naming_a_business_decisions.JPG">
 
 The map helped us design a series of steps to meet the needs of the entrepreneurs.  Designing the steps sometimes involved pruning options that were displayed prominently on the existing pages. Steps had to be stand-alone and clearly differentiated from other steps. To that end, we removed the many links to guides, business plans and checklists, so that the first step was a single link to Planning a business. 
 
@@ -47,7 +44,7 @@ We're sharing what we learned - talk to one of the team members from TBS: Miguel
 
 Annie Crombie from the ISED team spoke about the project at [World IA Day at Shopify in March 2017](https://medium.com/@AngelaCounter/world-ia-day-2017-shopify-365a36baa80)
 
-![Annie speaking at World IA Day 2017](/images/AnnieWorldIADay_794x443.jpg "World IA Day")
+<img class="img-responsive" alt="Annie speaking at World IA Day 2017" src="/images/AnnieWorldIADay_794x443.jpg">
 
 Explore more about Starting a business: 
 * Use the Business menu at the top of this page to see the optimized Starting a business steps 
