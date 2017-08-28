@@ -15,7 +15,8 @@ Le site Canada.ca existe pour fournir de meilleurs services en ligne aux Canadie
 Les pages de sujets ont une mise en page uniforme fondée sur un modèle de page décrit dans les [Spécifications du contenu et de l’architecture de l’information pour Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html). Au fil du temps, certaines parties du modèle des pages de sujets ont été améliorées puisque les essais d’utilisabilité fondés sur les tâches auprès des Canadiens ont souligné des problèmes. Toutefois, dans l’ensemble, un seul modèle est disponible, avec des liens vers les tâches priorisées par demande ou volume de trafic Web.
 
 La page de sujet Lancer une entreprise utilisait le modèle normalisé au début du travail de l’équipe d’Optimisation :
-![La page de sujet Lancer une entreprise en Octobre avec les publications, régulations et sujets ordonnés par hazard](/images/Sujet_lancer_Oct2016_567x573.png "La page de sujet Lancer une entreprise en Octobre 2016")
+
+<img class="img-responsive" alt="La page de sujet Lancer une entreprise en Octobre avec les publications, régulations et sujets ordonnés par hazard" src="/images/Sujet_lancer_Oct2016_567x573.png">
 
 ## Partager les maux de tête des entrepreneurs en démarrage au Canada
 > Seuls 67 % des participants à notre essai d’utilisabilité de base du site pouvaient trouver les mesures juridiques essentielles pour lancer une entreprise.
@@ -33,7 +34,7 @@ Une fois que nous avons trouvé un équilibre avec un ensemble d’étapes qui s
 D’abord, nous avons ajouté des numéros et avons modifié l’en-tête pour indiquer « Étapes ». Cela nous a aidés, mais nous avons remarqué que les nouveaux participants étaient toujours désorientés; alors nous avons retiré les liens « Ce que nous faisons » de la page, et nous avons mis les étapes dans une seule colonne verticale. Nous avons trouvé qu’une liste d’une seule colonne était plus facile à parcourir rapidement et indiquait mieux la séquence.
 
 La page Lancer une entreprise en ligne correspond beaucoup à notre prototype fonctionnel définitif - [Version en direct de la page de sujet Lancer une entreprise dans le site Canada.ca](https://www.canada.ca/fr/services/entreprises/lancer.html)
-![La page Lancer une entreprise, maintenant avec des étapes et pas de photo](/images/Sujet_lancer_Aout2017_599x494.png  "La page de sujet Lancer une entreprise sur Canada.ca avec le patron simplifié d'étapes")
+<img class="img-responsive" alt="La page Lancer une entreprise, maintenant avec des étapes et pas de photo" src="/images/Sujet_lancer_Aout2017_599x494.png">
 
 ## Résultats améliorés pour les Canadiens qui lancent une entreprise
 > 100% des participants dans une série de deux essais supplémentaires d’utilisabilité pouvaient trouver des mesures juridiques essentielles pour lancer une entreprise, avec le nouveau patron d’étapes simplifiées.
