@@ -15,7 +15,7 @@ The new designs went live in the Business menu on Canada.ca in March 2017. After
 
 Conversion funnel for Canada.ca Starting a business to Name search before (Feb 4 to Apr 4 2017) and after optimization (May 26 to July 24 2017)
 
-<img class="img-responsive" alt="Naming a business conversion funnel from Canada.ca showing substantial increases in people making it through the funnel between before and after" src="/images/Naming_a_business_funnel_944x487.png">
+<img class="img-responsive" alt="Naming a business conversion funnel from Canada.ca showing substantial increases in people making it through the funnel between before and after" src="/images/Naming_a_business_funnel_952x495.png">
 
 ## Discovering where to start
 Unfortunately, starting a business is complex. An entrepreneur has to know where to start, and they have to understand the sequence and implications of their decisions. Building this understanding is further complicated by the different priorities of government agencies. Corporations Canada is interested in helping people who wanted to incorporate federally, the Canada Revenue Agency wants to make sure business get Business numbers, GST and corporate tax accounts, and the provinces have their own incorporation and permit processes. While the web pages delivered to those needs, the team focused on the needs of the people starting a business in Canada. 
