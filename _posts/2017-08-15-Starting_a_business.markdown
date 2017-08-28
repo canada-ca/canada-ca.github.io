@@ -15,7 +15,7 @@ The new designs went live in the Business menu on Canada.ca in March 2017. After
 
 *Before: Feb 4 to Apr 4 2017*   
 
-*After optimization: May 26 to July 24 2017
+*After: May 26 to July 24 2017*
 
 <img class="img-responsive" alt="Naming a business conversion funnel from Canada.ca showing substantial increases in people making it through the funnel between before and after" src="/images/Naming_a_business_funnel_952x495.png">
 
