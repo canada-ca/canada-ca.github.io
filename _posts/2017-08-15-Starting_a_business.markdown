@@ -39,14 +39,17 @@ In contrast, choosing a business name had surfaced as a crucial step but there w
 ## Direct outcomes for Canadians starting a business
 
 The team prototyped new designs based on the research evidence and our flow map,and tested with more Canadians during the design process. We surfaced 'Choosing a name' as a step in Starting a business, and designed a sequence to skip directly through the layers of government sites like NUANS to the search pages. We updated the link labels using the acronym 'NUANS' to the clearer title 'Search name' and the 'order [a NUANS report] now' link was sidestepped completely, so that people could search without worrying that they had to place an order first. Once all the various pieces of the new design came together, we launched another usability testing research study with a similar set of business students. 
->Success at the 'Find out if a name is taken' task rose from 37% to 94% success in our task-based studies 
-
-
-We're sharing what we learned - talk to one of the team members from TBS: Miguel Borges-Porteous, Patrick Lajeunesse, Peter Smith, Lisa Fast, Gil Coté or from Innnovation Science and Economic Development Canada:  Annie Crombie, Monica Baxter-Burkitt (other people Corporations Canada etc) and Canada Revenue Agency: Shawn Arsenault, Joey Montpellier, and Ross Kippen. 
+>Success at the 'Find out if a name is taken' task rose from 37% to 94% success in our task-based studies  
 
 Annie Crombie from the ISED team spoke about the project at [World IA Day at Shopify in March 2017](https://medium.com/@AngelaCounter/world-ia-day-2017-shopify-365a36baa80)
 
 <img class="img-responsive" alt="Annie speaking at World IA Day 2017" src="/images/AnnieWorldIADay_794x443.jpg">
+
+## Find out more
+
+We're happy to share what we've leaned. If you've got questions about this project, email us at ux.eu@tbs-sct.gc.ca 
+
+## Explore further
 
 Explore more about Starting a business: 
 * Use the Business menu at the top of this page to see the optimized Starting a business steps 
