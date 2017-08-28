@@ -15,7 +15,7 @@ The Government of Canada supports an incredibly wide list of tasks. Government d
  
 ## The government-wide top task list
  
-In 2013, we began working towards a more centralized web presence for the Government of Canada. While some people know which department provides a service, most donít know or care. It doesn't always make sense to organize services and information by the department that provides them. By focusing on tasks instead of departments, we can organize content based on what people are actually looking for. 
+In 2013, we began working towards a more centralized web presence for the Government of Canada. While some people know which department provides a service, most don‚Äôt know or care. It doesn't always make sense to organize services and information by the department that provides them. By focusing on tasks instead of departments, we can organize content based on what people are actually looking for. 
 
 This work resulted in an initial list of top tasks across the government. We used that list to help design the themes that organize Canada.ca content. The list was updated in 2015, and this most recent update continues on from those efforts. 
  
@@ -54,9 +54,9 @@ See [Search-Log Analysis: The Most Overlooked Opportunity in Web UX Research](ht
 
 ### Top requests to call centres
 
-Call centres get to talk directly to the people using government services. If we know what issues the call centre hears about, we get a good sense of whatís important to people.  
+Call centres get to talk directly to the people using government services. If we know what issues the call centre hears about, we get a good sense of what‚Äôs important to people.  
 
-Again, just because an issue comes to a call centre a lot doesnít mean itís a top task. For example, one of the most common questions Agriculture and Agri-Food Canada gets is whether dogs are allowed on the [Central Experimental Farm](http://www.agr.gc.ca/eng/about-us/offices-and-locations/central-experimental-farm/?id=1170701489551). Important information for some, but not a top task for the department. 
+Again, just because an issue comes to a call centre a lot doesn‚Äôt mean it‚Äôs a top task. For example, one of the most common questions Agriculture and Agri-Food Canada gets is whether dogs are allowed on the [Central Experimental Farm](http://www.agr.gc.ca/eng/about-us/offices-and-locations/central-experimental-farm/?id=1170701489551). Important information for some, but not a top task for the department. 
  
 ### Proportion of mobile visits
  
@@ -66,17 +66,17 @@ We have a good view of how many people are visiting Canada.ca with mobile device
  
 Once we had the data, it was just a matter of digging through to make the list. A big part of this work was identifying a core task and its supporting sub-tasks. 
 
-For example, ìGet a passportî is a popular task. There might be a lot of tasks behind that. It  could include things like ìrenew a passportî, ìsee passport photo requirementsî; even down to ìdownload the passport renewal form". If you were working on the passport content, then youíd want to keep track of all of these tasks. But for our government-wide view, ìget a passportî is enough. 
+For example, ‚ÄúGet a passport‚Äù is a popular task. There might be a lot of tasks behind that. It  could include things like ‚Äúrenew a passport‚Äù, ‚Äúsee passport photo requirements‚Äù; even down to ‚Äúdownload the passport renewal form". If you were working on the passport content, then you‚Äôd want to keep track of all of these tasks. But for our government-wide view, ‚Äúget a passport‚Äù is enough. 
  
 We wrote each task as a verb, to make clearer what people are trying to do. We could have simply used "Canadian passports", but wanted to keep the tasks as answers to the question, "why are people coming to the site?"
  
-That doesn't necessarily mean that this is how you should write link labels on your site! ìPassportsî is a perfectly good navigation label to use to bring people to the section of the site where they can do everything about passports - including getting one. 
+That doesn't necessarily mean that this is how you should write link labels on your site! ‚ÄúPassports‚Äù is a perfectly good navigation label to use to bring people to the section of the site where they can do everything about passports - including getting one. 
 
 We collected hundreds of tasks, but picked out 100 of the most visited tasks to make the current top task list. 
  
 ## Next steps
  
-We're already using the list to help us plan and prioritize upcoming task-based optimization projects. It also feeds into overall Canada.ca optimization, both at the theme level and above. We want to keep this list evergreen, constantly refining it as we learn more about what people are coming to Canada.ca to do. To that end, weíll continue to collect this data from institutions across government. 
+We're already using the list to help us plan and prioritize upcoming task-based optimization projects. It also feeds into overall Canada.ca optimization, both at the theme level and above. We want to keep this list evergreen, constantly refining it as we learn more about what people are coming to Canada.ca to do. To that end, we‚Äôll continue to collect this data from institutions across government. 
  
 We also want to help institutions collect and manage their own top tasks. Most institutions have a good idea of the content they produce, often down to the page level. But they may not always be sure that the content is actually supporting a task. The next phase of our work will be to help institutions in collecting and tracking their own tasks so they can be used to manage their content. 
 
