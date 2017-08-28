@@ -49,7 +49,7 @@ Annie Crombie from the ISED team spoke about the project at [World IA Day at Sho
 
 ## Find out more
 
-We're happy to share what we've leaned. If you've got questions about this project, email us at ux.eu@tbs-sct.gc.ca 
+We're happy to share what we've learned. If you've got questions about this project, email us at ux.eu@tbs-sct.gc.ca 
 
 ## Explore further
 
