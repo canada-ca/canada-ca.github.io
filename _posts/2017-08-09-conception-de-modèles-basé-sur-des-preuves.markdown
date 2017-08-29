@@ -4,7 +4,7 @@ title:  "Les besoins des utilisateurs entraînent des nouveaux patrons de concep
 ref: steps
 date:   2017-08-09 09:48:44 +0100
 categories: category
-lang: en
+lang: fr
 ---
 Un des aspects clés de la conception du site Canada.ca est un modèle de page uniforme pour les pages des sujets en vue d’aider les citoyens à trouver et à entamer leurs tâches. À la suite de notre projet d’optimisation de la page Lancer une entreprise mené avec Innovation, Sciences et Développement économique Canada (ISDE) et l’Agence du revenu du Canada (ARC), l’équipe de conception du produit du Secrétariat du Conseil du Trésor du Canada (SCT) a créé un patron simplifié d’étapes pour les pages de sujets en vue de mettre en place un groupe de tâches principales connexes en séquence.
 
