@@ -44,8 +44,8 @@ We were excited when we saw how comfortable the first few participants were with
 
 A few months after the updated Starting a business page launched, the web analytics (traffic) data showed these improvements:  
 - 66% fewer searches, 217 to 74, for the main steps to register a business<sup name="footnotemark1"><a href="#myfootnote1">1</a></sup>
-- 10 times more people, from 270 to 2744, now get to BizPal, a wizard to help entrepreneurs find which permits and licences they need
-- 3 times more people, from 897 to 3497, now find the grants and financing link on the start a business steps page
+- 10 times more people, 270 to 2744, now get to BizPal, a wizard to help find required permits and licences
+- 3 times more people, 897 to 3497, now find the grants and financing link on the start a business steps page
 
 Before: Feb 4 to Apr 4 2017
 After: May 26 to July 24 2017
