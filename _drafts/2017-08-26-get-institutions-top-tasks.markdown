@@ -10,6 +10,42 @@ lang: en
 
 It can be hard to keep track of all of the digital content an institution produces. Managing by tasks is a way to focus attention on what's most important - how people use that content. This article describes how Government of Canada institutions can gather their top tasks and use them to manage their content. 
 
+### Top task management
+ 
+Top task management isn't new to the Government of Canada. Some institutions had conducted exercises to determine their top tasks even before Canada.ca was started in 2013, and among them, some departments even use mature top task collection techniques such as user surveys.
+
+notes to elaborate
+*bringing departments together to collaborate on their top tasks across GC silos
+this article can give smaller, less experienced departments access to these techniques and knowledge
+bringing things together for a GC top task list
+
+Bringing these departments and agencies less experienced with top task management together, to discuss how they could build a site together for Canadians and was the first step 
+
+to the same table, to discover how those tasks fit together was one of the objectives of setting up Theme Leads for Canada.ca.
+
+there are a lot of departments and agencies in the government, many of which don't even 
+
+, some even going beyond analytics and using surveys to get a good picture of their user needs. 
+
+
+
+
+For others, we asked them to consider a variety of sources:
+
+Some institutions in the Government of Canada have been using top tasks models over the past few years to 
+
+
+
+* Departmental plans
+* Mandate letters (from the Prime Minister to cabinet ministers)
+* web analytics
+* feedback or call centre reports
+* stakeholder input
+* past research or surveys
+
+By reviewing these sources and carefully analyzing the results, institutions could identify all of the tasks they support for the public. 
+
+
 ## What we mean by a task
  
 A task is basically what someone wants to do. For example, some typical tasks might be: 
