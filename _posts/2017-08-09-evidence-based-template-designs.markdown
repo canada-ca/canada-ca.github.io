@@ -47,7 +47,7 @@ A few months after the updated Starting a business page launched, the web analyt
 - 10 times more people, 270 to 2744, now get to BizPal, a wizard to help find required permits and licences
 - 3 times more people, 897 to 3497, now find the grants and financing link on the start a business steps page
 
-Before: Feb 4 to Apr 4 2017
+Before: Feb 4 to Apr 4 2017<br>
 After: May 26 to July 24 2017
 
 These outcomes from Canadians using the Canada.ca site support the prototype testing results. The steps-based design clearly addressed a real need, and filled a gap in our template design patterns.  This design pattern is now available as an option for Canada.ca topic pages, and will soon be included in the Content and Information Architecture Specification. Services on Canada.ca can now use this to pattern to help Canadians understand and find the steps they're looking for. 
