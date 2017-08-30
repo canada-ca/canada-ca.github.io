@@ -10,7 +10,7 @@ layout: default
   <!--2 columns for EN and FR--> <div
   <!-- Stack the columns on mobile by making one full-width and the other half-width -->
   <div class="row">
-    <div class="col-xs-12 col-md-8">
+    <div class="col-md-6">
       <h2>Blog articles</h2>
       <ul class="post-list">
         {% assign posts=site.posts | where:"lang", "en" %}
@@ -22,7 +22,7 @@ layout: default
       </ul>
       <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
     </div>
-    <div class="col-xs-6 col-md-8">
+    <div class="col-md-6">
       <h2>Articles du blogue</h2>
       <ul class="post-list">
           {% assign posts=site.posts | where:"lang", "fr" %}
