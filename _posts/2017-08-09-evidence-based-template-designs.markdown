@@ -54,8 +54,6 @@ These outcomes from Canadians using the Canada.ca site support the prototype tes
 
 <aside class="wb-fnote" role="note">
 <h2 id="fn">Footnotes</h2>
-<font size="-1"><span name="myfootnote1">1</span>  <a href="#footnotemark1">^</a>  </font>
-
 <dl>
 	<dt id="fnbS-dt">Footnote 1</dt>
 	<dd aria-labelledby="fnbS-dt" tabindex="-1" id="myfootnote1">
