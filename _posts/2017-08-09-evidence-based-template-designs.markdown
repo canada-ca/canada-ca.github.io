@@ -51,9 +51,9 @@ These outcomes from Canadians using the Canada.ca site support the prototype tes
 
 
 **Footnotes**
-<font size="-1"><span name="myfootnote1">1</span>. Measured during 60 day periods<br>
-Before: Feb 4 to Apr 4 2017<br>
-After: May 26 to July 24 2017 <a href="#footnotemark1">^</a><br>
-<span name="myfootnote2">2</span>: There were 217 searches made on Canada.ca for "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French, compared to 74 after. No other related search terms were found in the top 20 for visitors who went to the start a business topic during their session, either before or after.<a href="#footnotemark2">^</a><br>
-<span name="myfootnote3">3</span>: From 270 clicks through to Bizpal in the before period, to 2744 in the after period.<a href="#footnotemark3">^</a><br>
+<font size="-1"><span name="myfootnote1">1</span>. Measured during 60 day periods<br><br>
+Before: Feb 4 to Apr 4 2017<br><br>
+After: May 26 to July 24 2017 <a href="#footnotemark1">^</a><br><br>
+<span name="myfootnote2">2</span>: There were 217 searches made on Canada.ca for "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French, compared to 74 after. No other related search terms were found in the top 20 for visitors who went to the start a business topic during their session, either before or after.<a href="#footnotemark2">^</a><br><br>
+<span name="myfootnote3">3</span>: From 270 clicks through to Bizpal in the before period, to 2744 in the after period.<a href="#footnotemark3">^</a><br><br>
 <span name="myfootnote4">4</span>: From 897 people before to 3497 people after.<a href="#footnotemark4">^</a></font>
