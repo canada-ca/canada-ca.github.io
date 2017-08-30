@@ -53,5 +53,5 @@ After: May 26 to July 24 2017
 These outcomes from Canadians using the Canada.ca site support the prototype testing results. The steps-based design clearly addressed a real need, and filled a gap in our template design patterns.  This design pattern is now available as an option for Canada.ca topic pages, and will soon be included in the Content and Information Architecture Specification. Services on Canada.ca can now use this to pattern to help Canadians understand and find the steps they're looking for. 
 
 
-**Footnote**
-<span name="myfootnote1">1</span>  <a href="#footnotemark2">^</a>  217 searches on Canada.ca for "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French, compared to 74 after.
+### Footnote
+<font size="-1"><span name="myfootnote1">1</span>  <a href="#footnotemark2">^</a>  217 searches on Canada.ca for "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French, compared to 74 after.</font>
