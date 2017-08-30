@@ -42,10 +42,10 @@ The live Starting a business page matches our final working prototype very close
 
 We were excited when we saw how comfortable the first few participants were with the steps pattern on the Starting a business topic page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process. The steps gave them confidence that they wouldn't miss something crucial, and they could come back to the topic page after completing each step.
 
-A few months after the updated Starting a business page launched, the web analytics (traffic) data showed these improvements[^3]:  
-- 66% fewer searches for the main steps to register a business (ex: 'nuans', 'registering a business' 'incorporation')[^4]
-- 10 times more people getting to BizPal, the Business Permits and Licensing wizard that customizes needed permits and licences[^5]
-- 3 times more people finding the grants and financing link on the start a business steps page[^6]
+A few months after the updated Starting a business page launched, the web analytics (traffic) data showed these improvements[^1]:  
+- 66% fewer searches for the main steps to register a business (ex: 'nuans', 'registering a business' 'incorporation')[^2]
+- 10 times more people getting to BizPal, the Business Permits and Licensing wizard that customizes needed permits and licences[^3]
+- 3 times more people finding the grants and financing link on the start a business steps page[^4]
 
 These outcomes from Canadians using the Canada.ca site support the prototype testing results. The steps-based design clearly addressed a real need, and filled a gap in our template design patterns.  This design pattern is now available as an option for Canada.ca topic pages, and will soon be included in the Content and Information Architecture Specification. Services on Canada.ca can now use this to pattern to help Canadians understand and find the steps they're looking for. 
 
