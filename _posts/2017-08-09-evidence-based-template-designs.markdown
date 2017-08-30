@@ -43,9 +43,9 @@ The live Starting a business page matches our final working prototype very close
 We were excited when we saw how comfortable the first few participants were with the steps pattern on the Starting a business topic page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process. The steps gave them confidence that they wouldn't miss something crucial, and they could come back to the topic page after completing each step.
 
 A few months after the updated Starting a business page launched, the web analytics (traffic) data showed these improvements:  
-- 66% fewer searches for the main steps to register a business<sup name="footnotemark1"><a href="#myfootnote1">1</a></sup>
-- 10 times more people, from 270 to 2744 in the before and after, now get to BizPal, a wizard to help entrepreneurs find which permits and licences they need
-- 3 times more people, from 897 to 3497 in the before and after, now find the grants and financing link on the start a business steps page
+- 66% fewer searches, 217 to 74, for the main steps to register a business<sup name="footnotemark1"><a href="#myfootnote1">1</a></sup>
+- 10 times more people, from 270 to 2744, now get to BizPal, a wizard to help entrepreneurs find which permits and licences they need
+- 3 times more people, from 897 to 3497, now find the grants and financing link on the start a business steps page
 
 Before: Feb 4 to Apr 4 2017
 After: May 26 to July 24 2017
@@ -54,4 +54,4 @@ These outcomes from Canadians using the Canada.ca site support the prototype tes
 
 
 ### Footnote
-<font size="-1"><span name="myfootnote1">1</span>  <a href="#footnotemark2">^</a>  217 searches on Canada.ca for "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French, compared to 74 after.</font>
+<font size="-1"><span name="myfootnote1">1</span>  <a href="#footnotemark2">^</a>  The analysis included searches for the top search terms related to starting a business on Canada.ca: "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French.</font>
