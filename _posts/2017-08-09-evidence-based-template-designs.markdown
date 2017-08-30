@@ -19,8 +19,7 @@ The Starting a business topic page used the standard template when the Optimizat
 <img class="img-responsive" alt="Starting a business page back in October with publications regulations and random ordered topics" src="/images/Starting_topic_Oct2016_567x522.png">
 
 ## Sharing the headaches of start-up entrepreneurs in Canada
-> Only 67% of the participants in our baseline usability test of the site could identify any essential legal steps to start a business.
-<!--- should we include actual numbers ie 8 of 12 participants --->
+> Only 67% of the 20 participants in our baseline usability test of the site could identify any essential legal steps to start a business.
 
 Although none of the participants had ever started a business before, many were students studying business. After they tried the tasks, some confided that based on the experience on the baseline site, they would probably have to hire an accountant or lawyer to start their own business someday.
 
@@ -39,15 +38,21 @@ The live Starting a business page matches our final working prototype very close
 <img class="img-responsive" alt="Starting a business page now with steps and no photo of leaves at the top" src="/images/Starting_template_Aug2017_599x467.png">
 
 ## Improved outcomes for Canadians starting a business
->100% of participants in a series of two additional usability studies could identify essential legal steps to start a business, with the new simplified steps pattern. 
-<!--- again actual numbers here because there was 30-something participants right? --->
+>100% of 34 participants in a series of two additional usability studies could find essential legal steps to start a business, with the new simplified steps pattern.
 
 We were excited when we saw how comfortable the first few participants were with the steps pattern on the Starting a business topic page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process. The steps gave them confidence that they wouldn't miss something crucial, and they could come back to the topic page after completing each step.
 
-A few months after the updated Starting a business page launched, the web analytics (traffic) data showed these improvements:  
-- 57% fewer searches for the main steps to register a business (ex: 'nuans', 'registering a business' 'incorporation')
-- 33% more people getting to BizPal, the Business Permits and Licensing wizard that customizes needed permits and licences
-- 75% more people finding the Grants and financing link on the start a business steps page
-<!--- what was the time period for these percentages and rough order of magnitude for the volume --->
+A few months after the updated Starting a business page launched, the web analytics (traffic) data showed these improvements[^3]:  
+- 66% fewer searches for the main steps to register a business (ex: 'nuans', 'registering a business' 'incorporation')[^4]
+- 10 times more people getting to BizPal, the Business Permits and Licensing wizard that customizes needed permits and licences[^5]
+- 3 times more people finding the grants and financing link on the start a business steps page[^6]
 
 These outcomes from Canadians using the Canada.ca site support the prototype testing results. The steps-based design clearly addressed a real need, and filled a gap in our template design patterns.  This design pattern is now available as an option for Canada.ca topic pages, and will soon be included in the Content and Information Architecture Specification. Services on Canada.ca can now use this to pattern to help Canadians understand and find the steps they're looking for. 
+
+Footnotes
+[^1]: Measured during 60 day periods:
+Before: Feb 4 to Apr 4 2017
+After: May 26 to July 24 2017
+[^2]: There were 217 searches made on Canada.ca for "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French, compared to 74 after. No other related search terms were found in the top 20 for visitors who went to the start a business topic during their session, either before or after.
+[^3]: From 270 clicks through to Bizpal in the before period, to 2744 in the after period.
+[^4]: From 897 people before to 3497 people after.
