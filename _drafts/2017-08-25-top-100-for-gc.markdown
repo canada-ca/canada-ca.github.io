@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting the top tasks for the Government of Canada"
+title:  "Top task management on Canada.ca"
 gradelevel: 7.7
 ref: template
 date:   2017-08-25 09:48:44 +0100
@@ -9,43 +9,72 @@ published: false
 lang: en
 ---
  
-Each department and agency should have a complete understanding of the tasks they support, whether that's the services Canadians apply for, the guides or statistics people read or the regulations citizens need to understand.
+Canada.ca brings together the services and information that people need from dozens of departments and agencies in the Government of Canada. Even departments sometimes have trouble keeping track of the different services, guides and regulations they manage, so to understand if we're delivering what citizens need is no small challenge.
 
-To manage Canada.ca, we want to understand the top tasks across the entire government. If we understand which tasks are used by the most people, we can focus on refining content and information architecture to make them easier to find and complete.
+Fortunately, we don't need to know every single possible task that people are doing to help Canadians. If we understand which tasks are used by the most people, we can focus on refining content and information architecture to make those top tasks easier to find and complete.
 
-That's why we've compiled a [top task list for the Government of Canada]().
+That's why we've compiled a [top 100 tasks list for the Government of Canada]().
 
 ## What is a Canada.ca task?
 
-Citizens and other clients often have to go beyond the website when they complete their task with the Government of Canada. To renew a passport, for instance, Canadians have to send their application by post, or go to a Service Canada office. Departments and agencies need to think of their programs and services, taking into account in person service, calls, or management of government managed loans or accounts through third parties, such as banks, where Canadians can apply for a Registered Retirement Savings Plans (RRSP).
-
-Even online, there are accounts and databases where citizens and clients need to do something beyond Canada.ca. 
 
 
-## The government-wide top task list
+<!--
+questions to answer
+what exactly are tasks? how are they different from services? what about the sub-tasks and offline tasks that are important?
+what does task management allow us to accomplish?
+how do we manage canada.ca performance by what the user is trying to do?
+-->
+
+
+
+A task is, basically, what someone wants to do. For example, some typical tasks might be: 
+
+* renew my passport
+* find out when vaccinations are needed
+* get insurance for my crops
+
+These are the kinds of tasks we want to identify and help support. Something you don't need to track is something like:
+
+* View a video
+* Download a publication
+* View frequently asked questions
+
+These aren't things that people are looking to do, but might be something that they do to support a task. 
+
+"Tasks" could just as easily be called "goals" - the term isn't important. The important thing is that it be a realistic depiction of what people are actually trying to do, and written at a level that's useful in managing content. 
+
+The nice thing about tasks is that it forces you to think in terms of what the visitor wants to get done. It shifts the focus from the organization (who might want to publish something), to the visitor (who needs to learn something, access a service, or apply for something). 
+
+That doesn't guarantee success but it puts you in the right position to manage content in a way that focuses on the people who use it. 
  
-In 2013, we began working towards a more centralized web presence for the Government of Canada. While some people know which department provides a service, most don’t know or care. It doesn't always make sense to organize services and information by the department that provides them. By focusing on tasks instead of departments, we can organize content based on what people are actually looking for. 
+* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
+* [How to conduct a top task analysis](https://measuringu.com/top-tasks/)
 
-This work resulted in an initial list of top tasks across the government. We used that list to help design the themes that organize Canada.ca content. The list was updated in 2015, and this most recent update continues on from those efforts. 
- 
-For this round, we began by collecting top tasks from theme lead institutions. (These are the government departments or agencies that were assigned to manage one or more Canada.ca themes.) Then we extended the request to other institutions who had tasks on the previous lists. 
+
+
+
+
+Government services can be hard to define. 
+
+
+
+Canadians often have to go beyond the website when they complete their tasks with government, such as going to a Service Canada office or sending an application by mail to renew a passport. 
+
+Some services aren't even associated with government by many Canadians. The Registered Retirement Savings Plans (RRSP), for instance is almost entirely managed by banks where citizens can apply for them, but is provided under a government policy.
+
+Even online, authenticated accounts or 
+
+there are accounts and databases where citizens and clients need to do something beyond Canada.ca. 
+
+
+
  
 ## What we collected
 
 The core information we collected included:
 
-### The institution's top tasks
- 
-Some institutions had already conducted exercises to determine their top tasks. For others, we asked them to consider a variety of sources:
 
-* Departmental plans
-* Mandate letters (from the Prime Minister to cabinet ministers)
-* web analytics
-* feedback or call centre reports
-* stakeholder input
-* past research or surveys
-
-By reviewing these sources and carefully analyzing the results, institutions could identify all of the tasks they support for the public. 
  
 ### Where people "start" the task
  
