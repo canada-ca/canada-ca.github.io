@@ -19,15 +19,15 @@ La page de sujet Lancer une entreprise utilisait le modèle normalisé au début
 <img class="img-responsive" alt="La page de sujet Lancer une entreprise en Octobre avec les publications, régulations et sujets ordonnés par hazard" src="/images/Sujet_lancer_Oct2016_567x573.png">
 
 ## Partager les maux de tête des entrepreneurs en démarrage au Canada
-> Seuls 67 % des participants à notre essai d’utilisabilité de base du site pouvaient trouver les mesures juridiques essentielles pour lancer une entreprise.
-<!--- should we include actual numbers ie 8 of 12 participants --->
+> Seuls 67 % des 20 participants à notre essai d’utilisabilité de base du site pouvaient trouver les mesures juridiques essentielles pour lancer une entreprise.
 
 Même si aucun des participants n’a déjà lancé d’entreprise auparavant, beaucoup étaient des étudiants en administration des affaires. Après avoir essayé les tâches, certains ont confié que selon l’expérience sur le site de base, ils devraient probablement embaucher un comptable ou un avocat pour lancer leur propre entreprise un jour.
+
 De toute évidence, le lancement d’une entreprise est assez complexe. Pour trop de nos participants, les étapes essentielles n’étaient pas claires. Comment pourrions-nous réduire la portée, et indiquer la séquence des étapes?
 
 ## Indiquer la séquence en toute simplicité
 La solution consistait d’effectuer des réductions et à décrire uniquement les tâches essentielles dans un processus étape par étape. Nous expliquons comment nous avons compris cela, dans un article distinct :
-[titre de l'article](https://canada-ca.github.io/category/2017/08/15/Demarrer_une_entreprise.html).  
+[Aider les Canadiens a démarrer leurs entreprises](https://canada-ca.github.io/category/2017/08/15/Demarrer_une_entreprise.html).  
 
 Une fois que nous avons trouvé un équilibre avec un ensemble d’étapes qui serait assez simple à suivre et assez vaste pour couvrir les choses essentielles que les nouvelles entreprises doivent juridiquement effectuer, nous étions prêts à aborder la conception. Nous avons élaboré un prototype fonctionnel du site avec la nouvelle conception du patron et l’avons amélioré au moyen de plusieurs itérations, en demandant à des personnes de l’explorer et en discutant avec nos équipes et nos experts.
 
@@ -37,15 +37,34 @@ La page Lancer une entreprise en ligne correspond beaucoup à notre prototype fo
 <img class="img-responsive" alt="La page Lancer une entreprise, maintenant avec des étapes et pas de photo" src="/images/Sujet_lancer_Aout2017_599x494.png">
 
 ## Résultats améliorés pour les Canadiens qui lancent une entreprise
-> 100% des participants dans une série de deux essais supplémentaires d’utilisabilité pouvaient trouver des mesures juridiques essentielles pour lancer une entreprise, avec le nouveau patron d’étapes simplifiées.
-<!--- again actual numbers here because there was 30-something participants right? --->
+> 100% des 34 participants dans une série de deux essais supplémentaires d’utilisabilité pouvaient trouver des mesures juridiques essentielles pour lancer une entreprise, avec le nouveau patron d’étapes simplifiées.
 
 Nous étions heureux de voir à quel point les quelques premiers participants étaient à l’aise avec le patron sur la page de sujet Lancer une entreprise. Ils n’étaient pas obligés de passer du temps à lire des liens et des descriptions; ils parcourraient plutôt la page pour voir le lien numéroté qui était à l’étape où ils se trouvaient dans le processus. Les étapes leur ont donné l’assurance qu’ils ne sautaient rien d’essentiel, et qu’ils pourraient retourner à la page de sujet après avoir rempli chaque étape.
 
-Quelques mois après le lancement de la page Lancer une entreprise, les données d’analyses Web (trafic) ont montré ces améliorations :
-- réduction de 57 % *(footnote: n out of n)* des recherches des étapes principales pour enregistrer une entreprise (exemple : « nuans », « enregistrer une entreprise », « incorporation »)
-- augmentation de 33 % du nombre des personnes qui se rendent à PerLE, l’assistant Permis et licences d’entreprises qui personnalise les permis et les licences nécessaires
-- augmentation de 75 % du nombre des personnes qui trouvent le lien Subventions et financement à la page des étapes pour lancer une entreprise
-<!--- time period --->
+Les données d’analyses Web avant (le 4 fevrier au 4 avril, 2017) et après (le 26 mai au 24 juillet, 2017) le lancement de la page Lancer une entreprise, ont montré ces améliorations :
+- réduction de 57 % des recherches des étapes principales pour enregistrer une entreprise <sup id="footnotemark1"><a class="fn-lnk" href="#myfootnote1"><span class="wb-invisible">allez à la note</span>1</a></sup>
+- 10 fois plus de personnes qui se rendent à PerLE, un assistant pour trouver des permis et licences requis<sup id="footnotemark2"><a class="fn-lnk" href="#myfootnote2"><span class="wb-invisible">allez à la note</span>2</a></sup>
+- 3 fois plus de personnes qui trouvent le lien pour soutien et financement à la page des étapes pour lancer une entreprise<sup id="footnotemark3"><a class="fn-lnk" href="#myfootnote3"><span class="wb-invisible">allez à la note</span>3</a></sup>
 
 Ces résultats provenant des Canadiens qui utilisent le site Canada.ca appuient les résultats des essais du prototype. La conception basé sur le patron d’étapes a clairement répondu à un besoin réel, et a comblé une lacune dans nos patrons pour les conceptions de modèle. Le patron d’étapes est maintenant disponible comme une option pour les pages de sujets du site Canada.ca, et sera inclus dans les Spécifications du contenu et de l’architecture de l’information. Les services dans le site Canada.ca peuvent maintenant utiliser ce modèle pour aider les Canadiens à comprendre et à trouver les étapes qu’ils recherchent.
+
+<aside class="wb-fnote" role="note">
+<h2 id="fn">Notes de bas de page</h2>
+<dl>
+	<dt id="fnbS-dt">Note de bas de page 1</dt>
+	<dd aria-labelledby="fnbS-dt" tabindex="-1" id="myfootnote1">
+		<p>217 recherches avant et 74 recherche après pour les mots de recherche principales Canada.ca pour démarrer une entreprise: "incorporer" (et variantes), "demarrage d'entreprise" (et variantes), "status constitutifs", "société par action" et "startup" en francais et "starting a business", "business registration", "nuans", "incorporation", "register a business" et "registration" en anglais.</p>
+		<p class="fn-rtn"><a href="#footnotemark1"><span class="wb-inv">Return to footnote</span> 1<span class="wb-inv"> referrer</span></a></p>
+	</dd>
+	<dt id="fnbS-dt">Note de bas de page 2</dt>
+	<dd aria-labelledby="fnbS-dt" tabindex="-1" id="myfootnote2">
+		<p>270 clicks pour PerLE avant et 2744 après.</p>
+		<p class="fn-rtn"><a href="#footnotemark2"><span class="wb-inv">Return to footnote</span> 2<span class="wb-inv"> referrer</span></a></p>
+	</dd>
+	<dt id="fnbS-dt">Note de bas de page 3</dt>
+	<dd aria-labelledby="fnbS-dt" tabindex="-1" id="myfootnote3">
+		<p>897 clicks sur le liens de la page de soutien et financement avant et 3497 après.</p>
+		<p class="fn-rtn"><a href="#footnotemark3"><span class="wb-inv">Return to footnote</span> 3<span class="wb-inv"> referrer</span></a></p>
+	</dd>
+</dl>
+</aside>
