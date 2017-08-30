@@ -43,7 +43,7 @@ The live Starting a business page matches our final working prototype very close
 We were excited when we saw how comfortable the first few participants were with the steps pattern on the Starting a business topic page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process. The steps gave them confidence that they wouldn't miss something crucial, and they could come back to the topic page after completing each step.
 
 A few months after the updated Starting a business page launched, the web analytics (traffic) data showed these improvements:  
-- 66% fewer searches, 217 to 74, for the main steps to register a business<sup name="footnotemark1"><a href="#myfootnote1">1</a></sup>
+- 66% fewer searches, 217 to 74, for the main steps to register a business <sup id="footnotemark1"><a class="fn-lnk" href="#myfootnote1"><span class="wb-invisible">Link to footnote </span>1</a></sup>
 - 10 times more people, 270 to 2744, now get to BizPal, a wizard to help find required permits and licences
 - 3 times more people, 897 to 3497, now find the grants and financing link on the start a business steps page
 
@@ -52,6 +52,18 @@ After: May 26 to July 24 2017
 
 These outcomes from Canadians using the Canada.ca site support the prototype testing results. The steps-based design clearly addressed a real need, and filled a gap in our template design patterns.  This design pattern is now available as an option for Canada.ca topic pages, and will soon be included in the Content and Information Architecture Specification. Services on Canada.ca can now use this to pattern to help Canadians understand and find the steps they're looking for. 
 
+<aside class="wb-fnote" role="note">
+<h2 id="fn">Footnotes</h2>
+<font size="-1"><span name="myfootnote1">1</span>  <a href="#footnotemark1">^</a>  </font>
 
-### Footnote
-<font size="-1"><span name="myfootnote1">1</span>  <a href="#footnotemark2">^</a>  The analysis included searches for the top search terms related to starting a business on Canada.ca: "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French.</font>
+<dl>
+	<dt id="fnbS-dt">Footnote 1</dt>
+	<dd aria-labelledby="fnbS-dt" tabindex="-1" id="myfootnote1">
+		<p>The analysis included searches for the top search terms related to starting a business on Canada.ca: "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French.</p>
+		<p class="fn-rtn"><a href="#footnotemark1"><span class="wb-inv">Return to footnote</span> 1<span class="wb-inv"> referrer</span></a></p>
+	</dd>
+</dl>
+</aside>
+
+
+
