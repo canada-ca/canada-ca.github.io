@@ -42,7 +42,7 @@ The live Starting a business page matches our final working prototype very close
 
 We were excited when we saw how comfortable the first few participants were with the steps pattern on the Starting a business topic page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process. The steps gave them confidence that they wouldn't miss something crucial, and they could come back to the topic page after completing each step.
 
-A few months after the updated Starting a business page launched, the web analytics (traffic) data showed these improvements[^1]:  
+A few months after the updated Starting a business page launched, the web analytics (traffic) data showed these improvements<sup name="footnotemark1"><a href="#myfootnote1">1</a></sup>:  
 - 66% fewer searches for the main steps to register a business (ex: 'nuans', 'registering a business' 'incorporation')[^2]
 - 10 times more people getting to BizPal, the Business Permits and Licensing wizard that customizes needed permits and licences[^3]
 - 3 times more people finding the grants and financing link on the start a business steps page[^4]
@@ -50,9 +50,9 @@ A few months after the updated Starting a business page launched, the web analyt
 These outcomes from Canadians using the Canada.ca site support the prototype testing results. The steps-based design clearly addressed a real need, and filled a gap in our template design patterns.  This design pattern is now available as an option for Canada.ca topic pages, and will soon be included in the Content and Information Architecture Specification. Services on Canada.ca can now use this to pattern to help Canadians understand and find the steps they're looking for. 
 
 Footnotes
-[^1]: Measured during 60 day periods:
+<span name="myfootnote1">1</span>. Measured during 60 day periods
 Before: Feb 4 to Apr 4 2017
-After: May 26 to July 24 2017
+After: May 26 to July 24 2017 <a href="#footnotemark1">^</a>
 [^2]: There were 217 searches made on Canada.ca for "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French, compared to 74 after. No other related search terms were found in the top 20 for visitors who went to the start a business topic during their session, either before or after.
 [^3]: From 270 clicks through to Bizpal in the before period, to 2744 in the after period.
 [^4]: From 897 people before to 3497 people after.
