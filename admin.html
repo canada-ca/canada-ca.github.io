@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading"></h1>
+  <p>Don't forget to bookmark this page! Starting on this page will let us remove the session from analytics, so that we know who's actually coming to the site</p>
+
+  <!--2 columns for EN and FR--> <div
+  <!-- Stack the columns on mobile by making one full-width and the other half-width -->
+  <div class="row">
+    <div class="col-xs-12 col-md-8">
+      <h2>Blog articles</h2>
+      <ul class="post-list">
+        {% assign posts=site.posts | where:"lang", "en" %}
+        {% for post in posts %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    </div>
+    <div class="col-xs-6 col-md-4">
+      <h2>Articles du blogue</h2>
+      <ul class="post-list">
+          {% assign posts=site.posts | where:"lang", "fr" %}
+          {% for post in posts %}
+            <li>
+              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+        <p class="rss-subscribe">suivre le <a href="{{ "/flux.xml" | prepend: site.baseurl }}">flux RSS</a></p>
+    </div>
+  </div>
+  
+  <!--embed analytics dashboard?-->
+  
+  <div class="row">
+    <div class="col-xs-6 col-sm-4" box-shadow: 10px 10px 5px #888888;>
+      <div class="well">
+        chum goes here
+      </div>
+    </div>
+    <div class="col-xs-6 col-sm-4" box-shadow: 10px 10px 5px #888888;>
+      <div class="well">
+        chum goes here
+      </div>
+    </div>
+  </div>
+  
+  
+
+
+</div>
