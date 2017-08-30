@@ -54,4 +54,4 @@ These outcomes from Canadians using the Canada.ca site support the prototype tes
 
 
 **Footnote**
-<font size="-1"><span name="myfootnote1">1</span> <a href="#footnotemark2">^</a>There were 217 searches made on Canada.ca for "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French, compared to 74 after. No other related search terms were found in the top 20 for visitors who went to the start a business topic during their session, either before or after.</font>
+<span name="myfootnote1">1</span>  <a href="#footnotemark2">^</a>  217 searches on Canada.ca for "starting a business", "business registration", "nuans", "incorporation", "register a business" and "registration" in English and incorporer (with variants), demarrage d'entreprise (with variants), status constitutifs, société par action and startup in French, compared to 74 after.
