@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting your institution's top task list"
+title:  "How to identify top tasks"
 ref: template
 date:   2017-08-28 09:48:44 +0100
 categories: category
@@ -8,43 +8,7 @@ published: false
 lang: en
 ---
 
-It can be hard to keep track of all of the digital content an institution produces. Managing by tasks is a way to focus attention on what's most important - how people use that content. This article describes how Government of Canada institutions can gather their top tasks and use them to manage their content. 
-
-### Top task management
- 
-Top task management isn't new to the Government of Canada. Some institutions had conducted exercises to determine their top tasks even before Canada.ca was started in 2013, and among them, some departments even use mature top task collection techniques such as user surveys.
-
-notes to elaborate
-*bringing departments together to collaborate on their top tasks across GC silos
-this article can give smaller, less experienced departments access to these techniques and knowledge
-bringing things together for a GC top task list
-
-Bringing these departments and agencies less experienced with top task management together, to discuss how they could build a site together for Canadians and was the first step 
-
-to the same table, to discover how those tasks fit together was one of the objectives of setting up Theme Leads for Canada.ca.
-
-there are a lot of departments and agencies in the government, many of which don't even 
-
-, some even going beyond analytics and using surveys to get a good picture of their user needs. 
-
-
-
-
-For others, we asked them to consider a variety of sources:
-
-Some institutions in the Government of Canada have been using top tasks models over the past few years to 
-
-
-
-* Departmental plans
-* Mandate letters (from the Prime Minister to cabinet ministers)
-* web analytics
-* feedback or call centre reports
-* stakeholder input
-* past research or surveys
-
-By reviewing these sources and carefully analyzing the results, institutions could identify all of the tasks they support for the public. 
-
+It can be hard to keep track of all of the digital content an institution produces. Managing by tasks is a way to focus attention on what's most important - how people use that content. This article describes, particularly for government of canada institutions, the methods to gather top tasks in a way that's comparable with the canada.ca top 100 tasks.
 
 ## What we mean by a task
  
@@ -71,10 +35,32 @@ That doesn't guarantee success of course. But it puts you in the right position 
 * [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
 * [How to conduct a top task analysis](https://measuringu.com/top-tasks/)
 
+## How to identify tasks
+
+There are various sources that departments and agencies can use to identify top tasks:
+
+* Departmental plans
+* Mandate letters (from the Prime Minister to cabinet ministers)
+* web analytics
+* feedback or call centre reports
+* stakeholder input
+* past research or surveys
+
+By reviewing these sources and carefully analyzing the results, institutions can identify all of the tasks they support for the public. 
+
 ## What level task should you record
 
-You want to record the task at the level where it's the most useful to you in managing content. That can vary depending on what you're doing. For example, at a broad policy design level, knowing the underlying goals people have would be useful. "Save money for college", "get a better job". But on the level of managing content on a website, those might be too high. Similarly, "Download form X343-B" is too low a level to be useful. Ideally you'd identify tasks at the level the visitor has in mind when they come to the site. 
+As task is, basically, what someone wants to do on the website.
 
+As you start asking what Canadians are doing, however, you'll notice that the task could be "find what I need to travel abroad", including passports, registering with the government abroad, checking health advisories and finding out what they can bring on a plane. It could as likely be "Apply for a passport". Or even "find out about the passport application fees", "download form PPTC 153" or "renew a passport".
+
+It's clear that there depending on how broadly you're defining a task, it could include various subtasks and subtasks to those subtasks. All of these levels can be useful depending on what you're doing.
+
+At a broad policy design level or when determining high level labels in your information architecture, knowing the high level goals people have would be useful. But on the level of ranking tasks, a lower level will better represent the specific content you have published.
+
+On the other hand, "Download form PPTC 153" is so specific that it might not even be an essential task, visitors deciding to fill out an online form or get a different form to renew their passport and succeeding all the same.
+
+Ideally you phrase tasks as are most likely the visitor would describe them when reflecting afterwards about what he completed something. In this case, "I applied for a passport today" is a more likely level of task than "I found out what I needed to travel abroad", which would have been branched into secondary tasks as he learned more about what he need to do or "I downloaded form PPTC 153", which is just one step in what he needed to do to complete his task.
 
 ## Where organizations can get their tasks
 
@@ -151,4 +137,10 @@ continues...
 ## What your list might look like
 
 ## Using the list to manage content
+
+
+
+
+
+
 
