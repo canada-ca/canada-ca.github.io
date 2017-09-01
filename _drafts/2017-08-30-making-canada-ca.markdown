@@ -31,6 +31,25 @@ After negotiation with departmental and political stakeholders, we had 15 theme 
 
 <img class="img-responsive" alt="Themes on canada.ca" src="/images/themes_1000x457.jpg">
 
+## Testing the building blocks
+
+Coming up with the themes was only the first step, both for the taxonomy and the navigation on Canada.ca.
+
+*It's somewhat awkward that we can't talk about the search design, considering they still have a filter box on the results page by document type......... If we did do something about it, we could put this section beneath the next one on search and nav, which would flow better.*
+
+The first task after themes were decided was to create the rest of the navigation tree. Each topic would be a keyword for citizens to find the next step towards their task but would also have to reflect the various perspectives and services government had on that topic.
+
+Designs were made to help guide Canadians through their journey, while also giving them the chance to offramp to most requested tasks and explore more about government policy or opportunities to provide feedback.
+
+*Insert graphic on sections of the topic page - perhaps similar to the IP one Manu made? Maybe use a mobile view?*
+
+Then, we invited Canadians to try finding the top tasks in these new designs. 
+
+*Testing results from various rounds, iterative decisions made?*
+
+
+
+
 ## Search and navigation
 
 Theme navigation is not the only bridge across departments.
@@ -48,25 +67,6 @@ In 2013 *not actually sure of the timelines here*, a Government of Canada wide s
 Of course, the real challenge for search is only beginning. We're now working with themes and departments to make sure that top search phrases give relevant results, written clearly so they can be differentiated from similar results. We're also trying to improve the search results to be contextual to where they searched from and developing new pages for search terms common to many tasks and institutions. 
 
 To learn more about how we have been helping Canadians find the right contact when they search for contact information, see [Developing the contact us approach on Canada.ca]().
-
-## Testing the building blocks
-
-Coming up with the themes was only the first step though.
-
-We needed to show them on a page in a way that could represent the Canadian Government, build pages where people could find
-
-brought together usability experts and web designers and 
-
-
-We came up with a common approach to laying out our navigation. Many governments have been trying out different patterns, 
-
-
-Testing showed that Canadians used the doormats and the most requested services
-
-
-Testing and refinements continue. Mobile view 
-
-
 
 ## Optimizing tasks
 
