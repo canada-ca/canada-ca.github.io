@@ -9,10 +9,10 @@ published: false
 lang: en
 ---
 
-<!--Objectives: Demonstrate the shift to user centric web management in the GC, specifically 
+*Objectives: Demonstrate the shift to user centric web management in the GC, specifically 
 a) setting up theme lead departments that are accountable for citizen outcomes (findability)
 b) how themes and user testing have broken down silos
-c) building expertise in the GC with user research and UCD-->
+c) building expertise in the GC with user research and UCD*
 
 
 In 2012, 13 departments were invited to represent the user centric themes on Canada.ca.
