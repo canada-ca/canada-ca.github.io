@@ -19,7 +19,8 @@ La page de sujet Lancer une entreprise utilisait le modèle normalisé au début
 <img class="img-responsive" alt="La page de sujet Lancer une entreprise en Octobre avec les publications, régulations et sujets ordonnés par hazard" src="/images/Sujet_lancer_Oct2016_567x573.png">
 
 ## Partager les maux de tête des entrepreneurs en démarrage au Canada
-> Seuls 67 % des 20 participants à notre essai d’utilisabilité de base du site pouvaient trouver les mesures juridiques essentielles pour lancer une entreprise.
+
+<div class="well panel">Seuls 67 % des 20 participants à notre essai d’utilisabilité de base du site pouvaient trouver les mesures juridiques essentielles pour lancer une entreprise.</div>
 
 Même si aucun des participants n’a déjà lancé d’entreprise auparavant, beaucoup étaient des étudiants en administration des affaires. Après avoir essayé les tâches, certains ont confié que selon l’expérience sur le site de base, ils devraient probablement embaucher un comptable ou un avocat pour lancer leur propre entreprise un jour.
 
@@ -37,7 +38,8 @@ La page Lancer une entreprise en ligne correspond beaucoup à notre prototype fo
 <img class="img-responsive" alt="La page Lancer une entreprise, maintenant avec des étapes et pas de photo" src="/images/Sujet_lancer_Aout2017_599x494.png">
 
 ## Résultats améliorés pour les Canadiens qui lancent une entreprise
-> 100% des 34 participants dans une série de deux essais supplémentaires d’utilisabilité pouvaient trouver des mesures juridiques essentielles pour lancer une entreprise, avec le nouveau patron d’étapes simplifiées.
+
+<div class="well panel">100% des 34 participants dans une série de deux essais supplémentaires d’utilisabilité pouvaient trouver des mesures juridiques essentielles pour lancer une entreprise, avec le nouveau patron d’étapes simplifiées.</div>
 
 Nous étions heureux de voir à quel point les quelques premiers participants étaient à l’aise avec le patron sur la page de sujet Lancer une entreprise. Ils n’étaient pas obligés de passer du temps à lire des liens et des descriptions; ils parcourraient plutôt la page pour voir le lien numéroté qui était à l’étape où ils se trouvaient dans le processus. Les étapes leur ont donné l’assurance qu’ils ne sautaient rien d’essentiel, et qu’ils pourraient retourner à la page de sujet après avoir rempli chaque étape.
 
