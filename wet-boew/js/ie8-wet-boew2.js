@@ -1,7 +1,7 @@
 /*!
  * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
  * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
- * v4.0.25 - 2017-05-17
+ * v4.0.26 - 2017-08-15
  *
  *//**
  * @title WET-BOEW JQuery Helper Methods
@@ -3742,6 +3742,11 @@ var componentName = "wb-data-ajax",
 		if ( !url ) {
 			dtAttr = wb.getData( $( elm ), shortName );
 
+			// Abort the init when called on an invalid element (related to #8058)
+			if ( !dtAttr ) {
+				return {};
+			}
+
 			url = getURL( dtAttr.url, dtAttr.httpref );
 			if ( !url ) {
 				return {};
@@ -4357,7 +4362,10 @@ var componentName = "wb-eqht",
 
 		for ( i = $elms.length - 1; i !== -1; i -= 1 ) {
 			$elm = $elms.eq( i );
-			$children = $elm.children();
+			$children = $elm.find( ".eqht-trgt" );
+			if ( !$children.length ) {
+				$children = $elm.children();
+			}
 
 			// Reinitialize the row at the beginning of each section of equal height
 			row = [];
@@ -5210,6 +5218,171 @@ wb.add( selector );
 
 } )( jQuery, window, wb );
 
+( function( $, window, wb ) {
+"use strict";
+
+var componentName = "wb-filter",
+	selector = "." + componentName,
+	initEvent = "wb-init" + selector,
+	$document = wb.doc,
+	filterClass = "wb-fltr-out",
+	notFilterClassSel = ":not(." + filterClass + ")",
+	inputClass = "wb-fltr-inpt",
+	dtNameFltrArea = "wbfltrid",
+	visibleSelector = ":visible",
+	selectorInput = "." + inputClass,
+	defaults = {
+		std: {
+			selector: "li"
+		},
+		grp: {
+			selector: "li",
+			section: ">section"
+		},
+		tbl: {
+			selector: "tr",
+			section: ">tbody"
+		},
+		tblgrp: {
+			selector: "th:not([scope])",
+			hdnparentuntil: "tbody",
+			section: ">tbody"
+		}
+	},
+	i18n, i18nText,
+	infoText,
+	wait,
+
+	init = function( event ) {
+		var elm = wb.init( event, componentName, selector ),
+			$elm, elmTagName, filterUI, prependUI,
+			settings, setDefault,
+			inptId, totalEntries;
+		if ( elm ) {
+			$elm = $( elm );
+
+			elmTagName = elm.nodeName;
+			if ( [ "DIV", "SECTION", "ARTICLE" ].indexOf( elm.nodeName ) >= 0 ) {
+				setDefault = defaults.grp;
+				prependUI = true;
+			} else if ( elmTagName === "TABLE" ) {
+				if ( $elm.find( "tbody" ).length > 1 ) {
+					setDefault = defaults.tblgrp;
+				} else {
+					setDefault = defaults.tbl;
+				}
+			} else {
+				setDefault = defaults.std;
+			}
+
+			settings = $.extend( true, {}, setDefault, window[ componentName ], wb.getData( $elm, componentName ) );
+			$elm.data( settings );
+
+			if ( !i18nText ) {
+				i18n = wb.i18n;
+				i18nText = {
+					filter_label: i18n( "fltr-lbl" ),
+					fltr_info: i18n( "fltr-info" )
+				};
+
+				infoText = i18nText.fltr_info;
+			}
+
+			Modernizr.addTest( "stringnormalize", "normalize" in String );
+			Modernizr.load( {
+				test: Modernizr.stringnormalize,
+				nope: [
+					"site!deps/unorm" + wb.getMode() + ".js"
+				]
+			} );
+
+			if ( !elm.id ) {
+				elm.id = wb.getId();
+			}
+			inptId = elm.id + "-inpt";
+
+			totalEntries = $elm.find( ( settings.section || "" ) + " " + settings.selector ).length;
+
+			filterUI = "<div class=\"input-group\"><label for=\"" + inptId + "\" class=\"input-group-addon\"><span class=\"glyphicon glyphicon-filter\" aria-hidden=\"true\"></span> " + i18nText.filter_label + "</label><input id=\"" + inptId + "\" class=\"form-control " + inputClass + "\" data-" + dtNameFltrArea + "=\"" + elm.id + "\" type=\"search\"></div>" + "<p aria-live=\"polite\" id=\"" + elm.id + "-info\">" + infoFormater( totalEntries, totalEntries ) + "</p>";
+
+			if ( prependUI ) {
+				$elm.prepend( filterUI );
+			} else {
+				$elm.before( filterUI );
+			}
+
+			wb.ready( $elm, componentName );
+		}
+	},
+	infoFormater = function( nbItem, total ) {
+		return infoText.
+			replace( /_NBITEM_/g, nbItem ).
+			replace( /_TOTAL_/g, total );
+	},
+	filter = function( $field, $elm, settings ) {
+		var unAccent = function( str ) {
+				return str.normalize( "NFD" ).replace( /[\u0300-\u036f]/g, "" );
+			},
+			filter = unAccent( $field.val() ),
+			fCallBack = settings.filterCallback,
+			secSelector = ( settings.section || "" )  + " ",
+			hndParentSelector = settings.hdnparentuntil,
+			$items = $elm.find( secSelector + settings.selector ),
+			itemsLength = $items.length,
+			i, $item, text;
+
+		$elm.find( "." + filterClass ).removeClass( filterClass );
+
+		for ( i = 0; i < itemsLength; i += 1 ) {
+			$item = $items.eq( i );
+			text = unAccent( $item.text() );
+
+			if ( !text.match( new RegExp( filter, "i" ) ) ) {
+				if ( hndParentSelector ) {
+					$item = $item.parentsUntil( hndParentSelector );
+				}
+				$item.addClass( filterClass );
+			}
+		}
+
+		if ( !fCallBack || typeof fCallBack !== "function"  ) {
+			fCallBack = filterCallback;
+		}
+		fCallBack.apply( this, arguments );
+
+		$( "#" + $elm.get( 0 ).id + "-info" ).html( infoFormater( $elm.find( secSelector + notFilterClassSel + settings.selector + visibleSelector ).length, itemsLength ) );
+	},
+	filterCallback = function( $field, $elm, settings ) {
+		var $sections =	$elm.find( settings.section + visibleSelector ),
+			sectionsLength = $sections.length,
+			fndSelector = notFilterClassSel + settings.selector + visibleSelector,
+			s, $section;
+
+		for ( s = 0; s < sectionsLength; s += 1 ) {
+			$section = $sections.eq( s );
+			if ( $section.find( fndSelector ).length === 0 ) {
+				$section.addClass( filterClass );
+			}
+		}
+	};
+
+$document.on( "keyup", selectorInput, function( event ) {
+	var target = event.target,
+		$input = $( target ),
+		$elm = $( "#" + $input.data( dtNameFltrArea ) );
+
+	if ( wait ) {
+		clearTimeout( wait );
+	}
+	wait = setTimeout( filter.bind( this, $input, $elm, $elm.data() ), 250 );
+
+} );
+
+$document.on( "timerpoke.wb " + initEvent, selector, init );
+
+wb.add( selector );
+} )( jQuery, window, wb );
+
 /**
  * @title WET-BOEW Footnotes
  * @overview Provides a consistent, accessible way of handling footnotes across websites.
@@ -5845,6 +6018,7 @@ var componentName = "wb-lbx",
 		if ( !i18nText ) {
 			i18n = wb.i18n;
 			i18nText = {
+				fClose: i18n( "close" ),
 				tClose: i18n( "overlay-close" ) + i18n( "space" ) + i18n( "esc-key" ),
 				tLoading: i18n( "load" ),
 				gallery: {
@@ -5867,9 +6041,12 @@ var componentName = "wb-lbx",
 					var $item = this.currItem,
 						$content = this.contentContainer,
 						$wrap = this.wrap,
+						$modal = $wrap.find( ".modal-dialog" ),
 						$buttons = $wrap.find( ".mfp-close, .mfp-arrow" ),
 						len = $buttons.length,
 						i, button;
+
+					createCloseButton( $modal );
 
 					$document.find( "body" ).addClass( "wb-modal" );
 					$document.find( modalHideSelector ).attr( "aria-hidden", "true" );
@@ -5957,6 +6134,7 @@ var componentName = "wb-lbx",
 					} else {
 						$response = $( mfpResponse.data );
 					}
+					createCloseButton( $response );
 
 					$response
 						.find( ".modal-title, h1" )
@@ -5979,6 +6157,37 @@ var componentName = "wb-lbx",
 				$document.trigger( dependenciesLoadedEvent );
 			}
 		} );
+	},
+	createCloseButton = function( $modal ) {
+		if ( $modal !== null && $modal.hasClass( "modal-dialog" ) ) {
+			var footer = $modal.find( ".modal-footer" ).first(),
+				hasFooter = footer.length,
+				hasButton = hasFooter && $( footer ).find( ".popup-modal-dismiss" ).length !== 0,
+				closeClassFtr = "popup-modal-dismiss",
+				closeTextFtr = i18nText.fClose,
+				spanTextFtr, overlayCloseFtr;
+
+			if ( !hasButton ) {
+				if ( hasFooter ) {
+					spanTextFtr = footer.innerHTML + i18nText.tClose;
+				} else {
+					footer = document.createElement( "div" );
+					footer.setAttribute( "class", "modal-footer" );
+					spanTextFtr = i18nText.tClose;
+				}
+				spanTextFtr = spanTextFtr.replace( "'", "&#39;" );
+
+				overlayCloseFtr = "<button type='button' id='ftrClose' class='btn btn-sm btn-primary pull-left " + closeClassFtr +
+					"' title='" + closeTextFtr + " " + spanTextFtr + "'>" +
+					closeTextFtr +
+					"<span class='wb-inv'>" + spanTextFtr + "</span></button>";
+
+				$( footer ).append( overlayCloseFtr );
+				if ( !hasFooter ) {
+					$modal.append( footer );
+				}
+			}
+		}
 	};
 
 // Bind the init event of the plugin
@@ -6179,7 +6388,7 @@ var componentName = "wb-menu",
 			menuitem = " role='menuitem'",
 			sectionHtml = "<li><details>" + "<summary class='mb-item" +
 				( $section.hasClass( "wb-navcurr" ) || $section.children( ".wb-navcurr" ).length !== 0 ? " wb-navcurr'" : "'" ) +
-				" aria-haspopup='true'> <span" + menuitem + ">" +
+				" aria-haspopup='true'><span" + menuitem + ">" +
 				$section.text() + "</span></summary>" +
 				"<ul class='list-unstyled mb-sm' role='menu' aria-expanded='false' aria-hidden='true'>";
 
@@ -8112,7 +8321,7 @@ var componentName = "wb-overlay",
 					footer.style.border = "0";
 				}
 
-				overlayCloseFtr = "<button type='button' id='ftrClose' class='btn btn-sm btn-default " + closeClassFtr +
+				overlayCloseFtr = "<button type='button' id='ftrClose' class='btn btn-sm btn-primary " + closeClassFtr +
 					"' style='" + buttonStyle +
 					"' title='" + closeTextFtr + " " + spanTextFtr + "'>" +
 					closeTextFtr +
@@ -8401,12 +8610,12 @@ wb.add( selector );
 
 /**
  * @title WET-BOEW Prettify Plugin
- * @overview Wrapper for Google Code Prettify library: https://code.google.com/p/google-code-prettify/
+ * @overview Wrapper for Google Code Prettify library: https://github.com/google/code-prettify
  * @license wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
  * @author @patheard
  */
 /*
- * Syntax highlighting of source code snippets in an html page using [google-code-prettify](http://code.google.com/p/google-code-prettify/).
+ * Syntax highlighting of source code snippets in an html page using [google-code-prettify](https://github.com/google/code-prettify).
  *
  * 1. Apply `class="prettyprint"` to a `pre` or `code` element to apply syntax highlighting. Alternatively use `class="all-pre"` to apply syntax highlighting to all `pre` elements on the page.
  * 2. Apply `class="linenums"` to a `pre` or `code` element to add line numbers. Alternatively use `class="all-linenums"` to all applicable `pre` elements. Specify the starting number by adding `linenums:#` before `linenums`.
@@ -8901,7 +9110,7 @@ var $modal, $modalLink, countdownInterval, i18n, i18nText,
 						openModal( {
 							body: "<p>" + i18nText.timeoutAlready + "</p>",
 							buttons: $( "<button type='button' class='" + confirmClass +
-								" btn btn-primary'>" + i18nText.buttonSignin + "</button>" )
+								" btn btn-primary popup-modal-dismiss'>" + i18nText.buttonSignin + "</button>" )
 									.data( "logouturl", settings.logouturl )
 						} );
 					}
@@ -8929,7 +9138,7 @@ var $modal, $modalLink, countdownInterval, i18n, i18nText,
 		clearTimeout( $( event.target ).data( keepaliveEvent ) );
 
 		$buttonContinue = $( buttonStart + confirmClass +
-			" btn btn-primary'>" + i18nText.buttonContinue + buttonEnd )
+			" btn btn-primary popup-modal-dismiss'>" + i18nText.buttonContinue + buttonEnd )
 				.data( settings )
 				.data( "start", getCurrentTime() );
 		$buttonEnd = $( buttonStart + confirmClass + " btn btn-default'>" +
@@ -9467,6 +9676,9 @@ var componentName = "wb-tables",
 
 			Modernizr.load( {
 				load: [ "site!deps/jquery.dataTables" + wb.getMode() + ".js" ],
+				testReady: function() {
+					return ( $.fn.dataTable && $.fn.dataTable.version );
+				},
 				complete: function() {
 					var $elm = $( "#" + elmId ),
 						dataTableExt = $.fn.dataTableExt;
