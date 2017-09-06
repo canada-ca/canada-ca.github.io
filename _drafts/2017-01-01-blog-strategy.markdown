@@ -10,7 +10,8 @@ lang: en
 
 # What is this blog for?
 
-- Communicating our value proposition - making Canada.ca better, improving digital services for citizens
+- Communicating our value proposition - optimization writ large
+	- making Canada.ca better, improving digital services for citizens
 - Blog as expression of what are we about: 
 	- evidence based design/decision-making
 	- relentlessly continuously improving - adopting lean and agile approaches, learning as we go
@@ -78,7 +79,7 @@ lang: en
 - DO respect the Canada.ca Content Style Guide
 
 ## Talking about ourselves
-- DO refer to our team informally – “the Canada.ca product team at TBS” or something
+- DO refer to our team informally – e.g. “the Canada.ca team at TBS”
 - DO write in terms of the team - "we did...", "the team observed..."
 - DO mention line depts. we work with
 - DON’T single out people by name (until we sort out if that’s kosher)
