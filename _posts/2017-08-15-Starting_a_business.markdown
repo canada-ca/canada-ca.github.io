@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Helping Canadians start a business"
+gradelevel: 11.1
 ref: starting
 date:   2017-08-15 09:48:44 +0100
 categories: category
 lang: en
 ---
 
-Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements spread across the provinces and federal departments that depend on the size and type of business. Together with Innnovation Science and Economic Development Canada (ISED) and the Canada Revenue Agency (CRA), the Canada.ca team at TBS set out to improve the experience for Canadians starting a business via Canada.ca. The team started by exploring the user journey through the government requirements. The decisions identified in that journey were turned into tasks for a usability study with Canadians on the baseline Canada.ca site. We held a series of design sprints, testing design prototypes with Canadians as we went and measuring improvements against the baseline data.   
+Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements spread across the provinces and federal departments that depend on the size and type of business. Together with Innovation Science and Economic Development Canada (ISED) and the Canada Revenue Agency (CRA), the Canada.ca team at TBS set out to improve the experience for Canadians starting a business via Canada.ca. The team started by exploring the user journey through the government requirements. The decisions identified in that journey were turned into tasks for a usability study with Canadians on the baseline Canada.ca site. We held a series of design sprints, testing design prototypes with Canadians as we went and measuring improvements against the baseline data.   
 
 The new designs went live in the Business menu on Canada.ca in March 2017. After a few months, we measured the impact on the flow of web visitors. One of the big changes the team made was to bring the important step of 'Choosing a business name' up onto the Starting a business page, and to streamline the route to the name search page. The conversion funnel below shows the successful outcome. In the 2 month period measured before the optimization, only 10 people made it from the Starting a business page to the name search target. In the 2 months afterwards, almost 500 people took the simplified path to that important page. 
 
@@ -28,7 +29,7 @@ Needs of the entrepreneurs:
 2. Understand which steps they might have done already and which were relevant to them, since many don't do all the steps with one government or agency
 3. For those entrepreneurs who had one task, we wanted to make sure they weren't forced to read everything and could get to the specific application they needed
 
-We mapped out the different decisions and the sequence of the government requirements when starting a business. As we explored,  we noticed that decisions around choosing a business name had to be made before taking almost any of the government registration steps. Evidence from research with Canadians also highlighted that some of the decisions and the sequences that were particular pain points for people. 
+We mapped out the different decisions and the sequence of the government requirements when starting a business. As we explored, we noticed that decisions around choosing a business name had to be made before taking almost any of the government registration steps. Evidence from research with Canadians also highlighted that some of the decisions and the sequences that were particular pain points for people. 
 
 <img class="img-responsive" alt="Decisions and subsequent steps to name a business" src="/images/Naming_a_business_decisions.JPG">
 
