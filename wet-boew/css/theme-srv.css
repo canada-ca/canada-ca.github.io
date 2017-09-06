@@ -2,7 +2,7 @@
 /*!
  * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
  * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
- * v4.0.25 - 2017-05-17
+ * v4.0.26 - 2017-08-15
  *
  */
 @charset "UTF-8";
@@ -5622,28 +5622,6 @@ input[type="reset"], input[type="button"], input[type="submit"] {
   input[type="reset"].btn-xs, .btn-group-xs > input[type="reset"].btn, input[type="button"].btn-xs, .btn-group-xs > input[type="button"].btn, input[type="submit"].btn-xs, .btn-group-xs > input[type="submit"].btn {
     height: 25px; }
 
-/**
- *	Disable pull-right/left on grid columns that do not match the current
- *	breakpoint
- */
-@media (max-width: 767px) {
-  .pull-left[class*=col-sm], .pull-left[class*=col-md], .pull-left[class*=col-lg],
-  .pull-right[class*=col-sm],
-  .pull-right[class*=col-md],
-  .pull-right[class*=col-lg] {
-    float: none !important; } }
-
-@media (min-width: 768px) and (max-width: 991px) {
-  .pull-left[class*=col-md], .pull-left[class*=col-lg],
-  .pull-right[class*=col-md],
-  .pull-right[class*=col-lg] {
-    float: none !important; } }
-
-@media (min-width: 992px) and (max-width: 1199px) {
-  .pull-left[class*=col-lg],
-  .pull-right[class*=col-lg] {
-    float: none !important; } }
-
 /*
  *	Blockquote font size
  */
@@ -6955,6 +6933,9 @@ details.alert, details.alert[open] {
 .hght-inhrt {
   min-height: inherit; }
 
+.wb-fltr-out {
+  display: none !important; }
+
 /*
  * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
  * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
@@ -7497,6 +7478,10 @@ body.wb-modal .modal-dialog summary {
 .modal-body {
   background: #fff; }
 
+.modal-footer {
+  background: #fff;
+  margin-top: 0; }
+
 .mfp-gallery .modal-body {
   padding: 20px 30px; }
 
@@ -8022,14 +8007,6 @@ ol.linenums {
   overflow: hidden;
   position: absolute;
   top: -1000px; }
-
-/*
- * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
- * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
- */
-#wb-sessto-modal .modal-footer {
-  background: #fff;
-  margin-top: 0; }
 
 /*
  * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
@@ -9092,6 +9069,11 @@ details {
     white-space: nowrap; }
   .wb-disable .nojs-show {
     display: block !important; }
+  .col-xs-auto, .col-sm-auto, .col-md-auto, .col-lg-auto {
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: auto; }
   /*
  * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
  * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
@@ -9124,7 +9106,18 @@ details {
   /* a variable name */
   /* a function name */
   .fun {
-    color: #f00; } }
+    color: #f00; }
+  /*
+ * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+ * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
+ */
+  /**
+ * Screen-only styles
+ */
+  .wb-tabs.carousel-s2.wb-init {
+    padding-bottom: 4.375em; }
+  .wb-tabs.carousel-s2.exclude-controls {
+    padding-bottom: 0; } }
 
 /* Extra-small view and under */
 @media screen and (max-width: 767px) {
@@ -9343,10 +9336,6 @@ details {
         display: none !important; }
   .wb-tabs {
     /* Only for backwards compatibility. Should be removed in v4.1. */ }
-    .wb-tabs.carousel-s2.wb-init {
-      padding-bottom: 4.375em; }
-    .wb-tabs.carousel-s2.exclude-controls {
-      padding-bottom: 0; }
     .wb-tabs.carousel-s2.show-thumbs [role="tablist"] li.active a {
       border-color: #666;
       border-style: solid;

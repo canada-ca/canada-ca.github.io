@@ -2,7 +2,7 @@
 /*!
  * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
  * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
- * v4.0.25 - 2017-05-17
+ * v4.0.26 - 2017-08-15
  *
  */
 @charset "UTF-8";
@@ -124,8 +124,8 @@ Left menu variables
 .error .h1 {
   border: medium none;
   font-size: 27px;
-  margin-bottom: 0.2em;
-  padding-bottom: 0.2em; }
+  margin-bottom: .2em;
+  padding-bottom: .2em; }
   .error .h1 img {
     margin-right: 10px; }
 
