@@ -15,84 +15,80 @@ Fortunately, we don't need to know every single possible task that people are do
 
 That's why we've compiled a [top 100 tasks list for the Government of Canada]().
 
-### Encouraging top task management across Government
+## Encouraging top task management across Government
  
-Top task management isn't new to the Government of Canada. Even before Canada.ca and the first compilation top tasks across the Government of Canada in 2013, a number of departments were experimenting with top task management and different methods to identify tasks including from analytics, service inventories and top task surveys.
+Top task management isn't new to the Government of Canada. Even before Canada.ca and the first compilation of top tasks across the Government of Canada in 2013, a number of departments were experimenting with top task management and different methods to identify tasks including from analytics, service inventories to top task surveys.
 
-Since 2013, we've been focusing on 
+We've been focusing on
 a) making sure all departments and agencies have the know-how to identify their own top tasks
 b) compiling the top 100 tasks with comparable data across departments and agencies
 
-For more on how we've been asking departments and agencies to think about and provide us comparable top task data, please read [How to identify top tasks]().
-
-## Top task management from 2013 to the present
-
 Since 2013, we've gone through 3 iterations of the top task list for Canada.ca, improving, as a government, how we can gather comparable data and tasks. 
 
-Some of the main challenges we faced included agreeing on the right level of tasks and making sure we have comparable data to rank their demand.
+For more on how we've been asking departments and agencies to think about and provide us comparable top task data, please read [How to identify top tasks]().
 
-You can read more about our challanges with levels of tasks in the [How to identify top tasks article]().
+## Top task stages
 
-## Use visits to rank tasks
 
-We have come a long way since 2013 in how we rank tasks. We decided right away that we'd first work with analytics data. Top task surveys have been a fantastic method for some departments to rank their tasks, but the scale of government made this difficult for us, particularly when we needed a baseline list of tasks to start improving Canada.ca.
 
-We quickly realised, however, that even an analytics based ranking was going to be difficult. In 2013, we had a patchwork of visits and pageviews from both server log analytics and javascript analytics. Furthermore, departments were identifying the scope of the pages differently, whether that was including all the pages in a task, or just the starting page, or even all the pages in the website.
+We've put together a three phase approach to top task management on Canada.ca:
 
-Since then, we've come a long way. The latest version of the top tasks is ranked based on:
+*Visual on the three stages*
+
+- collecting analytics
+- refining the list
+- survey
+
+
+## 1. Use visits to rank tasks
+
+Since 2013, we've focused on the first two stages. These were the top 3 challenges we've been trying to overcome in data collection:
+
+**Analytics comparability:** sampled data from free analytics softwares, server logs analytics only available in certain time periods and unavailability of visits data have been some of the issues we've had in collecting comparable data
+
+**Visits vs pageviews:** even though it's sometimes harder to track and report on, we've moved away from pageviews data since it can inflate some tasks that have pages with a search interface
+
+**Start pages vs all pages:** although some tasks are accessed on many different pages, the weather forecast, for instance, we've moved away from rolling up analytics for many pages related to a task. We now focus on gathering analytics data with 1 start page per task
+
+The latest version of the top tasks is ranked based on:
 - unique page visits
-- for the task start page
-- in English and French
+- by task start page
+- combined English and French data
 
-In addition, we keep track of
-- % of mobile visits
-- related sub-tasks
+## 2. Find the right level of task
 
-Where there were tasks that are important not because of a single task, but a collection of smaller tasks, we add them to a different rankin
---------
+Although each department and agency is able to complete stage 1 by using comparable metrics and analysing the different things Canadians are doing with them, when we're comparing the tasks, we need to figure out core tasks and their supporting sub-tasks.
 
-## Top task list of tomorrow
-
-Already, a lot of the research behind identifying tasks is not based on visits, but rather search phrase analytics and call centre data.
-
-Neither of these can provide comparable data for how important a task are, since often calls and searches are driven by issues with finding and completing a task. But they are a valuable 
-
-
-1 Where people "start" the task
+For example, “Get a passport” is a popular task. There might be a lot of tasks behind that. It  could include things like “renew a passport”, “see passport photo requirements”; even down to “download the passport renewal form". If you were working on the passport content, then you’d want to keep track of all of these tasks. But for our government-wide view, “get a passport” is enough. 
  
-In previous versions of the list, we found that some tasks seemed to have an unusually high number of visits. This might be because there were a lot of pages associated with a task, or because the task involved a search interface that reported separately for every search result. To avoid complications from these issues, we instead focused on the page where most people tend to start the task. 
-
-2  A sense of the traffic
+We wrote each task as a verb, to make clearer what people are trying to do. We could have simply used "Canadian passports", but wanted to keep the tasks as answers to the question, "why are people coming to the site?"
  
-Once we have a start page, we wanted to get a sense of how much traffic the page gets. This isn't necessarily a strong indicator of how important a task is. It's possible that something is a top task, but people have a hard time finding it. 
+That doesn't necessarily mean that this is how you should write link labels on your site! “Passports” is a perfectly good navigation label to use to bring people to the section of the site where they can do everything about passports - including getting one. 
 
-3 Search terms people use to get to the task
- 
-Search logs provide a view into what people are thinking when they visit a website. They also show how often people look for particular things. If you can tell what terms people used to get to the top tasks, then you can refine the related content to make that path even easier for people. 
+We collected hundreds of tasks, but picked out 100 of the most visited tasks to make the current top task list. 
 
-See [Search-Log Analysis: The Most Overlooked Opportunity in Web UX Research](https://www.nngroup.com/articles/search-log-analysis/) for tips on why and how to analyze search log data.
+## 3. Validating the tasks and filling in the gaps
 
-4 Top requests to call centres
+We're pretty confident in our latest set of 100 top tasks, so we're now looking to start stage 3: top task surveys.
 
-Call centres get to talk directly to the people using government services. If we know what issues the call centre hears about, we get a good sense of what’s important to people.  
+The Canada Revenue Agency has already launched a survey on their Canada.ca pages to ask visitors which tasks they came to do.
 
-Again, just because an issue comes to a call centre a lot doesn’t mean it’s a top task. For example, one of the most common questions Agriculture and Agri-Food Canada gets is whether dogs are allowed on the [Central Experimental Farm](http://www.agr.gc.ca/eng/about-us/offices-and-locations/central-experimental-farm/?id=1170701489551). Important information for some, but not a top task for the department. 
- 
-5 Proportion of mobile visits
- 
-We have a good view of how many people are visiting Canada.ca with mobile devices, but not how that proportion varies from task to task. This data provides a useful view into where some tasks remain solidly on the desktop, and which tend to be accessed more through mobile devices.
+By asking Canadians, we can get a much higher level of confidence that the tasks we've identified are actually what people came to do. The surveys also allow for respondents to identify other tasks that we might have missed.
 
+Over the next year, we're planning to work with departments and agencies to implement similar top task surveys and further mature our top task approach.
 
+## Managing tasks
 
+But 
 
+In addition to visits, we keep track of some of the details about tasks in the list:
 
-There are still some issues with using analytics to rank tasks, not least of which is that visiting a certain webpage doesn't necessarily mean it's more important.
+% of mobile visits
 
-The number 1 ranked task for Canada.ca is finding out the local weather conditions. Looking for the local weather conditions is undoubtedly a task that is important and impactful to most. 
+Mobile take-up is a 
 
-But to many canadians, the weather forecast is something they can get as easily from the weather network or the radio as it is on the government website. In contrast, getting a business number or applying for parental leave benefits might be equally or more important a user task, not to mention have a greater impact on the economy or people's health.
+related sub-tasks
 
-Some businesses use the top task survey model to fill in the gaps in analytics data.
 
 
 
@@ -154,17 +150,7 @@ there are a lot of departments and agencies in the government, many of which don
 
 
 
-## Analyzing the results
- 
-Once we had the data, it was just a matter of digging through to make the list. A big part of this work was identifying a core task and its supporting sub-tasks. 
 
-For example, “Get a passport” is a popular task. There might be a lot of tasks behind that. It  could include things like “renew a passport”, “see passport photo requirements”; even down to “download the passport renewal form". If you were working on the passport content, then you’d want to keep track of all of these tasks. But for our government-wide view, “get a passport” is enough. 
- 
-We wrote each task as a verb, to make clearer what people are trying to do. We could have simply used "Canadian passports", but wanted to keep the tasks as answers to the question, "why are people coming to the site?"
- 
-That doesn't necessarily mean that this is how you should write link labels on your site! “Passports” is a perfectly good navigation label to use to bring people to the section of the site where they can do everything about passports - including getting one. 
-
-We collected hundreds of tasks, but picked out 100 of the most visited tasks to make the current top task list. 
  
 ## Next steps
  
