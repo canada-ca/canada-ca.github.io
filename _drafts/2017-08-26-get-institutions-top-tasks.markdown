@@ -144,3 +144,58 @@ continues...
 
 
 
+
+
+
+
+Top task surveys have been a fantastic method for some organizations and businesses to rank their tasks. Not only can surveys capture the importance of some tasks that aren't easily completable on the website, but they can identify tasks that users expect to 
+
+
+
+Already, a lot of the research behind identifying tasks is not based on visits, but rather search phrase analytics and call centre data.
+
+Neither of these can provide comparable data for how important a task are, since often calls and searches are driven by issues with finding and completing a task. But they are a valuable 
+
+
+1 Where people "start" the task
+ 
+In previous versions of the list, we found that some tasks seemed to have an unusually high number of visits. This might be because there were a lot of pages associated with a task, or because the task involved a search interface that reported separately for every search result. To avoid complications from these issues, we instead focused on the page where most people tend to start the task. 
+
+2  A sense of the traffic
+ 
+Once we have a start page, we wanted to get a sense of how much traffic the page gets. This isn't necessarily a strong indicator of how important a task is. It's possible that something is a top task, but people have a hard time finding it. 
+
+3 Search terms people use to get to the task
+ 
+Search logs provide a view into what people are thinking when they visit a website. They also show how often people look for particular things. If you can tell what terms people used to get to the top tasks, then you can refine the related content to make that path even easier for people. 
+
+See [Search-Log Analysis: The Most Overlooked Opportunity in Web UX Research](https://www.nngroup.com/articles/search-log-analysis/) for tips on why and how to analyze search log data.
+
+4 Top requests to call centres
+
+Call centres get to talk directly to the people using government services. If we know what issues the call centre hears about, we get a good sense of what’s important to people.  
+
+Again, just because an issue comes to a call centre a lot doesn’t mean it’s a top task. For example, one of the most common questions Agriculture and Agri-Food Canada gets is whether dogs are allowed on the [Central Experimental Farm](http://www.agr.gc.ca/eng/about-us/offices-and-locations/central-experimental-farm/?id=1170701489551). Important information for some, but not a top task for the department. 
+ 
+5 Proportion of mobile visits
+ 
+We have a good view of how many people are visiting Canada.ca with mobile devices, but not how that proportion varies from task to task. This data provides a useful view into where some tasks remain solidly on the desktop, and which tend to be accessed more through mobile devices.
+
+
+
+
+
+There are still some issues with using analytics to rank tasks, not least of which is that visiting a certain webpage doesn't necessarily mean it's more important.
+
+The number 1 ranked task for Canada.ca is finding out the local weather conditions. Looking for the local weather conditions is undoubtedly a task that is important and impactful to most. 
+
+But to many canadians, the weather forecast is something they can get as easily from the weather network or the radio as it is on the government website. In contrast, getting a business number or applying for parental leave benefits might be equally or more important a user task, not to mention have a greater impact on the economy or people's health.
+
+Some businesses use the top task survey model to fill in the gaps in analytics data.
+
+
+
+
+
+
+
