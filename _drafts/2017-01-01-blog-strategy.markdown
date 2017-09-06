@@ -37,7 +37,7 @@ lang: en
 
 - Bilingual
 - Accessible
-- Simple / Clear - plain language, grade 10 level
+- Simple / Clear - plain language, grade 10 level - use Fleisch-Kincaid tool in MS Word
 - Eating our own dog food - abide by style guide and spec
 - Two way? (maybe after we’re up and rolling, until then handle this angle off-blog via social media)
 
