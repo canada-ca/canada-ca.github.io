@@ -8,30 +8,29 @@ published: false
 lang: en
 ---
 
-Over the last few months, the product design team at TBS has been working on improving specific top tasks on Canada.ca. Here's how we are tackling these projects by working with content owners in Government of Canada departments.
+The product design team at TBS has been working on improving specific top tasks on Canada.ca. Here's how we are tackling these projects by working with content owners in Government of Canada departments.
 
-## What is a Canada.ca optimization project?
+## Optimization design sprints
 
-Canada.ca optimization projects are aimed at improving existing digital services for citizens. Working in a short product cycle, our team collaborates with GC institutions to test and improve specific aspects of high-demand online services and information.
+To improve existing digital services for citizens, the TBS optimization team is using our own ideas along with ideas from Google Ventures, and from the Government Digital Services team in the UK. We use these ideas together with GC departments to improve top tasks like Starting a Business, Weather and Visiting Canada.  
 
-To keep things feasible and focused, for now optimization projects tend to concentrate on the first steps that citizens would take - when they are finding their task and getting started with it. As we build up our experience working on optimization, we anticipate tackling deeper digital service issues in the future.
+Optimization projects are short and intensely focused on increasing task success. We focus on improving the first steps that citizens would take to explore and understand the task. For example, to start a business, people needed to understand the sequence they would need to follow, and explore the implications before they took a particular step. As we build up our experience working on optimization, we anticipate working deeper and deeper into the tasks. 
 
-## The process
+## Thinking through improving task success
 
-The basic process for optimization projects involves five steps:
+Data and evidence drive the 3 to 4 month sequence we use to optimize online services:
 
-1. **Discovery** - behavioural research to identify core tasks, develop hypotheses and finalize testing scenarios
-2. **Baseline test** - moderated usability testing sessions with participants performing the scenarios on the existing site
-3. **Design and prototyping** - a series of sprints to build prototypes that tackle issues uncovered during baseline testing
-4. **Validation test** - moderated usability testing with participants performing the scenarios on the prototypes
-5. **Launch** - if the validation test shows a measurable improvement, the prototypes are then integrated into production and released at the earliest opportunity.
+1. **Discovery** - map, gather and synthesize existing evidence into insights and hypotheses to produce scenarios for the testing
+2. **Baseline test** - design and conduct moderated usability research with Canadians who attempt the scenarios on the existing website
+3. **Design and prototyping** - sprints to iteratively design, build and test a prototype website to solve the problems seen in discovery & baseline testing
+4. **Validation test** - repeat the baseline test on the new prototype site across all the scenarios with a different but similar set of Canadian participants 
+5. **Launch** - assuming the validation test shows a measurable improvement, the successful aspects of the prototypes are integrated  and released at the earliest opportunity.
 
-Timing-wise, the first four steps usually take place in a 3-4 month period. Timing for the final launch step varies depending on the platform being used for production and the institution's publishing process.
+## Successful task teams are multi-disciplinary
 
-## Collaboration
+Once an optimization project is agreed upon, the optimization team is formed with members from TBS and from the department(s) responsible for the service. TBS optimization members include an experienced Optimization Lead, with designers, behavioural scientists, project managers and advisors.  From the departments, members usually include web communications leads and program specialists.  Teams may occasionally pull in deeper-level specialists. For example, an expert from Corporations Canada joined the Starting a Business optimization team at the Baseline Testing results workshop, and afterwards were represented by ISED. As the project ramps up into the design and prototyping stage, the team works together through frequent face-to-face workshops and online tools like Github and Webex. 
 
-Throughout the process, we ensure close collaboration between the TBS team and the institution. For the duration of the project, we act together as one team through frequent face-to-face contact - meetings, workshops, etc. 
-<!--- can someone add more deets here, want to emphasize that we do optimization with institutions rather than doing it to them --->
+>Design sprints are most successful with a mix of people. - Jake Knapp
 
 ## Usability testing is key
 
