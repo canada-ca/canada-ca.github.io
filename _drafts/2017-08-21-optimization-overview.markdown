@@ -8,11 +8,11 @@ published: false
 lang: en
 ---
 
-The product design team at TBS has been working on improving specific top tasks on Canada.ca. Here's how we are tackling these projects by working with content owners in Government of Canada departments.
+Canada.ca was created to make online services simpler and easier for Canadians. Since 2014, the TBS Canada.ca team has been working with departments and User Experience (UX) designers and researchers on how best to move frequently used services into the Canada.ca design. Now that so many of these top tasks have moved, the focus is on measuring and improving online success on those top tasks. These optimization projects follow a process we've designed to deliver the most impact on ease of use in the shortest amount of time. 
 
 ## Optimization design sprints
 
-To improve existing digital services for citizens, the TBS optimization team is using our own ideas along with ideas from Google Ventures, and from the Government Digital Services team in the UK. We use these ideas together with GC departments to improve top tasks like Starting a Business, Weather and Visiting Canada.  
+To improve existing digital services for citizens, the TBS optimization team uses our own User Experience  along with ideas from Google Ventures, and from the Government Digital Services team in the UK. We use these ideas together with GC departments to improve top tasks like Starting a Business, Weather and Visiting Canada.  
 
 <img class="img-responsive" alt="Photo of Sprint and Transform books, iPad with GDS blog and sketch notes" src="/images/optimize.jpg">
 
