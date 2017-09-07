@@ -17,15 +17,11 @@ That's why we've compiled a [top 100 tasks list for the Government of Canada]().
 
 ## Encouraging top task management across Government
  
-Top task management isn't new to the Government of Canada. Even before Canada.ca and the first compilation of top tasks across the Government of Canada in 2013, a number of departments were experimenting with top task management and different methods to identify tasks including from analytics, service inventories to top task surveys.
+Top task management isn't new to the Government of Canada. Even before Canada.ca and the first compilation of top tasks across the Government of Canada in 2013, a number of departments were experimenting with top task management.
 
-We've been focusing on
-a) making sure all departments and agencies have the know-how to identify their own top tasks
+Now, we're focusing on
+a) making sure all departments and agencies identify their top tasks
 b) compiling the top 100 tasks with comparable data across departments and agencies
-
-Since 2013, we've gone through 3 iterations of the top task list for Canada.ca, improving, as a government, how we can gather comparable data and tasks. 
-
-For more on how we've been asking departments and agencies to think about and provide us comparable top task data, please read [How to identify top tasks]().
 
 ## Top task stages
 
@@ -38,7 +34,6 @@ We've put together a three phase approach to top task management on Canada.ca:
 - collecting analytics
 - refining the list
 - survey
-
 
 ## 1. Use visits to rank tasks
 
@@ -55,6 +50,8 @@ The latest version of the top tasks is ranked based on:
 - by task start page
 - combined English and French data
 
+In addition to visit metrics, we've also been keeping track of mobile visits for tasks.
+
 ## 2. Find the right level of task
 
 Although each department and agency is able to complete stage 1 by using comparable metrics and analysing the different things Canadians are doing with them, when we're comparing the tasks, we need to figure out core tasks and their supporting sub-tasks.
@@ -67,94 +64,32 @@ That doesn't necessarily mean that this is how you should write link labels on y
 
 We collected hundreds of tasks, but picked out 100 of the most visited tasks to make the current top task list. 
 
+Since 2013, we've gone through 3 iterations of the top task list for Canada.ca, improving, as a government, how we can gather comparable data and tasks.
+
+For more on how we've been asking departments and agencies to think about and provide us comparable top task data, please read [How to identify top tasks]().
+
 ## 3. Validating the tasks and filling in the gaps
 
 We're pretty confident in our latest set of 100 top tasks, so we're now looking to start stage 3: top task surveys.
+
+The team at TBS isn't always the trailblazer. Many departments and collaborators are continuing on their traditions of top task management and putting new techniques into practice.
 
 The Canada Revenue Agency has already launched a survey on their Canada.ca pages to ask visitors which tasks they came to do.
 
 By asking Canadians, we can get a much higher level of confidence that the tasks we've identified are actually what people came to do. The surveys also allow for respondents to identify other tasks that we might have missed.
 
-Over the next year, we're planning to work with departments and agencies to implement similar top task surveys and further mature our top task approach.
+Over the next year, we're planning to work with CRA and other departments and agencies to implement similar top task surveys and further mature our top task approach.
 
-## Managing tasks
+## Change for Canadians
 
-But 
+Why all the effort identifying tasks?
 
-In addition to visits, we keep track of some of the details about tasks in the list:
+Top task performance is now being used as the basis for optimizing Canada.ca. 
 
-% of mobile visits
+Top task management is not about migrating all content to new platforms, removing old, duplicate content or even managing your web presence. These all have their place and time, but the priority of all communications branches in government needs to be focused on ensuring citizens are able to find and complete the tasks they come to do. If we don't, we are putting at risk the outcomes of the policies and services that our government is mandated to deliver.
 
-Mobile take-up is a 
+Canada.ca has been built on a foundation of top tasks. You can read more about the [making of Canada.ca]().
 
-related sub-tasks
+Since then, we've been working with departments and agencies who own the top tasks that Canadians come to complete with Government. Read more about [optimization projects]().
 
-
-
-
-
-
-
-
-## From identifying tasks to change for Canadians
-
-Tasks are used to inform policy decisions, make design and layout updates on the web and break down silos to improve service delivery.
-
-
-
-
-Government services can be hard to define. 
-
-
-
-Canadians often have to go beyond the website when they complete their tasks with government, such as going to a Service Canada office or sending an application by mail to renew a passport. 
-
-Some services aren't even associated with government by many Canadians. The Registered Retirement Savings Plans (RRSP), for instance is almost entirely managed by banks where citizens can apply for them, but is provided under a government policy.
-
-Even online, authenticated accounts or 
-
-there are accounts and databases where citizens and clients need to do something beyond Canada.ca. 
-
-<!--
-questions to answer
-what exactly are tasks? how are they different from services? what about the sub-tasks and offline tasks that are important?
-what does task management allow us to accomplish?
-how do we manage canada.ca performance by what the user is trying to do?
--->
-
-
-
-
-
-
-
-Over the past 4 years, we've also gone through 3 different iterations of the top task list, trying to improve our methodology and communications each year. 
-
-
-Some institutions have been doing task analysis conducted exercises to determine their top tasks even before Canada.ca was started in 2013, and among them, some departments even use mature top task collection techniques such as user surveys.
-
-notes to elaborate
-*bringing departments together to collaborate on their top tasks across GC silos
-this article can give smaller, less experienced departments access to these techniques and knowledge
-bringing things together for a GC top task list
-
-Bringing these departments and agencies less experienced with top task management together, to discuss how they could build a site together for Canadians and was the first step 
-
-to the same table, to discover how those tasks fit together was one of the objectives of setting up Theme Leads for Canada.ca.
-
-there are a lot of departments and agencies in the government, many of which don't even 
-
-, some even going beyond analytics and using surveys to get a good picture of their user needs. 
-
-
-
-
-
-
- 
-## Next steps
- 
-We're already using the list to help us plan and prioritize upcoming task-based optimization projects. It also feeds into overall Canada.ca optimization, both at the theme level and above. We want to keep this list evergreen, constantly refining it as we learn more about what people are coming to Canada.ca to do. To that end, we’ll continue to collect this data from institutions across government. 
- 
-We also want to help institutions collect and manage their own top tasks. Most institutions have a good idea of the content they produce, often down to the page level. But they may not always be sure that the content is actually supporting a task. The next phase of our work will be to help institutions in collecting and tracking their own tasks so they can be used to manage their content. 
-
+And the web isn't the end. TBS is also planning to leverage top tasks to inform service policy. Top tasks currently only reflect the online portion of tasks, but we're collaborating to make sure the dots are connected with call centers, service desks and the other ways government serves Canadians.
