@@ -24,11 +24,13 @@ These are the kinds of tasks we want to identify and help support. Something you
 * Download a publication
 * View frequently asked questions
 
-These aren't things that people actually want to do, even though they might be something that they do to support a task. 
+These aren't things that people actually think about doing, even though they might be something that they do to support a task. 
 
 "Tasks" could just as easily be called "goals" - the term isn't important. The important thing is that it be a realistic depiction of what people are actually trying to do, and written at a level that's useful in managing content. 
 
-The nice thing about tasks is that it forces you to think in terms of what the visitor wants to get done. It shifts the focus from the organization (who might want to publish something), to the visitor (who needs to learn something, access a service, or apply for something). 
+The nice thing about tasks is that it forces you to think in terms of what the visitor wants to get done. 
+
+This doesn't mean that we're creating new policies or services, but we're shifting the focus from how the organization thinks about their service (what we're doing and how we're doing it) to how the visitor consumes it (ensuring they can actually apply, understand the guidance to comply or make safe or healthy decisions, which in turn contribute to policy outcomes and change for Canadians).
 
 That doesn't guarantee success of course. But it puts you in the right position to manage content in a way that focuses on the people who use it. 
  
@@ -39,14 +41,77 @@ That doesn't guarantee success of course. But it puts you in the right position 
 
 There are various sources that departments and agencies can use to identify top tasks:
 
-* Departmental plans
-* Mandate letters (from the Prime Minister to cabinet ministers)
-* web analytics
-* feedback or call centre reports
-* stakeholder input
-* past research or surveys
-
-By reviewing these sources and carefully analyzing the results, institutions can identify all of the tasks they support for the public. 
+<section> 
+ <div class="btn-group mrgn-bttm-sm"> 
+  <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#template-elements&quot;, &quot;type&quot;: &quot;on&quot;}">Expand All</button> 
+  <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#template-elements&quot;, &quot;type&quot;: &quot;off&quot;}">Collapse All</button> 
+ </div> 
+ <div class="row"> 
+  <div class="col-lg-6 pull-right"> 
+   <figure class="mrgn-bttm-lg"> 
+    <figcaption class="text-center"> 
+     <b>Figure 1. Ways to identify Top Tasks</b> 
+    </figcaption> 
+    <img src="" class="img-responsive center-block" alt="Images of the 6 techniques to identify top tasks described below."> 
+   </figure> 
+  </div> 
+  <div class="col-lg-6 pull-left"> 
+   <section> 
+    <section> 
+     <h3>1: Departmental plans</h3> 
+     <details class="mrgn-bttm-sm"> 
+       <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}"><strong>Description</strong></summary> 
+       <p>Departmental plans In the Government of Canada, we're lucky to have very clear guidance as to exactly what departments and agencies are supposed to do. These come in the form of departmental plans and mandates.</p>  
+<p>Each task you identify should be directly attributable to one of the department's priorities in the departmental plan or mandate letter. If it isn't, it's probably not a task you should be supporting.</p> 
+     </details>
+    </section> 
+    <section> 
+     <h3>2: Mandate letters</h3> 
+     <details class="mrgn-bttm-sm"> 
+       <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}"><strong>Description</strong></summary> 
+       <p>The Prime Minister sent every cabinet minister a letter detailing what they were expected to accomplish. These mandate letters are a rich source for identifying tasks that the institution must support.</p>
+       <p>For example, the [mandate letter for the Minister of Public Services and Procurement](http://pm.gc.ca/eng/minister-public-services-and-procurement-mandate-letter) includes:</p>
+       <p>Undertake a review of Canada Post to make sure it provides the high-quality service that Canadians expect at a reasonable price.</p>
+       <p>This requirement will result in tasks related to informing people about the review, and depending on how it's carried out, possibly to participate in the review. An associated task might be:</p>
+       <p>"Comment on the Canada Post review"</p>
+       <p>http://pm.gc.ca/eng/mandate-letters</p>
+     </details>
+    </section> 
+    <section> 
+     <h3>3: Call-centre and support</h3> 
+     <details class="mrgn-bttm-sm"> 
+       <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}"><strong>Description</strong></summary> 
+       <p>These are the people who hear from people the most often. Every institution has some sort of contact address or phone number. The people who respond to those requests are a gold mine of information about the people your website supports.</p>
+       <p>This can help you understand the priority of the tasks (assuming a high volume is higher priority). They can also help you identify gaps in the tasks you've thought you've collected.</p>
+     </details>
+    </section> 
+    <section> 
+     <h3>4: Your existing content and analytics</h3> 
+     <details class="mrgn-bttm-sm"> 
+       <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}"><strong>Description</strong></summary> 
+       <p>This is probably the easiest way to identify tasks, though you should keep in mind that it may not be entirely accurate. (Just because something is popular doesn't necessarily mean it's a top task, and vice versa). However, you can actually get a pretty good idea of what might currently be top tasks for an organization just by looking at what the top pages are, and determining what tasks those pages support. </p>
+       <p>Even here you have to be careful of course. Just because a page is popular doesn't mean it's a top task. For example, at Agriculture and Agri-Food Canada, one of the top pages was the "Maladies de vignes", or "Vine diseases". It presented information about diseases affecting grapes. We found that most of the visitors were from France, and determined that it was people trying to identify and deal with diseases affecting their grapes. </p>
+       <p>Now that page was effective. It was well written, included useful photos, and presented useful information to people. And it was popular, being one of the top pages on the site. However, you still couldn't call that a top task of Agriculture and Agri-Food Canada. In fact, while the page still exists, it's archived now because they determined that it wasn't content that the department of Agriculture needed to maintain.</p>
+     </details>
+    </section> 
+    <section> 
+     <h3>5: Surveys</h3> 
+     <details class="mrgn-bttm-sm"> 
+       <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}"><strong>Description</strong></summary> 
+       <p>Some departments run annual or biannual exit surveys to get some information about the people who visit their sites. A useful question to ask on this kind of survey is "What did you come to the site to do?". The information this provides can be overwhelming - it'll be hard to process and categorize. But you may learn a great deal about what people are actually coming to your site to do.</p>
+     </details>
+    </section> 
+    <section> 
+     <h3>6: Interviews and other research</h3> 
+     <details class="mrgn-bttm-sm"> 
+       <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}"><strong>Description</strong></summary> 
+       <p>Talking directly to the people your department serves will almost always yield useful insights. Even if you're among the target audience for your department, there will always be people who have a different perspective and different needs. The more exposure you have to people, the better your understanding of what your organization should be trying to accomplish.</p>
+     </details>
+    </section> 
+   </section> 
+  </div> 
+ </div> 
+</section> 
 
 ## What level task should you record
 
@@ -61,54 +126,6 @@ At a broad policy design level or when determining high level labels in your inf
 On the other hand, "Download form PPTC 153" is so specific that it might not even be an essential task, visitors deciding to fill out an online form or get a different form to renew their passport and succeeding all the same.
 
 Ideally you phrase tasks as are most likely the visitor would describe them when reflecting afterwards about what he completed something. In this case, "I applied for a passport today" is a more likely level of task than "I found out what I needed to travel abroad", which would have been branched into secondary tasks as he learned more about what he need to do or "I downloaded form PPTC 153", which is just one step in what he needed to do to complete his task.
-
-## Where organizations can get their tasks
-
-The first step is to go through all of the sources available to you to pick out the tasks you currently do, or should, support. Some sources to look through include:
-
-### Mandate letters
-
-The Prime Minister sent every cabinet minister a letter detailing what they were expected to accomplish. These mandate letters are a rich source for identifying tasks that the institution must support. 
-
-For example, the [mandate letter for the Minister of Public Services and Procurement](http://pm.gc.ca/eng/minister-public-services-and-procurement-mandate-letter) includes:
-
-> Undertake a review of Canada Post to make sure it provides the high-quality service that Canadians expect at a reasonable price.
-
-This requirement will result in tasks related to informing people about the review, and depending on how it's carried out, possibly to participate in the review. An associated task might be:
-
-"Comment on the Canada Post review"
-
-http://pm.gc.ca/eng/mandate-letters
-
-### Departmental plans
-
-In the Government of Canada, we're lucky to have very clear guidance as to exactly what departments and agencies are supposed to do. These come in the form of departmental plans and mandates.   
-
-Each task you identify should be directly attributable to one of the department's priorities in the departmental plan or mandate letter. If it isn't, it's probably not a task you should be supporting. 
-
-(Example)
-
-### Call-centre and support
-
-These are the people who hear from people the most often. Every institution has some sort of contact address or phone number. The people who respond to those requests are a gold mine of information about the people your website supports. 
-
-This can help you understand the priority of the tasks (assuming a high volume is higher priority). They can also help you identify gaps in the tasks you've thought you've collected.
-
-### Your existing content and analytics
-
-This is probably the easiest way to identify tasks, though you should keep in mind that it may not be entirely accurate. (Just because something is popular doesn't necessarily mean it's a top task, and vice versa). However, you can actually get a pretty good idea of what might currently be top tasks for an organization just by looking at what the top pages are, and determining what tasks those pages support. 
-
-Even here you have to be careful of course. Just because a page is popular doesn't mean it's a top task. For example, at Agriculture and Agri-Food Canada, one of the top pages was the "Maladies de vignes", or "Vine diseases". It presented information about diseases affecting grapes. We found that most of the visitors were from France, and determined that it was people trying to identify and deal with diseases affecting their grapes. 
-
-Now that page was effective. It was well written, included useful photos, and presented useful information to people. And it was popular, being one of the top pages on the site. However, you still couldn't call that a top task of Agriculture and Agri-Food Canada. In fact, while the page still exists, it's archived now because they determined that it wasn't content that the department of Agriculture needed to maintain. 
-
-### Surveys
-
-Some departments run annual or biannual exit surveys to get some information about the people who visit their sites. A useful question to ask on this kind of survey is "What did you come to the site to do?". The information this provides can be overwhelming - it'll be hard to process and categorize. But you may learn a great deal about what people are actually coming to your site to do. 
-
-### Interviews and other research
-
-Talking directly to the people your department serves will almost always yield useful insights. Even if you're among the target audience for your department, there will always be people who have a different perspective and different needs. The more exposure you have to people, the better your understanding of what your organization should be trying to accomplish. 
 
 ## What kinds of tasks should you not collect
 
