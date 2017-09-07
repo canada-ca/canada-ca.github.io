@@ -58,6 +58,6 @@ We're happy to share what we've learned. If you've got questions about this proj
 Explore more about Starting a business: 
 * Use the Business menu at the top of this page to see the optimized Starting a business steps 
 * More on the Steps template and research evidence in the post [User needs drive new templates: Steps](https://canada-ca.github.io/category/2017/08/09/evidence-based-template-designs.html)
-* See the full decision flow diagram for starting a business  [start a business decision map](/images/Starting_a_business_decisions_Nov2016_1194x818.png)
+* See the full decision flow diagram for starting a business  [start a business decision map](/images/Starting_a_business_decisions_Nov2016_grey_1803x1230.png)
 * The importance of the logic flow map for the Starting a business project in [Bringing logic to a government design sprint](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast)
 * UK GDS on their business optimization project [Taking care of business on Gov.UK](https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/)
