@@ -9,37 +9,54 @@ published: false
 lang: en
 ---
 
-<!--Objectives: demonstrate how we evolved the theme and topic layer that users see reflected in the main nav for Canada.ca -->
-
 In 2012, the Government of Canada began working towards a more centralized web presence. The vision for Canada.ca was to make it easier for Canadians to find what they were looking for, whichever department or agency might provide it. Here's the research and testing we did to tackle the challenge of designing the site's structure that you see reflected in its main navigation.
 
 ## Themes: bridges across the thousand islands
 
 <img class="img-responsive" alt="Bridge across the Thousand Islands" src="/images/thousand-islands-bridge_600x400.jpg">
 
-Image credit: /[insert credit/]
+Image credit: /[Ad Meskens](https://commons.wikimedia.org/wiki/User:Ad_Meskens)
 
 While some people know which department provides a service, many don’t know or care. As each department and agency maintains a website of their own, there wasn't a single online window where a Canadian could find all government services. 
  
-The first step was to understand the most in-demand tasks that citizens undertook with the federal government. So in 2013, we worked with departments and agencies to collect and analyze as much web traffic data as we could to create an inventory of top 100 Government of Canada tasks.
+There were a lot of steps involved in building the steps.
+
+### Step 1: Build a list of our top 100 tasks
+
+The first thing we did when planning Canada.ca was to develop a list of the 100 most in-demand tasks that citizens undertook with the federal government. In 2013, we worked with departments and agencies to collect and analyze as much web traffic data as we could to create an inventory of top 100 Government of Canada tasks.
 
 To learn more about the top 100 tasks, see [Top task management on Canada.ca]().
 
-Then, we card sorted the top tasks with internal stakeholders to come up with a preliminary list of about 20 categories to organize Canada.ca content. In this research step, we proposed an initial set of subject-based themes, such as taxes and immigration, as well as more administrative categories like media or contact information.    
+### Step 2: Card sort with stakeholders
 
-<!-- ** How did we group them originally?** Not sure actually where the themes came from - will check -->
+In June 26, we card sorted the top tasks with internal stakeholders to come up with a preliminary list of about 20 categories to organize Canada.ca content. 
 
-After analysis and consultation, we had 15 theme labels that would form the main navigation for canada.ca and the mortar to build bridges between departmental websites and tasks.
+After analysis and consultation, we proposed an 
+- initial set of 15 subject-based themes, such as taxes or immigration that would form the main navigation for canada.ca and the mortar to build bridges between departmental websites and tasks.
 
-## Testing the building blocks
+In addition to the themes and topics, there were also two more structures that came out of the card sort,
+- 1 based on administrative categories like media or contact information
+- 1 based on audiences like indigenous peoples or seniors
+
+### Step 3: Tree test with Canadians
 
 Coming up with the themes was only the first step, both for the taxonomy and the navigation on Canada.ca.
 
-We next did a tree test with 848 citizens to validate the theme and topic structure. This showed us the value in a subject-based approach and allowed us to simplify the structure. We were able to take out a layer in our initial tree (At this point we had two big categories for grouping the subject based themes - About government, Information for/Topics.) as it didnt help citizens choose where to click.
+We next did a tree test with 848 citizens to validate the theme and topic structure as well as the other structures that came out of the card sort. 
 
-After themes were decided, we started to create the rest of the navigation tree. Each topic would be a keyword for citizens to find the next step towards their task but would also have to reflect the various perspectives and services government had on that topic. 
+The card sort demonstrated the value of a subject-based approach and allowed us to simplify the navigation proposal. We were able to take out layers in our initial tree around audiences and about government as they didnt help citizens choose where to click.
 
-Designs were made to help guide Canadians through their journey, while also giving them the chance to offramp to most requested tasks and explore more about government policy or opportunities to provide feedback.
+### Step 4: Building out the rest of the navigation tree
+
+As we decided on the themes, we started to create the rest of the navigation tree. Each topic had to be a keyword for citizens to find the next step towards their task. This was something we continued to validate with tree tests.
+
+As each topic would also reflect the various perspectives and services government had related to its label name, we brought in departments with knowledge of the services and policies government had in those areas to build the taxonomies of the themes most related to their departments.
+
+### Step 5: User interface test
+
+In addition to taxonomy testing, we also built page and navigation designs to help guide Canadians through their journey.
+
+One of our principles was to make it while also giving them the chance to offramp to most requested tasks and explore more about government policy or opportunities to provide feedback.
 
 *Insert graphic on sections of the topic page - perhaps similar to the IP one Manu made? Maybe use a mobile view?*
 *or screen grabs of the initial prototypes - might be in the usability testing report*
