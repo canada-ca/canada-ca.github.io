@@ -13,7 +13,7 @@ One of the key aspects of the Canada.ca design is a consistent template for topi
 
 Canada.ca exists to provide better online service to Canadians for their top tasks, and topic pages play a key role. Many people don't know or care which department offers a particular service. Topic pages bring together all of the service tasks onto one page, across federal departments. They act like a ‘home page’ for that set of services, providing links to help citizens find their tasks. 
 
-Topic pages have a consistent layout based on a template described in the [Canada.ca Content and Information Architecture Specifications](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html). Over time, some parts of the topic page template have been improved as task-based usability testing with Canadians has highlighted problems. But on the whole, there has only been the one template available, with links to tasks prioritized by demand or web traffic volume. 
+Topic pages have a consistent layout based on a template described in the [Canada.ca design manual](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html). Over time, some parts of the topic page template have been improved as task-based usability testing with Canadians has highlighted problems. But on the whole, there has only been the one template available, with links to tasks prioritized by demand or web traffic volume. 
 
 The Starting a business topic page used the standard template when the optimization team started: 
 
