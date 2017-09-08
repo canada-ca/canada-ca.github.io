@@ -23,7 +23,7 @@ Optimization projects are short and intensely focused on increasing task success
 Data and evidence drive the 3 to 4 month sequence we use to optimize online services:
 
 1. **Discovery research** - gather and synthesize existing evidence into insights and hypotheses to produce scenarios for the testing
-2. **Baseline testing** - moderated usability research with Canadians who attempt the scenarios on the existing website
+2. **Baseline testing** - moderated usability tests with Canadians who attempt the scenarios on the existing website
 3. **Design and prototyping** - sprints to iteratively design, build and test a prototype website to solve the problems seen in discovery & baseline testing
 4. **Validation testing** - repeat the baseline test on the new prototype site with a different but similar set of Canadian participants 
 5. **Launching prototypes** - assuming the validation test shows a measurable improvement, integrate and release the successful aspects of the prototypes at the earliest opportunity.
@@ -32,7 +32,7 @@ Data and evidence drive the 3 to 4 month sequence we use to optimize online serv
 
 Once an optimization project is agreed upon, the optimization team is formed with members from TBS and from the department(s) responsible for the service. TBS optimization members include an experienced Optimization Lead, with designers, behavioural researchers, project managers and advisors.  From the departments, members usually include web communications leads and program specialists.  Teams may occasionally pull in deeper-level specialists. For example, an expert from Corporations Canada joined the starting a business optimization team to workshop the baseline testing results, and afterwards were represented by ISED. As the project ramps up into the design and prototyping stage, the team works together through frequent face-to-face workshops and online tools like Github and Webex. 
 
->Design sprints are most successful with a mix of people. - Jake Knapp, <em>Sprint: How to Solve Big Problems and Test News Ideas in Five Steps</em>
+>Design sprints are most successful with a mix of people. - Jake Knapp, author of <em>Sprint</em>
 
 ## Usability testing is key
 
