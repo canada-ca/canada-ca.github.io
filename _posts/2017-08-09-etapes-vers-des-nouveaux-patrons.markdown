@@ -50,9 +50,9 @@ Les données d’analyses Web avant (le 4 fevrier au 4 avril, 2017) et après (l
 
 Ces résultats provenant des Canadiens qui utilisent le site Canada.ca appuient les résultats des essais du prototype. La conception basé sur le patron d’étapes a clairement répondu à un besoin réel, et a comblé une lacune dans nos patrons pour les conceptions de modèle. Le patron d’étapes est maintenant disponible comme une option pour les pages de sujets du site Canada.ca, et sera inclus dans les Spécifications du contenu et de l’architecture de l’information. Les services dans le site Canada.ca peuvent maintenant utiliser ce modèle pour aider les Canadiens à comprendre et à trouver les étapes qu’ils recherchent.
 
-## Découvrez plus
+## Vous voulez en savoir plus
 
-On veut bien partager nos apprentissages. Envoyez-nous un courriel à ux.eu@tbs-sct.gc.ca
+Nous voulons  partager nos apprentissages avec vous. Envoyez-nous un courriel à ux.eu@tbs-sct.gc.ca
 
 <aside class="wb-fnote" role="note">
 <h2 id="fn">Notes de bas de page</h2>
