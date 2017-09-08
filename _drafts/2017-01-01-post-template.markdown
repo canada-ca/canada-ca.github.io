@@ -16,8 +16,11 @@ Add introduction here - context on the scenario, template or pattern - indicate 
 
 Include a succinct description of the problem (column c) and contributing factors (column d). Reference the usability testing: include clips where possible (column i). Where possible, cite any task findability or task completion %s or #s that quantify the issue (may need to go back to the reports again to pull these). Max 2-3 (?) paragraphs.
 
-<!--- To embed a video from Youtube, just grab the embed code and paste in your doc --->
+<!--- To embed a video from Youtube, just grab the embed code and paste in your doc - like in this example --->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hvFE-49NYYE" frameborder="0" allowfullscreen></iframe>
+
+<!-- when citing data, draw attention to it with a callout - use WET CSS for styling wells, as in this example -->
+<div class="well panel">Only 43% of the 20 participants in our baseline usability test could solve the task.</div>
 
 ## Solution
 
