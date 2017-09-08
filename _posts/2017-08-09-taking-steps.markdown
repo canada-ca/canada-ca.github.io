@@ -20,7 +20,7 @@ The Starting a business topic page used the standard template when the optimizat
 <img class="img-responsive" alt="Starting a business page back in October with publications regulations and random ordered topics" src="/images/Starting_topic_Oct2016_567x522.png">
 
 ## Sharing the headaches of start-up entrepreneurs in Canada
-<div class="well panel">Only 67% of the 20 participants in our baseline usability test of the site could identify any essential legal steps to start a business.</div>
+<div class="well panel">Only 67% of the 20 participants in our baseline usability test could identify any essential legal steps to start a business.</div>
 
 Although none of the participants had ever started a business before, many were students studying business. After they tried the tasks, some confided that based on the experience on the baseline site, they would probably have to hire an accountant or lawyer to start their own business someday.
 
