@@ -25,7 +25,7 @@ Data and evidence drive the 3 to 4 month sequence we use to optimize online serv
 1. **Discovery research** - gather and synthesize existing evidence into insights and hypotheses to produce scenarios for the testing
 2. **Baseline testing** - moderated usability research with Canadians who attempt the scenarios on the existing website
 3. **Design and prototyping** - sprints to iteratively design, build and test a prototype website to solve the problems seen in discovery & baseline testing
-4. **Validation testing** - repeat the baseline test on the new prototype site across the same scenarios with a different but similar set of Canadian participants 
+4. **Validation testing** - repeat the baseline test on the new prototype site with a different but similar set of Canadian participants 
 5. **Launching prototypes** - assuming the validation test shows a measurable improvement, integrate and release the successful aspects of the prototypes at the earliest opportunity.
 
 ## Successful task teams are multi-disciplinary
