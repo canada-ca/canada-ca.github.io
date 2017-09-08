@@ -50,6 +50,10 @@ Web analytics from before (February 4 to April 4, 2017) and after (May 26 to Jul
 
 These outcomes from Canadians using the Canada.ca site support the prototype testing results. The steps-based design clearly addressed a real need, and filled a gap in our template design patterns.  This design pattern is now available as an option for Canada.ca topic pages, and will soon be included in the Content and Information Architecture Specification. Services on Canada.ca can now use this to pattern to help Canadians understand and find the steps they're looking for. 
 
+## Find out more
+
+We're happy to share what we've learned. Email us at ux.eu@tbs-sct.gc.ca
+
 <aside class="wb-fnote" role="note">
 <h2 id="fn">Footnotes</h2>
 <dl>
