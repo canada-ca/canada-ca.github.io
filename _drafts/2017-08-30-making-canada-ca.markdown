@@ -20,36 +20,35 @@ In 2012, the Government of Canada began working towards a more centralized web p
 Image credit: /[insert credit/]
 
 While some people know which department provides a service, many don’t know or care. As each department and agency maintains a website of their own, there wasn't a single online window where a Canadian could find all government services. 
-
-<!-- By focusing on the words that people think about when they complete a task, we can make it easiler for people to find and complete what they came to do. -->
  
 The first step was to understand the most in-demand tasks that citizens undertook with the federal government. So in 2013, we worked with departments and agencies to collect and analyze as much web traffic data as we could to create an inventory of top 100 Government of Canada tasks.
 
 To learn more about the top 100 tasks, see [Top task management on Canada.ca]().
 
-Then, we card sorted the top tasks to come up with a preliminary list of about 20 categories to organize Canada.ca content. In this research step, we proposed an initial set of subject-based themes, such as taxes and immigration, as well as more administrative categories like media or contact information.    
+Then, we card sorted the top tasks with internal stakeholders to come up with a preliminary list of about 20 categories to organize Canada.ca content. In this research step, we proposed an initial set of subject-based themes, such as taxes and immigration, as well as more administrative categories like media or contact information.    
 
 <!-- ** How did we group them originally?** Not sure actually where the themes came from - will check -->
 
-After negotiation with internal stakeholders, we had 15 theme labels that would form the main navigation for canada.ca and the mortar to build bridges between departmental websites and tasks.
-
-<img class="img-responsive" alt="Themes on canada.ca" src="/images/themes_1000x457.jpg">
+After analysis and consultation, we had 15 theme labels that would form the main navigation for canada.ca and the mortar to build bridges between departmental websites and tasks.
 
 ## Testing the building blocks
 
 Coming up with the themes was only the first step, both for the taxonomy and the navigation on Canada.ca.
 
-We next did a tree test with 848 citizens to validate the theme and topic structure. This showed us the value in a subject-based approach and allowed us to simplify the structure.
+We next did a tree test with 848 citizens to validate the theme and topic structure. This showed us the value in a subject-based approach and allowed us to simplify the structure. We were able to take out a layer in our initial tree (At this point we had two big categories for grouping the subject based themes - About government, Information for/Topics.) as it didnt help citizens choose where to click.
 
-The first task after themes were decided was to create the rest of the navigation tree. Each topic would be a keyword for citizens to find the next step towards their task but would also have to reflect the various perspectives and services government had on that topic. 
+After themes were decided, we started to create the rest of the navigation tree. Each topic would be a keyword for citizens to find the next step towards their task but would also have to reflect the various perspectives and services government had on that topic. 
 
 Designs were made to help guide Canadians through their journey, while also giving them the chance to offramp to most requested tasks and explore more about government policy or opportunities to provide feedback.
 
 *Insert graphic on sections of the topic page - perhaps similar to the IP one Manu made? Maybe use a mobile view?*
+*or screen grabs of the initial prototypes - might be in the usability testing report*
 
 Then, we invited Canadians to try finding the top tasks in these new designs. 
 
 We built simple prototypes of two different options for themes and did usability testing with 30 citizens. From this, we were able to generate a new design which was used for the initial launch of Canada.ca in December 2013, and is still in use today.
+
+<img class="img-responsive" alt="Themes on canada.ca" src="/images/themes_1000x457.jpg">
 
 ## Ongoing testing
 
