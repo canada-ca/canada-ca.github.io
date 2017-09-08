@@ -39,7 +39,7 @@ The live Starting a business page matches our final working prototype very close
 <img class="img-responsive" alt="Starting a business page now with steps and no photo of leaves at the top" src="/images/Starting_template_Aug2017_599x467.png">
 
 ## Improved outcomes for Canadians starting a business
-<div class="well panel">100% of 34 participants in a series of two additional usability studies could find essential legal steps to start a business, with the new simplified steps pattern.</div>
+<div class="well panel">In two additional usability studies, 100% of 34 participants could find essential legal steps to start a business, with the new simplified steps pattern.</div>
 
 We were excited when we saw how comfortable the first few participants were with the steps pattern on the Starting a business topic page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process. The steps gave them confidence that they wouldn't miss something crucial, and they could come back to the topic page after completing each step.
 
