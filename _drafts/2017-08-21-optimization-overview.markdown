@@ -12,7 +12,7 @@ Canada.ca was created to make online services simpler and easier for Canadians. 
 
 ## Optimization design sprints
 
-To improve existing digital services for citizens, the TBS optimization team draws on our own experience along with methods adapted from Google Ventures, Gerry McGovern, and from the other governments such as the Government Digital Services team in the UK. We use these ideas together with GC departments to improve top tasks like starting a business, getting weather information and visiting Canada.  
+To improve existing digital services for citizens, the TBS optimization team draws on our own experience along with methods adapted from Google Ventures, Gerry McGovern and other governments, such as the Government Digital Services team in the UK. We use these ideas together with GC departments to improve top tasks like starting a business, getting weather information and visiting Canada.  
 
 <img class="img-responsive" alt="Photo of Sprint and Transform books, iPad with GDS blog and sketch notes" src="/images/Optimize_1100x825.jpg">
 
@@ -32,7 +32,7 @@ Data and evidence drive the 3 to 4 month sequence we use to optimize online serv
 
 Once an optimization project is agreed upon, the optimization team is formed with members from TBS and from the department(s) responsible for the service. TBS optimization members include an experienced Optimization Lead, with designers, behavioural researchers, project managers and advisors.  From the departments, members usually include web communications leads and program specialists.  Teams may occasionally pull in deeper-level specialists. For example, an expert from Corporations Canada joined the starting a business optimization team to workshop the baseline testing results, and afterwards were represented by ISED. As the project ramps up into the design and prototyping stage, the team works together through frequent face-to-face workshops and online tools like Github and Webex. 
 
->Design sprints are most successful with a mix of people. - Jake Knapp, author of <em>Sprint</em>
+>Design sprints are most successful with a mix of people - Jake Knapp, author of <em>Sprint</em>
 
 ## Usability testing is key
 
