@@ -36,16 +36,16 @@ Once an optimization project is agreed upon, the optimization team is formed wit
 
 ## Usability testing is key
 
-You'll notice that two of the steps in the process involve moderated usability testing. In fact, usability testing is key to the success of the entire project.
+You'll notice that two of the steps in the process involve moderated usability testing. In fact, usability testing is key to the success of the entire project. This kind of research study, where Canadian participants across the country perform realistic task-scenarios on their own computers, tablets and phones gives the teams valuable measurements of how well the service is performing, and helps the team understand how people using the content on the site. 
 
-Through moderated usability testing, we are attempting to accomplish two things:
+Through moderated usability testing, we accomplish two things:
 
  - measure improvements in terms of task findability and task completion
  - leverage evidence to guide our improvement activities.
 
 In terms of measuring improvements, we are aiming to achieve a noticeable increase in participants' ability to both find and complete the tasks. Usually, this means something in the range of 10 to 20 percentage points when comparing the baseline testing results to the validation round, depending on where the baseline sits. It's a lot easier to go from from 50% to 70% task success in a single project than it is to go from 70% to 90%. 
 
-Within each optimization project, the insights that the team gains from observing usability testing and analyzing the results feed directly into the design phase. It's only once the baseline testing is completed that we actually know what to focus on in terms of building the prototypes.
+Within each optimization project, the insights that the team gains from observing people performing tasks during usability testing and analyzing the results feed directly into the design phase. It's only once the baseline testing is completed that we actually know what to focus on in terms of potention solutions to build into the prototypes. 
 
 The insights drawn from usability testing are also leveraged to improve the overall design system for Canada.ca. We're always looking for patterns in the issues that the testing uncovers, and when we spot a trend, we work on updating our design manuals to address them. You'll see evidence of this in updates to:
 
@@ -62,4 +62,8 @@ We’re happy to share what we’ve learned. If you’ve got questions, email us
 
 ## Explore further
 
-- insert links
+* [Helping Canadians start a business](https://canada-ca.github.io/category/2017/08/15/Starting_a_business.html) was our first optimization project, with Innovation, Science and Economic Development Canada and the Canada Revenue Agency
+* [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
+* [Sprint Stories](https://sprintstories.com/) features case studies by government and private industry about using the Design Sprint process
+* The [Government Digital Service Blog](https://gds.blog.gov.uk/) on Gov.UK is a rich source of optimization inspiration
+* In [Why we say no to surveys and focus groups](https://www.dta.gov.au/blog/surveys-and-focus-groups/), Leisa Reichelt at Australia's Digital Transformation Agency describes the value their team gets from task-based usability testing
