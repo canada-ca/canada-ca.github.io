@@ -20,7 +20,7 @@ La page de sujet Lancer une entreprise utilisait le modèle normalisé au début
 
 ## Partager les maux de tête des entrepreneurs en démarrage au Canada
 
-<div class="well panel">Seuls 67 % des 20 participants à notre essai d’utilisabilité de base du site pouvaient trouver les mesures juridiques essentielles pour lancer une entreprise.</div>
+<div class="well panel">Seuls 67 % des 20 participants à notre essai d’utilisabilité de base pouvaient trouver les mesures juridiques essentielles pour lancer une entreprise.</div>
 
 Même si aucun des participants n’a déjà lancé d’entreprise auparavant, beaucoup étaient des étudiants en administration des affaires. Après avoir essayé les tâches, certains ont confié que selon l’expérience sur le site de base, ils devraient probablement embaucher un comptable ou un avocat pour lancer leur propre entreprise un jour.
 
