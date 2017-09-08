@@ -14,7 +14,7 @@ Canada.ca was created to make online services simpler and easier for Canadians. 
 
 To improve existing digital services for citizens, the TBS optimization team uses our own User Experience  along with ideas from Google Ventures, and from the Government Digital Services team in the UK. We use these ideas together with GC departments to improve top tasks like Starting a Business, Weather and Visiting Canada.  
 
-<img class="img-responsive" alt="Photo of Sprint and Transform books, iPad with GDS blog and sketch notes" src="/images/optimize.jpg">
+<img class="img-responsive" alt="Photo of Sprint and Transform books, iPad with GDS blog and sketch notes" src="/images/optimize.JPG">
 
 Optimization projects are short and intensely focused on increasing task success. We focus on improving the first steps that citizens would take to explore and understand the task. For example, to start a business, people needed to understand the sequence they would need to follow, and explore the implications before they took a particular step. As we build up our experience working on optimization, we anticipate working deeper and deeper into the tasks. 
 
