@@ -47,11 +47,18 @@ In terms of measuring improvements, we are aiming to achieve a noticeable increa
 
 Within each optimization project, the insights that the team gains from observing usability testing and analyzing the results feed directly into the design phase. It's only once the baseline testing is completed that we actually know what to focus on in terms of building the prototypes.
 
-The insights drawn from usability testing are also leveraged to improve the overall design system for Canada.ca. We're always looking for patterns in the issues that the testing uncovers, and when we spot a trend, we work on updating our design manuals to address them. You'll see evidence of this in updates to the [Canada.ca Content and Information Architecture Specification](link) and [Canada.ca Content Style Guide](link).
+The insights drawn from usability testing are also leveraged to improve the overall design system for Canada.ca. We're always looking for patterns in the issues that the testing uncovers, and when we spot a trend, we work on updating our design manuals to address them. You'll see evidence of this in updates to:
+
+* [Canada.ca Content and Information Architecture Specification](link)
+* [Canada.ca Content Style Guide](link).
 
 ## There's more to come
 
 To date we have undertaken two Canada.ca optimization projects, and we're working on more. We'll be writing up our experiences with these activities in future articles, so stay tuned!
+
+## Find out more
+
+We’re happy to share what we’ve learned. If you’ve got questions, email us at ux.eu@tbs-sct.gc.ca
 
 ## Explore further
 
