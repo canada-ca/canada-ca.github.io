@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making Canada.ca for Canadians"
-gradelevel: x
+gradelevel: 10.9
 ref: template
 date:   2017-08-30 15:43:44 +0100
 categories: category
@@ -9,19 +9,21 @@ published: false
 lang: en
 ---
 
-In 2012, the Government of Canada began working towards a more centralized web presence. The vision for Canada.ca was to make it easier for Canadians to find what they were looking for, whichever department or agency might provide it. Here's the research and testing we did to tackle the challenge of designing the site's structure that you see reflected in its main navigation.
+In 2012, the Government of Canada began working towards a more centralized web presence. The vision for Canada.ca was to make it easier for Canadians to find what they were looking for, whichever department or agency might provide it. Here's the research and testing we did to tackle the challenge of design the site's information architecture and navigation.
 
 ## Themes: bridges across the thousand islands
 
 <img class="img-responsive" alt="Bridge across the Thousand Islands" src="/images/thousand-islands-bridge_600x400.jpg">
 
-Image credit: /[Ad Meskens](https://commons.wikimedia.org/wiki/User:Ad_Meskens)
+Image credit: [Ad Meskens](https://commons.wikimedia.org/wiki/User:Ad_Meskens)
 
-While some people know which department provides a service, many don’t know or care. As each department and agency maintains a website of their own, there wasn't a single online window where a Canadian could find all government services. 
+While some people know which department provides a service, many don’t know or care. As each department and agency maintains a website of their own, there hasn't been a single online window where a Canadian could find all government services.
+
+Canada.ca couldn't be a list of island names. We wanted to develop a taxonomy of labels that would be meaningful to people who visited for the first time. They had to reflect the mental models of most Canadians, that is, be the sensible link to click to find their task.
  
-There were a lot of steps involved in building the steps.
+Building a bridge, however, is not a simple process. We had to research the most in-demand services, consult with the departments that delivered them, brainstorm and research keywords, validate our labels with Canadians and, finally, figure out how to make them all fit on a webpage.
 
-### Step 1: Build a list of our top 100 tasks
+### Step 1: List our top tasks
 
 The first thing we did when planning Canada.ca was to develop a list of the 100 most in-demand tasks that citizens undertook with the federal government. In 2013, we worked with departments and agencies to collect and analyze as much web traffic data as we could to create an inventory of top 100 Government of Canada tasks.
 
@@ -42,41 +44,40 @@ In addition to the themes and topics, there were also two more structures that c
 
 Coming up with the themes was only the first step, both for the taxonomy and the navigation on Canada.ca.
 
-We next did a tree test with 848 citizens to validate the theme and topic structure as well as the other structures that came out of the card sort. 
+Next, we did a tree test with 848 Canadians that we asked to help us through existing government websites. They identified in a tree of labels where they would expect to find a specific task that we outlined for them.
 
-The card sort demonstrated the value of a subject-based approach and allowed us to simplify the navigation proposal. We were able to take out layers in our initial tree around audiences and about government as they didnt help citizens choose where to click.
+The tree we provided them during the testing reflected both the theme and topic structure as well as the other structures that came out of the card sort. 
+
+This helped us demonstrate that Canadians really were thinking through a subject-based approach. As a result, we were able to take out layers from our initial tree around audiences as they didnt help citizens choose where to click. We were also able to inform some of the visual layout, but keeping about government content separate from other services and information.
 
 ### Step 4: Building out the rest of the navigation tree
 
-As we decided on the themes, we started to create the rest of the navigation tree. Each topic had to be a keyword for citizens to find the next step towards their task. This was something we continued to validate with tree tests.
+With themes confirmed through user testing and stakeholder approval, we started to create the rest of the navigation tree. 
 
-As each topic would also reflect the various perspectives and services government had related to its label name, we brought in departments with knowledge of the services and policies government had in those areas to build the taxonomies of the themes most related to their departments.
+As each topic needs to reflect all government has to say about it, so as not to leave visitors stranded, departments with knowledge of the services and policies in those areas lead the taxonomies of the themes and topics.
+
+Even now, 3 years later, theme leads are still making changes to the topic tree to make improvements to service findability. Tree tests are also carried out to validating these changes.
 
 ### Step 5: User interface test
 
-In addition to taxonomy testing, we also built page and navigation designs to help guide Canadians through their journey.
+In addition to tree testing, we also built designs for the pages and menus where the taxonomy would actually appear on the website. 
 
-One of our principles was to make it while also giving them the chance to offramp to most requested tasks and explore more about government policy or opportunities to provide feedback.
+Because we had 15 top level themes and hundreds of topics between them, we needed to decide whether to create a simpler first level, such as putting all the themes under a "Services and information" menu, like Amazon's 'departments', displaying themes on more than one row, or hiding only a part of them under a "More services" option. 
 
-*Insert graphic on sections of the topic page - perhaps similar to the IP one Manu made? Maybe use a mobile view?*
-*or screen grabs of the initial prototypes - might be in the usability testing report*
+Driven by our goals of improved findability and reduced time to task, we also needed to decide between a light navigation, with a menu all on one page, or pages for each topic, and what they could contain.
 
-Then, we invited Canadians to try finding the top tasks in these new designs. 
+To learn more about the topic page design and testing, see [Topic page article]().
 
-We built simple prototypes of two different options for themes and did usability testing with 30 citizens. From this, we were able to generate a new design which was used for the initial launch of Canada.ca in December 2013, and is still in use today.
+We built simple prototypes of two different options for themes and did usability testing with 30 citizens. Based on this, we decided on the design which was used for the initial launch of Canada.ca in December 2013, and is still in use today:
 
 <img class="img-responsive" alt="Themes on canada.ca" src="/images/themes_1000x457.jpg">
 
-## Ongoing testing
+## Ongoing testing and optimization
 
 Our research and testing on themes and navigation have only increased since Canada.ca was first launch and we will continue to refine the navigation model.
 
-*Testing results from various rounds, iterative decisions made?*
-
-<!-- moved all the search stuff out, should be a separate article on search -->
-
-## Optimizing tasks
+We've put together an overview of the testing we've done and research we've focused on over the past few years in [Canada.ca iterative improvements](https://canada-ca.github.io/category/2017/09/11/iterative-improvements.html).
 
 After 4 years, many of the bridges of topics and search are now in place and we're now shifting our focus to end-to-end task improvements.
 
-To learn more about iterative improvements we're making to the top canada.ca tasks, please see [optimization projects umbrella article???]().
+To learn more about iterative improvements we're making to the top canada.ca tasks, please see [How we're optimizing top tasks on Canada.ca](https://canada-ca.github.io/category/2017/08/21/optimization-overview.html).
