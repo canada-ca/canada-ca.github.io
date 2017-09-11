@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "The topic page: building block for Canada.ca"
+gradelevel: x
+ref: template
+date:   2017-09-11 15:43:44 +0100
+categories: category
+published: false
+lang: en
+---
+
 One of our principles was to make it while also giving them the chance to offramp to most requested tasks and explore more about government policy or opportunities to provide feedback.
 
 Another difficulty we ran into was ensuring Canadians who were very familiar with keywords in a government process could still find their task. There was a big difference, for example, between a first time tax filer or a Canadian who knew they needed to get a TD1, one of Canada.ca's top search terms.
