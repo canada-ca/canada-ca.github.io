@@ -7,3 +7,17 @@ Another difficulty we ran into was ensuring Canadians who were very familiar wit
 , we were split between trying to reduce the number of pages a user had to go through and making sure each step and label was effortless to choose.
 
 We developed the topic page template as a standard design that could be used across the website for navigation, then we invited Canadians to try finding their tasks in the new pages.
+
+Most requested
+
+What we are doing
+
+Cross-links
+
+Including dropdown menus (travel advisories)
+
+Topic page variants (sequential) (link to article)
+
+Country pages (link to article)
+
+Canada.ca audiences (link to article)
