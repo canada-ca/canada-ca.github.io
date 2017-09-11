@@ -32,7 +32,7 @@ Data and evidence drive the 3 to 4 month sequence we use to optimize online serv
 
 Once an optimization project is agreed upon, the optimization team is formed with members from TBS and from the department(s) responsible for the service. TBS optimization members include an experienced Optimization Lead, with designers, behavioural researchers, project managers and advisors.  From the departments, members usually include web communications leads and program specialists.  Teams may occasionally pull in deeper-level specialists. For example, an expert from Corporations Canada joined the starting a business optimization team to workshop the baseline testing results, and afterwards were represented by ISED. As the project ramps up into the design and prototyping stage, the team works together through frequent face-to-face workshops and online tools like Github and Webex. 
 
->Design sprints are most successful with a mix of people - Jake Knapp, author of <em>Sprint</em>
+<div class="well panel">Design sprints are most successful with a mix of people - Jake Knapp, author of <em>Sprint</em></div>
 
 ## Usability testing is key
 
