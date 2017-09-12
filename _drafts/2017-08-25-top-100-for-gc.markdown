@@ -66,8 +66,6 @@ We collected hundreds of tasks, but picked out 100 of the most visited tasks to 
 
 Since 2013, we've gone through 3 iterations of the top task list for Canada.ca, improving, as a government, how we can gather comparable data and tasks.
 
-For more on how we've been asking departments and agencies to think about and provide us comparable top task data, please read [How to identify top tasks]().
-
 ## 3. Validating the tasks and filling in the gaps
 
 We're pretty confident in our latest set of 100 top tasks, so we're now looking to start stage 3: top task surveys.
@@ -88,8 +86,17 @@ Top task performance is now being used as the basis for optimizing Canada.ca.
 
 Top task management is not about migrating all content to new platforms, removing old, duplicate content or even managing your web presence. These all have their place and time, but the priority of all communications branches in government needs to be focused on ensuring citizens are able to find and complete the tasks they come to do. If we don't, we are putting at risk the outcomes of the policies and services that our government is mandated to deliver.
 
-Canada.ca has been built on a foundation of top tasks. You can read more about the [making of Canada.ca]().
-
-Since then, we've been working with departments and agencies who own the top tasks that Canadians come to complete with Government. Read more about [optimization projects]().
-
 And the web isn't the end. TBS is also planning to leverage top tasks to inform service policy. Top tasks currently only reflect the online portion of tasks, but we're collaborating to make sure the dots are connected with call centers, service desks and the other ways government serves Canadians.
+
+## Find out more
+
+We’re happy to share what we’ve learned. If you’ve got questions, email us at ux.eu@tbs-sct.gc.ca
+
+## Explore further
+
+* For more on how we've been asking departments and agencies to think about and provide us comparable top task data, please read [How to identify top tasks]().
+* [Making Canada.ca for Canadians]() tells about how we originally used the top 100 tasks in 2013 to design Canada.ca navigation
+* [How we're optimizing top tasks on Canada.ca](https://canada-ca.github.io/category/2017/08/21/optimization-overview.html) shares more about how we're focusing now on improving specific top tasks on Canada.ca
+* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) is a great article from Gerry McGovern on the value of top tasks and the survey voting method to validate them
+* [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
+* [How to conduct a top task analysis](https://measuringu.com/top-tasks/) from Jeff Sauro gets into some of the statistical details around analysing top task data from surveys
