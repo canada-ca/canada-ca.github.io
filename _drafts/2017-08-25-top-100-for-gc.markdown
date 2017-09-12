@@ -66,7 +66,7 @@ We collected hundreds of tasks, but picked out 100 of the most visited tasks to 
 
 Since 2013, we've gone through 3 iterations of the top task list for Canada.ca, improving, as a government, how we can gather comparable data and tasks.
 
-## 3. Validating the tasks and filling in the gaps
+## 3. Validating top tasks with a survey
 
 We're pretty confident in our latest set of 100 top tasks, so we're now looking to start stage 3: top task surveys.
 
