@@ -27,8 +27,6 @@ Building a bridge, however, is not a simple process. We had to research the most
 
 The first thing we did when planning Canada.ca was to develop a list of the 100 most in-demand tasks that citizens undertook with the federal government. In 2013, we worked with departments and agencies to collect and analyze as much web traffic data as we could to create an inventory of top 100 Government of Canada tasks.
 
-To learn more about the top 100 tasks, see [Top task management on Canada.ca]().
-
 ### Step 2: Card sort with stakeholders
 
 In June 26, we card sorted the top tasks with internal stakeholders to come up with a preliminary list of about 20 categories to organize Canada.ca content. 
@@ -76,8 +74,17 @@ We built simple prototypes of two different options for themes and did usability
 
 Our research and testing on themes and navigation have only increased since Canada.ca was first launch and we will continue to refine the navigation model.
 
-We've put together an overview of the testing we've done and research we've focused on over the past few years in [Canada.ca iterative improvements](https://canada-ca.github.io/category/2017/09/11/iterative-improvements.html).
-
 After 4 years, many of the bridges of topics and search are now in place and we're now shifting our focus to end-to-end task improvements.
 
-To learn more about iterative improvements we're making to the top canada.ca tasks, please see [How we're optimizing top tasks on Canada.ca](https://canada-ca.github.io/category/2017/08/21/optimization-overview.html).
+## Find out more
+
+We’re happy to share what we’ve learned. If you’ve got questions, email us at ux.eu@tbs-sct.gc.ca
+
+## Explore further
+
+* [Top task management on Canada.ca]() describes how we compiled the top 100 task list for Canada.ca and how we continue to improve it and use it to manage the website
+* We've put together an overview of the testing we've done and research we've focused on over the past few years in [Canada.ca iterative improvements](https://canada-ca.github.io/category/2017/09/11/iterative-improvements.html)
+* [How we're optimizing top tasks on Canada.ca](https://canada-ca.github.io/category/2017/08/21/optimization-overview.html) shares more about how we're focusing now on improving specific top tasks on Canada.ca
+* [Tree testing](https://www.nngroup.com/articles/tree-testing/) is a good primer from the Nielson Norman Group on how to conduct tree testing for website navigation
+* [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
+* In [Why we say no to surveys and focus groups](https://www.dta.gov.au/blog/surveys-and-focus-groups/), Leisa Reichelt at Australia's Digital Transformation Agency describes the value their team gets from task-based usability testing
