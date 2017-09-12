@@ -211,8 +211,15 @@ But to many canadians, the weather forecast is something they can get as easily 
 Some businesses use the top task survey model to fill in the gaps in analytics data.
 
 
+## Find out more
 
+We’re happy to share what we’ve learned. If you’ve got questions, email us at ux.eu@tbs-sct.gc.ca
 
+## Explore further
 
-
-
+* [Top task management on Canada.ca]() presents the methodology we use to identify and manage the top 100 tasks for Canada.ca
+* [Making Canada.ca for Canadians]() gives an overview of how we originally used the top 100 tasks in 2013 to design Canada.ca navigation
+* [How we're optimizing top tasks on Canada.ca](https://canada-ca.github.io/category/2017/08/21/optimization-overview.html) shares more about how we're focusing now on improving specific top tasks on Canada.ca
+* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) is a great article from Gerry McGovern on the value of top tasks and the survey voting method to validate them
+* [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
+* [How to conduct a top task analysis](https://measuringu.com/top-tasks/) from Jeff Sauro gets into some of the statistical details around analysing top task data from surveys
