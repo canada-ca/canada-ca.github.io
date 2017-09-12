@@ -9,7 +9,7 @@ published: false
 lang: en
 ---
 
-In 2012, the Government of Canada began working towards a more centralized web presence. The vision for Canada.ca was to make it easier for Canadians to find what they were looking for, whichever department or agency might provide it. Here's the research and testing we did to tackle the challenge of design the site's information architecture and navigation.
+In 2012, the Government of Canada began working towards a more centralized web presence. The vision for Canada.ca was to make it easier for Canadians to find what they were looking for, whichever department or agency might provide it. Here's the research and testing we did to tackle the challenge of designing the site's information architecture and navigation.
 
 ## Themes: bridges across the thousand islands
 
