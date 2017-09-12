@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Making Canada.ca for Canadians"
+wordcount: 1066
 gradelevel: 10.9
 ref: template
 date:   2017-08-30 15:43:44 +0100
@@ -19,7 +20,7 @@ Image credit: [Ad Meskens](https://commons.wikimedia.org/wiki/User:Ad_Meskens)
 
 While some people know which department provides a service, many don’t know or care. As each department and agency maintains a website of their own, there hasn't been a single online window where a Canadian could find all government services.
 
-Canada.ca couldn't be a list of island names. We wanted to develop a taxonomy of labels that would be meaningful to people who visited for the first time. They had to reflect the mental models of most Canadians, that is, be the sensible link to click to find their task.
+Canada.ca couldn't just be a list of island names. We wanted to develop a set of labels that would be meaningful to people who visited for the first time. They had to reflect the mental models of citizens, to be the obvious link to click to find their task.
  
 Building a bridge, however, is not a simple process. We had to research the most in-demand services, consult with the departments that delivered them, brainstorm and research keywords, validate our labels with Canadians and, finally, figure out how to make them all fit on a webpage.
 
@@ -29,32 +30,33 @@ The first thing we did when planning Canada.ca was to develop a list of the 100 
 
 ### Step 2: Card sort with stakeholders
 
-In June 26, we card sorted the top tasks with internal stakeholders to come up with a preliminary list of about 20 categories to organize Canada.ca content. 
+In June of 2013, we card sorted the top tasks with internal stakeholders to come up with a preliminary list of about 20 categories to organize Canada.ca content. 
 
-After analysis and consultation, we proposed an 
-- initial set of 15 subject-based themes, such as taxes or immigration that would form the main navigation for canada.ca and the mortar to build bridges between departmental websites and tasks.
+After analysis and consultation, we proposed an initial set of 15 subject-based categories, such as taxes or immigration, that would form the main navigation for canada.ca. These would form the mortar to build bridges between the services and information on departmental websites. Internally, we've come to refer to these big topics as themes.
 
-In addition to the themes and topics, there were also two more structures that came out of the card sort,
+<!-- In addition to the themes and topics, there were also two more structures that came out of the card sort,
 - 1 based on administrative categories like media or contact information
-- 1 based on audiences like indigenous peoples or seniors
+- 1 based on audiences like indigenous peoples or seniors -->
 
 ### Step 3: Tree test with Canadians
 
-Coming up with the themes was only the first step, both for the taxonomy and the navigation on Canada.ca.
+Coming up with the themes was only the first step, both for the structure and the navigation on Canada.ca. Underneath there are narrower topics and subtopics - in techincal terms, a hierarchical subject-based taxonomy. 
 
-Next, we did a tree test with 848 Canadians that we asked to help us through existing government websites. They identified in a tree of labels where they would expect to find a specific task that we outlined for them.
+To try out our themes and topics with users, we did the first of many online tree tests with citizens in July 2013. In this test, 848 participants navigated (browsed?) the themes and the first layer of topics to choose where they would expect to accomplish representative top tasks that we outlined for them.
 
-The tree we provided them during the testing reflected both the theme and topic structure as well as the other structures that came out of the card sort. 
+<!-- insert image of treejack here -->
 
-This helped us demonstrate that Canadians really were thinking through a subject-based approach. As a result, we were able to take out layers from our initial tree around audiences as they didnt help citizens choose where to click. We were also able to inform some of the visual layout, but keeping about government content separate from other services and information.
+<!-- The tree we provided during the testing reflected both the theme and topic structure as well as the other structures that came out of the card sort. -->
+
+This demonstrated to us that Canadians really were thinking through a subject-based approach. As a result, we were able to simplify our initial tree to remove unclear labels that didn't help citizens choose where to click. We were also able to inform some of the visual layout, by keeping content about government separate from services and information that were more directly focused on citizens.
 
 ### Step 4: Building out the rest of the navigation tree
 
-With themes confirmed through user testing and stakeholder approval, we started to create the rest of the navigation tree. 
+With themes and top-level topics confirmed, we started to create deeper layers of the navigation tree. 
 
-As each topic needs to reflect all government has to say about it, so as not to leave visitors stranded, departments with knowledge of the services and policies in those areas lead the taxonomies of the themes and topics.
+As each topic needs to reflect all government has to say about it, so as not to leave visitors stranded, departments with knowledge of the services and policies in each theme and topic area lead the development of the taxonomies.
 
-Even now, 3 years later, theme leads are still making changes to the topic tree to make improvements to service findability. Tree tests are also carried out to validating these changes.
+Even now, 3 years later, theme leads are still making changes to the topic tree to make improvements to service findability. Tree tests continue to be carried out to test these changes.
 
 ### Step 5: User interface test
 
@@ -64,21 +66,19 @@ Because we had 15 top level themes and hundreds of topics between them, we neede
 
 Driven by our goals of improved findability and reduced time to task, we also needed to decide between a light navigation, with a menu all on one page, or pages for each topic, and what they could contain.
 
-To learn more about the topic page design and testing, see [Topic page article]().
-
 We built simple prototypes of two different options for themes and did usability testing with 30 citizens. Based on this, we decided on the design which was used for the initial launch of Canada.ca in December 2013, and is still in use today:
 
 <img class="img-responsive" alt="Themes on canada.ca" src="/images/themes_1000x457.jpg">
 
 ## Ongoing testing and optimization
 
-Our research and testing on themes and navigation have only increased since Canada.ca was first launch and we will continue to refine the navigation model.
+Research and testing on themes and navigation have only increased since Canada.ca was first launch and we will continue to refine the navigation model.
 
 After 4 years, many of the bridges of topics and search are now in place and we're now shifting our focus to end-to-end task improvements.
 
 ## Find out more
 
-We’re happy to share what we’ve learned. If you’ve got questions, email us at ux.eu@tbs-sct.gc.ca
+We’re happy to share what we’ve learned. Email us at ux.eu@tbs-sct.gc.ca
 
 ## Explore further
 
