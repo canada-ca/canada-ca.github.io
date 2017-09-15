@@ -16,12 +16,10 @@ lang: en
 </th></tr><tr><td> 1 </td>
 <td> Get a local weather forecast </td>
 <td> ECCC </td>
-<td> 6+ </td>
 <td> 76,713,510
 </td></tr><tr><td> 2 </td>
 <td> Get a visitor visa </td>
 <td> IRCC, <span class="mw-lingo-tooltip "><span class="mw-lingo-tooltip-abbr">CBSA</span><span class="mw-lingo-tooltip-tip "><span class="mw-lingo-tooltip-definition ">Canada Border Services Agency</span></span></span> </td>
-<td> 12+ </td>
 <td> 24,462,651
 </td></tr><tr><td> 3 </td>
 <td> Apply to immigrate to Canada </td>
