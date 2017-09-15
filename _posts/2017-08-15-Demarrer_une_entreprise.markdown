@@ -56,7 +56,7 @@ Nous sommes très heureux de partager ce que nous avons appris. Si vous avez des
 
 Explorer encore plus loin par rapport au lancement d’entreprise :
 * Utiliser le menu Entreprises dans le haut de cette page afin de voir les étapes pour Lancer une entreprise plus optimiser.
-* Plus de renseignements sur le patron d’étapes et les preuves de recherche dans l’article [Les besoins des utilisateurs entraînent des nouveaux patrons de conceptions : Étapes](https://canada-ca.github.io/category/2017/08/09/evidence-based-template-designs.html).
+* Plus de renseignements sur le patron d’étapes et les preuves de recherche dans l’article [Étapes vers des nouveaux patrons de conception](https://github.com/canada-ca/canada-ca.github.io/blob/master/_posts/2017-08-09-etapes-vers-des-nouveaux-patrons.markdown).
 * Voyez le carte de logique complet pour lancer une entreprise avec [carte sur les choix de lancer une entreprise](/images/Decisions_demarrer_une_entreprise_Nov2016_gris_1818x1237.png)
 * L’importance d’une carte de logique dans le projet de lancer une entreprise dans l’article [Bringing logic to a government design sprint](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast).
 * Le projet d’optimisation pour les entreprises du service numérique gouvernemental du Royaume-Uni [Taking care of business on Gov.UK](https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/)
