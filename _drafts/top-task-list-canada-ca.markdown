@@ -211,7 +211,7 @@ lang: en
 <td> 656,004
 </td></tr><tr><td> 50 </td>
 <td> Find a National Park </td>
-<td> <span class="mw-lingo-tooltip "><span class="mw-lingo-tooltip-abbr">PC</span><span class="mw-lingo-tooltip-tip "><span class="mw-lingo-tooltip-definition ">Personal Computer</span></span></span> </td>
+<td> <span class="mw-lingo-tooltip "><span class="mw-lingo-tooltip-abbr">PC</span><span class="mw-lingo-tooltip-tip "><span class="mw-lingo-tooltip-definition ">Parks Canada</span></span></span> </td>
 <td> 648,759
 </td></tr><tr><td> 51 </td>
 <td> Access laws and regulations </td>
