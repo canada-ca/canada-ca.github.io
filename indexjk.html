@@ -8,42 +8,14 @@ lang: en
 <div class="home">
 
   <h1 class="page-heading">Newest Articles</h1>
-  
- <!--  <section class="col-md-6">
-<a href="#"><h2 class="h5">Helping Canadians start a business</h2>
-<img src="./images/08-15.png" alt="" class="img-responsive thumbnail">
-</a>
- <small>[2017-08-15 10:32]</small>
-</section>
 
-<section class="col-md-6">
-<a href="#"><h2 class="h5">Taking steps to new design patterns</h2>
-
-<img src="./images/08-09.png" alt="" class="img-responsive thumbnail">
-</a>
- <small>[2017-08-09 12:11]</small> 
-</section>
-
-
-<section class="col-md-6">
-<ul class="post-list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h2 class="h5">{{ post.title }}</h2> <img src="./images/08-09.png" alt="" class="img-responsive thumbnail"> </a>
-      </li>
-    {% endfor %}
-  </ul>
-</section> -->
   
   {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
 <section class="col-md-6">
 
-     
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h2 class="h5">{{ post.title }}</h2> <img src="./thumbs/{{ post.date | date: "%b%-d%Y" }}.png" alt="" class="img-responsive thumbnail"> </a>
-      
-
+  
 </section>
   {% endfor %}
   
