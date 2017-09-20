@@ -37,11 +37,11 @@ lang: en
 </section> -->
   
 <section class="col-md-6">
-<ul class="post-list">
+<ul>
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h2 class="h5">{{ post.title }}</h2> <img src="./thumbs/{{ post.date | date: "%b%-d%Y" }}.png" alt="" class="img-responsive thumbnail"> </a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h2 class="h5">{{ post.title }}</h2> <img src="./thumbs/{{ post.date | date: "%b%-d%Y" }}.png" alt="" class="img-responsive thumbnail"> </a>
       </li>
     {% endfor %}
   </ul>
