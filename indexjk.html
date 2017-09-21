@@ -14,9 +14,11 @@ lang: en
     {% for post in posts %}
 <section class="col-md-6">
 
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><small><span class="post-meta">[{{ post.date | date: "%F" }}]</small><p></p><img src="./thumbs/{{ post.date | date: "%b%-d%Y" }}.png" alt="" class="img-responsive thumbnail"></a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><small><span class="post-meta">[{{ post.date | date: "%F" }}]</small><p></p><img src="./thumbs/{{ post.date | date: "%F" }}.png" alt="" class="img-responsive thumbnail"></a>
   
 </section>
+
+
   {% endfor %}
   
   
@@ -27,7 +29,7 @@ lang: en
       <h2>Subscribe</h2>
       <ul class="list-inline mrgn-tp-lg">
         <li>
-          <a href="/rss/city/on-118_e.xml"><img src="./images/feed-icon-14x14.png" alt="RSS" class="mrgn-rght-sm">via RSS</a>
+          <a href="/rss/city/on-118_e.xml"><img src="./images/feed-icon-14x14.png" alt="ATOM" class="mrgn-rght-sm">ATOM</a>
         </li>
       </ul>
     </section>
