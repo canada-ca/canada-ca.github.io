@@ -26,7 +26,7 @@ Building a bridge, however, is not a simple process. We had to research the most
 
 ### Step 1: List our top tasks
 
-The first thing we did when planning Canada.ca was to develop a list of the 100 most in-demand tasks that citizens undertook with the federal government. In 2013, we worked with departments and agencies to collect and analyze as much web traffic data as we could to create an inventory of top 100 Government of Canada tasks.
+The first thing we did when planning Canada.ca was to develop a list of the 100 most in-demand tasks that citizens undertook with the federal government. In 2013, we worked with departments and agencies to collect and analyze as much web traffic data as we could to create an inventory of top 100 Government of Canada tasks (such as renewing a passport or getting a local weather forecast).
 
 ### Step 2: Card sort with stakeholders
 
@@ -36,19 +36,20 @@ After analysis and consultation, we proposed an initial set of 15 subject-based 
 
 <!-- In addition to the themes and topics, there were also two more structures that came out of the card sort,
 - 1 based on administrative categories like media or contact information
-- 1 based on audiences like indigenous peoples or seniors -->
+- 1 based on audiences like indigenous peoples or seniors 
+*not sure this adds to the story, maybe worth tackling in a separate post?* -->
 
 ### Step 3: Tree test with Canadians
 
 Coming up with the themes was only the first step, both for the structure and the navigation on Canada.ca. Underneath there are narrower topics and subtopics - in techincal terms, a hierarchical subject-based taxonomy. 
 
-To try out our themes and topics with users, we did the first of many online tree tests with citizens in July 2013. In this test, 848 participants navigated (browsed?) the themes and the first layer of topics to choose where they would expect to accomplish representative top tasks that we outlined for them.
+To try out our themes and topics with users, we did the first of many online tree tests with citizens in July 2013. In this test, 848 participants navigated (browsed?) the themes and the first layer of topics to choose where they would expect to accomplish representative top tasks.
 
 <!-- insert image of treejack here -->
 
-<!-- The tree we provided during the testing reflected both the theme and topic structure as well as the other structures that came out of the card sort. -->
+<!-- The tree we provided during the testing reflected both the theme and topic structure as well as the other structures that came out of the card sort. *not sure we need this para* -->
 
-This demonstrated to us that Canadians really were thinking through a subject-based approach. As a result, we were able to simplify our initial tree to remove unclear labels that didn't help citizens choose where to click. We were also able to inform some of the visual layout, by keeping content about government separate from services and information that were more directly focused on citizens.
+This demonstrated to us that many Canadians really were thinking through a subject-based approach. As a result, we were able to simplify our initial tree to remove unclear labels that didn't help citizens choose where to click. We were also able to inform some of the visual layout, by keeping content about government separate from services and information that were more directly focused on citizens.
 
 ### Step 4: Building out the rest of the navigation tree
 
@@ -56,7 +57,7 @@ With themes and top-level topics confirmed, we started to create deeper layers o
 
 As each topic needs to reflect all government has to say about it, so as not to leave visitors stranded, departments with knowledge of the services and policies in each theme and topic area lead the development of the taxonomies.
 
-Even now, 3 years later, theme leads are still making changes to the topic tree to make improvements to service findability. Tree tests continue to be carried out to test these changes.
+Even now, 3 years later, theme leads are still making changes to the topic tree to make improvements to service findability. Usability  tests continue to be carried out to test these changes.
 
 ### Step 5: User interface test
 
@@ -64,9 +65,11 @@ In addition to tree testing, we also built designs for the pages and menus where
 
 Because we had 15 top level themes and hundreds of topics between them, we needed to decide whether to create a simpler first level, such as putting all the themes under a "Services and information" menu, like Amazon's 'departments', displaying themes on more than one row, or hiding only a part of them under a "More services" option. 
 
+<!-- para above: don't really recall this being part of the prototypes that we built, but it was a long time ago. are there screencaps? -->
+
 Driven by our goals of improved findability and reduced time to task, we also needed to decide between a light navigation, with a menu all on one page, or pages for each topic, and what they could contain.
 
-We built simple prototypes of two different options for themes and did usability testing with 30 citizens. Based on this, we decided on the design which was used for the initial launch of Canada.ca in December 2013, and is still in use today:
+We built simple prototypes of two different options for themes and did usability testing with 30 citizens. Based on this, we adopted the design which is still in use today:
 
 <img class="img-responsive" alt="Themes on canada.ca" src="/images/themes_1000x457.jpg">
 
