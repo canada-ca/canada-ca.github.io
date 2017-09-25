@@ -1,0 +1,42 @@
+---
+layout: blog
+ref: index
+lang: en
+---
+
+
+<div class="home">
+
+  <h1 class="page-heading">Newest Articles</h1>
+
+  
+  {% assign posts=site.posts | where:"lang", page.lang %}
+    {% for post in posts %}
+<section class="col-md-6">
+
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><small><span class="post-meta">[{{ post.date | date: "%F" }}]</small><p></p><img src="./thumbs/{{ post.date | date: "%F" }}.png" alt="" class="img-responsive thumbnail"></a>
+  
+</section>
+
+
+  {% endfor %}
+  
+  
+
+<div class="row">
+<div class="col-sm-8">
+    <section class="followus">
+      <h2>Subscribe</h2>
+      <ul class="list-inline mrgn-tp-lg">
+        <li>
+          <a href="/rss/city/on-118_e.xml"><img src="./images/feed-icon-14x14.png" alt="ATOM" class="mrgn-rght-sm">ATOM</a>
+        </li>
+      </ul>
+    </section>
+</div>
+</div>
+
+
+
+
+
