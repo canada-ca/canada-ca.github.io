@@ -11,7 +11,7 @@ lang: en
 
   
   {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts limit: 1 %}
+    {% for post in posts limit: 2 %}
 
 <section class="col-md-6">
 
@@ -22,7 +22,7 @@ lang: en
 	{% endfor %}
 	
 	{% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts offset: 1 %}
+    {% for post in posts offset: 2 %}
 
 	  <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
