@@ -13,13 +13,13 @@ lang: en
   {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
 	
-	{% if forloop.rindex >= 1 %}
+	{% if forloop.rindex >=1 %}
 <section class="col-md-6">
 
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><small><span class="post-meta">[{{ post.date | date: "%F" }}]</small><p></p><img src="./thumbs/{{ post.date | date: "%F" }}.png" alt="" class="img-responsive thumbnail"></a>
   
 </section>
-	{% endif %}
+	{% else %}
 
 	  <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
