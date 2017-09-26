@@ -6,7 +6,7 @@ ref: steps
 date:   2017-08-09 09:48:44 +0100
 categories: category
 lang: en
-description: One of the key aspects of the Canada.ca design is a consistent template for topic pages to help citizens find and start their tasks. Canada.ca exists to provide better online service to Canadians for their top tasks.
+description: One of the key aspects of the Canada.ca design is a consistent template for topic pages to help citizens find and start their tasks.
 ---
 One of the key aspects of the Canada.ca design is a consistent template for topic pages to help citizens find and start their tasks. As an outcome of our optimization project for starting a business with Innovation, Science and Economic Development Canada (ISED) and Canada Revenue Agency (CRA), the product design team at Treasury Board Secretariat (TBS) created a simplified steps pattern for topic pages to organize a group of related top tasks in sequence.  
 
