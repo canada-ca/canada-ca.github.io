@@ -26,11 +26,11 @@ lang: en
 <section>
 <h2 id="s1">Older Articles</h2>
 
-	
+<div class="row">
+
 	{% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts offset: 2 %}
 
-<div class="row">
 <section class="col-lg-4 col-md-6 gc-drmt">
 <h3 class="h5"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </h3>
 <p><span class="post-meta">{{ post.date | date: "%F" }}</span> - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque praesentium, nulla ab nobis.</p>     
