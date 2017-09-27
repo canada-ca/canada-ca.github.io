@@ -14,7 +14,7 @@ lang: en
     {% for post in posts %}
 <section class="col-md-6">
 
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><img src="./thumbs/{{ post.date | date: "%F" | img_url: '520x296', crop: 'center' }}.png" alt="" class="img-responsive thumbnail"></a>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><img src="./thumbs/{{ post.date | date: "%F" | img_url: '520x296' crop: 'center' }}.png" alt="" class="img-responsive thumbnail"></a>
 		<p><small>[{{ post.date | date: "%F" }}]</small> - {{ post.description }}</p>
   
 </section>
