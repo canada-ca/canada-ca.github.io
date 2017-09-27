@@ -15,6 +15,7 @@ lang: en
 <section class="col-md-6">
 
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><small><span class="post-meta">[{{ post.date | date: "%F" }}]</small><p></p><img src="./thumbs/{{ post.date | date: "%F" }}.png" alt="" class="img-responsive thumbnail"></a>
+		<p><small>[{{ post.date | date: "%F" }}]</small> - {{ post.description }}</p>
   
 </section>
 
