@@ -35,10 +35,14 @@ There's no real one size fits all approach for contact us. As departments adopt 
 ##
 
 
-## Contact by region (another article?)
+
 
 ## One contact page to connect them all
 
+
+## Contact by region (another article?)
+
+One of the major issues that remains unresolved is contacts by region. The border services agency, mounties and fisheries departments came together to work with us on a standard design that would let Canadians find the contact services and numbers in their regions across Canada, but we've yet to implement and test them out.
 
 
 
