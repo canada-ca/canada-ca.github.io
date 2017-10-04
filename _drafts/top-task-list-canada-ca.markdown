@@ -313,7 +313,7 @@ lang: en
 <tr>
 <td> 44 </td>
 <td> File an annual corporate return </td>
-<td> Innovation Science and Economic Development Canada </td>
+<td> Innovation, Science and Economic Development Canada </td>
 <td> 793,946 </td>
 <td>-</td></tr>
 <tr>
@@ -399,7 +399,7 @@ lang: en
 <tr>
 <td> 58 </td>
 <td> Find if a trademark is taken </td>
-<td> Innovation Science and Economic Development Canada </td>
+<td> Innovation, Science and Economic Development Canada </td>
 <td> 587,281 </td>
 <td>-</td></tr>
 <tr>
@@ -411,12 +411,12 @@ lang: en
 <tr>
 <td> 60 </td>
 <td> Find a bankrupTransport Canaday or insolvency record </td>
-<td> Innovation Science and Economic Development Canada </td>
+<td> Innovation, Science and Economic Development Canada </td>
 <td> 526,085 </td>
 <td>-</td></tr>
 <tr>
 <td> 61 </td>
-<td> Find an authorInnovation Science and Economic Development Canada producer of medical marijuana </td>
+<td> Find an authorInnovation, Science and Economic Development Canada producer of medical marijuana </td>
 <td> Health Canada </td>
 <td> 500,000 </td>
 <td>-</td></tr>
@@ -529,7 +529,7 @@ lang: en
 <tr>
 <td> 79 </td>
 <td> File a trademark </td>
-<td> Innovation Science and Economic Development Canada </td>
+<td> Innovation, Science and Economic Development Canada </td>
 <td> 260,189 </td>
 <td>-</td></tr>
 <tr>
@@ -597,7 +597,7 @@ lang: en
 <tr>
 <td> 90 </td>
 <td> File for commercial bankruptcy </td>
-<td> Innovation Science and Economic Development Canada </td>
+<td> Innovation, Science and Economic Development Canada </td>
 <td> 224,020 </td>
 <td>-</td></tr>
 <tr>
