@@ -596,7 +596,7 @@ lang: en
 </td></tr>
 <tr>
 <td> 90 </td>
-<td> File for commercial bankrupTransport Canaday </td>
+<td> File for commercial bankruptcy </td>
 <td> Innovation Science and Economic Development Canada </td>
 <td> 224,020 </td>
 <td>-</td></tr>
