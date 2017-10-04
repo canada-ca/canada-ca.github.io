@@ -8,6 +8,7 @@ categories: category
 published: false
 lang: en
 ---
+
 Institutions included:
 Canada Border Services Agency (CBSA), Canada Revenue Agency (CRA), Canadian Food Inspection Agency (CFIA), Department of National Defence (DND), Employment and Social Development Canada (ESDC), Environment and Climate Change Canada (ECCC), Finance Canada (FIN), Fisheries and Oceans Canada (DFO), Global Affairs Canada (GAC), Health Canada (HC), Immigration, Indigenous and Northern Affairs Canada (INAC), Innovation, Justice Canada (JUS), Library and Archives Canada (LAC), National Research Council Canada (NRC), Parks Canada (PC), Public Health Agency of Canada (PHAC), Public Service Commission (PSC), Public Services and Procurement Canada (PSPC), Refugees and Citizenship Canada (IRCC), Royal Canadian Mounted Police (RCMP), Science and Economic Development Canada (ISED), Transport Canada (TC), Treasury Board of Canada Secretariat (TBS), Veterans Affairs Canada (VAC). 
 
@@ -26,7 +27,7 @@ Canada Border Services Agency (CBSA), Canada Revenue Agency (CRA), Canadian Food
 <tr>
 <td> 1 </td>
 <td> Get a local weather forecast </td>
-<td> ECCC </td>
+<td> Environment and Climate Change Canada </td>
 <td> 76,713,510 </td>
 <td> 52
 </td></tr>
@@ -47,7 +48,7 @@ Canada Border Services Agency (CBSA), Canada Revenue Agency (CRA), Canadian Food
 <tr>
 <td> 4 </td>
 <td> Get marine conditions </td>
-<td> ECCC, DFO </td>
+<td> Environment and Climate Change Canada, DFO </td>
 <td> 17,531,214 </td>
 <td> 42.2
 </td></tr>
@@ -109,7 +110,7 @@ Canada Border Services Agency (CBSA), Canada Revenue Agency (CRA), Canadian Food
 <tr>
 <td> 13 </td>
 <td> Review past weather conditions </td>
-<td> ECCC </td>
+<td> Environment and Climate Change Canada </td>
 <td> 4,007,002 </td>
 <td>-</td></tr>
 <tr>
@@ -176,7 +177,7 @@ Canada Border Services Agency (CBSA), Canada Revenue Agency (CRA), Canadian Food
 <tr>
 <td> 23 </td>
 <td> Get water levels data </td>
-<td> ECCC </td>
+<td> Environment and Climate Change Canada </td>
 <td> 2,378,232 </td>
 <td>-</td></tr>
 <tr>
@@ -243,7 +244,7 @@ Canada Border Services Agency (CBSA), Canada Revenue Agency (CRA), Canadian Food
 <tr>
 <td> 33 </td>
 <td> Find current hurricane conditions </td>
-<td> ECCC </td>
+<td> Environment and Climate Change Canada </td>
 <td> 1,375,108 </td>
 <td>-</td></tr>
 <tr>
@@ -309,7 +310,7 @@ Canada Border Services Agency (CBSA), Canada Revenue Agency (CRA), Canadian Food
 <tr>
 <td> 43 </td>
 <td> Look up a species at risk </td>
-<td> ECCC </td>
+<td> Environment and Climate Change Canada </td>
 <td> 800,995 </td>
 <td>-</td></tr>
 <tr>
