@@ -351,7 +351,7 @@ lang: en
 <tr>
 <td> 50 </td>
 <td> Find a National Park </td>
-<td> PC </td>
+<td> Parks Canada </td>
 <td> 648,759 </td>
 <td>-</td></tr>
 <tr>
@@ -486,7 +486,7 @@ lang: en
 <tr>
 <td> 72 </td>
 <td> Learn about the official symbols of Canada </td>
-<td> PCH </td>
+<td> Canadian Heritage </td>
 <td> 295,926 </td>
 <td>-</td></tr>
 <tr>
@@ -640,7 +640,7 @@ lang: en
 <tr>
 <td> 97 </td>
 <td> See tax treaty negotiation status with other countries </td>
-<td> Finance </td>
+<td> Finance Canada </td>
 <td> 186,187 </td>
 <td>-</td></tr>
 <tr>
