@@ -410,7 +410,7 @@ lang: en
 <td>-</td></tr>
 <tr>
 <td> 60 </td>
-<td> Find a bankrupTransport Canaday or insolvency record </td>
+<td> Find a bankruptcy or insolvency record </td>
 <td> Innovation, Science and Economic Development Canada </td>
 <td> 526,085 </td>
 <td>-</td></tr>
@@ -504,7 +504,7 @@ lang: en
 </td></tr>
 <tr>
 <td> 75 </td>
-<td> Access scientific, technical and medical journals* </td>
+<td> Access scientific, technical and medical journals </td>
 <td> National Research Council Canada </td>
 <td> 277579 </td>
 <td>-</td></tr>
@@ -604,7 +604,7 @@ lang: en
 <td> 91 </td>
 <td> See wildland fire danger zones and forecasts </td>
 <td> National Research Council Canadaan </td>
-<td> 217386 </td>
+<td> 217,386 </td>
 <td>-</td></tr>
 <tr>
 <td> 92 </td>
@@ -629,7 +629,7 @@ lang: en
 <td> Authenticate an official document </td>
 <td> Global Affairs Canada </td>
 <td> 193,986 </td>
-<td> 32.42
+<td> 32.4
 </td></tr>
 <tr>
 <td> 96 </td>
