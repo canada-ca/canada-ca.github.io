@@ -8,6 +8,7 @@ categories: category
 published: false
 lang: en
 ---
+Version 2.5
 
 <table class="table table-striped wb-tables">
 <thead>
@@ -31,7 +32,7 @@ lang: en
 <tr>
 <td> 2 </td>
 <td> Get a visitor visa </td>
-<td> Immigration, Refugees and Citizenship Canada, Canada Border Services Agency </td>
+<td> Immigration, Refugees and Citizenship Canada; Canada Border Services Agency </td>
 <td> 24,462,651 </td>
 <td> 33
 </td></tr>
@@ -45,7 +46,7 @@ lang: en
 <tr>
 <td> 4 </td>
 <td> Get marine conditions </td>
-<td> Environment and Climate Change Canada, Fisheries and Oceans Canada </td>
+<td> Environment and Climate Change Canada; Fisheries and Oceans Canada </td>
 <td> 17,531,214 </td>
 <td> 42.2
 </td></tr>
@@ -66,14 +67,14 @@ lang: en
 <tr>
 <td> 7 </td>
 <td> Find a job </td>
-<td> Public Service Commission, Employment and Social Development Canada </td>
+<td> Public Service Commission; Employment and Social Development Canada </td>
 <td> 6,771,731 </td>
 <td> 20.3
 </td></tr>
 <tr>
 <td> 8 </td>
 <td> Get recalls and safety alerts </td>
-<td> Health Canada, Transport Canada and Canadian Food Inspection Agency </td>
+<td> Health Canada; Transport Canada; Canadian Food Inspection Agency </td>
 <td> 6,104,252 </td>
 <td>-</td></tr>
 <tr>
@@ -120,7 +121,7 @@ lang: en
 <tr>
 <td> 15 </td>
 <td> Get travel advice and advisories </td>
-<td> Global Affairs Canada and Public Health Agency of Canada </td>
+<td> Global Affairs Canada; Public Health Agency of Canada </td>
 <td> 3,763,497 </td>
 <td> 43
 </td></tr>
@@ -214,7 +215,7 @@ lang: en
 <tr>
 <td> 29 </td>
 <td> Get rates of pay for public servants and the military </td>
-<td> Department of National Defence and Treasury Board of Canada Secretariat </td>
+<td> Department of National Defence; Treasury Board of Canada Secretariat </td>
 <td> 1,543,014 </td>
 <td> 32.8
 </td></tr>
@@ -253,7 +254,7 @@ lang: en
 </td></tr>
 <tr>
 <td> 35 </td>
-<td> RepLibrary and Archives Canadae a Permanent Resident card </td>
+<td> Replace a Permanent Resident card </td>
 <td> Immigration, Refugees and Citizenship Canada </td>
 <td> 1,289,500 </td>
 <td> 28.4
@@ -273,7 +274,7 @@ lang: en
 <td>-</td></tr>
 <tr>
 <td> 38 </td>
-<td> Get guidelines for immunization and Veterans Affairs Canadacination practices </td>
+<td> Get guidelines for immunization and vaccination practices </td>
 <td> Public Health Agency of Canada </td>
 <td> 1,000,002 </td>
 <td> 21.4
@@ -368,7 +369,7 @@ lang: en
 <td>-</td></tr>
 <tr>
 <td> 53 </td>
-<td> Check the Royal Canadian Mounted Police wanted list </td>
+<td> Check the RCMP wanted list </td>
 <td> Royal Canadian Mounted Police </td>
 <td> 619,810 </td>
 <td>-</td></tr>
@@ -386,7 +387,7 @@ lang: en
 <td>-</td></tr>
 <tr>
 <td> 56 </td>
-<td> Learn about hazardous materials in the workpLibrary and Archives Canadae </td>
+<td> Learn about hazardous materials in the workplace </td>
 <td> Health Canada </td>
 <td> 600,001 </td>
 <td>-</td></tr>
@@ -416,7 +417,7 @@ lang: en
 <td>-</td></tr>
 <tr>
 <td> 61 </td>
-<td> Find an authorInnovation, Science and Economic Development Canada producer of medical marijuana </td>
+<td> Find an authorised producer of medical marijuana </td>
 <td> Health Canada </td>
 <td> 500,000 </td>
 <td>-</td></tr>
@@ -443,7 +444,7 @@ lang: en
 <td> 65 </td>
 <td> Access the federal budget </td>
 <td> Finance Canada </td>
-<td> 413065 </td>
+<td> 413,065 </td>
 <td> 21.4
 </td></tr>
 <tr>
@@ -504,7 +505,7 @@ lang: en
 </td></tr>
 <tr>
 <td> 75 </td>
-<td> Access scientific, technical and medical journals </td>
+<td> Access scientific, technical and medical journals* </td>
 <td> National Research Council Canada </td>
 <td> 277579 </td>
 <td>-</td></tr>
@@ -548,7 +549,7 @@ lang: en
 <td> 82 </td>
 <td> Research family history </td>
 <td> Library and Archives Canada </td>
-<td> 245964 </td>
+<td> 245,964 </td>
 <td>-</td></tr>
 <tr>
 <td> 83 </td>
@@ -560,7 +561,7 @@ lang: en
 <td> 84 </td>
 <td> Access a Canadian census (from before 1921) </td>
 <td> Library and Archives Canada </td>
-<td> 240522 </td>
+<td> 240,522 </td>
 <td>-</td></tr>
 <tr>
 <td> 85 </td>
@@ -591,7 +592,7 @@ lang: en
 <td> 89 </td>
 <td> Find requests to supply goods or services to the government (tenders) </td>
 <td> Public Services and Procurement Canada </td>
-<td> 231696 </td>
+<td> 231,696 </td>
 <td> 10
 </td></tr>
 <tr>
@@ -603,8 +604,8 @@ lang: en
 <tr>
 <td> 91 </td>
 <td> See wildland fire danger zones and forecasts </td>
-<td> National Research Council Canadaan </td>
-<td> 217,386 </td>
+<td> Natural Resources Canada </td>
+<td> 217386 </td>
 <td>-</td></tr>
 <tr>
 <td> 92 </td>
@@ -660,4 +661,5 @@ lang: en
 <td> Review military regulations and policies </td>
 <td> Department of National Defence </td>
 <td> 168,096 </td>
-<td>-</td></tr></tbody></table>
+<td>-</td>
+</tr></tbody></table>
