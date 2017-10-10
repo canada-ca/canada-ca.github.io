@@ -68,28 +68,6 @@ The findings of the treejack were:
 
 This demonstrated to us that many Canadians really were thinking through a subject-based approach. As a result, we were able to simplify our initial tree to remove unclear labels that didn't help citizens choose where to click. We were also able to inform some of the visual layout, by keeping content about government separate from services and information that were more directly focused on citizens.
 
-### Step 4: Building out the rest of the navigation tree
-
-With themes and top-level topics confirmed, we started to create deeper layers of the navigation tree. 
-
-As each topic needs to reflect all government has to say about it, so as not to leave visitors stranded, departments with knowledge of the services and policies in each theme and topic area lead the development of the taxonomies.
-
-Even now, 3 years later, theme leads are still making changes to the topic tree to make improvements to service findability. Usability  tests continue to be carried out to test these changes.
-
-### Step 5: User interface test
-
-In addition to tree testing, we also built designs for the pages and menus where the taxonomy would actually appear on the website. 
-
-Because we had 15 top level themes and hundreds of topics between them, we needed to decide whether to create a simpler first level, such as putting all the themes under a "Services and information" menu, like Amazon's 'departments', displaying themes on more than one row, or hiding only a part of them under a "More services" option. 
-
-<!-- para above: don't really recall this being part of the prototypes that we built, but it was a long time ago. are there screencaps? -->
-
-Driven by our goals of improved findability and reduced time to task, we also needed to decide between a light navigation, with a menu all on one page, or pages for each topic, and what they could contain.
-
-We built simple prototypes of two different options for themes and did usability testing with 30 citizens. Based on this, we adopted the design which is still in use today:
-
-<img class="img-responsive" alt="Themes on canada.ca" src="/images/themes_1000x457.jpg">
-
 ## Ongoing testing and optimization
 
 Research and testing on themes and navigation have only increased since Canada.ca was first launch and we will continue to refine the navigation model.
