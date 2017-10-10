@@ -9,7 +9,7 @@ published: false
 lang: en
 ---
 
-Over 2012 and 2013, top task research for Canada.ca helped us build a theme and topic taxonomy that we had evidence helped Canadians find the services and information they came to government websites to find. Ever since, we've been making improvements to how we display that taxonomy in topic pages.
+Over 2012 and 2014, top task research for Canada.ca helped us build a theme and topic taxonomy that we had evidence helped Canadians find the services and information they came to government websites to find. Ever since, we've been making improvements to how we display that taxonomy in topic pages.
 
 ## Building blocks for Canada.ca
 
