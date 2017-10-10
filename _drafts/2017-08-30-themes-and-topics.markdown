@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Making Canada.ca for Canadians"
-wordcount: 1066
-gradelevel: 10.9
+title:  "Canada.ca themes and topics"
+wordcount: 
+gradelevel: 
 ref: template
 date:   2017-08-30 15:43:44 +0100
 categories: category
@@ -10,7 +10,9 @@ published: false
 lang: en
 ---
 
-In 2012, the Government of Canada began working towards a more centralized web presence. The vision for Canada.ca was to make it easier for Canadians to find what they were looking for, whichever department or agency might provide it. Here's the research and testing we did to tackle the challenge of designing the site's information architecture and navigation.
+In 2012, the Government of Canada began working towards a more centralized web presence. The vision for Canada.ca is to make it easier for Canadians to find what they are looking for, whichever department or agency might provide it. 
+
+Here's a look at the research and testing we did to tackle the challenge of designing the site's information architecture and navigation.
 
 ## Themes: bridges across the thousand islands
 
@@ -20,30 +22,45 @@ Image credit: [Ad Meskens](https://commons.wikimedia.org/wiki/User:Ad_Meskens)
 
 While some people know which department provides a service, many don’t know or care. As each department and agency maintains a website of their own, there hasn't been a single online window where a Canadian could find all government services.
 
-Canada.ca couldn't just be a list of island names. We wanted to develop a set of labels that would be meaningful to people who visited for the first time. They had to reflect the mental models of citizens, to be the obvious link to click to find their task.
- 
-Building a bridge, however, is not a simple process. We had to research the most in-demand services, consult with the departments that delivered them, brainstorm and research keywords, validate our labels with Canadians and, finally, figure out how to make them all fit on a webpage.
+The taxonomy couldn't just be a list of the names of the islands or departments. They had to say what you could do there and reflect what citizens were trying to do.
+
+Building a bridge is not a simple process. We took 5 steps just to come up with the taxonomy and many more that you can find linked in separate articles at the bottom of the post to support the design and top tasks. 
+
+The steps taken in 2013 are still being revisted and refined today as we update the list of top tasks and continually improve classification and labelling of top tasks in themes and topics.
 
 ### Step 1: List our top tasks
 
-The first thing we did when planning Canada.ca was to develop a list of the 100 most in-demand tasks that citizens undertook with the federal government. In 2013, we worked with departments and agencies to collect and analyze as much web traffic data as we could to create an inventory of top 100 Government of Canada tasks (such as renewing a passport or getting a local weather forecast).
+The first thing we did was to develop a list of the most in-demand tasks that citizens undertook with the federal government. Based on web traffic data, collected from all the major departments and agencies, we created a list of the top 100 tasks.
 
 ### Step 2: Card sort with stakeholders
 
-In June of 2013, we card sorted the top tasks with internal stakeholders to come up with a preliminary list of about 20 categories to organize Canada.ca content. 
+In June of 2013, we card sorted the top tasks with internal stakeholders.
 
-After analysis and consultation, we proposed an initial set of 15 subject-based categories, such as taxes or immigration, that would form the main navigation for canada.ca. These would form the mortar to build bridges between the services and information on departmental websites. Internally, we've come to refer to these big topics as themes.
+Based on the card sort, we came up with a proposal of 15 subject-based themes, such as taxes or immigration, that would form the main navigation for canada.ca.
 
-<!-- In addition to the themes and topics, there were also two more structures that came out of the card sort,
-- 1 based on administrative categories like media or contact information
-- 1 based on audiences like indigenous peoples or seniors 
-*not sure this adds to the story, maybe worth tackling in a separate post?* -->
+In addition to the themes, there were a few other labelling needs identified in the card sort that were proposed for the taxonomy.
+- a grouping of tasks oriented towards public servants
+- administrative categories for contact information, departments and agencies
+- audiences
+- news 
+
+At the time of the card sort, there were still plans to put all these labels at the top level of Canada, with a single label on top of the 15 themes.
 
 ### Step 3: Tree test with Canadians
 
-Coming up with the themes was only the first step, both for the structure and the navigation on Canada.ca. Underneath there are narrower topics and subtopics - in techincal terms, a hierarchical subject-based taxonomy. 
+The taxonomy was updated and validated based on tree testing with Canadians.
 
-To try out our themes and topics with users, we did the first of many online tree tests with citizens in July 2013. In this test, 848 participants navigated (browsed?) the themes and the first layer of topics to choose where they would expect to accomplish representative top tasks.
+29 task scenarios were developed, asking test participants where they would find a top task, such as where to find the guide for tax forms for the current year or where to obtain a boat licence.
+
+There were 3 different versions of the information architecture tested so that we could compare their results.
+
+The findings of the treejack were:
+1) Themes and topics were the most intuitive part of the information architecture. For all but 3 tasks, the participants who used themes and topics were able to find a good a good destination.
+2) That we needed to really respect the mental models of canadians and do more validation testing rather than relying on internal card sorting. Testing clearly indicated that for 5 of the 29 tasks, there was another theme that was either better or as likely a place to look for that task.
+3) There was no user centric way of putting the themes under a first level word. Each of the 3 tests tried a different variant, including "topics", "information about..." and "about Canada", but these labels made it harder to find the topics, leading to high failure rates for many tasks.
+4) General audience labels could not be shown at the same level as themes. The test where audiences were hidden under a top level label "Services for..." was 6% more successful than when audiences were displayed.
+5) A lot of Canadians know the department and agency that provides a service, so we can't conceal departments and agencies under the "government" section of the information architecture.
+6) This type of tree validation testing was invaluable and we needed to do more of it. 
 
 <!-- insert image of treejack here -->
 
