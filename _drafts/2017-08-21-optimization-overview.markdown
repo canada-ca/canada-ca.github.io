@@ -59,14 +59,14 @@ The insights drawn from usability testing are also leveraged to improve the over
 
 To date we have undertaken 2 Canada.ca optimization projects, and we're working on more. We'll be writing up our experiences with these activities in future articles, so stay tuned!
 
-## Find out more
+## What do you think?
 
-We’re happy to share what we’ve learned. If you’ve got questions, email us at ux.eu@tbs-sct.gc.ca
+We want to hear from you! You can post tweets using the hashtag #Canadadotca or email us at ux.eu@tbs-sct.gc.ca.
 
 ## Explore further
 
 * [Helping Canadians start a business](https://canada-ca.github.io/category/2017/08/15/Starting_a_business.html) was our first optimization project, with Innovation, Science and Economic Development Canada and the Canada Revenue Agency
-* [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
-* [Sprint Stories](https://sprintstories.com/) features case studies by government and private industry about using the Design Sprint process
-* The [Government Digital Service Blog](https://gds.blog.gov.uk/) on Gov.UK is a rich source of optimization inspiration
+* [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation topics 
+* [Sprint Stories](https://sprintstories.com/) features case studies by government and private industry about using the design sprint process
+* The [Government Digital Service Blog](https://gds.blog.gov.uk/) on Gov.UK is a rich source for you to draw inspiration for your optimization projects
 * In [Why we say no to surveys and focus groups](https://www.dta.gov.au/blog/surveys-and-focus-groups/), Leisa Reichelt at Australia's Digital Transformation Agency describes the value their team gets from task-based usability testing
