@@ -20,7 +20,7 @@ lang: en
 
 Canada.ca brings together services and information from dozens of departments and agencies in the Government of Canada. To be effective, Canada.ca needs to deliver what people need. People have to be able to accomplish what they came to the site to do. We call the things they came to do their **tasks**.
 
-The Government of Canada supports a huge number of tasks, and individual departments and agencies have to manage all of these tasks. But from a government-wide view, we focus on the "top" tasks. These are the most important and most used tasks across the government. By focusing on top tasks, we can make the site work better for most people.
+The Government of Canada supports a huge number of tasks, and individual departments and agencies have to manage all of them. But from a government-wide view, we focus on the "top" tasks. These are the most important and most used tasks across the government. By focusing on top tasks, we can make the site work better for most people.
 
 To help with this, we've compiled a [top 100 tasks list for the Government of Canada](https://canada-ca.github.io/pages/top-task-list-canada-ca.html).
 
@@ -30,7 +30,7 @@ Top task management isn't new to the Government of Canada. In 2013, We compiled 
 
 Since 2013, we've gone through 3 major iterations of the top task list for Canada.ca. Each time we've improved how we gather comparable data and tasks.
 
-Our next steps will be to help ensure all departments and agencies in the Government of Canada collect and manage their own top tasks.
+<!-- Our next steps will be to help ensure all departments and agencies in the Government of Canada collect and manage their own top tasks. **suggest we omit this for now, may not be engaging all depts** -->
 
 ## How we compiled the list
 
@@ -46,9 +46,11 @@ We've put together a three-phase approach to top task management on Canada.ca:
 
 The first step was to collect top task data. We started with the institutions with the most accessed content on Canada.ca. Some of the sources for this data included:
 
+<!-- web analytics should be emphasized as the primary source. It doesnt look like that in this list. --> 
+
 * [Departmental plans](https://www.canada.ca/en/treasury-board-secretariat/services/planned-government-spending/reports-plans-priorities.html)
 * [Mandate letters](http://pm.gc.ca/eng/mandate-letters) (from the Prime Minister to cabinet ministers)
-* web analytics
+* web analytics 
 * feedback or call centre reports
 * input from people who manage programs or interact with the people who use them
 * past research or surveys
@@ -57,7 +59,7 @@ There are some challenges in trying to collect data from so many different sourc
 
 <b>Analytics comparability</b> - There's a wide variety of web analytics in use, some more effective than others. Some free analytics software only samples data. Some tracks effectively, but is very inefficient to use to get reports.
 
-<b>Visits versus pageviews</b> - Visits tend to better represent a real person visiting a page than a pageview. This can inflate some tasks that have pages with a search interface.
+<b>Visits versus pageviews</b> - Visits tend to better represent a real person visiting a page than a pageview. This can inflate some tasks that have pages with a search interface. <!-- why? -->
 
 <b>Start pages versus all pages</b> - Some tasks require a visitor to go to several different pages, while others can be accomplished on one page. We've moved away from combining traffic for many pages related to a task to try to keep them comparable. We now try to identify and track one start page per task.
 
@@ -95,7 +97,7 @@ Top task performance is now being used as the basis for optimizing Canada.ca.
 <!--
 Top task management is not about migrating all content to new platforms, removing old, duplicate content or even managing your web presence. These all have their place and time, but the priority of all communications branches in government needs to be focused on ensuring citizens are able to find and complete the tasks they come to do. If we don't, we are putting at risk the outcomes of the policies and services that our government is mandated to deliver.
 -->
-And the web isn't the end. We are also planning to use top tasks to inform service policy. Top tasks currently only reflect the online portion of tasks, but we're collaborating with service providers to make sure the dots are connected with call centers, service desks and the other ways government serves Canadians.
+And the web isn't the end. We are also planning to use top tasks to inform service policy. Top tasks currently only reflect the online portion of tasks, but we're collaborating with service providers to make sure the dots are connected with call centers, service desks and the other ways government serves Canadians. <!-- we are? Not sure I understand how -->
 
 ## What do you think?
 
