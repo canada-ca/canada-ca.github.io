@@ -7,7 +7,6 @@ date:   2017-08-15 09:48:44 +0100
 categories: category
 lang: en
 description: Starting a business is a top task for Canadians and it’s not an easy one. We held a series of design sprints, testing design prototypes with Canadians.
-thumb: "/thumbs/2017-08-15.png"
 ---
 
 Starting a business is a top task for Canadians and it’s not an easy one. There are legal requirements spread across the provinces and federal departments that depend on the size and type of business. Together with Innovation Science and Economic Development Canada (ISED) and the Canada Revenue Agency (CRA), the Canada.ca team at TBS set out to improve the experience for Canadians starting a business via Canada.ca. The team started by exploring the user journey through the government requirements. The decisions identified in that journey were turned into tasks for a usability study with Canadians on the baseline Canada.ca site. We held a series of design sprints, testing design prototypes with Canadians as we went and measuring improvements against the baseline data.   
