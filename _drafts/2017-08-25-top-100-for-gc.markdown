@@ -18,7 +18,7 @@ lang: en
 
 -->
 
-Canada.ca brings together services and information from dozens of departments and agencies in the Government of Canada. To be effective, Canada.ca needs to deliver what people need. People have to be able to accomplish what they came to the site to do. We call the things they came to do their **tasks**.
+Canada.ca brings together services and information from all across the Government of Canada. To be effective, Canada.ca needs to deliver what people need. People have to be able to accomplish what they came to the site to do. We call the things they came to do their **tasks**.
 
 The Government of Canada supports a huge number of tasks, and individual departments and agencies have to manage all of them. But from a government-wide view, we focus on the "top" tasks. These are the most important and most used tasks across the government. By focusing on top tasks, we can make the site work better for most people.
 
@@ -32,73 +32,67 @@ Since 2013, we've gone through 3 major iterations of the top task list for Canad
 
 ## How we compiled the list
 
-We've put together a three-phase approach to top task management on Canada.ca:
-<!--
-[ Visual on the three stages
+We put together a three-phase approach to top task management on Canada.ca:
 
-- collecting data
-- refining the list
-- surveying visitors to validate the list and fill gaps ]
--->
-### 1. Collecting top task data
+### 1. Collecting the top task data
 
-The first step was to collect top task data. We started with the institutions with the most accessed content on Canada.ca. Some of the sources for this data included:
+The first step was to collect top task data. We started with the institutions with the most popular content on Canada.ca. Some of the sources for this data included:
 
 * web analytics 
-* [Departmental plans](https://www.canada.ca/en/treasury-board-secretariat/services/planned-government-spending/reports-plans-priorities.html)
-* [Mandate letters](http://pm.gc.ca/eng/mandate-letters) (from the Prime Minister to cabinet ministers)
+* Departmental plans
+* Mandate letters (from the Prime Minister to cabinet ministers)
 * feedback or call centre reports
-* input from people who manage programs or interact with the people who use them
+* input from people who manage programs
+* Input from the staff working with the public
 * past research or surveys
+
+#### Challenges when collecting data from different sources
 
 There are some challenges in trying to collect data from so many different sources. They include:
 
-<b>Analytics comparability</b> - There's a wide variety of web analytics in use, some more effective than others. Some free analytics software only samples data. Some tracks effectively, but is very inefficient to use to get reports.
+<b>Analytics comparability:</b> There's a wide variety of web analytics in use, some more effective than others. Some free analytics software only samples data. Some track effectively, but is very inefficient for getting reports.
 
-<b>Visits versus pageviews</b> - Visits tend to better represent a real person completing a task than pageviews. Pageview numbers can sometimes be inflated when a task involves multiple pages.
+<b>Visits versus pageviews:</b> Visits tend to better represent a real person completing a task than pageviews. Pageview numbers can sometimes be inflated when a task involves multiple pages.
 
-<b>Start pages versus all pages</b> - Some tasks require a visitor to go to several different pages, while others can be accomplished on one page. We've moved away from combining traffic for many pages related to a task to try to keep them comparable. We now try to identify and track one start page per task.
+<b>Start pages versus all pages:</b> Some tasks require a visitor to go to several different pages, while others can be accomplished on one page. We've moved away from combining traffic for many pages related to a task to try to keep them comparable. We now try to identify and track one start page per task.
 
 ### 2. Analyzing and ranking the tasks
 
 When comparing tasks from widely different departments and agencies, we need to separate core tasks from their supporting sub-tasks.
 
-For example, “Get a passport” is a popular task. But to actually accomplish the goal of getting a passport, you'll have to do a number of steps. We call these smaller steps "sub-tasks". For example:
+For example, “Get a passport” is a popular task. But to actually accomplish the goal of getting a passport, you'll have to do a number of steps. We call these smaller steps "sub-tasks". For instance:
 
 - see if you're eligible to get a passport
 - check passport photo requirements
 - download the passport request form
 
-If you were working on the passport content, then you’d need to keep track of all of these sub-tasks. But for our government-wide view, “Get a passport” provides enough detail to help us manage the task.
+If you were a content designer working on passports, then you’d need to keep track of all of these sub-tasks. But for our purposes, “Get a passport” provided enough detail to help us manage the task at the central agency level.
 
-We wrote each task as a verb, to make clearer what people are trying to do. We could have named the task "Canadian passports", but wanted to keep the tasks as answers to the question, "why are people coming to the site?"
+We could have named the task "Canadian passports", but wanted to keep the tasks as answers to the question, "why are people coming to the site?" So we wrote each task as a verb, to make clearer what people are trying to do. 
 
-Once the core tasks were identified, we ranked them based on visits to the start pages. This gave us a sense of how often each task is actually used. It also helps us tell where improving tasks could have the greatest impact.
+Once the core tasks were identified, we ranked them based on visits to the start pages. This gave us a sense of how often each task is actually used. It continues to help us tell where improving tasks could have the greatest impact.
 
-### 3. Validating top tasks with website visitors
+### 3. Validating the top tasks with website visitors
 
-Once tasks have been identified, analyzed, and ranked, we need to validate them with website visitors. This will include asking people why they came to the site. They can choose from the tasks we had identified, but also add any other reasons. This way we can fill in any gaps, which will give us a much higher level of confidence that the tasks we've identified are actually what people come to do.
+Once tasks have been identified, analyzed, and ranked, we need to validate them with website visitors. This will include asking people why they came to the site. They can choose from the tasks we identified or add their own reason. This way we can fill in any gaps, which will give us greater confidence that the tasks we've identified are actually what people come to do.
 
-The Canada Revenue Agency (CRA) has already launched a survey on their Canada.ca pages to ask visitors which tasks they came to do. Over the next year, we're planning to work with CRA and other departments and agencies to implement similar top task surveys and further mature our top task approach.
+Over the next year, we're planning to work with departments and agencies on these top task surveys and further mature our approach to top tasks. 
 
-## Change for Canadians
+## How top tasks will change service delivery
 
-Why all the effort identifying tasks?
+Top task performance is the basis for optimizing Canada.ca. We're also planning to use top tasks to inform overall service delivery. Right now, our top tasks reflect the online portion of tasks, but we're also working with service providers to make sure task improvements are connected with all the ways government serves the public.
 
-Top task performance is now being used as the basis for optimizing Canada.ca.
+## We want to hear from you
 
-And the web isn't the end. We're also planning to use top tasks to inform service policy. Top tasks currently only reflect the online part of tasks, but we're collaborating with service providers to make sure task improvements are connected with call centers, service desks and the other ways government serves Canadians. <!-- Really? -->
+Let us know what you think. Email us at <ux.eu@tbs-sct.gc.ca> or tweet using the hashtag #Canadadotca.
 
-## What do you think?
-
-We want to hear from you! You can post tweets using the hashtag #Canadadotca or email us at <ux.eu@tbs-sct.gc.ca>.
-
-## Explore further
+## Learn more about top tasks
 
 * Review the current [top 100 tasks list for the Government of Canada](https://canada-ca.github.io/pages/top-task-list-canada-ca.html).
+<!--
 * For more on how we've been asking departments and agencies to think about and provide us comparable top task data, please read [How to identify top tasks]().
 * [Making Canada.ca for Canadians]() tells about how we originally used the top 100 tasks in 2013 to design Canada.ca navigation
 * [How we're optimizing top tasks on Canada.ca](https://canada-ca.github.io/category/2017/08/21/optimization-overview.html) shares more about how we're focusing now on improving specific top tasks on Canada.ca
-* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) is a great article from Gerry McGovern on the value of top tasks and the survey voting method to validate them
-* [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes
-* [How to conduct a top task analysis](https://measuringu.com/top-tasks/) from Jeff Sauro gets into some of the statistical details around analysing top task data from surveys
+-->
+* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) by Gerry McGovern describes the value of top tasks and the survey voting method to validate them
+* [How to conduct a top task analysis](https://measuringu.com/top-tasks/) by Jeff Sauro gets into some of the statistical details around analysing top task data from surveys
