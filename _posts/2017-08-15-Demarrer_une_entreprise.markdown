@@ -5,6 +5,7 @@ ref: starting
 date:   2017-08-15 09:48:44 +0100
 categories: category
 lang: fr
+description: Lancer une entreprise est une tâche prioritale pour les Canadiens et en est une qui n’est pas facile.
 ---
 
 Lancer une entreprise est une tâche prioritale pour les Canadiens et en est une qui n’est pas facile. Il a des exigences juridiques réparties dans l’ensemble des ministères provinciaux et fédéraux selon la taille et le type d’entreprise. Ensemble avec Innovation, Sciences et Développement économique Canada (ISDE) et l’Agence du revenu du Canada (ARC), l’équipe de Canada.ca du Secrétariat du Conseil du Trésor du Canada (SCT) prévoit améliorer l’expérience des Canadiens qui lancent une entreprise par l’intermédiaire de Canada.ca. L’équipe a commencé par explorer le parcours de l’utilisateur à travers les exigences gouvernementales. Les décisions déterminées dans ce parcours ont été transformées en tâches pour une étude d'utilisabilité avec les Canadiens sur les données de référence du site Canada.ca. Nous avons tenu une série de sprints de conceptions, en essayant des prototypes avec des Canadiens au fur et à mesure que nous faisons des améliorations par rapport aux données de référence.
