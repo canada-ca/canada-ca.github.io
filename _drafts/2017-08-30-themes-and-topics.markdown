@@ -54,7 +54,7 @@ The taxonomy was updated and validated based on tree testing with Canadians.
 
 There were 3 different versions of the information architecture tested so that we could compare their results.
 
-The findings of the treejack were:
+The findings of the tree testing were:
 1) Themes and topics were the most intuitive part of the information architecture. For all but 3 tasks, the participants who used themes and topics were able to find a good a good destination.
 2) That we needed to really respect the mental models of canadians and do more validation testing rather than relying on internal card sorting. Testing clearly indicated that for 5 of the 29 tasks, there was another theme that was either better or as likely a place to look for that task.
 3) There was no user centric way of putting the themes under a first level word. Each of the 3 tests tried a different variant, including "topics", "information about..." and "about Canada", but these labels made it harder to find the topics, leading to high failure rates for many tasks.
@@ -64,23 +64,28 @@ The findings of the treejack were:
 
 <img class="img-responsive" alt="Tree testing the information architecture" src="/images/Tree_test_results_2013.jpg">
 
-This demonstrated to us that many Canadians really were thinking through a subject-based approach. As a result, we were able to simplify our initial tree to remove unclear labels that didn't help citizens choose where to click. We were also able to inform some of the visual layout, by keeping content about government separate from services and information that were more directly focused on citizens.
+Based on this evidence, we were able to make some final updates before launch, including moving the themes to the very first level of the information architecture and removing audiences from the site's primary navigation.
 
-## Step 4: More tree testing with Canadians
+### Step 4: More tree testing with Canadians
 
-After launching Canada.ca, we wanted to revisit some of our research findings. In particular, we wanted to make sure that our decision to reveal 7 themes on the main navigation menu and hide the others under More services was a good decision.
-
-We set up another tree jack study with three different versions. Once again, we tested themes under a top level "Services and information" label, we tested the top 7 with the ther 8 under More services and we tested them all at the top level.
+One of our findings from the tree testing was that we needed to do more. We wanted to validate 
+- the decision we took to prioritise the themes above the other types of navigation 
+- the decision to hide half of the themes under a more services button
+- the themes that top tasks were placed under to ensure they aligned with mental models
 
 <img class="img-responsive" alt="Themes on canada.ca" src="/images/themes_1000x457.jpg">
 
-The data found that the decision to use More services
+We set up this second tree jack study in September 2014 with three different versions. 
 
-## Ongoing testing and optimization
+Once again, we tested themes, this time with 4 versions:
+1) Services and Government at the 1st level
+2) 7 themes at the 1st level and 8 under More services
+3) All themes at the 1st level
+4) All themes at the 1st level + a government label
 
-Research and testing on themes and navigation have only increased since Canada.ca was first launch and we will continue to refine the navigation model.
+<img class="img-responsive" alt="Tree testing the information architecture" src="/images/Tree_test_results_2014.jpg">
 
-After 4 years, many of the bridges of topics and search are now in place and we're now shifting our focus to end-to-end task improvements.
+The findings confirmed that the themes at the top level of the IA approach as crucial to findability. It also showed that there were very similar success scores between the More services and All themes approaches.
 
 ## Find out more
 
@@ -88,9 +93,8 @@ We’re happy to share what we’ve learned. Email us at ux.eu@tbs-sct.gc.ca
 
 ## Explore further
 
+* The story of Canada.ca's themes and topics continues with the design and implementation of the [topic page template]().
+* Learn more about how theme lead departments have been improving top task findability iwthin their respective themes in [theme management]().
 * [Top task management on Canada.ca]() describes how we compiled the top 100 task list for Canada.ca and how we continue to improve it and use it to manage the website
-* We've put together an overview of the testing we've done and research we've focused on over the past few years in [Canada.ca iterative improvements](https://canada-ca.github.io/category/2017/09/11/iterative-improvements.html)
-* [How we're optimizing top tasks on Canada.ca](https://canada-ca.github.io/category/2017/08/21/optimization-overview.html) shares more about how we're focusing now on improving specific top tasks on Canada.ca
 * [Tree testing](https://www.nngroup.com/articles/tree-testing/) is a good primer from the Nielson Norman Group on how to conduct tree testing for website navigation
-* [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
 * In [Why we say no to surveys and focus groups](https://www.dta.gov.au/blog/surveys-and-focus-groups/), Leisa Reichelt at Australia's Digital Transformation Agency describes the value their team gets from task-based usability testing
