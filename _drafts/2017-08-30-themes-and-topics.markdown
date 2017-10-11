@@ -34,21 +34,22 @@ The first thing we did was to develop a list of the most in-demand tasks that ci
 
 ### Step 2: Card sort with stakeholders
 
-In June of 2013, we card sorted the top tasks with internal stakeholders.
+In June of 2013, we card sorted the top tasks with 177 Government of Canada stakeholders.
 
 Based on the card sort, we came up with a proposal of 15 subject-based themes, such as taxes or immigration, that would form the main navigation for canada.ca.
 
-In addition to the themes, there were a few other labelling needs identified in the card sort that were proposed for the taxonomy.
-- a grouping of tasks oriented towards public servants
-- administrative categories for contact information, departments and agencies
-- audiences
-- news 
+In addition to the themes, there were other navigation models that were suggested could be used in conjunction with the themes, including:
+1) audiences
+2) government and public servants
+3) contact information, departments and agencies
+4) resources and tools
+5) news 
 
-At the time of the card sort, there were still plans to put all these labels at the top level of Canada, with a single label on top of the 15 themes.
+Each of the categories and the themes would be available to choose from at the top level of the information architecture.
 
 ### Step 3: Tree test with Canadians
 
-The taxonomy was updated and validated based on tree testing with Canadians.
+A tree test was done with 848 Canadians across three different tests to determine the top level labels and validate the findability improvements of the suggested information architecture.
 
 29 task scenarios were developed, asking test participants where they would find a top task, such as where to find the guide for tax forms for the current year or where to obtain a boat licence.
 
@@ -68,24 +69,17 @@ Based on this evidence, we were able to make some final updates before launch, i
 
 ### Step 4: More tree testing with Canadians
 
-One of our findings from the tree testing was that we needed to do more. We wanted to validate 
-- the decision we took to prioritise the themes above the other types of navigation 
-- the decision to hide half of the themes under a more services button
-- the themes that top tasks were placed under to ensure they aligned with mental models
+In 2014, a year later, we held a second round of tree testing. We wanted to validate some of the decisions made:
+- prioritisation of themes above the other types of navigation 
+- use of 'more services' to hide half of the themes
 
 <img class="img-responsive" alt="Themes on canada.ca" src="/images/themes_1000x457.jpg">
 
-We set up this second tree jack study in September 2014 with three different versions. 
-
-Once again, we tested themes, this time with 4 versions:
-1) Services and Government at the 1st level
-2) 7 themes at the 1st level and 8 under More services
-3) All themes at the 1st level
-4) All themes at the 1st level + a government label
-
-<img class="img-responsive" alt="Tree testing the information architecture" src="/images/Tree_test_results_2014.jpg">
+Once again, we used different versions of the taxonomy with different 1st level labels.
 
 The findings confirmed that the themes at the top level of the IA approach as crucial to findability. It also showed that there were very similar success scores between the More services and All themes approaches.
+
+<img class="img-responsive" alt="Tree testing the information architecture" src="/images/Tree_test_results_2014.jpg">
 
 ## Find out more
 
