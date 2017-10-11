@@ -68,6 +68,16 @@ The findings of the treejack were:
 
 This demonstrated to us that many Canadians really were thinking through a subject-based approach. As a result, we were able to simplify our initial tree to remove unclear labels that didn't help citizens choose where to click. We were also able to inform some of the visual layout, by keeping content about government separate from services and information that were more directly focused on citizens.
 
+## Step 4: More tree testing with Canadians
+
+After launching Canada.ca, we wanted to revisit some of our research findings. In particular, we wanted to make sure that our decision to reveal 7 themes on the main navigation menu and hide the others under More services was a good decision.
+
+We set up another tree jack study with three different versions. Once again, we tested themes under a top level "Services and information" label, we tested the top 7 with the ther 8 under More services and we tested them all at the top level.
+
+<img class="img-responsive" alt="Themes on canada.ca" src="/images/themes_1000x457.jpg">
+
+The data found that the decision to use More services
+
 ## Ongoing testing and optimization
 
 Research and testing on themes and navigation have only increased since Canada.ca was first launch and we will continue to refine the navigation model.
