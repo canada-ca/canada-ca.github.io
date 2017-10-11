@@ -62,9 +62,7 @@ The findings of the treejack were:
 5) A lot of Canadians know the department and agency that provides a service, so we can't conceal departments and agencies under the "government" section of the information architecture.
 6) This type of tree validation testing was invaluable and we needed to do more of it. 
 
-<!-- insert image of treejack here -->
-
-<!-- The tree we provided during the testing reflected both the theme and topic structure as well as the other structures that came out of the card sort. *not sure we need this para* -->
+<img class="img-responsive" alt="Tree testing the information architecture" src="/images/Tree_test_results_2013">
 
 This demonstrated to us that many Canadians really were thinking through a subject-based approach. As a result, we were able to simplify our initial tree to remove unclear labels that didn't help citizens choose where to click. We were also able to inform some of the visual layout, by keeping content about government separate from services and information that were more directly focused on citizens.
 
