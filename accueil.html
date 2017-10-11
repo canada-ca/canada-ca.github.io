@@ -1,22 +1,35 @@
 ---
-layout: default
+layout: blog_fr
 ref: index
 lang: fr
 ---
-
 <div class="home">
 
-  <h1 class="page-heading">Blogue de Canada.ca</h1>
-
-  <ul class="post-list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
+  <h1 class="page-heading">Newest Articles</h1>
+  
+ {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+<section class="col-md-6">
 
-  <p class="rss-subscribe">suivre le <a href="{{ "/flux.xml" | prepend: site.baseurl }}">flux RSS</a></p>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><img src="./thumbs/{{ post.date | date: "%F" | img_url: '100x100' crop: 'center' }}.png" alt="" class="img-responsive thumbnail"></a>
+		<p><small>[{{ post.date | date: "%F" }}]</small> - {{ post.description }}</p>
+  
+</section>
 
+  {% endfor %}
+  
+  
+
+<div class="row">
+<div class="col-sm-8">
+    <section class="suivez">
+      <h2>Suivez</h2>
+      <ul class="list-inline mrgn-tp-lg">
+        <li>
+          <a href="https://canada-ca.github.io/flux.xml"><img src="./images/feed-icon-14x14.png" alt="ATOM" class="mrgn-rght-sm">ATOM</a>
+        </li>
+      </ul>
+    </section>
 </div>
+</div>
+
