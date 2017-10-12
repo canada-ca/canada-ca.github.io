@@ -63,7 +63,7 @@ The findings of the tree testing were:
 5) A lot of Canadians know the department and agency that provides a service, so we can't conceal departments and agencies under the "government" section of the information architecture.
 6) This type of tree validation testing was invaluable and we needed to do more of it. 
 
-<img class="img-responsive" alt="Tree testing the information architecture" src="/images/Tree_test_results_2013.jpg">
+<img class="img-responsive" alt="Tree testing the information architecture" src="/images/Tree_test_results_2013.JPG">
 
 Based on this evidence, we were able to make some final updates before launch, including moving the themes to the very first level of the information architecture and removing audiences from the site's primary navigation.
 
@@ -77,9 +77,11 @@ In 2014, a year later, we held a second round of tree testing. We wanted to vali
 
 Once again, we used different versions of the taxonomy with different 1st level labels.
 
-The findings confirmed that the themes at the top level of the IA approach as crucial to findability. It also showed that there were very similar success scores between the More services and All themes approaches.
+The findings confirmed that the themes at the top level of the IA approach as crucial to findability. 
 
-<img class="img-responsive" alt="Tree testing the information architecture" src="/images/Tree_test_results_2014.jpg">
+The tests also demonstrated fairly close success scores between the More services and all themes approaches. The more services approach was further supported by the top 100 task distribution, which are largely under those top 7 themes.
+
+<img class="img-responsive" alt="Tree testing the information architecture" src="/images/Tree_test_results_2014.JPG">
 
 ## Find out more
 
