@@ -83,9 +83,9 @@ The tests also demonstrated fairly close success scores between the More service
 
 <img class="img-responsive" alt="Tree testing the information architecture" src="/images/Tree_test_results_2014.JPG">
 
-## Find out more
+## What do you think?
 
-We’re happy to share what we’ve learned. Email us at ux.eu@tbs-sct.gc.ca
+We want to hear from you! You can post tweets using the hashtag #Canadadotca or email us at ux.eu@tbs-sct.gc.ca.
 
 ## Explore further
 
