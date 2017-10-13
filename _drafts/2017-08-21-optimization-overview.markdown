@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How we're optimizing top tasks on Canada.ca"
+title:  "How we're optimizing Canada.ca top tasks"
 ref: template
 date:   2017-08-21 09:48:44 +0100
 categories: category
