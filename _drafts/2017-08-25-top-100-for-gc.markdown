@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How we identified top tasks for Canada.ca"
-gradelevel: x
+gradelevel: 7.8
 ref: template
 date:   2017-08-25 09:48:44 +0100
 categories: top-tasks, optimization
@@ -18,25 +18,23 @@ lang: en
 
 -->
 
-Canada.ca brings together services and information from all across the Government of Canada. To be effective, Canada.ca needs to deliver what people need. People have to be able to accomplish what they came to the site to do. We call the things they came to do their **tasks**.
+People come to Canada.ca with a goal in mind and a task that they want to accomplish. And Canada.ca is about delivering services and information from right across the Government of Canada. Top tasks are the most important and most used tasks. By managing the top tasks, we can effectively meet the needs of most people.
 
-The Government of Canada supports a huge number of tasks, and individual departments and agencies have to manage all of them. But from a government-wide view, we focus on the "top" tasks. These are the most important and most used tasks across the government. By focusing on top tasks, we can make the site work better for most people.
-
-To help with this, we've compiled a [top 100 tasks list for the Government of Canada](https://canada-ca.github.io/pages/top-task-list-canada-ca.html).
+There are a huge number of tasks to support on Canada.ca. We focus on the [top 100 tasks list for the Government of Canada](https://canada-ca.github.io/pages/top-task-list-canada-ca.html).
 
 ## Top tasks form the basis for Canada.ca
 
-Top task management isn't new to the Government of Canada. In 2013, We compiled the first government-wide top task list to help design Canada.ca. And even earlier, several departments were experimenting with top task management for their own sites.
+Top task management isn't new to the Government of Canada. In 2013, we compiled the first government-wide top task list to help design Canada.ca. And even earlier, several departments were experimenting with top task management for their own sites.
 
-Since 2013, we've gone through 3 major iterations of the top task list for Canada.ca. Each time we've improved how we gather comparable data and tasks.
+Since then, we've gone through 3 major iterations of the top task list. Each time we do it, we improve how we gather comparable data and tasks.
 
 ## How we compiled the list
 
-We put together a three-phase approach to top task management on Canada.ca:
+A 3-phase approach is used to create the top task list for Canada.ca:
 
 ### 1. Collecting the top task data
 
-The first step was to collect top task data. We started with the institutions with the most popular content on Canada.ca. Some of the sources for this data included:
+The first step is to collect the top task data. We start with institutions which have the most popular content on Canada.ca. Some of the sources include:
 
 * web analytics 
 * Departmental plans
@@ -48,47 +46,53 @@ The first step was to collect top task data. We started with the institutions wi
 
 #### Challenges when collecting data from different sources
 
-There are some challenges in trying to collect data from so many different sources. They include:
+There are some challenges in trying to collect data from so many different sources, such as: 
 
-<b>Analytics comparability:</b> There's a wide variety of web analytics in use, some more effective than others. Some free analytics software only samples data. Some track effectively, but is very inefficient for getting reports.
-
-<b>Visits versus pageviews:</b> Visits tend to better represent a real person completing a task than pageviews. Pageview numbers can sometimes be inflated when a task involves multiple pages.
-
-<b>Start pages versus all pages:</b> Some tasks require a visitor to go to several different pages, while others can be accomplished on one page. We've moved away from combining traffic for many pages related to a task to try to keep them comparable. We now try to identify and track one start page per task.
+* <b>Analytics comparability:</b> 
+**many web analytics tools are in use, some more effective than others
+**some free analytics software only samples data across visits instead of recording everything
+**some track effectively, but are very inefficient at generating reports
+* <b>Visits versus pageviews:</b> 
+**visits represent a real person completing a task better than pageviews
+**pageview numbers can inflate when a task involves multiple pages
+* <b>Start pages versus all pages:</b> 
+**some tasks require several different pages, while others only one page 
+**combined traffic for many pages reduces comparability
+**it's therefore important to identify and track one start page per task	
 
 ### 2. Analyzing and ranking the tasks
 
-When comparing tasks from widely different departments and agencies, we need to separate core tasks from their supporting sub-tasks.
+The second phase involves comparing tasks from widely different departments and agencies. At the government-wide level, we separate core tasks from their supporting sub-tasks.
 
-For example, “Get a passport” is a popular task. But to actually accomplish the goal of getting a passport, you'll have to do a number of steps. We call these smaller steps "sub-tasks". For instance:
+For instance, "Get a passport" is a popular task. But to actually accomplish the goal of getting a passport, you'll have to do a number of steps. We call these smaller steps "sub-tasks" like:
 
-- see if you're eligible to get a passport
-- check passport photo requirements
-- download the passport request form
+* see if you're eligible to get a passport
+* check passport photo requirements
+* download the passport request form
 
-If you were a content designer working on passports, then you’d need to keep track of all of these sub-tasks. But for our purposes, “Get a passport” provided enough detail to help us manage the task at the central agency level.
+If you were a content designer working on passports at a department or agency, then you’d need to keep track of all of these sub-tasks. But for our purposes, “Get a passport” provided enough detail to help us manage the task at the government-wide level.
 
-We could have named the task "Canadian passports", but wanted to keep the tasks as answers to the question, "why are people coming to the site?" So we wrote each task as a verb, to make clearer what people are trying to do. 
+We could have named the task "Canadian passports", but we wanted to keep the tasks as answers to the question, "why are people coming to the site?" We write each task as a verb to make clearer what people are trying to do.
 
-Once the core tasks were identified, we ranked them based on visits to the start pages. This gave us a sense of how often each task is actually used. It continues to help us tell where improving tasks could have the greatest impact.
+Once the core tasks are identified, we rank them based on visits to the start pages. This gives us a sense of how often each task is actually used. It continues to help us tell where improving tasks could have the greatest impact.
 
 ### 3. Validating the top tasks with website visitors
 
-Once tasks have been identified, analyzed, and ranked, we need to validate them with website visitors. This will include asking people why they came to the site. They can choose from the tasks we identified or add their own reason. This way we can fill in any gaps, which will give us greater confidence that the tasks we've identified are actually what people come to do.
+Once tasks are identified, analyzed, and ranked, we validate them with website visitors. This will include asking people why they came to the site. They can choose from the tasks we identified or add their own reason for coming to Canada.ca. This way we can fill in any gaps, which will give us greater confidence that the tasks we've identified are actually what people come to do.
 
-Over the next year, we're planning to work with departments and agencies on these top task surveys and further mature our approach to top tasks. 
+Over the next year, we're planning to work with departments and agencies on these top task surveys and further mature our approach to top tasks.
 
 ## How top tasks will change service delivery
 
-Top task performance is the basis for optimizing Canada.ca. We're also planning to use top tasks to inform overall service delivery. Right now, our top tasks reflect the online portion of tasks, but we're also working with service providers to make sure task improvements are connected with all the ways government serves the public.
+Top task performance is the basis for optimizing Canada.ca, but we won’t be stopping at just the website. We plan on using top tasks to inform overall service delivery. Right now, our top tasks reflect the online portion of the tasks. But, we're also working with service providers to make sure task improvements are connected with all the ways government serves the public.
 
 ## We want to hear from you
 
-Let us know what you think. Email us at <ux.eu@tbs-sct.gc.ca> or tweet using the hashtag #Canadadotca.
+Let us know what you think about task management. Email us at <ux.eu@tbs-sct.gc.ca> or tweet using the hashtag #Canadadotca.
 
 ## Learn more about top tasks
 
-* Review the current [top 100 tasks list for the Government of Canada](https://canada-ca.github.io/pages/top-task-list-canada-ca.html).
+* [The top 100 tasks list for the Government of Canada](https://canada-ca.github.io/pages/top-task-list-canada-ca.html).
 <!--
 * For more on how we've been asking departments and agencies to think about and provide us comparable top task data, please read [How to identify top tasks]().
 * [Making Canada.ca for Canadians]() tells about how we originally used the top 100 tasks in 2013 to design Canada.ca navigation
