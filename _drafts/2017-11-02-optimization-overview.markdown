@@ -35,7 +35,7 @@ Once an optimization project is agreed upon, an optimization team is formed with
 
 Teams may occasionally pull in deeper-level specialists. For example, an expert from Corporations Canada joined the “starting a business” optimization team to workshop the baseline testing results. Corporations Canada then stepped back and Innovation, Science and Economic Development Canada represented them moving forward. As the project ramps up into the design and prototyping stage, the team works together through frequent face-to-face workshops and online tools like Github and Webex.
 
-<div class="well panel">"Design sprints are most successful with a mix of people," Jake Knapp, author of <em>Sprint</em></div>
+<div class="well panel">"Design sprints are most successful with a mix of people," Jake Knapp, author of <cite>Sprint</cite></div>
 
 ## Usability testing is key
 
