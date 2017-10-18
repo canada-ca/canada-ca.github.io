@@ -26,7 +26,7 @@ Data and evidence drive the 3 to 4 month sequence that we are using to optimize 
 1. **Discovery research**: the existing evidence is gathered and synthesized into insights and hypotheses to produce scenarios for baseline testing
 2. **Baseline testing**: moderated usability tests are done with Canadians trying the scenarios on the existing website
 3. **Design and prototyping**: sprints are used to iteratively design, build and test a prototype website that solves the problems seen in discovery and baseline testing
-4. **Benchmark testing**: the baseline test (usability testing) is repeated on the new prototype site with a different but similar set of Canadian participants 
+4. **Validation testing**: the baseline test (usability testing) is repeated on the new prototype site with a different but similar set of Canadian participants
 5. **Prototype launch**: if the validation test shows a measurable improvement, then the successful aspects of the prototypes are integrated and released at the earliest opportunity.
 
 ## Successful task teams are multi-disciplinary
