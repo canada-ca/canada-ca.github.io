@@ -12,7 +12,7 @@ lang: en
 <!-- Goals
 
 * help understand why we're collecting top tasks
-** How does it make things better for people?
+    * How does it make things better for people?
 * what exactly are tasks? how are they different from services? what about the sub-tasks and offline tasks that are important?
 * how do we manage canada.ca performance by what the user is trying to do?
 
@@ -49,16 +49,16 @@ The first step is to collect the top task data. We start with institutions which
 There are some challenges in trying to collect data from so many different sources, such as: 
 
 * <b>Analytics comparability:</b> 
-**many web analytics tools are in use, some more effective than others
-**some free analytics software only samples data across visits instead of recording everything
-**some track effectively, but are very inefficient at generating reports
+    * many web analytics tools are in use, some more effective than others
+    * some free analytics software only samples data across visits instead of recording everything
+    * some track effectively, but are very inefficient at generating reports
 * <b>Visits versus pageviews:</b> 
-**visits represent a real person completing a task better than pageviews
-**pageview numbers can inflate when a task involves multiple pages
+    * visits represent a real person completing a task better than pageviews
+    * pageview numbers can inflate when a task involves multiple pages
 * <b>Start pages versus all pages:</b> 
-**some tasks require several different pages, while others only one page 
-**combined traffic for many pages reduces comparability
-**it's therefore important to identify and track one start page per task	
+    * some tasks require several different pages, while others only one page 
+    * combined traffic for many pages reduces comparability
+    * it's therefore important to identify and track one start page per task	
 
 ### 2. Analyzing and ranking the tasks
 
