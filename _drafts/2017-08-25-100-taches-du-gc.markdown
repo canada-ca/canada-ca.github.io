@@ -28,30 +28,30 @@ Une méthode en trois étapes sert à dresser la liste des tâches principales d
 
 La première étape est la collecte de données sur les tâches principales, en commençant par les organismes dont le contenu sur Canada.ca est le plus populaire. Voici certaines des sources :
 
-•	Analytique Web
-•	Plans ministériels
-•	Lettre de mandat (du premier ministre aux ministres du cabinet)
-•	Rétroaction ou rapports des centres d’appels
-•	Contribution des personnes qui gèrent des programmes 
-•	Contribution des employés qui travaillent auprès du public 
-•	Études ou enquêtes préalables
+* Analytique Web
+* Plans ministériels
+* Lettre de mandat (du premier ministre aux ministres du cabinet)
+* Rétroaction ou rapports des centres d’appels
+* Contribution des personnes qui gèrent des programmes 
+* Contribution des employés qui travaillent auprès du public 
+* Études ou enquêtes préalables
 
 
 #### Les défis de la collecte de données de diverses sources 
 
 La collecte de données provenant d’une grande variété de sources présente des défis : 
 
-* <b>•	Comparabilité de l’analytique </b> 
-**o	De nombreux outils d’analytique Web sont utilisés, mais leur efficacité varie.	
-**o	Certains logiciels d’analytique gratuits utilisent seulement un échantillonnage des données. 
-**o	D’autres font un suivi efficace, mais produisent de piètres rapports.
-* <b>•	Visite et consultation de page : </b> 
-**o	Le nombre de personnes qui effectuent une tâche est mieux représenté par les visites que les consultations de pages.	 
-**o	Si une tâche requiert la consultation de plusieurs pages, les données sur la consultation de page finissent par gonfler chiffres.	
-* <b>•	Page de départ ou toutes les pages : </b> 
-**o	Des tâches requièrent la consultation de plusieurs pages, alors que d’autres, un seule.  
-**o	Le trafic combiné de plusieurs pages nuit à la comparabilité.
-**o	Il est important de définir une page de départ par tâche et d’en faire le suivi.
+* <b>Comparabilité de l’analytique </b> 
+** De nombreux outils d’analytique Web sont utilisés, mais leur efficacité varie.	
+** Certains logiciels d’analytique gratuits utilisent seulement un échantillonnage des données. 
+** D’autres font un suivi efficace, mais produisent de piètres rapports.
+* <b>Visite et consultation de page : </b> 
+** Le nombre de personnes qui effectuent une tâche est mieux représenté par les visites que les consultations de pages.	 
+** Si une tâche requiert la consultation de plusieurs pages, les données sur la consultation de page finissent par gonfler chiffres.	
+* <b>Page de départ ou toutes les pages : </b> 
+** Des tâches requièrent la consultation de plusieurs pages, alors que d’autres, un seule.  
+** Le trafic combiné de plusieurs pages nuit à la comparabilité.
+** Il est important de définir une page de départ par tâche et d’en faire le suivi.
 
 ### 2. L’analyse et le classement des tâches
 
@@ -59,9 +59,9 @@ La deuxième étape consiste en une comparaison de tâches de ministères et d�
 
 Par exemple, « obtenir un passeport » est une tâche populaire. Cependant, pour atteindre l’objectif d’obtenir un passeport, il faut passer par nombre d’étapes. Ces étapes sont les « sous-tâches », par exemple :
 
-* •	Voir si vous êtes admissible à l’obtention d’un passeport.
-* •	Vérifier les exigences relatives aux photos de passeport.
-* •	Télécharger le formulaire de demande de passeport.
+* Voir si vous êtes admissible à l’obtention d’un passeport.
+* Vérifier les exigences relatives aux photos de passeport.
+* Télécharger le formulaire de demande de passeport.
 
 Si vous étiez concepteur de contenu relatif aux passeports à un ministère ou un organisme, il vous faudrait faire le suivi de toutes ces sous-tâches. Mais, pour ce qui est de la liste des tâches principales, « Obtenir un passeport » comporte assez de détails pour gérer la tâche pour l’ensemble du gouvernement.
 
