@@ -21,6 +21,7 @@ lang: en
 People come to Canada.ca with a goal in mind and a task that they want to accomplish. And Canada.ca is about delivering services and information from right across the Government of Canada. Top tasks are the most important and most used tasks. By managing the top tasks, we can effectively meet the needs of most people.
 
 There are a huge number of tasks to support on Canada.ca. We focus on the [top 100 tasks list for the Government of Canada](https://canada-ca.github.io/pages/top-task-list-canada-ca.html).
+
 <figure style="overflow: auto;">
 <img style="float: left;" src="/images/top100piechart-548x528.png" width="548" height="528" alt="Pie chart showing one segment taking up one quarter, next 4 segments covering about half, and segments getting smaller till they blend into each other by the end. Data is from the top task list for Canada.ca">
 <figcaption>
