@@ -42,16 +42,16 @@ La première étape est la collecte de données sur les tâches principales, en 
 La collecte de données provenant d’une grande variété de sources présente des défis : 
 
 * <b>Comparabilité de l’analytique </b> 
-** De nombreux outils d’analytique Web sont utilisés, mais leur efficacité varie.	
-** Certains logiciels d’analytique gratuits utilisent seulement un échantillonnage des données. 
-** D’autres font un suivi efficace, mais produisent de piètres rapports.
+    * De nombreux outils d’analytique Web sont utilisés, mais leur efficacité varie.	
+    * Certains logiciels d’analytique gratuits utilisent seulement un échantillonnage des données. 
+    * D’autres font un suivi efficace, mais produisent de piètres rapports.
 * <b>Visite et consultation de page : </b> 
-** Le nombre de personnes qui effectuent une tâche est mieux représenté par les visites que les consultations de pages.	 
-** Si une tâche requiert la consultation de plusieurs pages, les données sur la consultation de page finissent par gonfler chiffres.	
+    * Le nombre de personnes qui effectuent une tâche est mieux représenté par les visites que les consultations de pages.	 
+    * Si une tâche requiert la consultation de plusieurs pages, les données sur la consultation de page finissent par gonfler chiffres.	
 * <b>Page de départ ou toutes les pages : </b> 
-** Des tâches requièrent la consultation de plusieurs pages, alors que d’autres, un seule.  
-** Le trafic combiné de plusieurs pages nuit à la comparabilité.
-** Il est important de définir une page de départ par tâche et d’en faire le suivi.
+    * Des tâches requièrent la consultation de plusieurs pages, alors que d’autres, un seule.  
+    * Le trafic combiné de plusieurs pages nuit à la comparabilité.
+    * Il est important de définir une page de départ par tâche et d’en faire le suivi.
 
 ### 2. L’analyse et le classement des tâches
 
