@@ -26,13 +26,13 @@ There are a huge number of tasks to support on Canada.ca. We focus on the [top 1
 <img style="float: left;" src="/images/top100piechart-548x528.png" width="548" height="528" alt="Pie chart showing one segment taking up one quarter, next 4 segments covering about half, and segments getting smaller till they blend into each other by the end. Data is from the top task list for Canada.ca">
 <figcaption>
 <p>The top 5 tasks are responsible for more than 50% of all website visits.</p>
-<ul>
+<ol>
 <li>Get a local weather forecast</li>
 <li>Get a visitor visa</li>
 <li>Apply to immigrate to Canada</li>
 <li>Get marine conditions</li>
 <li>Get an eTA (electronic Travel Authorization)</li>
-</ul>
+</ol>
 </figcaption>
 </figure>
 
