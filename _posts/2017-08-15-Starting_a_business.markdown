@@ -58,7 +58,7 @@ The map also helped us design a series of steps to meet the needs of the entrepr
 
 In contrast, choosing a business name surfaced as a crucial step. Yet there was no link to it at all on the “Start a business” topic page. That made it very hard for our research participants to find it unless they dove into registration pages. Unfortunately, only 37% of our 20 baseline test participants (students studying business) were able to find the business name search. The success rate was low, but it gave us lots of room to improve.
 
-## Direct outcomes for Canadians starting a business
+## Usability testing to evaluate the designs
 
 Once all the various pieces of the new design came together, we launched another research study to test usability on the prototypes. We did the study with a similar set of business students. Success at the “Find out if a name is taken” task rose from 37% to 94% in our task-based usability study.
 
@@ -79,9 +79,9 @@ We want to hear from you!
 
 ## Explore further
 
-•	[The optimized “Starting a business” page](https://www.canada.ca/en/services/business/start.html)
-•	[Taking steps to new templates complete with research evidence](https://canada-ca.github.io/category/2017/08/09/taking-steps.html)
-•	[The complete decision map for starting a business](/images/Starting_a_business_decisions_Nov2016_grey_1803x1230.png)
-•	[Bringing logic to a government design sprint](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast)
-•	[How Gov.UK does business optimization projects](https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/)
+- [The optimized “Starting a business” page](https://www.canada.ca/en/services/business/start.html)
+- [Taking steps to new templates complete with research evidence](https://canada-ca.github.io/category/2017/08/09/taking-steps.html)
+- [The complete decision map for starting a business](/images/Starting_a_business_decisions_Nov2016_grey_1803x1230.png)
+- [Bringing logic to a government design sprint](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast)
+- [How Gov.UK does business optimization projects](https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/)
 
