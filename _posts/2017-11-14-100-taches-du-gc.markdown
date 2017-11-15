@@ -38,6 +38,8 @@ Les tâches – simples et complexes – en lien avec le gouvernement du Canada 
 </div>
 </figure>
 
+<div class="clearfix"></div>
+
 [Voir les 100 tâches principales de Canada.ca](https://canada-ca.github.io/pages/taches-principales-canada-ca.html)
 
 ## Les tâches principales sont le fondement de la conception de Canada.ca
