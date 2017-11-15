@@ -92,9 +92,9 @@
 <li><a href="https://www.canada.ca/{{ page.lang }}.html">{{ site.home[page.lang] }}</a></li>
 {% if page.ref != "index" %}
   {% if page.lang == "en" %}
-    <li><a href="/">{{ site.Canada.ca blog[page.lang] }}</a></li>
+    <li><a href="/">Canada.ca blog{{ site.AllPosts[page.lang] }}</a></li>
   {% else %}
-    <li><a href="/accueil.html">{{ site.AllPosts[page.lang] }}</a></li>
+    <li><a href="/accueil.html">blogue de Canada.ca{{ site.AllPosts[page.lang] }}</a></li>
   {% endif %}
 {% endif %}
 </ol>
