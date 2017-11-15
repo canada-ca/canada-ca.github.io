@@ -16,7 +16,7 @@ Les gens utilisent nos canaux numériques pour réaliser une grande variété de
 Les tâches – simples et complexes – en lien avec le gouvernement du Canada (GC) se comptent par milliers. Comment nous y prenons-nous pour prioriser? En cernant celles qui sont les plus importantes et les plus utilisées. Nous les appelons les « tâches principales » du GC. Nous nous concentrons sur les 100 tâches principales du gouvernement du Canada. Nous avons commencé à améliorer le contenu de ces tâches principales afin d’accroître le taux de succès des utilisateurs. 
 
 <figure style="overflow: auto;">
-<img style="float: left;" src="/images/top100piechart-548x528.png" width="548" height="528" alt="Pie chart showing one segment taking up one quarter, next 4 segments covering about half, and segments getting smaller till they blend into each other by the end. Data is from the top task list for Canada.ca">
+<img style="float: left;" src="/images/top100piechart-548x528.png" width="548" height="528" alt="Diagramme à secteurs montrant un segment occupant un quart du diagramme, les quatre segments suivants couvrant environ la moitié du diagramme et les autres segments devenant plus petits jusqu'à ce qu'ils se fondent l'un dans l'autre à la fin. Les données viennent de la liste des tâches principales pour Canada.ca">
 <figcaption>
 <p>Les cinq tâches principales comptent pour plus de 50 % des visites des pages de départ des 100 tâches principales.</p>
 <ol>
