@@ -4,7 +4,7 @@ title:  "How we identify top tasks for Canada.ca"
 gradelevel: 7.8
 ref: toptasks
 date:   2017-11-14 09:48:44 +0100
-categories: top-tasks optimization
+categories: category
 published: true
 lang: en
 description: You have to put an article description (in the markdown file containing the post) here.
