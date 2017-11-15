@@ -20,7 +20,7 @@ There are thousands of GC tasks out there, some small, and some complex. So how 
 
 <div class="col-md-6">
 <div class="center-block">
-<img class="img-responsive center-block"  style="margin-bottom: 50px;" src="./images/top100piechart.png" alt="Pie chart showing one segment taking up one quarter, next 4 segments covering about half, and segments getting smaller till they blend into each other by the end. Data is from the top task list for Canada.ca" />
+<img class="img-responsive center-block"  style="margin-bottom: 50px;" src="/images/top100piechart.png" alt="Pie chart showing one segment taking up one quarter, next 4 segments covering about half, and segments getting smaller till they blend into each other by the end. Data is from the top task list for Canada.ca" />
 </div>
 </div>
 
