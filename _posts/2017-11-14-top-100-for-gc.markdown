@@ -7,7 +7,7 @@ date:   2017-11-14 09:48:44 +0100
 categories: top-tasks optimization
 published: true
 lang: en
-description: You have to put an article description here.
+description: You have to put an article description (in the markdown file containing the post) here.
 ---
 
 People come to our digital channels to accomplish a very wide range of tasks.  We say they are looking for “information” or “services”. They don’t make these distinctions - people come to Canada.ca with a goal in mind and a task that they want to accomplish. If they are able to accomplish their task, their need has been met. If not, we have work to do. 
