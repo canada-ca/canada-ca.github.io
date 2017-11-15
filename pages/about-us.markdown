@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "About the Digital Transformation Office"
 gradelevel: *
 ref: aboutus
