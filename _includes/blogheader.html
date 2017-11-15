@@ -8,7 +8,9 @@
 </ul><header role="banner">
 <div id="wb-bnr" class="container">
 <section id="wb-lng" class="visible-md visible-lg text-right">
-<h2 class="wb-inv">{{ site.LanguageSelection[page.lang] }}</h2>
+	
+	
+<!-- <h2 class="wb-inv">{{ site.LanguageSelection[page.lang] }}</h2>
 <div class="row">
 <div class="col-md-12">
 <ul class="list-inline margin-bottom-none">
@@ -31,7 +33,34 @@
 </ul>
 </div>
 </div>
+</section> -->
+	
+	<!-- bandaid fix -->
+<header role="banner">
+<div id="wb-bnr" class="container">
+
+    
+    <section id="wb-lng" class="visible-md visible-lg text-right">
+    <h2 class="wb-inv">Language selection</h2>
+    <div class="row">
+        <div class="col-md-12">
+            <ul class="list-inline margin-bottom-none">
+                <li>
+                    <a lang="fr" href="/accuiel.html">
+                        Fran&ccedil;ais
+                        
+                    </a>
+                </li>
+                
+                
+            </ul>
+        </div>
+    </div>
 </section>
+	
+	<!-- bandaid fix -->
+
+
 <div class="row">
 <div class="brand col-xs-8 col-sm-9 col-md-6">
 <a href="https://www.canada.ca/en.html"><object type="image/svg+xml" tabindex="-1" data="{{ site.baseurl }}/wet-boew/assets/sig-blk-{{ page.lang }}.svg"></object><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a>
