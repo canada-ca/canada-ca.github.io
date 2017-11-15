@@ -4,7 +4,7 @@ title:  "De quelle façon déterminons-nous les principales tâches pour Canada.
 gradelevel: 7.8
 ref: toptasks
 date:   2017-11-14 09:48:44 +0100
-categories: top-tasks, optimization
+categories: top-tasks optimization
 published: true
 lang: fr
 description: French description needs to go here.
@@ -16,10 +16,17 @@ Les gens utilisent nos canaux numériques pour réaliser une grande variété de
 
 Les tâches – simples et complexes – en lien avec le gouvernement du Canada (GC) se comptent par milliers. Comment nous y prenons-nous pour prioriser? En cernant celles qui sont les plus importantes et les plus utilisées. Nous les appelons les « tâches principales » du GC. Nous nous concentrons sur les 100 tâches principales du gouvernement du Canada. Nous avons commencé à améliorer le contenu de ces tâches principales afin d’accroître le taux de succès des utilisateurs. 
 
-<figure style="overflow: auto;">
-<img class="img-responsive center-block style="float: left;" src="/images/top100piechart-548x528.png" width="548" height="528" alt="Diagramme à secteurs montrant un segment occupant un quart du diagramme, les quatre segments suivants couvrant environ la moitié du diagramme et les autres segments devenant plus petits jusqu'à ce qu'ils se fondent l'un dans l'autre à la fin. Les données viennent de la liste des tâches principales pour Canada.ca">
-<figcaption>
-<p>Les cinq tâches principales comptent pour plus de 50 % des visites des pages de départ des 100 tâches principales.</p>
+<figure style="margin-top: 50px;" >
+
+<div class="col-md-6">
+<div class="center-block">
+<img class="img-responsive center-block"  style="margin-bottom: 50px;" src="./images/top100piechart.png" alt="Diagramme à secteurs montrant un segment occupant un quart du diagramme, les quatre segments suivants couvrant environ la moitié du diagramme et les autres segments devenant plus petits jusqu'à ce qu'ils se fondent l'un dans l'autre à la fin. Les données viennent de la liste des tâches principales pour Canada.ca">
+</div>
+</div>
+
+<div class="col-md-6">
+<figcaption class="center-block" style="margin-top: 50px;">
+<p><b>Les cinq tâches principales comptent pour plus de 50 % des visites des pages de départ des 100 tâches principales.</b></p>
 <ol>
 <li>Obtenir les prévisions météorologiques locales</li>
 <li>Obtenir un visa de visiteur</li>
@@ -28,6 +35,7 @@ Les tâches – simples et complexes – en lien avec le gouvernement du Canada 
 <li>Obtenir une AVE (autorisation de voyage électronique)</li>
 </ol>
 </figcaption>
+</div>
 </figure>
 
 [Voir les 100 tâches principales de Canada.ca](https://canada-ca.github.io/pages/taches-principales-canada-ca.html)
