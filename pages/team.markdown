@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About the Digital Transformation Office"
-gradelevel: *
+gradelevel: unknown
 ref: aboutus
 date:   2017-11-17 09:48:44 +0100
 published: false
