@@ -59,7 +59,7 @@ We start with institutions which have the most popular content on Canada.ca. Som
 There are some challenges in trying to collect data from so many different sources, such as: 
 
 * <b>Analytics comparability:</b> 
-    * o	many tools are in use, some more effective than others
+    * many tools are in use, some more effective than others
     * some free analytics software only samples data across visits instead of recording everything
     * some track effectively, but are very inefficient at generating reports
 * <b>Visits versus page views:</b> 
