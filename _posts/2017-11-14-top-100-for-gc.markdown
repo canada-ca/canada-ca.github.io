@@ -17,7 +17,7 @@ People come to our digital channels to accomplish a very wide range of tasks.  W
 There are thousands of GC tasks out there, some small, and some complex. So how do we prioritize?  By identifying the most important and most used tasks. We call these the GC “top tasks”.  We are focusing on the 100 top tasks for the Government of Canada. We have begun to improve the content related to these top tasks so that people can more successfully accomplish them. 
 
 <figure style="overflow: auto;">
-<img class="img-responsive center-block" style="float: left;" src="/images/top100piechart-548x528.png" width="548" height="528" alt="Pie chart showing one segment taking up one quarter, next 4 segments covering about half, and segments getting smaller till they blend into each other by the end. Data is from the top task list for Canada.ca">
+<img class="img-responsive" style="float: left; padding: 15px, 15px, 15px, 15px;" src="/images/top100piechart.png" alt="Pie chart showing one segment taking up one quarter, next 4 segments covering about half, and segments getting smaller till they blend into each other by the end. Data is from the top task list for Canada.ca">
 <figcaption>
 <p>The top 5 tasks are responsible for more than 50% of visits to start pages for the top 100 tasks.</p>
 <ol>
