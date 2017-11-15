@@ -20,7 +20,7 @@ Les tâches – simples et complexes – en lien avec le gouvernement du Canada 
 
 <div class="col-md-6">
 <div class="center-block">
-<img class="img-responsive center-block"  style="margin-bottom: 50px;" src="./images/top100piechart.png" alt="Diagramme à secteurs montrant un segment occupant un quart du diagramme, les quatre segments suivants couvrant environ la moitié du diagramme et les autres segments devenant plus petits jusqu'à ce qu'ils se fondent l'un dans l'autre à la fin. Les données viennent de la liste des tâches principales pour Canada.ca">
+<img class="img-responsive center-block"  style="margin-bottom: 50px;" src="/images/top100piechart.png" alt="Diagramme à secteurs montrant un segment occupant un quart du diagramme, les quatre segments suivants couvrant environ la moitié du diagramme et les autres segments devenant plus petits jusqu'à ce qu'ils se fondent l'un dans l'autre à la fin. Les données viennent de la liste des tâches principales pour Canada.ca">
 </div>
 </div>
 
