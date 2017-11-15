@@ -9,7 +9,7 @@ published: true
 lang: en
 description: You have to put an article description here.
 ---
-<div style="max width: 750px !important">
+
 People come to our digital channels to accomplish a very wide range of tasks.  We say they are looking for “information” or “services”. They don’t make these distinctions - people come to Canada.ca with a goal in mind and a task that they want to accomplish. If they are able to accomplish their task, their need has been met. If not, we have work to do. 
 
 ## Top tasks
@@ -111,4 +111,4 @@ Let us know what you think about task management. Email us at <ux.eu@tbs-sct.gc.
 * [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) by Gerry McGovern, describes the value of top tasks and the survey voting method to validate them
 * [How to conduct a top task analysis](https://measuringu.com/top-tasks/) by Jeff Sauro, gets into some of the statistical details around analysing top task data from surveys
 
-</div>
+
