@@ -7,7 +7,7 @@ date:   2017-11-14 09:48:44 +0100
 categories: category
 published: true
 lang: fr
-description: French description (put it in the markdown file containing the post) needs to go here.
+description: Les tâches – simples et complexes – en lien avec le gouvernement du Canada (GC) se comptent par milliers. Comment nous y prenons-nous pour prioriser?
 ---
 
 Les gens utilisent nos canaux numériques pour réaliser une grande variété de tâches. Nous disons qu’ils veulent de l’« information » ou des « services ». Ils ne font pas cette distinction – ils consultent Canada.ca avec une idée précise en tête et une tâche à accomplir. S’ils sont en mesure d’accomplir leur tâche, leur besoin est comblé. Dans le cas contraire, nous avons du travail à faire. 
