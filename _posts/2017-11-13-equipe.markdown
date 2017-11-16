@@ -4,7 +4,7 @@ title:  "À propos du Bureau de la transformation numérique"
 gradelevel: 7.8
 ref: aboutus
 date:   2017-11-13 09:48:44 +0100
-published: true
+published: false
 lang: fr
 description: À propos du Bureau de la transformation numérique au Secrétariat du Conseil du Trésor du Canada. 
 ---
