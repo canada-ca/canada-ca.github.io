@@ -22,6 +22,10 @@ The Digital Transformation Office at Treasury Board of Canada Secretariat works 
 
 <div class="col-md-6">
 <figcaption class="center-block" style="margin-top: 50px;">
+  <p>thing thing thing</p>
+  </figcaption>
+</div>
+</figure>
 
 ## Meet the team
 
