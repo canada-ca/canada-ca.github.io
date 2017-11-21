@@ -7,6 +7,7 @@ date:   2017-11-14 09:48:44 +0100
 published: true
 lang: en
 description: There are thousands of Government of Canada (GC) tasks out there, some small, and some complex. So how do we prioritize? 
+alt: I am an alt tag someone needs to fill out for the article image
 ---
 
 People come to our digital channels to accomplish a very wide range of tasks.  We say they are looking for “information” or “services”. They don’t make these distinctions - people come to Canada.ca with a goal in mind and a task that they want to accomplish. If they are able to accomplish their task, their need has been met. If not, we have work to do. 
