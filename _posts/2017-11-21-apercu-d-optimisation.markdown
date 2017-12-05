@@ -6,7 +6,7 @@ date:   2017-11-21 09:48:44 +0100
 categories: category
 published: false
 lang: fr
-description:
+description: Les projets d’optimisation sont un moyen d’améliorer considérablement l’expérience des Canadiens sans investir beaucoup de temps et d’argent.
 ---
 
 Le site Web Canada.ca a été conçu pour simplifier la tâche des Canadiens qui veulent trouver ou comprendre les renseignements ou les services offerts par le gouvernement du Canada. Les essais récents montrent que les gens trouvent ce qu’ils recherchent, mais qu’ils ne comprennent pas toujours l’information qu’ils lisent. Même s’il y reste encore du travail à faire dans le domaine des recherches de tâches, nous réorientons maintenant nos efforts sur la réussite des tâches.
