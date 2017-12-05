@@ -23,9 +23,9 @@ Certaines tâches sont plus complexes et impliquent plusieurs étapes, comme l�
 
 La simplification des tâches complexes peut nécessiter une refonte complète des services, ce qui implique l’élimination d’obstacles informatiques et législatifs. Cependant, même dans des situations complexes, il existe encore des possibilités de corriger le contenu qui aide les gens à « commencer » leur tâche, comme l’information qui leur permet de déterminer s’ils sont admissibles. La définition d’objectifs réalisable dans les projets d’optimisation des tâches est essentielle à la réussite.
 
-<img class="img-responsive" alt="Photo of Sprint and Transform books, iPad with GDS blog and sketch notes" src="/images/Optimize_1100x825.jpg">
-
 ## Méthodologie pour l’amélioration de la réussite des tâches
+
+<img class="img-responsive" alt="Photo of Sprint and Transform books, iPad with GDS blog and sketch notes" src="/images/optimization-process-FR.PNG">
 
 Données et éléments probants dirigeant la séquence que nous utilisons sur 3 à 4 mois pour optimiser les services en ligne :
 
