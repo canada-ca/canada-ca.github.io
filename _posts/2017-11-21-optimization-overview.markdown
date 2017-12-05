@@ -4,7 +4,7 @@ title:  "How we're optimizing Canada.ca top tasks"
 ref: optimization-process
 date:   2017-11-21 09:48:44 +0100
 categories: category
-published: false
+published: true
 lang: en
 description: Optimization projects are a way to make meaningful improvements for Canadians without investing a lot of time and money.
 ---
