@@ -4,7 +4,7 @@ title:  "Comment nous optimisons les principales tâches sur le site Canada.ca"
 ref: optimization-process
 date:   2017-11-21 09:48:44 +0100
 categories: category
-published: false
+published: true
 lang: fr
 description: Les projets d’optimisation sont un moyen d’améliorer considérablement l’expérience des Canadiens sans investir beaucoup de temps et d’argent.
 ---
