@@ -6,6 +6,7 @@ date:   2017-11-21 09:48:44 +0100
 categories: category
 published: false
 lang: en
+description: Optimization projects are a way to make meaningful improvements for Canadians without investing a lot of time and money.
 ---
 
 Canada.ca has always been about making it simpler and easier for Canadians to find and understand the Government of Canada information and services they need. Recent testing is showing that while people are finding what they are looking for, they still can’t understand what they’re reading once they get there.  While there is still work to do on task findability, we are shifting the focus now to task success.  
