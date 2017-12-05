@@ -21,11 +21,11 @@ The first challenge is to think like a citizen and identify tasks. Sometimes a t
 
 Sometimes a task is more complex, and involves multiple steps, logging in, or supporting databases and applications. Applying to immigrate to Canada or filing income taxes are good examples. 
 
-More complex tasks may take full service re-design to fix, involving the removal of IT and legislative barriers. However, even in complex situations, there remain opportunities to fix content that helps people to “get started” with their tasks, such as understanding eligibility.  Defining the task optimization in achievable terms is critical to success.
-
-<img class="img-responsive" alt="Photo of Sprint and Transform books, iPad with GDS blog and sketch notes" src="/images/optimization-process-EN.PNG">  
+More complex tasks may take full service re-design to fix, involving the removal of IT and legislative barriers. However, even in complex situations, there remain opportunities to fix content that helps people to “get started” with their tasks, such as understanding eligibility.  Defining the task optimization in achievable terms is critical to success. 
 
 ## Methodology for improving task success
+
+<img class="img-responsive" alt="Photo of Sprint and Transform books, iPad with GDS blog and sketch notes" src="/images/optimization-process-EN.PNG"> 
 
 Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:
 
