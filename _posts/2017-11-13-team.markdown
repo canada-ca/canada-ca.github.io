@@ -47,7 +47,7 @@ We work with departments to:
    <div class="pull-left" style="padding-bottom: 25px;">
    <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
       Peter Smith<br>
-      <b>Chief</b>
+      <b>Chief, Product Design</b>
    </div>
 </div>
 
@@ -66,7 +66,7 @@ We work with departments to:
    <div class="pull-left" style="padding-bottom: 25px;">
    <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Manu Singh" />
       Manu Singh<br>
-      <b>Chief Standards and Guidance</b>
+      <b>Chief, Standards and Guidance</b>
    </div>
 </div>
 
