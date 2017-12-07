@@ -17,7 +17,7 @@ The Digital Transformation Office at Treasury Board of Canada Secretariat works 
 
 <div class="col-md-3">
    <div class="pull-left">
-   <img class="img-responsive center-block"  style="margin-bottom: 15px;" src="/images/DTO_blog_photo_DSC_3853_277x370.jpg" width="150px" alt="Allen Pink" />
+   <img class="img-responsive center-block"  style="margin-bottom: 15px; padding-top: 15px;" src="/images/DTO_blog_photo_DSC_3853_277x370.jpg" width="170px" alt="Allen Pink" />
       Allen Pink <br>
       <b> Director </b>
    </div>
@@ -28,7 +28,7 @@ The Digital Transformation Office at Treasury Board of Canada Secretariat works 
 <figcaption class="center-block">
 
    
-<p>Allen is quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Allen is quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 </div>
 
