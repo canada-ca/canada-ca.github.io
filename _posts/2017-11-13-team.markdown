@@ -24,7 +24,7 @@ The Digital Transformation Office at Treasury Board of Canada Secretariat works 
 </div>
 
 
-<div class="col-md-11">
+<div class="col-md-9">
 <figcaption class="center-block">
 
    
@@ -33,7 +33,8 @@ The Digital Transformation Office at Treasury Board of Canada Secretariat works 
 </div>
 
 
-<div class="clearfix"></div>
+<div class="clearfix">
+
 
 
 
