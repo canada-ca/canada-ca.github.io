@@ -32,6 +32,8 @@ Allen is quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 
   <img class="img-responsive" src="/images/kitten.jpg" style="width: 50px;" alt="Photo of the DTO team, October 2017" />
 </div>
+</div>
+
 
 Peter Smith
 Chief, Product design
