@@ -24,7 +24,7 @@ We work with departments to:
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left">
-   <img class="img-responsive center-block"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3853_277x370.jpg" width="185px" alt="Allen Pink" />
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3853_277x370.jpg" width="185px" alt="Allen Pink" />
       Allen Pink <br>
       <b style="padding-bottom: 15px;"> Director </b>
    </div>
@@ -47,7 +47,7 @@ We work with departments to:
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left">
-   <img class="img-responsive center-block"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
       Peter Smith<br>
       <b style="padding-bottom: 15px;">Chief, Product Design, Strategic Communications and Ministerial Affairs</b>
    </div>
