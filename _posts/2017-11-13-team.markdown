@@ -39,8 +39,31 @@ We work with departments to:
 
 <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
+</figcaption>
+</div>
+
+<div class="clearfix"></div>
 
 
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left">
+   <img class="img-responsive center-block"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
+      Peter Smith<br>
+      <b style="padding-bottom: 15px;">Chief, Product Design, Strategic Communications and Ministerial Affairs</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption class="center-block">
+
+   
+<p>Peter manages product design for Canada.ca, leading a small but mighty team of usability researchers and interaction designers. Over a 20 year career in the public service, he’s also managed Web and print publishing, designed corporate identity systems, and copyedited far too many news releases and annual reports. While in academia, he obtained a BA in Anthropology and dabbled in archaeology and literary criticism.</p>
+
+</figcaption>
+</div>
+
+<div class="clearfix"></div>
 <img class="img-responsive" src="/images/team_photo_Oct_2017_965x385px.jpg" alt="Photo of the DTO team, October 2017" />
 
 
