@@ -17,7 +17,7 @@ The Digital Transformation Office at Treasury Board of Canada Secretariat works 
 
 <div class="col-md-3">
    <div class="pull-left">
-   <img class="img-responsive center-block"  style="margin-bottom: 15px; padding-top: 15px;" src="/images/DTO_blog_photo_DSC_3853_277x370.jpg" width="185px" alt="Allen Pink" />
+   <img class="img-responsive center-block"  style="margin-bottom: 15px; padding-top: 15px;" src="/images/DTO_blog_photo_DSC_3853_277x370.jpg" width="195px" alt="Allen Pink" />
       Allen Pink <br>
       <b> Director </b>
    </div>
