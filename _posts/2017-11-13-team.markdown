@@ -23,10 +23,10 @@ We work with departments to:
 ## Meet the team
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="padding-bottom: 25px;">
    <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3853_277x370.jpg" width="185px" alt="Allen Pink" />
       Allen Pink <br>
-      <b style="padding-bottom: 45px;"> Director </b>
+      <b> Director </b>
    </div>
 </div>
 
@@ -46,10 +46,10 @@ We work with departments to:
 
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="padding-bottom: 25px;">
    <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
       Peter Smith<br>
-      <b style="padding-bottom: 45px;">Chief</b>
+      <b>Chief</b>
    </div>
 </div>
 
