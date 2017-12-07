@@ -8,10 +8,17 @@ published: true
 lang: en
 description: About the Digital Transformation Office at Treasury Board of Canada Secretariat. 
 ---
+The Digital Transformation Office, within the Treasury Board Secretariat under Strategic Communications and Ministerial Affairs, consists of communications professionals with expertise in plain language writing, content and interaction design, and user research.
 
-The Digital Transformation Office at Treasury Board of Canada Secretariat works to ensure citizens can find and complete their tasks with the Government of Canada through Canada.ca. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We work with departments to:
 
-<img class="img-responsive" src="/images/team_photo_Oct_2017_965x385px.jpg" alt="Photo of the DTO team, October 2017" />
+•	ensure the Canada.ca brand is recognized and trusted by Canadians
+
+•	improve in-demand information and services published on digital channels to make them easy to find and understand, based on insight from user research
+
+•	help communications teams develop the digital skills and processes necessary to support a sustainable shift to digital in their organization
+
+
 
 ## Meet the team
 
@@ -34,6 +41,6 @@ The Digital Transformation Office at Treasury Board of Canada Secretariat works 
 
 
 
-
+<img class="img-responsive" src="/images/team_photo_Oct_2017_965x385px.jpg" alt="Photo of the DTO team, October 2017" />
 
 
