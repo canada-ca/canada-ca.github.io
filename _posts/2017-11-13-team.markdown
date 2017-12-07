@@ -4,7 +4,7 @@ title:  "About the Digital Transformation Office"
 gradelevel: unknown
 ref: aboutus
 date:   2017-11-13 09:48:44 +0100
-published: false
+published: true
 lang: en
 description: About the Digital Transformation Office at Treasury Board of Canada Secretariat. 
 ---
@@ -15,23 +15,22 @@ The Digital Transformation Office at Treasury Board of Canada Secretariat works 
 
 ## Meet the team
 
-Allen Pink
-Director
+<div class="col-md-10" style="position: relative;" >
 
+<div class="col-lg-4" style="float: left;">
+  
+  <img class="img-responsive" src="/images/kitten.jpg" style="width: 150px;" alt="Photo of the DTO team, October 2017" />
+  
+  Allen Pink
+Director
+  <div>
+
+
+<div style="float: right;">
+  
 Allen is quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Peter Smith
-Chief, Product design
+</div>
 
-Peter has quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Manu Singh
-Chief, Standards and guidance
-
-Manu likes enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Patrick Lajeunesse
-Senior Design Researcher
-
-Patrick rides quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</div>
 
