@@ -25,7 +25,7 @@ We work with departments to:
 ## Meet the team
 
 <div class="col-md-3 col-xs-12" style="padding-top: 25px;">
-   <div class="pull-left" style="padding-bottom: 35px;">
+   <div class="pull-left" style="padding-bottom: 45px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3853_277x370.jpg" width="185px" alt="Allen Pink" />
       Allen Pink <br>
       <b> Director </b>
@@ -46,7 +46,7 @@ We work with departments to:
 
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="padding-bottom: 35px;">
+   <div class="pull-left" style="padding-bottom: 45px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
       Peter Smith<br>
       <b>Chief, Product Design</b>
@@ -65,7 +65,7 @@ We work with departments to:
 <div class="clearfix"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="padding-bottom: 35px;">
+   <div class="pull-left" style="padding-bottom: 45px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Manu Singh" />
       Manu Singh<br>
       <b>Chief, Standards and Guidance</b>
