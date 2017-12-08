@@ -8,30 +8,83 @@ published: false
 lang: en
 description: About the Digital Transformation Office at Treasury Board of Canada Secretariat. 
 ---
+The Digital Transformation Office (DTO) is part of the Treasury Board Secretariat of Canada’s Strategic Communications and Ministerial Affairs branch. At DTO, we are communications professionals with expertise in plain language writing, content and interaction design, and user research.
 
-The Digital Transformation Office at Treasury Board of Canada Secretariat works to ensure citizens can find and complete their tasks with the Government of Canada through Canada.ca. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We work with departments to:
 
-<img class="img-responsive" src="/images/team_photo_Oct_2017_965x385px.jpg" alt="Photo of the DTO team, October 2017" />
+* ensure that the Canada.ca brand is recognized and trusted by Canadians
+
+* make information and services that are in-demand and published on digital channels easier to find and understand based on insight from user research
+
+* help communications teams develop their skills and processes as they make a sustainable shift to digital in their organization
+
+
+
 
 ## Meet the team
 
-Allen Pink
-Director
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="padding-bottom: 25px;">
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/kitten.jpg" width="185px" alt="Allen Pink" />
+      Allen Pink <br>
+      <b> Director </b>
+   </div>
+</div>
 
-Allen is quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Peter Smith
-Chief, Product design
+<div class="col-md-9 col-xs-12">
+<figcaption class="center-block">
 
-Peter has quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   
+<p>Allen is meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow.</p>
 
-Manu Singh
-Chief, Standards and guidance
+</figcaption>
+</div>
 
-Manu likes enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div class="clearfix"></div>
 
-Patrick Lajeunesse
-Senior Design Researcher
 
-Patrick rides quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="padding-bottom: 25px;">
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
+      Peter Smith<br>
+      <b>Chief, Product Design</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption class="center-block">
+
+<p>Peter manages product design for Canada.ca, leading a small but mighty team of usability researchers and interaction designers. Over a 20 year career in the public service, he’s also managed Web and print publishing, designed corporate identity systems, and copyedited far too many news releases and annual reports. While in academia, he obtained a BA in Anthropology and dabbled in archaeology and literary criticism.</p>
+
+</figcaption>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="padding-bottom: 25px;">
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Manu Singh" />
+      Manu Singh<br>
+      <b>Chief, Standards and Guidance</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption class="center-block">
+
+<p>Manu is the Standards and Guidance chief for Canada.ca at the Treasury Board of Canada Secretariat (TBS).  His team of talented content designer experts help departments improve content, while also managing and improving the standards and guidance that help make Canada.ca better for people. He’s the recipient of a 2017 Public Service Award of Excellence for demonstrating leadership in collaborative approaches with citizens. His academic background includes studies in Biology, Cognitive Psychology and Computer Science. He’s has been working in Web for over 17 years.</p>
+
+</figcaption>
+</div>
+
+<div class="clearfix"></div>
+
+<img class="img-responsive" src="/images/team_photo_Oct_2017_965x385px.jpg" alt="Photo of the DTO team, October 2017" />
+
+## We want to hear from you
+
+Join the digital conversation at [#Canadadotca](https://twitter.com/search?q=%23Canadadotca) or send us an email at <ux.eu@tbs-sct.gc.ca>
 
