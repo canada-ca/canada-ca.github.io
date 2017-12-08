@@ -6,7 +6,7 @@ ref: aboutus
 date:   2017-12-11 09:48:44 +0100
 published: false
 lang: fr
-alt: photo de groupe de l'équipe du Bureau de la transformation numérique
+alt: photo de groupe de l'équipe Bureau de la transformation numérique
 description: À propos du Bureau de la transformation numérique au Secrétariat du Conseil du Trésor du Canada. 
 ---
 
