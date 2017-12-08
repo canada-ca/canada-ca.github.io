@@ -4,7 +4,7 @@ title:  "About the Digital Transformation Office"
 gradelevel: unknown
 ref: aboutus
 date:   2017-11-13 09:48:44 +0100
-published: false
+published: true
 lang: en
 description: About the Digital Transformation Office at Treasury Board of Canada Secretariat. 
 ---
@@ -25,7 +25,7 @@ We work with departments to:
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="padding-bottom: 25px;">
-   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/kitten.jpg" width="185px" alt="Allen Pink" />
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3853_277x370.jpg" width="185px" alt="Allen Pink" />
       Allen Pink <br>
       <b> Director </b>
    </div>
@@ -36,7 +36,7 @@ We work with departments to:
 <figcaption class="center-block">
 
    
-<p>Allen is meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow.</p>
+<p>Allen is meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow.</p>
 
 </figcaption>
 </div>
@@ -46,7 +46,7 @@ We work with departments to:
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="padding-bottom: 25px;">
-   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
       Peter Smith<br>
       <b>Chief, Product Design</b>
    </div>
@@ -65,7 +65,7 @@ We work with departments to:
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="padding-bottom: 25px;">
-   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Manu Singh" />
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Manu Singh" />
       Manu Singh<br>
       <b>Chief, Standards and Guidance</b>
    </div>
@@ -75,10 +75,49 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption class="center-block">
 
-<p>Manu is the Standards and Guidance chief for Canada.ca at the Treasury Board of Canada Secretariat (TBS).  His team of talented content designer experts help departments improve content, while also managing and improving the standards and guidance that help make Canada.ca better for people. He’s the recipient of a 2017 Public Service Award of Excellence for demonstrating leadership in collaborative approaches with citizens. His academic background includes studies in Biology, Cognitive Psychology and Computer Science. He’s has been working in Web for over 17 years.</p>
+<p>Manu is the Standards and Guidance chief for Canada.ca at the Treasury Board of Canada Secretariat (TBS).  His team of talented content design experts help departments improve content, while also managing and improving the standards and guidance that help make Canada.ca better for people. He’s the recipient of a 2017 Public Service Award of Excellence for demonstrating leadership in collaborative approaches with citizens. His academic background includes studies in Biology, Cognitive Psychology and Computer Science. He’s has been working in Web for over 17 years.</p>
 
 </figcaption>
 </div>
+
+<div class="clearfix"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="padding-bottom: 25px;">
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Gil C&ocirc;té" />
+      Gil C&ocirc;té<br>
+      <b>Optimization Delivery Lead (Consultant)</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption class="center-block">
+
+<p>Gil is a digital pioneer with over 25 years of digital transformation experience as a public servant, consultant and business leader. His roles have involved project leadership, product development, business transformation, information and business architecture and application development. He has a proven track record working with extended project teams, across and between organizations to develop innovative and award winning digital solutions involving content management, search, analytics, and machine learning. His diverse experience includes public and private sector engagements throughout Canada, USA and Europe.</p>
+
+</figcaption>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="padding-bottom: 25px;">
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Miguel Borges-Porteous" />
+      Miguel Borges-Porteous<br>
+      <b>Design Researcher</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption class="center-block">
+
+<p>Miguel is one of the research leads for top task improvements for Canada.ca. He holds a master’s degree in history and uses that training to ask the right questions about how Canadians are completing their top tasks and where they encounter difficulties. He has been working collaboratively with UX experts in Ottawa to bring the latest design research techniques into the Canadian civil service. He is encouraging more thought around usability test design and use of analytics to develop empathy with website visitors. Miguel is also trying to find like-minded people in the GC who are trying to adapt behavioural insights to help government better achieve policy objectives and make change for Canadians.</p>
+
+</figcaption>
+</div>
+
 
 <div class="clearfix"></div>
 
