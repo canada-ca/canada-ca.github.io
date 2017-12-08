@@ -3,7 +3,7 @@ layout: post
 title:  "About the Digital Transformation Office"
 gradelevel: 0
 ref: aboutus
-date:   2017-11-13 09:48:44 +0100
+date:   2017-12-11 09:48:44 +0100
 published: false
 lang: en
 description: About the Digital Transformation Office at Treasury Board of Canada Secretariat. 
@@ -311,7 +311,7 @@ We work with departments to:
 
 <div class="clearfix"></div>
 
-<img class="img-responsive" src="/images/team_photo_Oct_2017_965x385px.jpg" alt="Photo of the DTO team, October 2017" />
+<img class="img-responsive" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3882.jpg" alt="Photo of the DTO team, December 2017" />
 
 ## We want to hear from you
 
