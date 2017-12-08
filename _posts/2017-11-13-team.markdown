@@ -54,7 +54,7 @@ We work with departments to:
 
 
 <div class="col-md-9 col-xs-12">
-<figcaption class="center-block">
+<figcaption>
 
 <p>Peter manages product design for Canada.ca, leading a small but mighty team of usability researchers and interaction designers. Over a 20 year career in the public service, he’s also managed Web and print publishing, designed corporate identity systems, and copyedited far too many news releases and annual reports. While in academia, he obtained a BA in Anthropology and dabbled in archaeology and literary criticism.</p>
 
@@ -73,7 +73,7 @@ We work with departments to:
 
 
 <div class="col-md-9 col-xs-12">
-<figcaption class="center-block">
+<figcaption>
 
 <p>Manu is the Standards and Guidance chief for Canada.ca at the Treasury Board of Canada Secretariat (TBS).  His team of talented content design experts help departments improve content, while also managing and improving the standards and guidance that help make Canada.ca better for people. He’s the recipient of a 2017 Public Service Award of Excellence for demonstrating leadership in collaborative approaches with citizens. His academic background includes studies in Biology, Cognitive Psychology and Computer Science. He’s has been working in Web for over 17 years.</p>
 
@@ -92,7 +92,7 @@ We work with departments to:
 
 
 <div class="col-md-9 col-xs-12">
-<figcaption class="center-block">
+<figcaption>
 
 <p>Gil is a digital pioneer with over 25 years of digital transformation experience as a public servant, consultant and business leader. His roles have involved project leadership, product development, business transformation, information and business architecture and application development. He has a proven track record working with extended project teams, across and between organizations to develop innovative and award winning digital solutions involving content management, search, analytics, and machine learning. His diverse experience includes public and private sector engagements throughout Canada, USA and Europe.</p>
 
