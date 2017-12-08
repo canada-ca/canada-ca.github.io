@@ -137,8 +137,45 @@ We work with departments to:
 </figcaption>
 </div>
 
+<div class="clearfix"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="padding-bottom: 25px;">
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" width="185px" alt="Eric Cooper" />
+      Eric Cooper<br>
+      <b>Project Coordinator</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption class="center-block">
+
+<p>Eric is a project coordinator for the Digital Transformation Office. It takes a lot of work to overhaul a top task, start to finish, and Eric contributes by engaging with partners, managing the schedule, and getting tools when needed (digital or analog). Over the past 3 years, he’s contributed to the development and publication of the Canada.ca Content and Information Architecture Specification and the Canada.ca Content Style Guide. He holds an honours Bachelor’s degree of Integrated Science with concentrations in Mathematics and Psychology and, in 2017, he earned his Project Management Professional PMP certification.</p>
+
+</figcaption>
+</div>
 
 <div class="clearfix"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="padding-bottom: 25px;">
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3035_277x370.jpg" width="185px" alt="Patrick Lajeunesse" />
+      Patrick Lajeunesse <br>
+      <b>Senior Design Researcher</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption class="center-block">
+
+<p>Patrick has more than 15 years of user experience design and research. With a degree in Psychology, he applied his research and analysis training to digital communications for the United Nations and other international agencies based in Geneva, Switzerland. He spent a decade working in start-ups based in Ottawa and Connecticut, leading product design for a suite of tools used by some of the largest school districts in the US. Patrick has been working to improve service delivery for the Government of Canada since 2009.</p>
+
+</figcaption>
+</div>
+
+
 
 <div class="clearfix"></div>
 
