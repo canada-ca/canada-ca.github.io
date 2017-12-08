@@ -36,7 +36,7 @@ We work with departments to:
 
 
 <div class="col-md-9 col-xs-12">
-<figcaption style="padding-top: 10px;>
+<figcaption style="padding-top: 10px;">
 
    
 <p>Allen is meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow.</p>
