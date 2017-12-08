@@ -124,7 +124,7 @@ We work with departments to:
    <div class="pull-left" style="padding-bottom: 25px;">
    <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3033_277x370.jpg" width="185px" alt="Dave Knight" />
       Dave Knight<br>
-      <b>Design Researcher</b>
+      <b>Senior Interaction Designer</b>
    </div>
 </div>
 
