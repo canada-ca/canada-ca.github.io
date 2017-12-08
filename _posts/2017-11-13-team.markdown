@@ -48,7 +48,7 @@ We work with departments to:
 
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
       Peter Smith<br>
       <b>Chief, Product Design</b>
@@ -67,7 +67,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Manu Singh" />
       Manu Singh<br>
       <b>Chief, Standards and Guidance</b>
@@ -86,7 +86,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3069_277x370.jpg" width="185px" alt="Gil C&ocirc;té" />
       Gil C&ocirc;té<br>
       <b>Optimization Delivery Lead (Consultant)</b>
@@ -105,7 +105,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3043_277x370.jpg" width="185px" alt="Miguel Borges-Porteous" />
       Miguel Borges-Porteous<br>
       <b>Design Researcher</b>
@@ -124,7 +124,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3033_277x370.jpg" width="185px" alt="Dave Knight" />
       Dave Knight<br>
       <b>Senior Interaction Designer</b>
@@ -143,7 +143,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" width="185px" alt="Eric Cooper" />
       Eric Cooper<br>
       <b>Project Coordinator</b>
@@ -162,7 +162,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3035_277x370.jpg" width="185px" alt="Patrick Lajeunesse" />
       Patrick Lajeunesse <br>
       <b>Senior Design Researcher</b>
@@ -181,7 +181,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3840_277x370.jpg" width="185px" alt="Lisa Fast" />
       Lisa Fast <br>
       <b>Solution Lead (Consultant)</b>
@@ -201,7 +201,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3061_277x370.jpg" width="185px" alt="Julie Dufour" />
       Julie Dufour<br>
       <b>Senior Web Content Strategist</b>
@@ -220,7 +220,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3831_277x370.jpg" width="185px" alt="Jane Stewart" />
       Jane Stewart<br>
       <b>Solution Lead (Consultant)</b>
@@ -239,7 +239,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3826_277x370.jpg" width="185px" alt="Jennifer Mealing" />
       Jennifer Mealing<br>
       <b>Interaction Designer</b>
@@ -258,7 +258,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3075_277x370.jpg" width="185px" alt="Jillian LeBlanc" />
       Jillian LeBlanc<br>
       <b>Digital Engagement Advisor</b>
@@ -277,7 +277,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3054_277x370.jpg" width="185px" alt="David Pepin" />
       David Pepin<br>
       <b>Content Designer</b>
@@ -296,7 +296,7 @@ We work with departments to:
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
+   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3849_277x370.jpg" width="185px" alt="Laura Piper" />
       Laura Piper<br>
       <b>Senior Content Designer</b>
