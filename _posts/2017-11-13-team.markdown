@@ -140,7 +140,7 @@ We work with departments to:
 </figcaption>
 </div>
 
-<div class="clearfix" style="margin-bottom: 20px;"></div>>
+<div class="clearfix" style="margin-bottom: 20px;"></div>
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left">
