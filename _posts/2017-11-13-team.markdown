@@ -4,7 +4,7 @@ title:  "About the Digital Transformation Office"
 gradelevel: unknown
 ref: aboutus
 date:   2017-11-13 09:48:44 +0100
-published: true
+published: false
 lang: en
 description: About the Digital Transformation Office at Treasury Board of Canada Secretariat. 
 ---
@@ -84,7 +84,7 @@ We work with departments to:
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="padding-bottom: 25px;">
-   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Gil C&ocirc;té" />
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3069_277x370.jpg" width="185px" alt="Gil C&ocirc;té" />
       Gil C&ocirc;té<br>
       <b>Optimization Delivery Lead (Consultant)</b>
    </div>
@@ -103,7 +103,7 @@ We work with departments to:
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="padding-bottom: 25px;">
-   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Miguel Borges-Porteous" />
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3043_277x370.jpg" width="185px" alt="Miguel Borges-Porteous" />
       Miguel Borges-Porteous<br>
       <b>Design Researcher</b>
    </div>
@@ -118,6 +118,27 @@ We work with departments to:
 </figcaption>
 </div>
 
+<div class="clearfix"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="padding-bottom: 25px;">
+   <img class="img-responsive"  style="margin-bottom: 15px; padding-top: 10px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3033_277x370.jpg" width="185px" alt="Dave Knight" />
+      Dave Knight<br>
+      <b>Design Researcher</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption class="center-block">
+
+<p>Dave Knight is a Senior Interaction Designer working on Canada.ca with the Digital Transformation Office.  He has been working on Canada.ca for several years now, after twenty years in the private sector working in website design and development.  He is responsible for nuturing and growing the project’s design systems, and spends most of his time researching, creating and evaluating page layouts, user interface patterns and navigation systems for use on the site. He loves things that work well and things that are easy to use, and loathes those that are unnecessarily difficult, confusing or otherwise inconvenient for the people trying to use them.  He applies his experience in digital design to make sure that people’s experiences on Canada.ca are as successful, efficient, and pleasant as possible.  His personal mission is to make the digital world a little friendlier, and a little easier - one piece at a time.</p>
+
+</figcaption>
+</div>
+
+
+<div class="clearfix"></div>
 
 <div class="clearfix"></div>
 
