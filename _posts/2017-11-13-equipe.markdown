@@ -29,7 +29,7 @@ Nous travaillons avec les ministères pour :
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3853_277x370.jpg" width="185px" alt="Allen Pink" />
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3855_277x370.jpg" width="185px" alt="Allen Pink" />
       Allen Pink <br>
       <b> Director </b>
    </div>
@@ -40,7 +40,7 @@ Nous travaillons avec les ministères pour :
 <figcaption>
 
    
-<p>Allen est miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow miaow.</p>
+<p>Allen est...</p>
 
 </figcaption>
 </div>
