@@ -6,6 +6,7 @@ date:   2017-12-12 09:48:44 +0100
 categories: category
 published: true
 lang: fr
+alt: Comment nous optimisions le site #Canadapointca. Recherche exploratoire. Essais de base. Conception/prototypage. Essais de validation. Succès? Lancement. 
 description: Les projets d’optimisation sont un moyen d’améliorer considérablement l’expérience des Canadiens sans investir beaucoup de temps et d’argent.
 ---
 
