@@ -25,7 +25,7 @@ More complex tasks may take full service re-design to fix, involving the removal
 
 ## Methodology for improving task success
 
-<img class="img-responsive" alt="Overview of steps in the optimization process" src="/images/optimization-process-EN.PNG"> 
+<img class="img-responsive" alt="Overview of steps in the optimization process" src="/images/toptasks/optimization-process-EN.PNG"> 
 
 Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:
 
