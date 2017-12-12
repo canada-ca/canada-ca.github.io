@@ -154,7 +154,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Eric is a project coordinator for the Digital Transformation Office. It takes a lot of work to overhaul a top task, start to finish, and Eric contributes by engaging with partners, managing the schedule, and getting tools when needed (digital or analog). Over the past 3 years, he’s contributed to the development and publication of the Canada.ca Content and Information Architecture Specification and the Canada.ca Content Style Guide.</p><p>He holds an honours Bachelor’s degree of Integrated Science with concentrations in Mathematics and Psychology and, in 2017, he earned his Project Management Professional PMP certification.</p>
+<p>Eric is a Project Coordinator for the Treasury Board of Canada Secretariat. It takes a lot of work to overhaul a top task and Eric contributes by engaging with partners, managing the schedules, and getting tools when needed (digital or analog). Over the past 3 years, he’s contributed to the development and publication of the Canada.ca Content and Information Architecture Specification and the Canada.ca Content Style Guide.</p><p>He holds an honours Bachelor’s degree of Integrated Science with concentrations in Mathematics and Psychology and he earned his Project Management Professional PMP certification in 2017.</p>
 
 </figcaption>
 </div>
