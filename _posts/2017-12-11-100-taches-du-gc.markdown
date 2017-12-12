@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_fr
 title:  "De quelle façon déterminons-nous les principales tâches pour Canada.ca"
 gradelevel: 7.8
 ref: toptasks
