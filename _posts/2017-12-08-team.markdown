@@ -116,7 +116,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Miguel is one of the research leads for top task improvements for Canada.ca. He focuses on finding the best questions to ask about how Canadians are completing their top tasks and where they encounter difficulties. He has been working collaboratively with user experience (UX) experts in Ottawa to bring the latest design research techniques into the Canadian civil service.</p><p>He is encouraging more thought around usability test design and use of analytics to develop empathy with website visitors. Miguel is also trying to find like-minded people in the Government of Canada who are trying to adapt behavioural insights to help government better achieve policy objectives and make change for Canadians.</p>
+<p>Miguel is one of the research leads for top task improvements for the Canada.ca. He focuses on finding the best questions to ask about how Canadians are completing their top tasks and where they encounter difficulties. He has been working collaboratively with user experience (UX) experts in Ottawa to bring the latest design research techniques into the Canadian civil service.</p><p>He is encouraging more thought around usability test design and use of analytics to develop empathy with website visitors. Miguel is also trying to find like-minded people in the Government of Canada who are trying to adapt behavioural insights to help government better achieve policy objectives and make change for Canadians.</p>
 
 </figcaption>
 </div>
@@ -135,7 +135,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Dave has been working as Senior Interaction Designer with the DTO for several years now, after twenty years in the private sector working in digital design and development. He is responsible for growing the project’s design systems, and spends most of his time creating and evaluating page layouts, user interface patterns and navigation systems for Canada.ca.</p><p>He loves things that work well, and loathes those that are  difficult, confusing or otherwise inconvenient for the people trying to use them. He applies his design expertise to help ensure that people’s experiences on Canada.ca are as efficient and pleasant as possible. His personal mission is to make the digital world a little friendlier, and a little easier - one piece at a time.</p>
+<p>Dave has been working as Senior Interaction Designer with the Digital Transformation Office for several years now, after twenty years in the private sector working in digital design and development. He is responsible for growing the project’s design systems, and spends most of his time creating and evaluating page layouts, user interface patterns and navigation systems for Canada.ca.</p><p>He loves things that work well, and loathes those that are  difficult, confusing or otherwise inconvenient for the people trying to use them. He applies his design expertise to help ensure that people’s experiences on Canada.ca are as efficient and pleasant as possible. His personal mission is to make the digital world a little friendlier, and a little easier - one piece at a time.</p>
 
 </figcaption>
 </div>
