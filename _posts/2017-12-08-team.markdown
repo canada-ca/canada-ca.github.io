@@ -97,7 +97,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Gil is a digital pioneer with over 25 years of digital transformation experience as a public servant, consultant and business leader. His roles have involved project leadership, product development, business transformation, information and business architecture and application development.</p><p>He has a proven track record working with extended project teams, across and between organizations to develop innovative and award winning digital solutions involving content management, search, analytics, and machine learning. His diverse experience includes public and private sector engagements throughout Canada, USA and Europe.</p>
+<p>Gil is a digital pioneer with over 25 years of digital transformation experience as a public servant, consultant and business leader. His roles have involved project leadership, product development, business transformation, information and business architecture and application development.</p><p>He has a proven track record working with extended project teams, across and between organizations to develop innovative and award winning digital solutions involving content management, search, analytics, and machine learning. His diverse experience includes public and private sector engagements throughout Canada, the United States and Europe.</p>
 
 </figcaption>
 </div>
@@ -116,7 +116,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Miguel is one of the research leads for top task improvements for Canada.ca. He focuses on finding the best questions to ask about how Canadians are completing their top tasks and where they encounter difficulties. He has been working collaboratively with UX experts in Ottawa to bring the latest design research techniques into the Canadian civil service.</p><p>He is encouraging more thought around usability test design and use of analytics to develop empathy with website visitors. Miguel is also trying to find like-minded people in the GC who are trying to adapt behavioural insights to help government better achieve policy objectives and make change for Canadians.</p>
+<p>Miguel is one of the research leads for top task improvements for Canada.ca. He focuses on finding the best questions to ask about how Canadians are completing their top tasks and where they encounter difficulties. He has been working collaboratively with user experience (UX) experts in Ottawa to bring the latest design research techniques into the Canadian civil service.</p><p>He is encouraging more thought around usability test design and use of analytics to develop empathy with website visitors. Miguel is also trying to find like-minded people in the Government of Canada who are trying to adapt behavioural insights to help government better achieve policy objectives and make change for Canadians.</p>
 
 </figcaption>
 </div>
@@ -192,7 +192,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Lisa is a User Experience (UX) architect and behavioural researcher with over 25 years of experience. Over her career, she has led multi-disciplinary design teams for a range of products and services, won innovation awards and has personally facilitated over 1,000 hours of UX research.</p><p>After Nortel, she joined a cognitive research team at Carleton University. Lisa was UX research lead consultant for Canada.ca, and an active Github collaborator on the Government of Canada's Web Experience Toolkit (WET). Back before UX was even a thing, Lisa completed a master's degree in computer science in the psychology of programming.</p>
+<p>Lisa is a User Experience (UX) architect and behavioural researcher with over 25 years of experience. Over her career, she has led multi-disciplinary design teams for a range of products and services, won innovation awards and has personally facilitated over 1,000 hours of UX research.</p><p>After Nortel, she joined a cognitive research team at Carleton University. Lisa was UX research lead consultant for Canada.ca, and an active GitHub collaborator on the Government of Canada's Web Experience Toolkit (WET). Back before UX was even a thing, Lisa completed a master's degree in computer science in the psychology of programming.</p>
 
 </figcaption>
 </div>
