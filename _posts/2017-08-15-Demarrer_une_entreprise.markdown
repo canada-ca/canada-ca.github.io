@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_fr
 title:  "Aider les Canadiens a démarrer leurs entreprises"
 ref: starting
 date:   2017-08-15 09:48:44 +0100
