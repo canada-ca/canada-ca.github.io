@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_fr
 title:  "À propos du Bureau de la transformation numérique"
 gradelevel: 7.8
 ref: aboutus
