@@ -15,7 +15,7 @@ We work with departments to:
 
 * ensure that the Canada.ca brand is recognized and trusted by Canadians
 
-* make information and services that are in-demand and published on digital channels easier to find and understand based on insight from user research
+* make information and services that are in demand and published on digital channels easier to find and understand based on insight from user research
 
 * help communications teams develop their skills and processes as they make a sustainable shift to digital in their organization
 
@@ -59,7 +59,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Peter manages product design for Canada.ca, leading a small but mighty team of usability researchers and interaction designers. Over a 20 year career in the public service, he’s also managed Web and print publishing, designed corporate identity systems, and copyedited far too many news releases and annual reports.</p><p>While in academia, he obtained a BA in Anthropology and dabbled in archaeology and literary criticism.</p>
+<p>Peter manages product design for Canada.ca, leading a small but mighty team of usability researchers and interaction designers. Over a 20-year career in the public service, he’s also managed Web and print publishing, designed corporate identity systems, and copyedited far too many news releases and annual reports.</p><p>While in academia, he obtained a BA in Anthropology and dabbled in archaeology and literary criticism.</p>
 
 </figcaption>
 </div>
@@ -78,7 +78,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Manu is the Standards and Guidance chief for Canada.ca at the Treasury Board of Canada Secretariat (TBS).  His team of talented content design experts help departments improve content, while also managing and improving the standards and guidance that help make Canada.ca better for people.</p><p>He’s the recipient of a 2017 Public Service Award of Excellence for demonstrating leadership in collaborative approaches with citizens. His academic background includes studies in Biology, Cognitive Psychology and Computer Science. He’s has been working in Web for over 17 years.</p>
+<p>Manu is the Standards and Guidance chief for Canada.ca at the Treasury Board of Canada Secretariat (TBS).  His team of talented content design experts help departments improve content, while also managing and improving the standards and guidance that help make Canada.ca better for people.</p><p>He’s the recipient of a 2016 Public Service Award of Excellence for demonstrating leadership in collaborative approaches with citizens. His academic background includes studies in Biology, Cognitive Psychology and Computer Science. He has been working in Web for over 17 years.</p>
 
 </figcaption>
 </div>
@@ -116,7 +116,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Miguel is one of the research leads for top task improvements for Canada.ca. He holds a master’s degree in history and uses that training to ask the right questions about how Canadians are completing their top tasks and where they encounter difficulties. He has been working collaboratively with UX experts in Ottawa to bring the latest design research techniques into the Canadian civil service.</p><p>He is encouraging more thought around usability test design and use of analytics to develop empathy with website visitors. Miguel is also trying to find like-minded people in the GC who are trying to adapt behavioural insights to help government better achieve policy objectives and make change for Canadians.</p>
+<p>Miguel is one of the research leads for top task improvements for Canada.ca. He holds a master’s degree in History and uses that training to ask the right questions about how Canadians are completing their top tasks and where they encounter difficulties. He has been working collaboratively with user experience (UX) experts in Ottawa to bring the latest design research techniques into the Canadian civil service.</p><p>He is encouraging more thought around usability test design and use of analytics to develop empathy with website visitors. Miguel is also trying to find like-minded people in the Government of Canada who are trying to adapt behavioural insights to help government better achieve policy objectives and make change for Canadians.</p>
 
 </figcaption>
 </div>
@@ -173,7 +173,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Patrick has more than 15 years of user experience design and research. With a degree in Psychology, he applied his research and analysis training to digital communications for the United Nations and other international agencies based in Geneva, Switzerland.</p><p>He spent a decade working in start-ups based in Ottawa and Connecticut, leading product design for a suite of tools used by some of the largest school districts in the US. Patrick has been working to improve service delivery for the Government of Canada since 2009.</p>
+<p>Patrick has been working in user experience design and research for more than 15 years. With a degree in Psychology, he applied his research and analysis training to digital communications for the United Nations and other international agencies based in Geneva, Switzerland before moving to Ottawa.</p><p>He spent a decade working in start-ups based in Ottawa and Connecticut, leading product design for a suite of tools used by some of the largest school districts in the United States. Patrick has been working to improve service delivery for the Government of Canada since 2009.</p>
 
 </figcaption>
 </div>
@@ -269,7 +269,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Jillian is a Digital Engagement Advisor for Treasury Board of Canada Secretariat . Jillian came to TBS from working as the Youth Engagement and Social Media coordinator for Equal Voice Canada and was one of the leads for the Daughters of the Vote initiative.  She has been a Samara Everyday Political Citizen nominee in 2015 and 2016 and is an Apathy is Boring 150 youth representative for Ottawa.</p><p>Jillian has worked on a variety of initiatives to encourage greater youth participation in political spaces and passionate about connecting Canadians to their government through digital mediums. She can be found IRL using technology to try and solve civic engagement issues with Civic Tech and Women in Communications and Technology and she can also be found online discussing #gcdigital and #canadadotca.</p>
+<p>Jillian is a Digital Engagement Advisor for Treasury Board of Canada Secretariat . Jillian came to TBS from working as the Youth Engagement and Social Media coordinator for Equal Voice Canada and was one of the leads for the Daughters of the Vote initiative.  She has been a Samara Everyday Political Citizen nominee in 2015 and 2016 and is an Apathy is Boring 150 youth representative for Ottawa.</p><p>Jillian has worked on a variety of initiatives to encourage greater youth participation in political spaces and passionate about connecting Canadians to their government through digital mediums. She can be found In Real Life (IRL) using technology to try and solve civic engagement issues with Civic Tech and Women in Communications and Technology and she can also be found online discussing #gcdigital and #canadadotca.</p>
 
 </figcaption>
 </div>
