@@ -26,7 +26,7 @@ La simplification des tâches complexes peut nécessiter une refonte complète d
 
 ## Méthodologie pour l’amélioration de la réussite des tâches
 
-<img class="img-responsive" alt="Comment nous optimisions le site Canadapointca. Recherche exploratoire. Essais de base. Conception/prototypage. Essais de validation. Succès? Lancement." src="/images/toptasks/optimization-process-FR.PNG">
+<img class="img-responsive" alt="Comment nous optimisions le site Canadapointca. Recherche exploratoire. Essais de base. Conception/prototypage. Essais de validation. Succès? Lancement." src="/images/process/optimization-process-FR.png">
 
 Données et éléments probants dirigeant la séquence que nous utilisons sur 3 à 4 mois pour optimiser les services en ligne :
 
