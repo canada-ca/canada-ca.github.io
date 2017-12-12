@@ -116,7 +116,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Miguel is one of the research leads for top task improvements for Canada.ca. He holds a master’s degree in History and uses that training to ask the right questions about how Canadians are completing their top tasks and where they encounter difficulties. He has been working collaboratively with user experience (UX) experts in Ottawa to bring the latest design research techniques into the Canadian civil service.</p><p>He is encouraging more thought around usability test design and use of analytics to develop empathy with website visitors. Miguel is also trying to find like-minded people in the Government of Canada who are trying to adapt behavioural insights to help government better achieve policy objectives and make change for Canadians.</p>
+<p>Miguel is one of the research leads for top task improvements for Canada.ca. He is a design research that focuses on finding the best questions to ask about how Canadians are completing their top tasks and where they encounter difficulties. He has been working collaboratively with UX experts in Ottawa to bring the latest design research techniques into the Canadian civil service.</p><p>He is encouraging more thought around usability test design and use of analytics to develop empathy with website visitors. Miguel is also trying to find like-minded people in the GC who are trying to adapt behavioural insights to help government better achieve policy objectives and make change for Canadians.</p>
 
 </figcaption>
 </div>
