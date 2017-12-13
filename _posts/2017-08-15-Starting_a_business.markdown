@@ -10,7 +10,7 @@ lang: en
 description: Starting a business is a top task for Canadians and it’s not an easy one. We held a series of design sprints, testing design prototypes with Canadians.
 ---
 
-“Starting a business” is a top task for Canadians and it’s not an easy one. There are varying provincial and federal legal requirements depending on the size and type of business. Together with Innovation Science and Economic Development Canada (ISED) and the Canada Revenue Agency (CRA), the Digital Transformation Office at TBS set out to improve the experience for Canadians starting a business via Canada.ca. 
+“Starting a business” is a top task for Canadians and it’s not an easy one. There are varying provincial and federal legal requirements depending on the size and type of business. Together with Innovation, Science and Economic Development Canada (ISED) and the Canada Revenue Agency (CRA), the Digital Transformation Office at TBS set out to improve the experience for Canadians starting a business via Canada.ca. 
 
 ## The optimization process
 
