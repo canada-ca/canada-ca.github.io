@@ -231,7 +231,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Jane is an information scientist and information architect who has practiced the discipline of organizing for over 25 years. She has designed standards-based and user-centered classification schemes, taxonomies, thesauri, and web navigation systems, and her designs have been implemented in websites, intranets, and interactive applications managed by both private and public sector organizations.</p><p>As an employee, her career has included practitioner and leadership roles at Bell-Northern Research, Nortel, Industry Canada, and Systemscope. As a consultant, she has completed over 60 projects digital transformation projects with a wide variety of organizations. She has operated her independent design firm, Aboutness Inc., since 2010.</p>
+<p>Jane is an information scientist and information architect who has practiced the discipline of organizing for over 25 years. She has designed standards-based and user-centered classification schemes, taxonomies, thesauri, and web navigation systems, and her designs have been implemented in websites, intranets, and interactive applications managed by both private and public sector organizations.</p><p>As an employee, her career has included practitioner and leadership roles at Bell-Northern Research, Nortel, Industry Canada, and Systemscope. As a consultant, she has completed over 60 digital transformation projects with a wide variety of organizations. She has operated her independent design firm, Aboutness Inc., since 2010.</p>
 
 </figcaption>
 </div>
