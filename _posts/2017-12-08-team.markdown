@@ -288,7 +288,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>David started his career in the federal public service at the Canada Revenue Agency in 2007, after studying French literature and French teaching. As he was updating publications and web pages, he found his real passion: organizing information and developing content for people, based on their real needs. Since then, his goal has been to simplify and clarify the content in order to allow users to complete their tasks as easily as possible.</p><p>He continued his career at Service Canada, with Canada.ca’s Principal Publisher, and then at Global Affairs Canada, where he used his web expertise to enhance content used by thousands of people. David joined the Treasury Board Digital Transformation team with the same desire to strive to make the Government of Canada's Web presence more accessible, more understandable, easier to use and more focused on people's needs.</p>
+<p>David started his career in the federal public service at the Canada Revenue Agency in 2007, after studying French literature and French teaching. As he was updating publications and web pages, he found his real passion: organizing information and developing content for people, based on their real needs. Since then, his goal has been to simplify and clarify the content in order to allow users to complete their tasks as easily as possible.</p><p>He continued his career at Service Canada, with Canada.ca’s Principal Publisher, and then at Global Affairs Canada, where he used his web expertise to enhance content used by thousands of people. David joined the Treasury Board Digital Transformation team with the same desire to strive to make the Government of Canada's web presence more accessible, more understandable, easier to use and more focused on people's needs.</p>
 
 </figcaption>
 </div>
@@ -307,7 +307,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Laura is passionate about plain language and web accessibility. She comes from a training background and loves turning complicated content into something that is easy to understand. Laura has been transforming web content for the past decade-and-a-half with Indigenous and Northern Affairs Canada and the Correctional Service of Canada.</p><p>She has led both external and internal web renewal projects. Laura’s role on the Digital Transformation Office team is to improve content on Canada.ca. She looks for duplicate, conflicting, or confusing information then works with the appropriate department to make that content better for Canadians. 
+<p>Laura is passionate about plain language and web accessibility. She comes from a training background and loves turning complicated content into something that is easy to understand. Laura has been transforming web content for the past decade-and-a-half with Indigenous and Northern Affairs Canada and the Correctional Service of Canada.</p><p>She has led both external and internal web renewal projects. Laura’s role on the Digital Transformation Office team is to improve content on Canada.ca. She looks for duplicate, conflicting, or confusing information then works with the appropriate department to make that content better for Canadians.</p> 
 
 
 </figcaption>
