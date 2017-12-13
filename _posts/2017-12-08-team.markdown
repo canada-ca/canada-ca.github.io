@@ -269,7 +269,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Jillian is a Digital Engagement Advisor for Treasury Board of Canada Secretariat . Jillian came to TBS from working as the Youth Engagement and Social Media coordinator for Equal Voice Canada and was one of the leads for the Daughters of the Vote initiative. She has been a Samara Everyday Political Citizen nominee in 2015 and 2016 and is an Apathy is Boring 150 youth representative for Ottawa.</p><p>Jillian has worked on a variety of initiatives to encourage greater youth participation in political spaces and passionate about connecting Canadians to their government through digital mediums. She can be found In Real Life (IRL) using technology to try and solve civic engagement issues with Ottawa Civic Tech and Women in Communications and Technology Ottawa and she can also be found online discussing #GCdigital and #Canadadotca.</p>
+<p>Jillian is a Digital Engagement Advisor for Treasury Board of Canada Secretariat (TBS). Jillian came to TBS from working as the Youth Engagement and Social Media coordinator for Equal Voice Canada and was one of the leads for the Daughters of the Vote initiative. She has been a Samara Everyday Political Citizen nominee in 2015 and 2016 and is an Apathy is Boring 150 youth representative for Ottawa.</p><p>Jillian has worked on a variety of initiatives to encourage greater youth participation in political spaces and passionate about connecting Canadians to their government through digital mediums. She can be found In Real Life (IRL) using technology to try and solve civic engagement issues with Ottawa Civic Tech and Women in Communications and Technology Ottawa and she can also be found online discussing #GCdigital and #Canadadotca.</p>
 
 </figcaption>
 </div>
@@ -307,7 +307,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Laura is passionate about plain language and web accessibility. She comes from a training background and loves turning complicated content into something that is easy to understand. Laura has been transforming web content for the past decade and a half with Indigenous and Northern Affairs Canada and the Correctional Service of Canada.</p><p>She has led both external and internal web renewal projects. Laura’s role on the Digital Transformation Office team is to improve content on Canada.ca. She looks for duplicate, conflicting, or confusing information then works with the appropriate department to make that content better for Canadians. 
+<p>Laura is passionate about plain language and web accessibility. She comes from a training background and loves turning complicated content into something that is easy to understand. Laura has been transforming web content for the past decade-and-a-half with Indigenous and Northern Affairs Canada and the Correctional Service of Canada.</p><p>She has led both external and internal web renewal projects. Laura’s role on the Digital Transformation Office team is to improve content on Canada.ca. She looks for duplicate, conflicting, or confusing information then works with the appropriate department to make that content better for Canadians. 
 
 
 </figcaption>
