@@ -3,7 +3,7 @@ layout: post_fr
 title:  "À propos du Bureau de la transformation numérique"
 gradelevel: 7.8
 ref: aboutus
-date:   2017-12-8 09:48:44 +0100
+date:   2017-12-08 09:48:44 +0100
 published: false
 lang: fr
 alt: Photo de groupe de l'équipe Bureau de la transformation numérique
@@ -31,7 +31,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3855_277x370.jpg" width="185px" alt="Allen Pink" />
       Allen Pink <br>
-      <b> Director </b>
+      <b>Directeur</b>
    </div>
 </div>
 
@@ -40,7 +40,7 @@ Nous travaillons avec les ministères pour :
 <figcaption>
 
    
-<p>Allen est...</p>
+<p>Un collaborateur et mobilisateur poussé par les résultats, Allen a plus de 20 ans d’expérience dans la direction de la planification, la conception et la mise en œuvre de solutions numériques de toutes les formes et tailles dans les secteurs privé et public au Canada et aux États-Unis. Allen reste émerveillé chaque jour par la capacité d’Internet d’améliorer nos vies quotidiennes et il est engagé à s’assurer que le gouvernement du Canada contribue à l’amélioration de nos vies en ligne.</p><p>Un spécialiste du changement, il croit que la création en collaboration axée sur l’utilisateur crée les résultats numériques les plus viables et prépare le terrain pour des changements durables dans des organisations. Il n’y a rien de mieux que de travailler avec des fonctionnaires dévoués et professionnels et de partager ces moments de réalisation lorsque la lumière se fait et que des améliorations réelles sont atteintes.</p>
 
 </figcaption>
 </div>
@@ -52,7 +52,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
       Peter Smith<br>
-      <b>Chief, Product Design</b>
+      <b>Chef, Conception de produits</b>
    </div>
 </div>
 
@@ -60,7 +60,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Peter manages product design for Canada.ca, leading a small but mighty team of usability researchers and interaction designers. Over a 20 year career in the public service, he’s also managed Web and print publishing, designed corporate identity systems, and copyedited far too many news releases and annual reports.</p><p>While in academia, he obtained a BA in Anthropology and dabbled in archaeology and literary criticism.</p>
+<p>Peter gère la conception de produit pour Canada.ca où il mène une petite, mais puissante équipe de chercheurs sur la convivialité et des concepteurs d’interaction. Avec une carrière de plus de 20 ans dans la fonction publique, il a aussi géré de la publication Web et imprimée, la conception des systèmes d’identité d’affaires et la rédaction de beaucoup trop de communiqués de presse et de rapports annuels.</p><p>Alors qu’il faisait ces études, il a obtenu un baccalauréat en anthropologie et il a joué un peu en archéologie et critique littéraire.</p>
 
 </figcaption>
 </div>
@@ -71,7 +71,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Manu Singh" />
       Manu Singh<br>
-      <b>Chief, Standards and Guidance</b>
+      <b>Chef, Normes et directives appliquées</b>
    </div>
 </div>
 
@@ -79,7 +79,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Manu is the Standards and Guidance chief for Canada.ca at the Treasury Board of Canada Secretariat (TBS).  His team of talented content design experts help departments improve content, while also managing and improving the standards and guidance that help make Canada.ca better for people.</p><p>He’s the recipient of a 2017 Public Service Award of Excellence for demonstrating leadership in collaborative approaches with citizens. His academic background includes studies in Biology, Cognitive Psychology and Computer Science. He’s has been working in Web for over 17 years.</p>
+<p>Manu est le responsable des normes et des directives pour le Bureau de la transformation numérique au Secrétariat du Conseil du Trésor. Son équipe d’experts en conception du contenu aide les ministères à améliorer le contenu, tout en gérant et en améliorant les normes et les directives afin que Canada.ca soit meilleur pour les utilisateurs.</p><p>Il est le récipiendaire du Prix d’excellence de la fonction publique 2016 pour avoir montré du leadership dans ses approches collaboratives avec les citoyens. Son arrière-plan scolaire comprend des études en biologie, en psychologie cognitive et en informatique. Il travaille dans le domaine du Web depuis plus de 17 ans.</p>
 
 </figcaption>
 </div>
@@ -90,7 +90,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3069_277x370.jpg" width="185px" alt="Gil C&ocirc;té" />
       Gil C&ocirc;té<br>
-      <b>Optimization Delivery Lead (Consultant)</b>
+      <b>Responsable de l’optimisation de la livraison (Consultant)</b>
    </div>
 </div>
 
@@ -98,8 +98,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Gil is a digital pioneer with over 25 years of digital transformation experience as a public servant, consultant and business leader. His roles have involved project leadership, product development, business transformation, information and business architecture and application development.</p><p>He has a proven track record working with extended project teams, across and between organizations to develop innovative and award winning digital solutions involving content management, search, analytics, and machine learning. His diverse experience includes public and private sector engagements throughout Canada, USA and Europe.</p>
-
+<p>Gil est un pionnier numérique avec plus de 25 ans d’expérience en transformation numérique en tant que fonctionnaire, consultant et dirigeant d’entreprise. Ses rôles comprennent de la direction de projets, le développement de produits, la transformation d’entreprises, l’architecture opérationnelle et des renseignements ainsi que le développement d’application.</p><p>Il a fait ses preuves en travaillant avec beaucoup d’équipes de projet, au sein et entre les organisations afin de développer des solutions innovatrices et primées comprenant la gestion du contenu, la recherche, l’analyse et l’apprentissage automatisé. Son expérience diversifiée inclut son implication dans les secteurs privé et public partout au Canada, aux États-Unis et en Europe.</p>
 </figcaption>
 </div>
 
@@ -109,7 +108,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3043_277x370.jpg" width="185px" alt="Miguel Borges-Porteous" />
       Miguel Borges-Porteous<br>
-      <b>Design Researcher</b>
+      <b>Chercheur en conception</b>
    </div>
 </div>
 
@@ -117,7 +116,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Miguel is one of the research leads for top task improvements for Canada.ca. He holds a master’s degree in history and uses that training to ask the right questions about how Canadians are completing their top tasks and where they encounter difficulties. He has been working collaboratively with UX experts in Ottawa to bring the latest design research techniques into the Canadian civil service.</p><p>He is encouraging more thought around usability test design and use of analytics to develop empathy with website visitors. Miguel is also trying to find like-minded people in the GC who are trying to adapt behavioural insights to help government better achieve policy objectives and make change for Canadians.</p>
+<p>Miguel est l’un des responsables de la recherche pour l’amélioration des tâches prioritaires pour Canada.ca. En tant que chercheur en conception, il se concentre sur les meilleures questions à poser par rapport à la façon dont les Canadiens accomplissent leurs tâches prioritaires et au cours desquelles ils éprouvent des difficultés. Il travaille en collaboration avec des experts d’UX afin d’apporter les dernières techniques de recherche dans la fonction publique canadienne.</p><p>Il encourage plus de pensée autour de la conception d’essai de convivialité et l’usage d’analyse pour développer de l’empathie pour les visiteurs du site Web. Miguel essaye aussi de trouver des personnes du même avis dans le GC qui essayent d’adapter la science du comportement pour aider le gouvernement à mieux atteindre les objectifs de politique et faire des changements pour les Canadiens.</p>
 
 </figcaption>
 </div>
@@ -128,7 +127,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3033_277x370.jpg" width="185px" alt="Dave Knight" />
       Dave Knight<br>
-      <b>Senior Interaction Designer</b>
+      <b>Concepteur d'interactions principal</b>
    </div>
 </div>
 
@@ -136,7 +135,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Dave is a Senior Interaction Designer working on Canada.ca with the Digital Transformation Office.  He has been working on Canada.ca for several years now, after twenty years in the private sector working in website design and development.  He is responsible for nuturing and growing the project’s design systems, and spends most of his time researching, creating and evaluating page layouts, user interface patterns and navigation systems for use on the site.</p><p>He loves things that work well and things that are easy to use, and loathes those that are unnecessarily difficult, confusing or otherwise inconvenient for the people trying to use them.  He applies his experience in digital design to make sure that people’s experiences on Canada.ca are as successful, efficient, and pleasant as possible.  His personal mission is to make the digital world a little friendlier, and a little easier - one piece at a time.</p>
+<p>Dave est un concepteur principal de l’interaction qui travaille sur Canada.ca avec le Bureau de la transformation numérique. Il a travaillé sur Canada.ca pendant plusieurs années, après vingt ans dans le secteur privé en travaillant sur la conception et le développement de site Web. Il est responsable de l’alimentation et de la croissance des systèmes de conception de projet et il passe la majorité de son temps à faire de la recherche, à créer et évaluer des mises en page, les tendances de l’interface utilisateur et les systèmes de navigation pour l’usage sur le site.</p><p>Il aime les choses qui fonctionnent bien et qui sont faciles à utiliser; il déteste lorsque les choses sont inutilement difficiles, déroutantes ou incommodes pour les personnes qui essayent de les utiliser. Il utilise son expérience en conception numérique afin de s’assurer que l’expérience des personnes sur Canada.ca est aussi réussie, efficace et plaisante que possible. Sa mission personnelle est de rendre le monde numérique un peu plus amical et un peu plus facile, un morceau à la fois.</p>
 
 </figcaption>
 </div>
@@ -147,7 +146,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" width="185px" alt="Eric Cooper" />
       Eric Cooper<br>
-      <b>Project Coordinator</b>
+      <b>Coordonnateur de projets</b>
    </div>
 </div>
 
@@ -155,7 +154,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Eric is a project coordinator for the Digital Transformation Office. It takes a lot of work to overhaul a top task, start to finish, and Eric contributes by engaging with partners, managing the schedule, and getting tools when needed (digital or analog). Over the past 3 years, he’s contributed to the development and publication of the Canada.ca Content and Information Architecture Specification and the Canada.ca Content Style Guide.</p><p>He holds an honours Bachelor’s degree of Integrated Science with concentrations in Mathematics and Psychology and, in 2017, he earned his Project Management Professional PMP certification.</p>
+<p>Eric est un coordonnateur de projet pour le Bureau de la transformation numérique. Faire la révision d’une tâche prioritaire, du début à la fin demande beaucoup de travail, et Eric y contribue en communiquant avec les partenaires, gérant les horaires et en obtenant les outils lorsque nécessaire (numériques ou analogiques). Au cours des trois dernières années, il a contribué au développement et à la publication des Spécifications du contenu et de l’architecture de l’information pour Canada.ca et le Guide de rédaction du contenu du site Canada.ca.</p><p>Il détient un baccalauréat spécialisé en science intégrée avec des concentrations en mathématiques et psychologie et en 2017, il a obtenu sa certification de professionnel en gestion de projet PGP.</p>
 
 </figcaption>
 </div>
@@ -166,7 +165,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3035_277x370.jpg" width="185px" alt="Patrick Lajeunesse" />
       Patrick Lajeunesse <br>
-      <b>Senior Design Researcher</b>
+      <b>Chercheur en conception principal</b>
    </div>
 </div>
 
@@ -174,7 +173,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Patrick has more than 15 years of user experience design and research. With a degree in Psychology, he applied his research and analysis training to digital communications for the United Nations and other international agencies based in Geneva, Switzerland.</p><p>He spent a decade working in start-ups based in Ottawa and Connecticut, leading product design for a suite of tools used by some of the largest school districts in the US. Patrick has been working to improve service delivery for the Government of Canada since 2009.</p>
+<p>Patrick a 20 ans d’expérience dans la conception et la recherche de l’expérience utilisateur. Avec un diplôme en psychologie, il a appliqué sa formation de recherche et analyse aux communications numériques pour les Nations Unies et d’autres organismes internationaux basés à Genève, Suisse.</p><p>Il a passé dix ans à travailler dans des entreprises en démarrage à Ottawa et au Connecticut où il dirigeait la conception de produit pour un ensemble d’outils utilisés par certains des plus grands districts scolaires aux États-Unis. Patrick travaille dans l’amélioration de la prestation de services pour le gouvernement du Canada depuis 2009.</p>
 
 </figcaption>
 </div>
@@ -185,7 +184,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3840_277x370.jpg" width="185px" alt="Lisa Fast" />
       Lisa Fast <br>
-      <b>Solution Lead (Consultant)</b>
+      <b>Responsable des solutions (Consultant)</b>
    </div>
 </div>
 
@@ -193,7 +192,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Lisa is a User Experience (UX) architect and behavioural researcher with over 25 years of experience. Over her career, she has led multi-disciplinary design teams for a range of products and services, won innovation awards and has personally facilitated over 1,000 hours of UX research.</p><p>After Nortel, she joined a cognitive research team at Carleton University. Lisa was UX research lead consultant for Canada.ca, and an active Github collaborator on the Government of Canada's Web Experience Toolkit (WET). Back before UX was even a thing, Lisa completed a master's degree in computer science in the psychology of programming.</p>
+<p>Lisa est une architecte et chercheuse comportementale de l’expérience utilisateur (EU) avec plus de 25 ans d’expérience. Durant sa carrière, elle a dirigé des équipes de conception multidisciplinaires pour une variété de produits et de services, a gagné des prix d’innovation et a personnellement dirigé des recherches d'E-U pendant plus de 1 000 heures.</p><p>Après Nortel, elle s’est jointe à l’équipe de recherche cognitive à l’Université Carleton. Lisa était la consultante de recherche responsable de l’UC pour Canada.ca et une collaboratrice active pour Github pour la Boîte à outils de l’expérience Web (BOEW) du gouvernement du Canada. Avant même que le concept d’EU n’existe, Mme Fast a obtenu une maîtrise en informatique en psychologie de la programmation.</p>
 
 </figcaption>
 </div>
@@ -205,7 +204,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3061_277x370.jpg" width="185px" alt="Julie Dufour" />
       Julie Dufour<br>
-      <b>Senior Web Content Strategist</b>
+      <b>Conceptrice de contenu pricipale</b>
    </div>
 </div>
 
@@ -213,7 +212,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Julie is a Senior Content Strategist for the Treasury Board of Canada Secretariat where she helps institutions to develop their own task-based, citizen-centric web pages. Julie focuses on how best practices lead to content that can be easily found, understood and used. Julie currently splits her time between developing official guidance, doing outreach and teaching digital writing at the Canada School of Public Service.</p><p>She is also the former manager of web writing for Health Canada and has spent several years figuring out how to operationalize guidance. In the last 12 months, she has presented more than 60 times to over 30 federal institutions and 2,000 people.</p>
+<p>Julie est une conceptrice de contenu pricipale pour le Secrétariat du Conseil du Trésor où elle aide les institutions à développer leurs propres pages Web axées sur les tâches et centrées sur les citoyens. Julie se concentre sur la façon dont les pratiques exemplaires peuvent permettre au contenu d’être facilement trouvé, compris et utilisé. Julie divise son temps entre le développement de l’orientation officielle, la mobilisation et l’enseignement d’un cours de rédaction numérique à l’École de la fonction publique du Canada.</p><p>Auparavant, elle était responsable de la rédaction pour le Web à Santé Canada, où elle a passé plusieurs années à essayer d’opérationnaliser les conseils. Dans les 12 derniers mois, elle a fait des présentations plus de 60 fois dans plus de 30 institutions fédérales devant 2 000 personnes.</p> 
 
 </figcaption>
 </div>
@@ -224,7 +223,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3831_277x370.jpg" width="185px" alt="Jane Stewart" />
       Jane Stewart<br>
-      <b>Solution Lead (Consultant)</b>
+      <b>Responsable des solutions (Consultant)</b>
    </div>
 </div>
 
@@ -232,7 +231,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Jane is an information scientist and information architect who has practiced the discipline of organizing for over 25 years. She has designed standards-based and user-centered classification schemes, taxonomies, thesauri, and web navigation systems, and her designs have been implemented in websites, intranets, and interactive applications managed by both private and public sector organizations.</p><p>As an employee, her career has included practitioner and leadership roles at Bell-Northern Research, Nortel, Industry Canada, and Systemscope. As a consultant, she has completed over 60 projects digital transformation projects with a wide variety of organizations. She has operated her independent design firm, Aboutness Inc., since 2010.</p>
+<p>Jane est une scientifique de l’information et une architecte de l’information qui travaille dans le domaine de l’organisation depuis plus de 25 ans. Elle a conçu des schémas de classification basés sur des normes et centrés sur les utilisateurs, des taxonomies, des thésaurus et des systèmes de navigation du Web et ses conceptions ont été mises en œuvre sur des sites Web, des intranets, des applications interactives menées par des organisations dans les secteurs privé et public.</p><p>En tant qu’employée, sa carrière comprend des rôles de direction et de praticienne à Bell-Northern Research, Nortel, Industrie Canada et Systemscope. En tant que consultante, elle a finalisé plus de 60 projets de transformation numériques avec plusieurs organisations. Elle mène sa propre entreprise de conception indépendante, Aboutness Inc. depuis 2010.
 
 </figcaption>
 </div>
@@ -243,7 +242,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3826_277x370.jpg" width="185px" alt="Jennifer Mealing" />
       Jennifer Mealing<br>
-      <b>Interaction Designer</b>
+      <b>Conceptrice d'interactions</b>
    </div>
 </div>
 
@@ -251,7 +250,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Jennifer has been working as a designer for nearly a decade, but it was a passion to genuinely improve experiences (and to solve real problems for real users) that made her decide to specialize in Interaction Design in recent years.</p><p>Joining the Digital Transformation Office team was the perfect opportunity to help others through design. Working here presents the unique challenge, and opportunity, to build better government services for all Canadians. Together she works to validate and test ideas, building data-driven solutions for the public.</p>
+<p>Jennifer travaille en tant que conceptrice depuis presque 10 ans, mais c’est une passion pour réellement améliorer les expériences des utilisateurs (et résoudre de vrais problèmes) qui l’a convaincue de se spécialiser en conception de l’interaction dans les dernières années.</p><p>Se joindre à l’équipe du Bureau de la transformation numérique était la possibilité parfaite d’aider les autres au moyen de la conception. Travailler au sein de cette équipe présente des défis uniques et la possibilité de bâtir de meilleurs services gouvernementaux pour tous les Canadiens. Ensemble, avec les membres de l’équipe, elle travaille pour valider et faire l’essai des idées, bâtir des solutions axées sur les données pour le public.</p>
 
 </figcaption>
 </div>
@@ -262,7 +261,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3075_277x370.jpg" width="185px" alt="Jillian LeBlanc" />
       Jillian LeBlanc<br>
-      <b>Digital Engagement Advisor</b>
+      <b>Conseillère en engagement numériques</b>
    </div>
 </div>
 
@@ -270,7 +269,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Jillian is a Digital Engagement Advisor for Treasury Board Secretariat Canada. Jillian came to TBS from working as the Youth Engagement and Social Media coordinator for Equal Voice Canada and was one of the leads for the Daughters of the Vote initiative.  She has been a Samara Everyday Political Citizen nominee in 2015 and 2016 and is an Apathy is Boring 150 youth representative for Ottawa.</p><p>Jillian has worked on a variety of initiatives to encourage greater youth participation in political spaces and passionate about connecting Canadians to their government through digital mediums. She can be found IRL using technology to try and solve civic engagement issues with Civic Tech and Women in Communications and Technology and she can also be found online discussing #gcdigital and #canadadotca.</p>
+<p>Jillian est une conseillère en engagement numériques pour le Secrétariat du Conseil du Trésor. Jillian est venue au SCT après avoir travaillé en tant que Coordonnatrice des médias sociaux et engagement des jeunes pour À voix égales et elle était l’une des responsables pour l’initiative Héritières du suffrage. Elle a été une candidate pour Les citoyens politiques au quotidien de Samara en 2015 et 2016 et elle est une représentante de 150 jeunes pour L’Apathie c’est plate, à Ottawa.</p><p>Jillian a travaillé sur une variété d’initiatives afin d’encourager une plus grande participation des jeunes dans les espaces politiques et elle est passionnée de pouvoir relier les Canadiens à leur gouvernement par des moyens numériques. Vous pouvez la trouver en train d’utiliser la technologie afin d’essayer de résoudre les problèmes de mobilisation civique avec Civic Tech Ottawa et les Femmes en communications et technologie Ottawa ou sinon vous pouvez la trouver en ligne ayant des discussions de #GCnumérique et #Canadapointca.</p>
 
 </figcaption>
 </div>
@@ -281,7 +280,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3054_277x370.jpg" width="185px" alt="David Pepin" />
       David Pepin<br>
-      <b>Content Designer</b>
+      <b>Concepteur de contenu</b>
    </div>
 </div>
 
@@ -289,7 +288,8 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>David started his career in the federal public service at the Canada Revenue Agency in 2007, after studying French literature and French teaching. As he was updating publications and web pages, he found his real passion: organizing information and developing content for people, based on their real needs. Since then, his goal has been to simplify and clarify the content in order to allow users to complete their tasks as easily as possible.</p><p>He continued his career at Service Canada, with Canada.ca’s Principal Publisher, and then at Global Affairs Canada, where he used his web expertise to enhance content used by thousands of people. David joined the Treasury Board Digital Transformation team with the same desire to strive to make the Government of Canada's Web presence more accessible, more understandable, easier to use and more focused on people's needs.</p>
+<p>David a débuté sa carrière dans la fonction publique fédérale au sein de l’Agence du Revenu du Canada, en 2007, après des études en littérature française et en enseignement du français. En travaillant à la mise à jour des publications et des pages Web, il s’est découvert une véritable passion : organiser l’information et élaborer le contenu pour les gens, en fonction de leurs besoins réels. Depuis, son objectif est de simplifier et de clarifier le contenu dans le but de permettre aux utilisateurs d’accomplir leurs tâches le plus facilement possible.</p><pIl a poursuivi sa carrière à Service Canada, au sein de l’Éditeur principal de Canada.ca, puis à Affaires mondiales Canada, où il a utilisé son expertise Web pour améliorer le contenu utilisé par des milliers de gens. 
+David s’est joint à l’équipe de Transformation numérique du Conseil du Trésor avec le même désir de travailler à rendre la présence Web du gouvernement du Canada plus accessible, plus compréhensible, plus facile à utiliser et plus axée sur les besoins des gens.</p>
 
 </figcaption>
 </div>
@@ -300,7 +300,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3849_277x370.jpg" width="185px" alt="Laura Piper" />
       Laura Piper<br>
-      <b>Senior Content Designer</b>
+      <b>Conceptrice de contenu principale</b>
    </div>
 </div>
 
@@ -308,14 +308,14 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Laura is passionate about plain language and web accessibility. She comes from a training background and loves turning complicated content into something that is easy to understand. Laura has been transforming web content for the past decade and a half with Indigenous and Northern Affairs Canada and the Correctional Service of Canada.</p><p>She has led both external and internal web renewal projects. Laura’s role on the team is to improve content on Canada.ca. She looks for duplicate, conflicting, or confusing information then works with the appropriate department to make that content better for Canadians.</p>
+<p>Laura est passionnée par l’emploi en langage simple et l’accessibilité du Web. Elle a une expérience en formation et adore transformer du contenu compliqué pour devenir quelque chose qui est facile à comprendre. Laura fait de la transformation du contenu Web depuis les quinze dernières années avec Affaires autochtones et du Nord Canada et le Service correctionnel du Canada. Elle a mené des projets de renouvellement du Web interne et externe.</p><p>Le rôle de Laura dans l’équipe du Bureau de la transformation numérique est d’améliorer le contenu sur Canada.ca. Elle cherche des renseignements en double, conflictuels ou déroutants, et ensuite elle travaille avec le ministère approprié pour faire en sorte que ce contenu soit meilleur pour les Canadiens.</p>
 
 </figcaption>
 </div>
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
-<img class="img-responsive" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3882.jpg" alt="Photo of the DTO team, December 2017" />
+<img class="img-responsive" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3882.jpg" alt="Photo de groupe de l'équipe Bureau de la transformation numérique" />
 
 ## Nous voulons connaître votre opinion.
 
