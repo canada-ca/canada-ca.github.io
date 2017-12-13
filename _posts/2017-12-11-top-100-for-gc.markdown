@@ -120,7 +120,7 @@ Let us know what you think about task management. Email us at <ux.eu@tbs-sct.gc.
 
 ## Learn more about top tasks
 
-* [The top 100 tasks list for the Government of Canada](https://canada-ca.github.io/pages/top-task-list-canada-ca.html).
+* [The top 100 tasks list for the Government of Canada](https://canada-ca.github.io/pages/top-task-list-canada-ca.html)
 * [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) by Gerry McGovern, describes the value of top tasks and the survey voting method to validate them
 * [How to conduct a top task analysis](https://measuringu.com/top-tasks/) by Jeff Sauro, gets into some of the statistical details around analysing top task data from surveys
 
