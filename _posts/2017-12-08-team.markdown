@@ -78,7 +78,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Manu is the Standards and Guidance chief for Canada.ca at the Treasury Board of Canada Secretariat (TBS).  His team of talented content design experts help departments improve content, while also managing and improving the standards and guidance that help make Canada.ca better for people.</p><p>He’s the recipient of a 2016 Public Service Award of Excellence for demonstrating leadership in collaborative approaches with citizens. His academic background includes studies in Biology, Cognitive Psychology and Computer Science. He has been working in Web for over 17 years.</p>
+<p>Manu is the Standards and Guidance chief for the Digital Transformation Office at the Treasury Board of Canada Secretariat.  His team of talented content design experts help departments improve content, while also managing and improving the standards and guidance that help make Canada.ca better for people.</p><p>He’s the recipient of a 2016 Public Service Award of Excellence for demonstrating leadership in collaborative approaches with citizens. His academic background includes studies in Biology, Cognitive Psychology and Computer Science. He has been working in Web for over 17 years.</p>
 
 </figcaption>
 </div>
@@ -204,7 +204,7 @@ We work with departments to:
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3061_277x370.jpg" width="185px" alt="Julie Dufour" />
       Julie Dufour<br>
-      <b>Senior Web Content Strategist</b>
+      <b>Senior Content Designer</b>
    </div>
 </div>
 
@@ -212,7 +212,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Julie is a Senior Content Strategist for the Treasury Board of Canada Secretariat where she helps institutions to develop their own task-based, citizen-centric web pages. Julie focuses on how best practices lead to content that can be easily found, understood and used. Julie currently splits her time between developing official guidance, doing outreach and teaching digital writing at the Canada School of Public Service.</p><p>She is also the former manager of web writing for Health Canada and has spent several years figuring out how to operationalize guidance. In the last 12 months, she has presented more than 60 times to over 30 federal institutions and 2,000 people.</p>
+<p>Julie is a Senior Content Designer for the Treasury Board of Canada Secretariat where she helps institutions to develop their own task-based, citizen-centric web pages. Julie focuses on how best practices lead to content that can be easily found, understood and used. Julie currently splits her time between developing official guidance, doing outreach and teaching digital writing at the Canada School of Public Service.</p><p>She is also the former manager of web writing for Health Canada and has spent several years figuring out how to operationalize guidance. In the last 12 months, she has presented more than 60 times to over 30 federal institutions and 2,000 people.</p>
 
 </figcaption>
 </div>
@@ -269,7 +269,7 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Jillian is a Digital Engagement Advisor for Treasury Board of Canada Secretariat . Jillian came to TBS from working as the Youth Engagement and Social Media coordinator for Equal Voice Canada and was one of the leads for the Daughters of the Vote initiative.  She has been a Samara Everyday Political Citizen nominee in 2015 and 2016 and is an Apathy is Boring 150 youth representative for Ottawa.</p><p>Jillian has worked on a variety of initiatives to encourage greater youth participation in political spaces and passionate about connecting Canadians to their government through digital mediums. She can be found In Real Life (IRL) using technology to try and solve civic engagement issues with Civic Tech and Women in Communications and Technology and she can also be found online discussing #gcdigital and #canadadotca.</p>
+<p>Jillian is a Digital Engagement Advisor for Treasury Board of Canada Secretariat . Jillian came to TBS from working as the Youth Engagement and Social Media coordinator for Equal Voice Canada and was one of the leads for the Daughters of the Vote initiative. She has been a Samara Everyday Political Citizen nominee in 2015 and 2016 and is an Apathy is Boring 150 youth representative for Ottawa.</p><p>Jillian has worked on a variety of initiatives to encourage greater youth participation in political spaces and passionate about connecting Canadians to their government through digital mediums. She can be found In Real Life (IRL) using technology to try and solve civic engagement issues with Ottawa Civic Tech and Women in Communications and Technology Ottawa and she can also be found online discussing #GCdigital and #Canadadotca.</p>
 
 </figcaption>
 </div>
@@ -307,14 +307,15 @@ We work with departments to:
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Laura is passionate about plain language and web accessibility. She comes from a training background and loves turning complicated content into something that is easy to understand. Laura has been transforming web content for the past decade and a half with Indigenous and Northern Affairs Canada and the Correctional Service of Canada.</p><p>She has led both external and internal web renewal projects. Laura’s role on the team is to improve content on Canada.ca. She looks for duplicate, conflicting, or confusing information then works with the appropriate department to make that content better for Canadians.</p>
+<p>Laura is passionate about plain language and web accessibility. She comes from a training background and loves turning complicated content into something that is easy to understand. Laura has been transforming web content for the past decade and a half with Indigenous and Northern Affairs Canada and the Correctional Service of Canada.</p><p>She has led both external and internal web renewal projects. Laura’s role on the Digital Transformation Office team is to improve content on Canada.ca. She looks for duplicate, conflicting, or confusing information then works with the appropriate department to make that content better for Canadians. 
+
 
 </figcaption>
 </div>
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
-<img class="img-responsive" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3882.jpg" alt="Photo of the DTO team, December 2017" />
+<img class="img-responsive" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3882.jpg" alt="A photo of the Digital Transformation Office team" />
 
 ## We want to hear from you
 
