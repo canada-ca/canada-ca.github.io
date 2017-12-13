@@ -192,7 +192,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Lisa est une architecte et chercheuse comportementale de l’expérience utilisateur (EU) avec plus de 25 ans d’expérience. Durant sa carrière, elle a dirigé des équipes de conception multidisciplinaires pour une variété de produits et de services, a gagné des prix d’innovation et a personnellement dirigé des recherches d'E-U pendant plus de 1 000 heures.</p><p>Après Nortel, elle s’est jointe à l’équipe de recherche cognitive à l’Université Carleton. Lisa était la consultante de recherche responsable de l’UC pour Canada.ca et une collaboratrice active pour Github pour la Boîte à outils de l’expérience Web (BOEW) du gouvernement du Canada. Avant même que le concept d’EU n’existe, Mme Fast a obtenu une maîtrise en informatique en psychologie de la programmation.</p>
+<p>Lisa est une architecte et chercheuse comportementale de l’expérience utilisateur (EU) avec plus de 25 ans d’expérience. Durant sa carrière, elle a dirigé des équipes de conception multidisciplinaires pour une variété de produits et de services, a gagné des prix d’innovation et a personnellement dirigé des recherches d'E-U pendant plus de 1 000 heures.</p><p>Après Nortel, elle s’est jointe à l’équipe de recherche cognitive à l’Université Carleton. Lisa était la consultante de recherche responsable de l’UC pour Canada.ca et une collaboratrice active pour Github pour la Boîte à outils de l’expérience Web (BOEW) du gouvernement du Canada. Avant même que le concept d’EU n’existe, Lisa a obtenu une maîtrise en informatique en psychologie de la programmation.</p>
 
 </figcaption>
 </div>
