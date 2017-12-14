@@ -54,7 +54,7 @@ These outcomes from Canadians using the Canada.ca site support the prototype tes
 
 ## Find out more
 
-We're happy to share what we've learned. Email us at ux.eu@tbs-sct.gc.ca
+We're happy to share what we've learned. Email us at information@tbs-sct.gc.ca
 
 <aside class="wb-fnote" role="note">
 <h2 id="fn">Footnotes</h2>
