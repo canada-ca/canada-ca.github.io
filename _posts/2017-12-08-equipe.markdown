@@ -28,83 +28,6 @@ Nous travaillons avec les ministères pour :
 <div class="clearfix" style="padding-top: 30px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3855_277x370.jpg" width="185px" alt="Allen Pink" />
-      Allen Pink <br>
-      <b>Directeur</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-   
-<p>Un collaborateur et mobilisateur poussé par les résultats, Allen a plus de 20 ans d’expérience dans la direction de la planification, la conception et la mise en œuvre de solutions numériques de toutes les formes et tailles dans les secteurs privé et public au Canada et aux États-Unis. Allen reste émerveillé chaque jour par la capacité d’Internet d’améliorer nos vies quotidiennes et il est engagé à s’assurer que le gouvernement du Canada contribue à l’amélioration de nos vies en ligne.</p><p>Un spécialiste du changement, il croit que la création en collaboration axée sur l’utilisateur crée les résultats numériques les plus viables et prépare le terrain pour des changements durables dans des organisations. Il n’y a rien de mieux que de travailler avec des fonctionnaires dévoués et professionnels et de partager ces moments de réalisation lorsque la lumière se fait et que des améliorations réelles sont atteintes.</p>
-
-</figcaption>
-</div>
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
-      Peter Smith<br>
-      <b>Chef, Conception de produits</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Peter gère la conception de produit pour Canada.ca où il mène une petite, mais puissante équipe de chercheurs sur la convivialité et des concepteurs d’interaction. Avec une carrière de plus de 20 ans dans la fonction publique, il a aussi géré de la publication Web et imprimée, la conception des systèmes d’identité d’affaires et la rédaction de beaucoup trop de communiqués de presse et de rapports annuels.</p><p>Alors qu’il faisait ces études, il a obtenu un baccalauréat en anthropologie et il a joué un peu en archéologie et critique littéraire.</p>
-
-</figcaption>
-</div>
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Manu Singh" />
-      Manu Singh<br>
-      <b>Chef, Normes et directives appliquées</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Manu est le responsable des normes et des directives pour le Bureau de la transformation numérique au Secrétariat du Conseil du Trésor. Son équipe d’experts en conception du contenu aide les ministères à améliorer le contenu, tout en gérant et en améliorant les normes et les directives afin que Canada.ca soit meilleur pour les utilisateurs.</p><p>Il est le récipiendaire du Prix d’excellence de la fonction publique 2016 pour avoir montré du leadership dans ses approches collaboratives avec les citoyens. Son arrière-plan scolaire comprend des études en biologie, en psychologie cognitive et en informatique. Il travaille dans le domaine du Web depuis plus de 17 ans.</p>
-
-</figcaption>
-</div>
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3069_277x370.jpg" width="185px" alt="Gil C&ocirc;té" />
-      Gil C&ocirc;té<br>
-      <b>Responsable de l’optimisation de la livraison (Consultant)</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Gil est un pionnier numérique avec plus de 25 ans d’expérience en transformation numérique en tant que fonctionnaire, consultant et dirigeant d’entreprise. Ses rôles comprennent de la direction de projets, le développement de produits, la transformation d’entreprises, l’architecture opérationnelle et des renseignements ainsi que le développement d’application.</p><p>Il a fait ses preuves en travaillant avec beaucoup d’équipes de projet, au sein et entre les organisations afin de développer des solutions innovatrices et primées comprenant la gestion du contenu, la recherche, l’analyse et l’apprentissage automatisé. Son expérience diversifiée inclut son implication dans les secteurs privé et public partout au Canada, aux États-Unis et en Europe.</p>
-</figcaption>
-</div>
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-<div class="col-md-3 col-xs-12">
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3043_277x370.jpg" width="185px" alt="Miguel Borges-Porteous" />
       Miguel Borges-Porteous<br>
@@ -117,25 +40,6 @@ Nous travaillons avec les ministères pour :
 <figcaption>
 
 <p>Miguel est l’un des responsables de la recherche pour l’amélioration des tâches prioritaires pour Canada.ca. En tant que chercheur en conception, il se concentre sur les meilleures questions à poser par rapport à la façon dont les Canadiens accomplissent leurs tâches prioritaires et au cours desquelles ils éprouvent des difficultés. Il travaille en collaboration avec des experts d’UX afin d’apporter les dernières techniques de recherche dans la fonction publique canadienne.</p><p>Il encourage plus de pensée autour de la conception d’essai de convivialité et l’usage d’analyse pour développer de l’empathie pour les visiteurs du site Web. Miguel essaye aussi de trouver des personnes du même avis dans le GC qui essayent d’adapter la science du comportement pour aider le gouvernement à mieux atteindre les objectifs de politique et faire des changements pour les Canadiens.</p>
-
-</figcaption>
-</div>
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3033_277x370.jpg" width="185px" alt="Dave Knight" />
-      Dave Knight<br>
-      <b>Concepteur d'interactions principal</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Dave est un concepteur principal de l’interaction qui travaille sur Canada.ca avec le Bureau de la transformation numérique. Il a travaillé sur Canada.ca pendant plusieurs années, après vingt ans dans le secteur privé en travaillant sur la conception et le développement de site Web. Il est responsable de l’alimentation et de la croissance des systèmes de conception de projet et il passe la majorité de son temps à faire de la recherche, à créer et évaluer des mises en page, les tendances de l’interface utilisateur et les systèmes de navigation pour l’usage sur le site.</p><p>Il aime les choses qui fonctionnent bien et qui sont faciles à utiliser; il déteste lorsque les choses sont inutilement difficiles, déroutantes ou incommodes pour les personnes qui essayent de les utiliser. Il utilise son expérience en conception numérique afin de s’assurer que l’expérience des personnes sur Canada.ca est aussi réussie, efficace et plaisante que possible. Sa mission personnelle est de rendre le monde numérique un peu plus amical et un peu plus facile, un morceau à la fois.</p>
 
 </figcaption>
 </div>
@@ -163,9 +67,9 @@ Nous travaillons avec les ministères pour :
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3035_277x370.jpg" width="185px" alt="Patrick Lajeunesse" />
-      Patrick Lajeunesse <br>
-      <b>Chercheur en conception principal</b>
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3069_277x370.jpg" width="185px" alt="Gil C&ocirc;té" />
+      Gil C&ocirc;té<br>
+      <b>Responsable de l’optimisation de la livraison (Consultant)</b>
    </div>
 </div>
 
@@ -173,10 +77,31 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Patrick a 20 ans d’expérience dans la conception et la recherche de l’expérience utilisateur. Avec un diplôme en psychologie, il a appliqué sa formation de recherche et analyse aux communications numériques pour les Nations Unies et d’autres organismes internationaux basés à Genève, Suisse.</p><p>Il a passé dix ans à travailler dans des entreprises en démarrage à Ottawa et au Connecticut où il dirigeait la conception de produit pour un ensemble d’outils utilisés par certains des plus grands districts scolaires aux États-Unis. Patrick travaille dans l’amélioration de la prestation de services pour le gouvernement du Canada depuis 2009.</p>
+<p>Gil est un pionnier numérique avec plus de 25 ans d’expérience en transformation numérique en tant que fonctionnaire, consultant et dirigeant d’entreprise. Ses rôles comprennent de la direction de projets, le développement de produits, la transformation d’entreprises, l’architecture opérationnelle et des renseignements ainsi que le développement d’application.</p><p>Il a fait ses preuves en travaillant avec beaucoup d’équipes de projet, au sein et entre les organisations afin de développer des solutions innovatrices et primées comprenant la gestion du contenu, la recherche, l’analyse et l’apprentissage automatisé. Son expérience diversifiée inclut son implication dans les secteurs privé et public partout au Canada, aux États-Unis et en Europe.</p>
+</figcaption>
+</div>
+
+
+
+<div class="clearfix" style="margin-bottom: 35px;"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3061_277x370.jpg" width="185px" alt="Julie Dufour" />
+      Julie Dufour<br>
+      <b>Conceptrice de contenu pricipale</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>Julie est une conceptrice de contenu pricipale pour le Secrétariat du Conseil du Trésor où elle aide les institutions à développer leurs propres pages Web axées sur les tâches et centrées sur les citoyens. Julie se concentre sur la façon dont les pratiques exemplaires peuvent permettre au contenu d’être facilement trouvé, compris et utilisé. Julie divise son temps entre le développement de l’orientation officielle, la mobilisation et l’enseignement d’un cours de rédaction numérique à l’École de la fonction publique du Canada.</p><p>Auparavant, elle était responsable de la rédaction pour le Web à Santé Canada, où elle a passé plusieurs années à essayer d’opérationnaliser les conseils. Dans les 12 derniers mois, elle a fait des présentations plus de 60 fois dans plus de 30 institutions fédérales devant 2 000 personnes.</p> 
 
 </figcaption>
 </div>
+
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
@@ -202,9 +127,9 @@ Nous travaillons avec les ministères pour :
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3061_277x370.jpg" width="185px" alt="Julie Dufour" />
-      Julie Dufour<br>
-      <b>Conceptrice de contenu pricipale</b>
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3033_277x370.jpg" width="185px" alt="Dave Knight" />
+      Dave Knight<br>
+      <b>Concepteur d'interactions principal</b>
    </div>
 </div>
 
@@ -212,18 +137,19 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Julie est une conceptrice de contenu pricipale pour le Secrétariat du Conseil du Trésor où elle aide les institutions à développer leurs propres pages Web axées sur les tâches et centrées sur les citoyens. Julie se concentre sur la façon dont les pratiques exemplaires peuvent permettre au contenu d’être facilement trouvé, compris et utilisé. Julie divise son temps entre le développement de l’orientation officielle, la mobilisation et l’enseignement d’un cours de rédaction numérique à l’École de la fonction publique du Canada.</p><p>Auparavant, elle était responsable de la rédaction pour le Web à Santé Canada, où elle a passé plusieurs années à essayer d’opérationnaliser les conseils. Dans les 12 derniers mois, elle a fait des présentations plus de 60 fois dans plus de 30 institutions fédérales devant 2 000 personnes.</p> 
+<p>Dave est un concepteur principal de l’interaction qui travaille sur Canada.ca avec le Bureau de la transformation numérique. Il a travaillé sur Canada.ca pendant plusieurs années, après vingt ans dans le secteur privé en travaillant sur la conception et le développement de site Web. Il est responsable de l’alimentation et de la croissance des systèmes de conception de projet et il passe la majorité de son temps à faire de la recherche, à créer et évaluer des mises en page, les tendances de l’interface utilisateur et les systèmes de navigation pour l’usage sur le site.</p><p>Il aime les choses qui fonctionnent bien et qui sont faciles à utiliser; il déteste lorsque les choses sont inutilement difficiles, déroutantes ou incommodes pour les personnes qui essayent de les utiliser. Il utilise son expérience en conception numérique afin de s’assurer que l’expérience des personnes sur Canada.ca est aussi réussie, efficace et plaisante que possible. Sa mission personnelle est de rendre le monde numérique un peu plus amical et un peu plus facile, un morceau à la fois.</p>
 
 </figcaption>
 </div>
+
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3831_277x370.jpg" width="185px" alt="Jane Stewart" />
-      Jane Stewart<br>
-      <b>Responsable des solutions (Consultant)</b>
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3035_277x370.jpg" width="185px" alt="Patrick Lajeunesse" />
+      Patrick Lajeunesse <br>
+      <b>Chercheur en conception principal</b>
    </div>
 </div>
 
@@ -231,10 +157,32 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Jane est une scientifique de l’information et une architecte de l’information qui travaille dans le domaine de l’organisation depuis plus de 25 ans. Elle a conçu des schémas de classification basés sur des normes et centrés sur les utilisateurs, des taxonomies, des thésaurus et des systèmes de navigation du Web et ses conceptions ont été mises en œuvre sur des sites Web, des intranets, des applications interactives menées par des organisations dans les secteurs privé et public.</p><p>En tant qu’employée, sa carrière comprend des rôles de direction et de praticienne à Bell-Northern Research, Nortel, Industrie Canada et Systemscope. En tant que consultante, elle a finalisé plus de 60 projets de transformation numériques avec plusieurs organisations. Elle mène sa propre entreprise de conception indépendante, Aboutness Inc. depuis 2010.</p>
+<p>Patrick a 20 ans d’expérience dans la conception et la recherche de l’expérience utilisateur. Avec un diplôme en psychologie, il a appliqué sa formation de recherche et analyse aux communications numériques pour les Nations Unies et d’autres organismes internationaux basés à Genève, Suisse.</p><p>Il a passé dix ans à travailler dans des entreprises en démarrage à Ottawa et au Connecticut où il dirigeait la conception de produit pour un ensemble d’outils utilisés par certains des plus grands districts scolaires aux États-Unis. Patrick travaille dans l’amélioration de la prestation de services pour le gouvernement du Canada depuis 2009.</p>
 
 </figcaption>
 </div>
+
+
+<div class="clearfix" style="margin-bottom: 35px;"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3075_277x370.jpg" width="185px" alt="Jillian LeBlanc" />
+      Jillian LeBlanc<br>
+      <b>Conseillère en engagement numériques</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>Jillian est une conseillère en engagement numériques pour le Secrétariat du Conseil du Trésor. Jillian est venue au SCT après avoir travaillé en tant que Coordonnatrice des médias sociaux et engagement des jeunes pour À voix égales et elle était l’une des responsables pour l’initiative Héritières du suffrage. Elle a été une candidate pour Les citoyens politiques au quotidien de Samara en 2015 et 2016 et elle est une représentante de 150 jeunes pour L’Apathie c’est plate, à Ottawa.</p><p>Jillian a travaillé sur une variété d’initiatives afin d’encourager une plus grande participation des jeunes dans les espaces politiques et elle est passionnée de pouvoir relier les Canadiens à leur gouvernement par des moyens numériques. Vous pouvez la trouver en train d’utiliser la technologie afin d’essayer de résoudre les problèmes de mobilisation civique avec Civic Tech Ottawa et les Femmes en communications et technologie Ottawa ou sinon vous pouvez la trouver en ligne ayant des discussions de #GCnumérique et #Canadapointca.</p>
+
+</figcaption>
+</div>
+
+
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
@@ -255,13 +203,14 @@ Nous travaillons avec les ministères pour :
 </figcaption>
 </div>
 
+
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3075_277x370.jpg" width="185px" alt="Jillian LeBlanc" />
-      Jillian LeBlanc<br>
-      <b>Conseillère en engagement numériques</b>
+   <div class="pull-left">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3855_277x370.jpg" width="185px" alt="Allen Pink" />
+      Allen Pink <br>
+      <b>Directeur</b>
    </div>
 </div>
 
@@ -269,10 +218,74 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Jillian est une conseillère en engagement numériques pour le Secrétariat du Conseil du Trésor. Jillian est venue au SCT après avoir travaillé en tant que Coordonnatrice des médias sociaux et engagement des jeunes pour À voix égales et elle était l’une des responsables pour l’initiative Héritières du suffrage. Elle a été une candidate pour Les citoyens politiques au quotidien de Samara en 2015 et 2016 et elle est une représentante de 150 jeunes pour L’Apathie c’est plate, à Ottawa.</p><p>Jillian a travaillé sur une variété d’initiatives afin d’encourager une plus grande participation des jeunes dans les espaces politiques et elle est passionnée de pouvoir relier les Canadiens à leur gouvernement par des moyens numériques. Vous pouvez la trouver en train d’utiliser la technologie afin d’essayer de résoudre les problèmes de mobilisation civique avec Civic Tech Ottawa et les Femmes en communications et technologie Ottawa ou sinon vous pouvez la trouver en ligne ayant des discussions de #GCnumérique et #Canadapointca.</p>
+   
+<p>Un collaborateur et mobilisateur poussé par les résultats, Allen a plus de 20 ans d’expérience dans la direction de la planification, la conception et la mise en œuvre de solutions numériques de toutes les formes et tailles dans les secteurs privé et public au Canada et aux États-Unis. Allen reste émerveillé chaque jour par la capacité d’Internet d’améliorer nos vies quotidiennes et il est engagé à s’assurer que le gouvernement du Canada contribue à l’amélioration de nos vies en ligne.</p><p>Un spécialiste du changement, il croit que la création en collaboration axée sur l’utilisateur crée les résultats numériques les plus viables et prépare le terrain pour des changements durables dans des organisations. Il n’y a rien de mieux que de travailler avec des fonctionnaires dévoués et professionnels et de partager ces moments de réalisation lorsque la lumière se fait et que des améliorations réelles sont atteintes.</p>
 
 </figcaption>
 </div>
+
+
+<div class="clearfix" style="margin-bottom: 35px;"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3867_277x370.jpg" width="185px" alt="Manu Singh" />
+      Manu Singh<br>
+      <b>Chef, Normes et directives appliquées</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>Manu est le responsable des normes et des directives pour le Bureau de la transformation numérique au Secrétariat du Conseil du Trésor. Son équipe d’experts en conception du contenu aide les ministères à améliorer le contenu, tout en gérant et en améliorant les normes et les directives afin que Canada.ca soit meilleur pour les utilisateurs.</p><p>Il est le récipiendaire du Prix d’excellence de la fonction publique 2016 pour avoir montré du leadership dans ses approches collaboratives avec les citoyens. Son arrière-plan scolaire comprend des études en biologie, en psychologie cognitive et en informatique. Il travaille dans le domaine du Web depuis plus de 17 ans.</p>
+
+</figcaption>
+</div>
+
+
+<div class="clearfix" style="margin-bottom: 35px;"></div>
+
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3862_277x370.jpg" width="185px" alt="Peter Smith" />
+      Peter Smith<br>
+      <b>Chef, Conception de produits</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>Peter gère la conception de produit pour Canada.ca où il mène une petite, mais puissante équipe de chercheurs sur la convivialité et des concepteurs d’interaction. Avec une carrière de plus de 20 ans dans la fonction publique, il a aussi géré de la publication Web et imprimée, la conception des systèmes d’identité d’affaires et la rédaction de beaucoup trop de communiqués de presse et de rapports annuels.</p><p>Alors qu’il faisait ces études, il a obtenu un baccalauréat en anthropologie et il a joué un peu en archéologie et critique littéraire.</p>
+
+</figcaption>
+</div>
+
+
+<div class="clearfix" style="margin-bottom: 35px;"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3831_277x370.jpg" width="185px" alt="Jane Stewart" />
+      Jane Stewart<br>
+      <b>Responsable des solutions (Consultant)</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>Jane est une scientifique de l’information et une architecte de l’information qui travaille dans le domaine de l’organisation depuis plus de 25 ans. Elle a conçu des schémas de classification basés sur des normes et centrés sur les utilisateurs, des taxonomies, des thésaurus et des systèmes de navigation du Web et ses conceptions ont été mises en œuvre sur des sites Web, des intranets, des applications interactives menées par des organisations dans les secteurs privé et public.</p><p>En tant qu’employée, sa carrière comprend des rôles de direction et de praticienne à Bell-Northern Research, Nortel, Industrie Canada et Systemscope. En tant que consultante, elle a finalisé plus de 60 projets de transformation numériques avec plusieurs organisations. Elle mène sa propre entreprise de conception indépendante, Aboutness Inc. depuis 2010.</p>
+
+</figcaption>
+</div>
+
+
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
