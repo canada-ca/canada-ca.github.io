@@ -66,7 +66,7 @@ Les projets d’optimisation ne ciblent pas uniquement l’amélioration tangibl
 
 ## Qu’en pensez-vous?
 
-Dites-nous ce que vous pensez des projets d’optimisation du site Canada.ca. Vous pouvez publier des gazouillis en utilisant le mot-clic [#Canadapointca](https://twitter.com/search?q=%23Canadadotca) ou nous envoyer un courriel à l’adresse <ux.eu@tbs-sct.gc.ca>.
+Dites-nous ce que vous pensez des projets d’optimisation du site Canada.ca. Vous pouvez publier des gazouillis en utilisant le mot-clic [#Canadapointca](https://twitter.com/search?q=%23Canadadotca) ou nous envoyer un courriel à l’adresse <information@tbs-sct.gc.ca>.
 
 ## En apprendre davantage sur les techniques d’optimisation
 
