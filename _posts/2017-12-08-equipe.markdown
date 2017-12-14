@@ -207,6 +207,45 @@ Nous travaillons avec les ministères pour :
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3054_277x370.jpg" width="185px" alt="David Pepin" />
+      David Pepin<br>
+      <b>Concepteur de contenu</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>David a débuté sa carrière dans la fonction publique fédérale au sein de l’Agence du Revenu du Canada, en 2007, après des études en littérature française et en enseignement du français. En travaillant à la mise à jour des publications et des pages Web, il s’est découvert une véritable passion : organiser l’information et élaborer le contenu pour les gens, en fonction de leurs besoins réels. Depuis, son objectif est de simplifier et de clarifier le contenu dans le but de permettre aux utilisateurs d’accomplir leurs tâches le plus facilement possible.</p><p>Il a poursuivi sa carrière à Service Canada, au sein de l’Éditeur principal de Canada.ca, puis à Affaires mondiales Canada, où il a utilisé son expertise Web pour améliorer le contenu utilisé par des milliers de gens. 
+David s’est joint à l’équipe de Transformation numérique du Conseil du Trésor avec le même désir de travailler à rendre la présence Web du gouvernement du Canada plus accessible, plus compréhensible, plus facile à utiliser et plus axée sur les besoins des gens.</p>
+
+</figcaption>
+</div>
+
+<div class="clearfix" style="margin-bottom: 35px;"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3849_277x370.jpg" width="185px" alt="Laura Piper" />
+      Laura Piper<br>
+      <b>Conceptrice de contenu principale</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>Laura est passionnée par l’emploi en langage simple et l’accessibilité du Web. Elle a une expérience en formation et adore transformer du contenu compliqué pour devenir quelque chose qui est facile à comprendre. Laura fait de la transformation du contenu Web depuis les quinze dernières années avec Affaires autochtones et du Nord Canada et le Service correctionnel du Canada. Elle a mené des projets de renouvellement du Web interne et externe.</p><p>Le rôle de Laura dans l’équipe du Bureau de la transformation numérique est d’améliorer le contenu sur Canada.ca. Elle cherche des renseignements en double, conflictuels ou déroutants, et ensuite elle travaille avec le ministère approprié pour faire en sorte que ce contenu soit meilleur pour les Canadiens.</p>
+
+</figcaption>
+</div>
+
+<div class="clearfix" style="margin-bottom: 35px;"></div>
+
+<div class="col-md-3 col-xs-12">
    <div class="pull-left">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3855_277x370.jpg" width="185px" alt="Allen Pink" />
       Allen Pink <br>
@@ -285,46 +324,6 @@ Nous travaillons avec les ministères pour :
 </figcaption>
 </div>
 
-
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3054_277x370.jpg" width="185px" alt="David Pepin" />
-      David Pepin<br>
-      <b>Concepteur de contenu</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>David a débuté sa carrière dans la fonction publique fédérale au sein de l’Agence du Revenu du Canada, en 2007, après des études en littérature française et en enseignement du français. En travaillant à la mise à jour des publications et des pages Web, il s’est découvert une véritable passion : organiser l’information et élaborer le contenu pour les gens, en fonction de leurs besoins réels. Depuis, son objectif est de simplifier et de clarifier le contenu dans le but de permettre aux utilisateurs d’accomplir leurs tâches le plus facilement possible.</p><p>Il a poursuivi sa carrière à Service Canada, au sein de l’Éditeur principal de Canada.ca, puis à Affaires mondiales Canada, où il a utilisé son expertise Web pour améliorer le contenu utilisé par des milliers de gens. 
-David s’est joint à l’équipe de Transformation numérique du Conseil du Trésor avec le même désir de travailler à rendre la présence Web du gouvernement du Canada plus accessible, plus compréhensible, plus facile à utiliser et plus axée sur les besoins des gens.</p>
-
-</figcaption>
-</div>
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3849_277x370.jpg" width="185px" alt="Laura Piper" />
-      Laura Piper<br>
-      <b>Conceptrice de contenu principale</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Laura est passionnée par l’emploi en langage simple et l’accessibilité du Web. Elle a une expérience en formation et adore transformer du contenu compliqué pour devenir quelque chose qui est facile à comprendre. Laura fait de la transformation du contenu Web depuis les quinze dernières années avec Affaires autochtones et du Nord Canada et le Service correctionnel du Canada. Elle a mené des projets de renouvellement du Web interne et externe.</p><p>Le rôle de Laura dans l’équipe du Bureau de la transformation numérique est d’améliorer le contenu sur Canada.ca. Elle cherche des renseignements en double, conflictuels ou déroutants, et ensuite elle travaille avec le ministère approprié pour faire en sorte que ce contenu soit meilleur pour les Canadiens.</p>
-
-</figcaption>
-</div>
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
