@@ -54,7 +54,7 @@ Ces résultats provenant des Canadiens qui utilisent le site Canada.ca appuient 
 
 ## Vous voulez en savoir plus
 
-Nous voulons  partager nos apprentissages avec vous. Envoyez-nous un courriel à ux.eu@tbs-sct.gc.ca
+Nous voulons  partager nos apprentissages avec vous. Envoyez-nous un courriel à information@tbs-sct.gc.ca
 
 <aside class="wb-fnote" role="note">
 <h2 id="fn">Notes de bas de page</h2>
