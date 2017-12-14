@@ -224,24 +224,6 @@ David s’est joint à l’équipe de Transformation numérique du Conseil du Tr
 </figcaption>
 </div>
 
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3849_277x370.jpg" width="185px" alt="Laura Piper" />
-      Laura Piper<br>
-      <b>Conceptrice de contenu principale</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Laura est passionnée par l’emploi en langage simple et l’accessibilité du Web. Elle a une expérience en formation et adore transformer du contenu compliqué pour devenir quelque chose qui est facile à comprendre. Laura fait de la transformation du contenu Web depuis les quinze dernières années avec Affaires autochtones et du Nord Canada et le Service correctionnel du Canada. Elle a mené des projets de renouvellement du Web interne et externe.</p><p>Le rôle de Laura dans l’équipe du Bureau de la transformation numérique est d’améliorer le contenu sur Canada.ca. Elle cherche des renseignements en double, conflictuels ou déroutants, et ensuite elle travaille avec le ministère approprié pour faire en sorte que ce contenu soit meilleur pour les Canadiens.</p>
-
-</figcaption>
-</div>
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
@@ -262,6 +244,27 @@ David s’est joint à l’équipe de Transformation numérique du Conseil du Tr
 
 </figcaption>
 </div>
+
+
+<div class="clearfix" style="margin-bottom: 35px;"></div>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3849_277x370.jpg" width="185px" alt="Laura Piper" />
+      Laura Piper<br>
+      <b>Conceptrice de contenu principale</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>Laura est passionnée par l’emploi en langage simple et l’accessibilité du Web. Elle a une expérience en formation et adore transformer du contenu compliqué pour devenir quelque chose qui est facile à comprendre. Laura fait de la transformation du contenu Web depuis les quinze dernières années avec Affaires autochtones et du Nord Canada et le Service correctionnel du Canada. Elle a mené des projets de renouvellement du Web interne et externe.</p><p>Le rôle de Laura dans l’équipe du Bureau de la transformation numérique est d’améliorer le contenu sur Canada.ca. Elle cherche des renseignements en double, conflictuels ou déroutants, et ensuite elle travaille avec le ministère approprié pour faire en sorte que ce contenu soit meilleur pour les Canadiens.</p>
+
+</figcaption>
+</div>
+
 
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
