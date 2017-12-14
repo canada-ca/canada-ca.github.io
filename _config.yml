@@ -17,8 +17,8 @@ title:
   fr: Canada-ca
 email: your-email@canada.ca
 description:
-  en: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-  fr: Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
+  en: Canada.ca blog
+  fr: blogue de Canada.ca
 index:
   en: index.html
   fr: accueil.html
@@ -67,7 +67,7 @@ YouAreHere:
 GCActivitiesInitiatives:
   en: Government of Canada activities and initiatives
   fr: Activités et initiatives du gouvernement du Canada
- 
+
 
 # Build settings
 markdown: kramdown
