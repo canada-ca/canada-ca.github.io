@@ -76,7 +76,7 @@ Annie Crombie from the ISED team spoke about the project at World IA Day at Shop
 We want to hear from you! 
 
 - Tweet using the hashtag #Canadadotca 
-- Email us at ux.eu@tbs-sct.gc.ca
+- Email us at information@tbs-sct.gc.ca
 
 ## Explore further
 
