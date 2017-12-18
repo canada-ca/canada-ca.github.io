@@ -52,7 +52,7 @@ Annie Crombie de l’équipe d’ISDE a discuté de ce projet à la [Journée mo
 
 ## Apprenez en plus :
 
-Nous sommes très heureux de partager ce que nous avons appris. Si vous avez des questions par rapport à ce projet, envoyez-nous un courriel à ux.eu@tbs-sct.gc.ca
+Nous sommes très heureux de partager ce que nous avons appris. Si vous avez des questions par rapport à ce projet, envoyez-nous un courriel à information@tbs-sct.gc.ca
 
 ## Explorer encore plus loin
 

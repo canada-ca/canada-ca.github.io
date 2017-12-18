@@ -26,15 +26,22 @@ More complex tasks may take full service re-design to fix, involving the removal
 
 ## Methodology for improving task success
 
-<img class="img-responsive" alt="Overview of steps in the optimization process" src="/images/process/optimization-process-EN.png"> 
+<figure>
+<img class="img-responsive" alt="Overview of steps in the optimization process - details follow" src="/images/process/optimization-process-EN.png">
+ 
+<figcaption>
+<p>Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:</p>
 
-Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:
+<ol>
+<li><b>Discovery research</b>: the existing evidence is gathered and synthesized into insights and hypotheses to produce scenarios for baseline testing</li>
+<li><b>Baseline testing</b>: moderated usability tests are done with Canadians trying the scenarios on the existing webs content</li>
+<li><b>Design and prototyping</b>: sprints are used to iteratively design, build and test a prototype that solves the problems seen in discovery and baseline testing</li>
+<li><b>Validation testing</b>: the baseline test (usability testing) is repeated on the new prototype site with a different but similar set of Canadian participants</li>
+<li><b>Prototype launch</b>: if the validation test shows a measurable improvement, then the successful aspects of the prototypes are integrated and released at the earliest opportunity.</li>
+</ol> 
 
-1. **Discovery research**: the existing evidence is gathered and synthesized into insights and hypotheses to produce scenarios for baseline testing
-2. **Baseline testing**: moderated usability tests are done with Canadians trying the scenarios on the existing webs content
-3. **Design and prototyping**: sprints are used to iteratively design, build and test a prototype that solves the problems seen in discovery and baseline testing
-4. **Validation testing**: the baseline test (usability testing) is repeated on the new prototype site with a different but similar set of Canadian participants
-5. **Prototype launch**: if the validation test shows a measurable improvement, then the successful aspects of the prototypes are integrated and released at the earliest opportunity.
+</figcaption>
+</figure> 
 
 ## Successful teams are multi-disciplinary
 
@@ -66,7 +73,7 @@ Optimization projects are not only about driving tangible improvements to specif
 
 ## We want to hear from you
 
-Let us know what you think about optimization for Canada.ca. Email us at <ux.eu@tbs-sct.gc.ca> or tweet using the hashtag [#Canadadotca](https://twitter.com/search?q=%23Canadadotca).
+Let us know what you think about optimization for Canada.ca. Email us at <information@tbs-sct.gc.ca> or tweet using the hashtag [#Canadadotca](https://twitter.com/search?q=%23Canadadotca).
 
 ## Learn more about optimization techniques
 

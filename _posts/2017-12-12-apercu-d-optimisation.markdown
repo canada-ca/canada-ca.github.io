@@ -26,15 +26,24 @@ La simplification des tâches complexes peut nécessiter une refonte complète d
 
 ## Méthodologie pour l’amélioration de la réussite des tâches
 
-<img class="img-responsive" alt="Comment nous optimisions le site Canadapointca. Recherche exploratoire. Essais de base. Conception/prototypage. Essais de validation. Succès? Lancement." src="/images/process/optimization-process-FR.png">
+<figure>
+  
+<img class="img-responsive" alt="Comment nous optimisions le site Canadapointca - des détails suivent" src="/images/process/optimization-process-FR.png">
+  
+<figcaption>
+<p>Données et éléments probants dirigeant la séquence que nous utilisons sur 3 à 4 mois pour optimiser les services en ligne :</p>
 
-Données et éléments probants dirigeant la séquence que nous utilisons sur 3 à 4 mois pour optimiser les services en ligne :
+<ol>
+<li><b>Recherche de découvertes</b> : collecte et synthèse des éléments probants existants pour les transformer en idées et hypothèses dans le but de produire des scénarios pour l’essai de validation </li>
+<li><b>Essais de base</b>: essais de facilité d’emploi dirigés avec des Canadiens qui naviguent des scénarios sur le site Web existant </li>
+<li><b>Conception et prototypage</b> : sprints tenus afin de concevoir, d’élaborer et de mettre à l’essai de manière itérative un site Web prototype visant à résoudre les problèmes rencontrés pendant l’étape de la découverte et des essais de base</li>
+<li><b>Essais de validation</b> : l’essai de validation (essai de facilité d’emploi) est répété sur le nouveau site prototype avec un groupe différent mais semblable de participants canadiens</li>
+<li><b>Lancement des prototypes</b> : si l’essai de validation indique une amélioration visible, alors il faut intégrer et publier les aspects réussis des prototypes aussitôt que possible.</li>
+</ol>
 
-1. **Recherche de découvertes**: collecte et synthèse des éléments probants existants pour les transformer en idées et hypothèses dans le but de produire des scénarios pour l’essai de validation
-2. **Essais de base**: essais de facilité d’emploi dirigés avec des Canadiens qui naviguent des scénarios sur le site Web existant
-3. **Conception et prototypage**: sprints tenus afin de concevoir, d’élaborer et de mettre à l’essai de manière itérative un site Web prototype visant à résoudre les problèmes rencontrés pendant l’étape de la découverte et des essais de base
-4. **Essais de validation**: l’essai de validation (essai de facilité d’emploi) est répété sur le nouveau site prototype avec un groupe différent mais semblable de participants canadiens
-5. **Lancement des prototypes**: si l’essai de validation indique une amélioration visible, alors il faut intégrer et publier les aspects réussis des prototypes aussitôt que possible.
+</figcaption>
+
+</figure>
 
 ## Les groupes de travail multidisciplinaires ont un meilleur taux de réussite
 
@@ -66,7 +75,7 @@ Les projets d’optimisation ne ciblent pas uniquement l’amélioration tangibl
 
 ## Qu’en pensez-vous?
 
-Dites-nous ce que vous pensez des projets d’optimisation du site Canada.ca. Vous pouvez publier des gazouillis en utilisant le mot-clic [#Canadapointca](https://twitter.com/search?q=%23Canadadotca) ou nous envoyer un courriel à l’adresse <ux.eu@tbs-sct.gc.ca>.
+Dites-nous ce que vous pensez des projets d’optimisation du site Canada.ca. Vous pouvez publier des gazouillis en utilisant le mot-clic [#Canadapointca](https://twitter.com/search?q=%23Canadadotca) ou nous envoyer un courriel à l’adresse <information@tbs-sct.gc.ca>.
 
 ## En apprendre davantage sur les techniques d’optimisation
 
