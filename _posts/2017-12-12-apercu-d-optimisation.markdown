@@ -37,7 +37,7 @@ La simplification des tâches complexes peut nécessiter une refonte complète d
 <li><b>Essais de base</b>: essais de facilité d’emploi dirigés avec des Canadiens qui naviguent des scénarios sur le site Web existant </li>
 <li><b>Conception et prototypage</b>: sprints tenus afin de concevoir, d’élaborer et de mettre à l’essai de manière itérative un site Web prototype visant à résoudre les problèmes rencontrés pendant l’étape de la découverte et des essais de base
 <li><b>Essais de validation</b>: l’essai de validation (essai de facilité d’emploi) est répété sur le nouveau site prototype avec un groupe différent mais semblable de participants canadiens</li>
-li><b>Lancement des prototypes</b>: si l’essai de validation indique une amélioration visible, alors il faut intégrer et publier les aspects réussis des prototypes aussitôt que possible.</li>
+<li><b>Lancement des prototypes</b>: si l’essai de validation indique une amélioration visible, alors il faut intégrer et publier les aspects réussis des prototypes aussitôt que possible.</li>
 </ol>
 </figurecation>
 </figure>
