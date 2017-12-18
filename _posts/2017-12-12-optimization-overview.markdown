@@ -26,8 +26,10 @@ More complex tasks may take full service re-design to fix, involving the removal
 
 ## Methodology for improving task success
 
-<img class="img-responsive" alt="Overview of steps in the optimization process" src="/images/process/optimization-process-EN.png"> 
-
+<figure>
+<img class="img-responsive" alt="Overview of steps in the optimization process - details follow" src="/images/process/optimization-process-EN.png">
+ 
+<figcaption>
 Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:
 
 1. **Discovery research**: the existing evidence is gathered and synthesized into insights and hypotheses to produce scenarios for baseline testing
@@ -35,6 +37,8 @@ Data and evidence drive the 3 to 4 month sequence that we are using to optimize 
 3. **Design and prototyping**: sprints are used to iteratively design, build and test a prototype that solves the problems seen in discovery and baseline testing
 4. **Validation testing**: the baseline test (usability testing) is repeated on the new prototype site with a different but similar set of Canadian participants
 5. **Prototype launch**: if the validation test shows a measurable improvement, then the successful aspects of the prototypes are integrated and released at the earliest opportunity.
+</figcaption>
+</figure> 
 
 ## Successful teams are multi-disciplinary
 
