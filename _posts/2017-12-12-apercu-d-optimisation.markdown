@@ -39,7 +39,7 @@ La simplification des tâches complexes peut nécessiter une refonte complète d
 <li><b>Essais de validation</b> : l’essai de validation (essai de facilité d’emploi) est répété sur le nouveau site prototype avec un groupe différent mais semblable de participants canadiens</li>
 <li><b>Lancement des prototypes</b> : si l’essai de validation indique une amélioration visible, alors il faut intégrer et publier les aspects réussis des prototypes aussitôt que possible.</li>
 </ol>
-</figurecation>
+</figurecaption>
 </figure>
 
 ## Les groupes de travail multidisciplinaires ont un meilleur taux de réussite
