@@ -30,7 +30,7 @@ More complex tasks may take full service re-design to fix, involving the removal
 <img class="img-responsive" alt="Overview of steps in the optimization process - details follow" src="/images/process/optimization-process-EN.png">
  
 <figcaption>
-Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:
+<p>Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:</p>
 
 <ol>
 <li><b>Discovery research</b>: the existing evidence is gathered and synthesized into insights and hypotheses to produce scenarios for baseline testing</li>
