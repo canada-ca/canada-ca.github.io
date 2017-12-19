@@ -1,5 +1,5 @@
 ---
-layout: post_fr
+layout: post
 title:  "À propos du Bureau de la transformation numérique"
 gradelevel: 7.8
 ref: aboutus
@@ -7,7 +7,7 @@ date:   2017-12-08 09:48:44 +0100
 published: true
 lang: fr
 alt: Photo de groupe de l'équipe Bureau de la transformation numérique
-description: À propos du Bureau de la transformation numérique au Secrétariat du Conseil du Trésor du Canada. 
+description: À propos du Bureau de la transformation numérique au Secrétariat du Conseil du Trésor du Canada.
 ---
 
 Le Bureau de la transformation numérique (BTN) fait partie des Communications stratégiques et affaires ministérielles du Secrétariat du Conseil du Trésor du Canada. En tant que professionnels des communications au BTN, nous avons une expertise en rédaction en langage clair, en conception de contenu et d’interactions, et en recherche sur les utilisateurs.
@@ -97,7 +97,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>Julie est une conceptrice de contenu pricipale pour le Secrétariat du Conseil du Trésor où elle aide les institutions à développer leurs propres pages Web axées sur les tâches et centrées sur les citoyens. Julie se concentre sur la façon dont les pratiques exemplaires peuvent permettre au contenu d’être facilement trouvé, compris et utilisé. Julie divise son temps entre le développement de l’orientation officielle, la mobilisation et l’enseignement d’un cours de rédaction numérique à l’École de la fonction publique du Canada.</p><p>Auparavant, elle était responsable de la rédaction pour le Web à Santé Canada, où elle a passé plusieurs années à essayer d’opérationnaliser les conseils. Dans les 12 derniers mois, elle a fait des présentations plus de 60 fois dans plus de 30 institutions fédérales devant 2 000 personnes.</p> 
+<p>Julie est une conceptrice de contenu pricipale pour le Secrétariat du Conseil du Trésor où elle aide les institutions à développer leurs propres pages Web axées sur les tâches et centrées sur les citoyens. Julie se concentre sur la façon dont les pratiques exemplaires peuvent permettre au contenu d’être facilement trouvé, compris et utilisé. Julie divise son temps entre le développement de l’orientation officielle, la mobilisation et l’enseignement d’un cours de rédaction numérique à l’École de la fonction publique du Canada.</p><p>Auparavant, elle était responsable de la rédaction pour le Web à Santé Canada, où elle a passé plusieurs années à essayer d’opérationnaliser les conseils. Dans les 12 derniers mois, elle a fait des présentations plus de 60 fois dans plus de 30 institutions fédérales devant 2 000 personnes.</p>
 
 </figcaption>
 </div>
@@ -218,7 +218,7 @@ Nous travaillons avec les ministères pour :
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-<p>David a débuté sa carrière dans la fonction publique fédérale au sein de l’Agence du Revenu du Canada, en 2007, après des études en littérature française et en enseignement du français. En travaillant à la mise à jour des publications et des pages Web, il s’est découvert une véritable passion : organiser l’information et élaborer le contenu pour les gens, en fonction de leurs besoins réels. Depuis, son objectif est de simplifier et de clarifier le contenu dans le but de permettre aux utilisateurs d’accomplir leurs tâches le plus facilement possible.</p><p>Il a poursuivi sa carrière à Service Canada, au sein de l’Éditeur principal de Canada.ca, puis à Affaires mondiales Canada, où il a utilisé son expertise Web pour améliorer le contenu utilisé par des milliers de gens. 
+<p>David a débuté sa carrière dans la fonction publique fédérale au sein de l’Agence du Revenu du Canada, en 2007, après des études en littérature française et en enseignement du français. En travaillant à la mise à jour des publications et des pages Web, il s’est découvert une véritable passion : organiser l’information et élaborer le contenu pour les gens, en fonction de leurs besoins réels. Depuis, son objectif est de simplifier et de clarifier le contenu dans le but de permettre aux utilisateurs d’accomplir leurs tâches le plus facilement possible.</p><p>Il a poursuivi sa carrière à Service Canada, au sein de l’Éditeur principal de Canada.ca, puis à Affaires mondiales Canada, où il a utilisé son expertise Web pour améliorer le contenu utilisé par des milliers de gens.
 David s’est joint à l’équipe de Transformation numérique du Conseil du Trésor avec le même désir de travailler à rendre la présence Web du gouvernement du Canada plus accessible, plus compréhensible, plus facile à utiliser et plus axée sur les besoins des gens.</p>
 
 </figcaption>
@@ -239,7 +239,7 @@ David s’est joint à l’équipe de Transformation numérique du Conseil du Tr
 <div class="col-md-9 col-xs-12">
 <figcaption>
 
-   
+
 <p>Un collaborateur et mobilisateur poussé par les résultats, Allen a plus de 20 ans d’expérience dans la direction de la planification, la conception et la mise en œuvre de solutions numériques de toutes les formes et tailles dans les secteurs privé et public au Canada et aux États-Unis. Allen reste émerveillé chaque jour par la capacité d’Internet d’améliorer nos vies quotidiennes et il est engagé à s’assurer que le gouvernement du Canada contribue à l’amélioration de nos vies en ligne.</p><p>Un spécialiste du changement, il croit que la création en collaboration axée sur l’utilisateur crée les résultats numériques les plus viables et prépare le terrain pour des changements durables dans des organisations. Il n’y a rien de mieux que de travailler avec des fonctionnaires dévoués et professionnels et de partager ces moments de réalisation lorsque la lumière se fait et que des améliorations réelles sont atteintes.</p>
 
 </figcaption>
