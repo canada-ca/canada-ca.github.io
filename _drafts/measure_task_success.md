@@ -12,20 +12,17 @@ Task success is a critical measurement for Canada.ca. Over the years, success ra
 Findability = measure of whether the participant reached the target page(s) designed for the task, either via search or navigation
 Task Completion = measure of whether the participant derived the correct solution to the task, either on the target page or on another page. 
 
-Coding Success and Findability separately gives more latitude to be accurate and consistent in our coding, especially when people search to find the answers. You have to come to terms that Search is a valid way to find answers – with the health tasks, we know most people arrive via Google, so clearly, it is valid. 
-
-Assessing Findability: Target pages - declare them up front before testing, when designing the task scenario, like registering a hypothesis. Should reflect the page *designed* to answer the task. 
-
-Assessing Task completion: this includes GUESSING – have to look at the non-target page found, see why they selected the correct answer- if the content doesn’t actually address the task ,then it’s a guess and a fail.
- 
-Therefore there are 4 possibilities that address your scenarios below:
-Findability | Completion | Example
+Findability | Completion | Explanation
 --- | --- | ---
-Success | Success |  Person found a target page and derived the correct answer
-Success | Failure |  Person found the target page but failed to derive the correct answer
-Failure | Success |  Person failed to find the target but found & derived the correct answer elsewhere on the site
-Failure | Failure |  Person failed to find target or answer
+Success | Success |  Found a target page and derived the correct answer
+Success | Failure |  Found a target but didn't derive the answer
+Failure | Success |  Didn't find a target but did find & derive correct answer elsewhere on the site
+Failure | Failure |  Didn't find target or an answer
 
-So if the Guide has the content that does help them understand and derive the correct answer, the task is successful, but the findability is not. 
+Coding Success and Findability separately gives more latitude to be accurate and consistent in our coding, especially when people search to find the answers. Findability requires that the team declare target pages prior to the testing for a particular task scenario. The path and the target pages are usually the ones designed to hold the answer to the task, although in some cases, the design may not have been well-thought-out prior to testing. In a sense, the team is stating and pre-registering their hypothesis about the path to successfully completing the task.
+
+Examples: for 
+
+Coding task completion is somewhat simpler once findability is broken out. If the person is on the target page, and derives the correct answer (which in many cases just requires reading), they're coded as correct. On non-target pages though, the coding requires a little more work if the participant chooses the correct answer. Usually we review the video to see if the page they had reached does directly answer the task, in which case they are coded as successful. More often, the page they find doesn't address the answer in enough detail, and people just guess the correct answer, which we code as a task completetion failure.
 
 
