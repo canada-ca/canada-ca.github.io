@@ -12,6 +12,7 @@ Task success is a critical measurement for Canada.ca. Over the years, success ra
 Findability success rate = the percent of participants who visited the target page(s) for the task, either via search or navigation.
 * Findability example: For the task of finding out whether your symptoms are more likely to be the flu versus a cold, the target page selected by the team is the [Flu Symptoms page](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/symptoms-flu-influenza.html). 
 ** 100% of 16 participants found the Flu Symptoms page 
+
 Task completion rate = the percent of participants who correctly answered the task without guessing, either from the task content on the target page or on another page. 
 * Task completion example: The flu symptoms target page showed a list of flu and cold symptoms. Participants had to select both headache and fever from a list of symptoms as the most important signals that they had the flu rather than a cold. 
 ** Only 50% of participants correctly selected both headache and fever as the flu symptoms that signal they have a flu versus a cold. This situation of a High findability rate and low completion rate is a 'Content gap'. Clearly, it's the flu symptoms specialists who must take action to improve the task completion rate.  
