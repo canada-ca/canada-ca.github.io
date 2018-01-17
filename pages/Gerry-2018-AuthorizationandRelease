@@ -27,6 +27,7 @@
 		  ga('send', 'pageview');
 		</script>
 	</head>
+	
 	<body vocab="http://schema.org/" typeof="WebPage">
 		<div id="def-top">
 		</div>
@@ -43,3 +44,5 @@ I have read and fully understood the terms and legal effects of this agreement.
 	<p>Notice:
 Personal information, as defined in section 3 of the Privacy Act, R.S.C. 1985, c.P-21, is subject to the provisions of the Privacy Act and the Access to Information Act, R.S.C. 1985, c.A-1. The information will be stored in Personal Information Bank (PIB) TBS PSU 914.
 </p>
+</body>
+</html>
