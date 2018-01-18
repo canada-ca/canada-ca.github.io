@@ -9,7 +9,7 @@ lang: en
 ---
 Task success is a critical measurement for Canada.ca. Over the years, success rates for most top tasks have been measured in moderated task-based scenario research studies with Canadians.  As we conducted these studies across the vast scope of Canada.ca, we realized that we needed a new way to break down task success metrics to make the results actionable for the right teams.  Theme Leads are focused on the navigation layer while specialists tend to work on the actual content. To help assess the success of the navigation layers and Search and identify gaps caused by the content itself, we broke out Findability from the Task Completion Rate. 
 
-![Chart bars for 100 per cent findability and 50 per cent completion - arrow shows gap of 50%]("./_images/Contentgap-en.PNG" "Content gap")
+<img class="img-responsive" alt="Chart bars for 100 per cent findability and 50 per cent completion - arrow shows gap of 50%" src="/images/Contentgap-en.PNG">
 
 Findability success rate = the percent of participants who visited the target page(s) for the task, either via search or navigation.
 * Findability example: For the task of finding out whether your symptoms are more likely to be the flu versus a cold, the target page selected by the team is the [Flu Symptoms page](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/symptoms-flu-influenza.html). 
