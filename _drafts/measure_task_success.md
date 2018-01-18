@@ -19,9 +19,9 @@ Task completion rate = the percent of participants who correctly answered the ta
 
 Findability | Completion | Example
 --- | --- | ---
-Success | Success |  Used target Flu Symptoms page to answer correctly
-Success | Failure |  Found Flu symptoms page but didn't select Fever and Headache 
-Failure | Success |  Searched and found a PDF of a 2010 Influenza poster in GC publications, answered correctly
+Success | Success |  Found and used target Flu Symptoms page to correctly answer with Fever and Headache
+Success | Failure |  Content gap: Found Flu symptoms page but answered incorrectly, usually Fever and Cough 
+Failure | Success |  Findability gap: Searched and found old PDF in GC publications, answered correctly
 Failure | Failure |  Didn't find the Flu symptoms page, didn't select the correct symptoms
 
 Coding Success and Findability separately gives more latitude to be accurate and consistent in our coding, especially when people search to find the answers. Findability requires that the team declare target pages prior to the testing for a particular task scenario. The path and the target pages are usually the ones designed to hold the answer to the task, although in some cases, the design may not have been well-thought-out prior to testing. In a sense, the team is stating and pre-registering their hypothesis about the path to successfully completing the task.
