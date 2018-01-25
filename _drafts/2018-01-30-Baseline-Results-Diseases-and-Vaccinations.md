@@ -66,6 +66,8 @@ The following chart compares the baseline test scores for findability with the t
 
 <img src="canada-ca.github.io/images/Baseline-Performance-Results-Health-and-Travel-Optimization.png" alt="Baseline-Performance-Results-Health-and-Travel-Optimization.png"/>
 
+<img src="/canada-ca/canada-ca.github.io/blob/master/images/Baseline-Performance-Results-Health-and-Travel-Optimization.png?raw=true" alt="Baseline-Performance-Results-Health-and-Travel-Optimization.png">
+
 ## Writing the task at the right level
 
 One of the hard things about writing tasks is putting them at a level that's useful. And this is really the deciding factor in what level you should situate your tasks at. Is it useful? 
