@@ -70,7 +70,14 @@ The following chart compares the baseline test scores for findability with the t
  </span>
       </div>
   
+## Common issues for mobile users
 
+<div itemprop="text" class="" data="type-text">
+      <div class="img-responsive center-block col-md-6">
+          <span class=""><img src="../images/Discovery- Menu-too-hard-to-find-on-mobile 2.JPG" alt="Menu-too-hard-to-find">
+ </span>
+      </div>
+ 
 ## Writing the task at the right level
 
 One of the hard things about writing tasks is putting them at a level that's useful. And this is really the deciding factor in what level you should situate your tasks at. Is it useful? 
