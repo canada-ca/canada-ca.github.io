@@ -64,15 +64,21 @@ Q11. The weekly flu report says most cases are an H3N2 flu. Find out if that par
 
 The following chart compares the baseline test scores for findability with the task completion score for all eleven questions posed to participants.
 
+
+
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/Baseline-Performance-Results-Health-and-Travel-Optimization.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
  </span>
       </div>
   
+  
+  
 ## Common issues for mobile users
 
 Many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.
+
+
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
@@ -83,17 +89,21 @@ Many people didn’t find Health in the ‘hamburger’menu on the mobile home p
 Recommendation: make the menu items as visible in the mobile view as they are in the desktop view. 
 
 
+
 ## Writing meaninful titles and descriptions
 
 One of the hard things about writing tasks is tayloring your word choice to a non-specialist audience. To increase the findability of your content it is important to use language and terms that are used in searches made by your intended audience- in this case, the general public- instead of focusing on using the correct scientific lingo or profession specific jargon. 
 
 Our UX study demonstrated that users often skipped by a link that would have taken them to the correct information because they didn't recognize the title of the link or section as being useful for completing there task. In the example below, we see that people misunderstood this list – most answered incorrectly that they should get the Yellow Fever vaccine to visit Mexico.  Only a few opened it to see that it is not recommended for Mexico.
 
+
+
  <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/Use-Vaccine-recommendations-hidden 2.JPG" alt="image-of-mobile-device-where-the-vaccine-recommendations-hidden-in-drop-down-menu">
  </span>
       </div>
+
 
 Recommendation: change table titles so that recommendations are visible on first glance. 
 
@@ -105,11 +115,14 @@ Half of the people incorrectly answered that a cough was one of the most importa
 
 The image below shows an example of the what the users saw on their mobile devices that resulted in them choosing the incorrect answer to their task. Many users saw this information and failed to scroll further down the page to find the chart.
 
+
+
  <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/Understand.jpg" alt="image-of-mobile-device-where-the-user-misunderstands-given-information">
  </span>
       </div>
+
 
 Recommendation: add the table of flu versus cold symptoms to the top of this page – people who found it got the answer correct. 
 
