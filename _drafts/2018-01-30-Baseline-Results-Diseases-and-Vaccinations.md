@@ -64,7 +64,8 @@ Q11. The weekly flu report says most cases are an H3N2 flu. Find out if that par
 
 The following chart compares the baseline test scores for findability with the task completion score for all eleven questions posed to participants.
 
-<img src="Baseline-Performance-Results-Health-and-Travel Optimization.png" alt= "baseline test scores comparing findability and task completion">
+<img src="Baseline-Performance-Results-Health-and-Travel Optimization.png" alt= "baseline test scores comparing findability and task completion"/>
+
 
 ## Writing the task at the right level
 
