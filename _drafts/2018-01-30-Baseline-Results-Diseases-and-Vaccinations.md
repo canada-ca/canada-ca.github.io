@@ -66,7 +66,7 @@ The following chart compares the baseline test scores for findability with the t
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/Baseline-Performance-Results-Health-and-Travel-Optimization.png" alt="Baseline-Performance-Results-Health-and-Travel-Optimization.png">
+          <span class=""><img src="../images/Baseline-Performance-Results-Health-and-Travel-Optimization.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
  </span>
       </div>
   
