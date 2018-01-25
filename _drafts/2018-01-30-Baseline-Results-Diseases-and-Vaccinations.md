@@ -99,9 +99,11 @@ Recommendation: change table titles so that recommendations are visible on first
 
 
  
-## Writing meaninful titles and descriptions
+## Displaying information meaningfully 
 
-Half of the people incorrectly answered that a cough was one of the most important signals that someone had the flu rather than a cold. 
+Half of the people incorrectly answered that a cough was one of the most important signals that someone had the flu rather than a cold. In this case, they missed two of the three bullets that listed the most common flu symptoms. For this scenario, the participants that successfully completed the task were those that found the flu vs. cold table which was located further down the page. The task highlights that how information is displayed can have a significant impact on task completion. Although the information they needed was at the top of the page in bulleted form, it was only those that saw the table comparing the symptoms of flus versus colds that were able to complete their task successfully.
+
+The image below shows an example of the what the users saw on their mobile devices that resulted in them choosing the incorrect answer to their task. Many users saw this information and failed to scroll further down the page to find the chart.
 
  <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
@@ -109,9 +111,7 @@ Half of the people incorrectly answered that a cough was one of the most importa
  </span>
       </div>
 
-Recommendation: add the table of flu versus cold symptoms to this page – people who found it got the answer correct. 
-
-
+Recommendation: add the table of flu versus cold symptoms to the top of this page – people who found it got the answer correct. 
 
 
 
