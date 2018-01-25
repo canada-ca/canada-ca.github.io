@@ -72,17 +72,46 @@ The following chart compares the baseline test scores for findability with the t
   
 ## Common issues for mobile users
 
+Many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.
+
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/Discovery- Menu-too-hard-to-find-on-mobile 2.JPG" alt="Menu-too-hard-to-find">
  </span>
       </div>
+
+Recommendation: make the menu items as visible in the mobile view as they are in the desktop view. 
+
+
+## Writing meaninful titles and descriptions
+
+One of the hard things about writing tasks is tayloring your word choice to a non-specialist audience. To increase the findability of your content it is important to use language and terms that are used in searches made by your intended audience- in this case, the general public- instead of focusing on using the correct scientific lingo or profession specific jargon. 
+
+Our UX study demonstrated that users often skipped by a link that would have taken them to the correct information because they didn't recognize the title of the link or section as being useful for completing there task. In the example below, we see that people misunderstood this list – most answered incorrectly that they should get the Yellow Fever vaccine to visit Mexico.  Only a few opened it to see that it is not recommended for Mexico.
+
+ <div itemprop="text" class="" data="type-text">
+      <div class="img-responsive center-block col-md-6">
+          <span class=""><img src="../images/Use-Vaccine-recommendations-hidden 2.JPG" alt="image-of-mobile-device-where-the-vaccine-recommendations-hidden-in-drop-down-menu">
+ </span>
+      </div>
+
+Recommendation: change table titles so that recommendations are visible on first glance. 
+
+
  
-## Writing the task at the right level
+## Writing meaninful titles and descriptions
 
-One of the hard things about writing tasks is putting them at a level that's useful. And this is really the deciding factor in what level you should situate your tasks at. Is it useful? 
+One of the hard things about writing tasks is tayloring your word choice to a non-specialist audience. To increase the findability of your content it is important to use language and terms that are used in searches made by your intended audience- in this case, the general public- instead of focusing on using the correct scientific lingo or profession specific jargon. 
 
-As an example, suppose you're listing the tasks for your organization as a whole. Depending on the breadth of the mandate of the organization, you might need to go a little bit broader in your task descriptions. For example, an organization like the Parole Board of Canada has very discrete offerings to the public:
+Our UX study demonstrated that users often skipped by a link that would have taken them to the correct information because they didn't recognize the title of the link or section as being useful for completing there task. In the example below, we see that people misunderstood this list – most answered incorrectly that they should get the Yellow Fever vaccine to visit Mexico.  Only a few opened it to see that it is not recommended for Mexico.
+
+ <div itemprop="text" class="" data="type-text">
+      <div class="img-responsive center-block col-md-6">
+          <span class=""><img src="../images/Use-Vaccine-recommendations-hidden 2.JPG" alt="image-of-mobile-device-where-the-vaccine-recommendations-hidden-in-drop-down-menu">
+ </span>
+      </div>
+
+Recommendation: change table titles so that recommendations are visible on first glance. 
 
 
 
