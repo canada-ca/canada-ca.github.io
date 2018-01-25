@@ -101,36 +101,15 @@ Recommendation: change table titles so that recommendations are visible on first
  
 ## Writing meaninful titles and descriptions
 
-One of the hard things about writing tasks is tayloring your word choice to a non-specialist audience. To increase the findability of your content it is important to use language and terms that are used in searches made by your intended audience- in this case, the general public- instead of focusing on using the correct scientific lingo or profession specific jargon. 
-
-Our UX study demonstrated that users often skipped by a link that would have taken them to the correct information because they didn't recognize the title of the link or section as being useful for completing there task. In the example below, we see that people misunderstood this list – most answered incorrectly that they should get the Yellow Fever vaccine to visit Mexico.  Only a few opened it to see that it is not recommended for Mexico.
+Half of the people incorrectly answered that a cough was one of the most important signals that someone had the flu rather than a cold. 
 
  <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/Use-Vaccine-recommendations-hidden 2.JPG" alt="image-of-mobile-device-where-the-vaccine-recommendations-hidden-in-drop-down-menu">
+          <span class=""><img src="../images/Understand.jpg" alt="image-of-mobile-device-where-the-user-misunderstands-given-information">
  </span>
       </div>
 
-Recommendation: change table titles so that recommendations are visible on first glance. 
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
+Recommendation: add the table of flu versus cold symptoms to this page – people who found it got the answer correct. 
 
 
 
