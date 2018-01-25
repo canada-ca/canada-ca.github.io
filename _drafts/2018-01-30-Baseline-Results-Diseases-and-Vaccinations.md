@@ -45,10 +45,23 @@ Your friend put up a post urging her friends not to vaccinate their kids
 because of the risk of autism. Find some answers that would make you feel ready
 to discuss it with her. 
 
+Q3. You got a few mosquito bites on your honeymoon down south but you feel fine. Before getting pregnant, you want to make sure you don’t have Zika. Is there a test that can tell if you're infected?
 
+Q4. You plan to start a family soon, but want a sunny vacation first. Which of the countries below should you avoid because of the risk of Zika?
 
+Q5. Your baby was born on the first of this month. At what age is the first set of vaccinations recommended?
 
+Q6. It is flu season and a family member is pregnant. Find out whether or not she should get a flu shot while pregnant. 
 
+Q7. You don't want to miss work tomorrow but should stay away if you have the flu. Yesterday, all of the symptoms below hit - find out which ones are the signal that it's the flu. 
+
+Q8. Find out whether the number of cases of flu last week were higher or lower than usual, to help you decide if you should get a flu shot now or wait. 
+
+Q9. You think you heard something on the news about people being sick in Italy. Is there a particular concern you should be aware of before you go with your baby?
+
+Q10. You are planning a trip to Mexico. Which specific vaccinations are recommended before you go?
+
+Q11. The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.
 
 
 ## Writing the task at the right level
