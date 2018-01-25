@@ -92,9 +92,9 @@ Recommendation: make the menu items as visible in the mobile view as they are in
 
 ## Writing meaninful titles and descriptions
 
-One of the hard things about writing tasks is tayloring your word choice to a non-specialist audience. To increase the findability of your content it is important to use language and terms that are used in searches made by your intended audience- in this case, the general public- instead of focusing on using the correct scientific lingo or profession specific jargon. 
+One of the hard things about writing tasks is tayloring your word choice to a non-specialist audience. To increase the findability of your content it is important to encorporate commonly used search terms into your section titles and web content instead of focusing on using scientific lingo or profession-specific jargon. 
 
-Our UX study demonstrated that users often skipped by a link that would have taken them to the correct information because they didn't recognize the title of the link or section as being useful for completing there task. In the example below, we see that people misunderstood this list – most answered incorrectly that they should get the Yellow Fever vaccine to visit Mexico.  Only a few opened it to see that it is not recommended for Mexico.
+Our UX study demonstrated that users often overlooked a link that would have taken them to the correct information because they didn't recognize the title of that link or section as being useful for completing their task. In the example below, we see that people misunderstood this list – most answered incorrectly that they should get the Yellow Fever vaccine to visit Mexico.  Only a few opened it to see that it is not recommended for Mexico.
 
 
 
@@ -105,7 +105,7 @@ Our UX study demonstrated that users often skipped by a link that would have tak
       </div>
 
 
-Recommendation: change table titles so that recommendations are visible on first glance. 
+Recommendation: change list titles so that recommendations are visible on first glance. 
 
 
  
