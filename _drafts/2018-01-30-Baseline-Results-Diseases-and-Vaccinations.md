@@ -8,7 +8,7 @@ published: false
 lang: en
 ---
 
-It can be hard to keep track of all of the digital content an institution produces. Managing by tasks is a way to focus attention on what's most important - how people use that content. This article looks at a sample of baseline testing results from a recent usability (UX) test of several top task for Health Canada and Public Health Agency of Canada.
+It can be hard to keep track of all of the digital content an institution produces. Managing by tasks is a way to focus attention on what's most important - how people use that content. This article looks at a sample of baseline testing results from a recent usability (UX) test of several top tasks for Health Canada and Public Health Agency of Canada.
 
 
 ## What we mean by a task
@@ -30,7 +30,8 @@ That doesn't guarantee success of course. But it puts you in the right position 
 
 ## Baseline Test Results - How successful were people at completing their tasks?
 
-To find out how sucessful people were at finding the correct information and being able to complete their task we ran a usability test that asked the participants to complete a series of tasks. The test looked at three main things (1) Was the participant able to find the correct information, (2) Was the participant able to successfully able to complete their task, (3) What path did they follow in their attempt to find the correct information
+To find out how sucessful people were at finding the correct information and being able to complete their task we ran a usability test that asked the participants to complete a series of tasks. The test looked at three main things (1) Was the participant able to find the correct information, (2) Was the participant able to successfully able to complete their task, (3) What path did they follow in their attempt to find the correct information.
+
 The participants were asked to complete 11 tasks. Each task had to be completed within five minutes and the participant had to record their answer to the task. 
 
 
