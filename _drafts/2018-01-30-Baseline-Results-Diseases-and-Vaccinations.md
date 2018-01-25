@@ -39,8 +39,6 @@ The participants were asked to complete 11 tasks. Each task had to be completed 
 Q1.
 This year's flu season could be worse than usual. Find the government’s advice on the most important way to avoid getting the flu.
 
-
-
 Q2.
 Your friend put up a post urging her friends not to vaccinate their kids
 because of the risk of autism. Find some answers that would make you feel ready
@@ -64,6 +62,9 @@ Q10. You are planning a trip to Mexico. Which specific vaccinations are recommen
 
 Q11. The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.
 
+The following chart compares the baseline test scores for findability with the task completion score for all eleven questions posed to participants.
+
+<img src="Baseline-Performance-Results-Health-and-Travel Optimization.png" alt= "baseline test scores comparing findability and task completion">
 
 ## Writing the task at the right level
 
