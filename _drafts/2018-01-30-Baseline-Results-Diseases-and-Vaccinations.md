@@ -26,8 +26,8 @@ That doesn't guarantee success of course. But it puts you in the right position 
  
 * [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
 * [How to conduct a top task analysis](https://measuringu.com/top-tasks/)
-
-
+<p><br>
+</p>
 ## Baseline Test Results - How successful were people at completing their tasks?
 
 To find out how sucessful people were at finding the correct information and being able to complete their task we ran a usability (UX) test that asked the participants to complete a series of tasks. The test looked at three main things (1) Was the participant able to find the correct information, (2) Was the participant able to successfully complete their task, (3) What path did they follow in their attempt to find the correct information.
@@ -66,7 +66,7 @@ The following chart compares the baseline test scores for findability with the t
 
 
 <p><br>
-
+</p>
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/Baseline-Performance-Results-Health-and-Travel-Optimization.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
