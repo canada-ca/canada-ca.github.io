@@ -28,6 +28,8 @@ That doesn't guarantee success of course. But it puts you in the right position 
 * [How to conduct a top task analysis](https://measuringu.com/top-tasks/)
 <p><br>
 </p>
+
+
 ## Baseline Test Results - How successful were people at completing their tasks?
 
 To find out how sucessful people were at finding the correct information and being able to complete their task we ran a usability (UX) test that asked the participants to complete a series of tasks. The test looked at three main things (1) Was the participant able to find the correct information, (2) Was the participant able to successfully complete their task, (3) What path did they follow in their attempt to find the correct information.
@@ -115,7 +117,8 @@ Our UX study demonstrated that users often overlooked a link that would have tak
 </p>
 <p><br>
 Recommendation: change list titles so that recommendations are visible on first glance. 
-</b>
+<p><br>
+ </p>
 
  
 ## Displaying information meaningfully 
@@ -134,8 +137,8 @@ The image below shows an example of the what the users saw on their mobile devic
 </p>
 <p><br>
 Recommendation: add the table of flu versus cold symptoms to the top of this page – people who found it got the answer correct. 
+<p><br>
 </p>
-
 
 ## Find out more
 
