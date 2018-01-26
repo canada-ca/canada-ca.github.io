@@ -30,7 +30,7 @@ That doesn't guarantee success of course. But it puts you in the right position 
 
 ## Baseline Test Results - How successful were people at completing their tasks?
 
-To find out how sucessful people were at finding the correct information and being able to complete their task we ran a usability test that asked the participants to complete a series of tasks. The test looked at three main things (1) Was the participant able to find the correct information, (2) Was the participant able to successfully able to complete their task, (3) What path did they follow in their attempt to find the correct information.
+To find out how sucessful people were at finding the correct information and being able to complete their task we ran a usability (UX) test that asked the participants to complete a series of tasks. The test looked at three main things (1) Was the participant able to find the correct information, (2) Was the participant able to successfully complete their task, (3) What path did they follow in their attempt to find the correct information.
 
 The participants were asked to complete 11 tasks. Each task had to be completed within five minutes and the participant had to record their answer to the task. 
 
@@ -73,7 +73,8 @@ The following chart compares the baseline test scores for findability with the t
       </div>
   
   
-  
+ 
+ 
 ## Common issues for mobile users
 
 Many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.
@@ -85,6 +86,7 @@ Many people didn’t find Health in the ‘hamburger’menu on the mobile home p
           <span class=""><img src="../images/Discovery- Menu-too-hard-to-find-on-mobile 2.JPG" alt="Menu-too-hard-to-find">
  </span>
       </div>
+
 
 Recommendation: make the menu items as visible in the mobile view as they are in the desktop view. 
 
@@ -105,6 +107,7 @@ Our UX study demonstrated that users often overlooked a link that would have tak
       </div>
 
 
+
 Recommendation: change list titles so that recommendations are visible on first glance. 
 
 
@@ -122,6 +125,7 @@ The image below shows an example of the what the users saw on their mobile devic
           <span class=""><img src="../images/Understand.jpg" alt="image-of-mobile-device-where-the-user-misunderstands-given-information">
  </span>
       </div>
+
 
 
 Recommendation: add the table of flu versus cold symptoms to the top of this page – people who found it got the answer correct. 
