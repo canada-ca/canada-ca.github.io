@@ -81,7 +81,8 @@ The following chart compares the baseline test scores for findability with the t
 Many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.
 
 
-<p><p>
+<p><br>
+</p>
  
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
@@ -92,7 +93,9 @@ Many people didn’t find Health in the ‘hamburger’menu on the mobile home p
 
 
 <p><br>
+ </p>
 Recommendation: make the menu items as visible in the mobile view as they are in the desktop view. 
+</p><br>
 </p>
 
 
