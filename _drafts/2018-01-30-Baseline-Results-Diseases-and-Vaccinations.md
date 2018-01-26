@@ -112,10 +112,10 @@ Our UX study demonstrated that users often overlooked a link that would have tak
 
 <p><br>
 
-      <div class="img-responsive left-block col-md-6">
+   <div class="img-responsive left-block col-md-6">
           <span class=""><img src="../images/Use-Vaccine-recommendations-hidden 2.JPG" alt="image-of-mobile-device-where-the-vaccine-recommendations-hidden-in-drop-down-menu">
-          </span>
-          </div>
+  </span>
+            </div>
  </p>
 <div class="img-responsive right-block col-md-6">
           <span class=""><img src="../images/New-Vaccines-titles_iphonesespacegrey_portrait.png" alt="image-of-mobile-device-where-the-vaccine-recommendations-are-visoble-in-drop-down-menu">
