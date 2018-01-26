@@ -85,15 +85,16 @@ Many people didn’t find Health in the ‘hamburger’menu on the mobile home p
 
 <p><br>
 </p>
- <frameset cols="50%, 50%">
+
 <div itemprop="text" class="" data="type-text">
-      <div class="frame-responsive left-block col-md-6">
+      <div class="img-responsive left-block col-md-6">
           <span class=""><img src="../images/Discovery- Menu-too-hard-to-find-on-mobile 2.JPG" alt="Menu-too-hard-to-find" style="floating:left">
 <span>
+ 
 <div itemprop="text" class="" data="type-text">
-      <div class="frame-responsive right-block col-md-6">
-          <span class=""><frame src="../images/New-Menu-for-Mobile_iphonesespacegrey_portrait.png" alt="Prototype-menu-for-mobile-" style="floating:right">
-       </span></frameset>
+      <div class="img-responsive right-block col-md-6">
+          <span class=""><img src="../images/New-Menu-for-Mobile_iphonesespacegrey_portrait.png" alt="Prototype-menu-for-mobile-" style="floating:right">
+       </span>
       </div>
 
 <p><br>
@@ -111,12 +112,12 @@ Our UX study demonstrated that users often overlooked a link that would have tak
 
 
 <p><br>
- <frameset cols="50%, 50%">
+
       <div class="img-responsive left-block col-md-6">
-          <span class=""><frame src="../images/Use-Vaccine-recommendations-hidden 2.JPG" alt="image-of-mobile-device-where-the-vaccine-recommendations-hidden-in-drop-down-menu">
-<div class="frame-responsive right-block col-md-6">
-          <span class=""><frame src="../images/New-Vaccines-titles_iphonesespacegrey_portrait.png" alt="image-of-mobile-device-where-the-vaccine-recommendations-are-visoble-in-drop-down-menu">
- </span></frameset>
+          <span class=""><img src="../images/Use-Vaccine-recommendations-hidden 2.JPG" alt="image-of-mobile-device-where-the-vaccine-recommendations-hidden-in-drop-down-menu">
+<div class="img-responsive right-block col-md-6">
+          <span class=""><img src="../images/New-Vaccines-titles_iphonesespacegrey_portrait.png" alt="image-of-mobile-device-where-the-vaccine-recommendations-are-visoble-in-drop-down-menu">
+ </span>
       </div>
 </p>
 <p><br>
@@ -139,6 +140,12 @@ The image below shows an example of the what the users saw on their mobile devic
  </span>
       </div>
 </p>
+ <div itemprop="text" class="" data="type-text">
+      <div class="img-responsive center-block col-md-6">
+          <span class=""><img src="../images/New-Symptoms-of-flu_iphonesespacegrey_portrait.png" alt="image-of-mobile-device-where-the-flu-vs-cold-table-visible">
+       </span>
+       <div>
+        
 <p><br>
 Recommendation: add the table of flu versus cold symptoms to the top of this page – people who found it got the answer correct. 
 <p><br>
