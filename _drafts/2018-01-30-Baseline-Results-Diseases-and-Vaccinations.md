@@ -110,11 +110,13 @@ One of the hard things about writing tasks is tayloring your word choice to a no
 
 Our UX study demonstrated that users often overlooked a link that would have taken them to the correct information because they didn't recognize the title of that link or section as being useful for completing their task. In the example below, we see that people misunderstood this list – most answered incorrectly that they should get the Yellow Fever vaccine to visit Mexico.  Only a few opened it to see that it is not recommended for Mexico.
 
-
 <p><br>
 
       <div class="img-responsive left-block col-md-6">
           <span class=""><img src="../images/Use-Vaccine-recommendations-hidden 2.JPG" alt="image-of-mobile-device-where-the-vaccine-recommendations-hidden-in-drop-down-menu">
+          </span>
+          </div>
+ </p>
 <div class="img-responsive right-block col-md-6">
           <span class=""><img src="../images/New-Vaccines-titles_iphonesespacegrey_portrait.png" alt="image-of-mobile-device-where-the-vaccine-recommendations-are-visoble-in-drop-down-menu">
  </span>
