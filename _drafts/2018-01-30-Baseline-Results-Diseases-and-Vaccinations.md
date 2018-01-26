@@ -91,9 +91,9 @@ Many people didn’t find Health in the ‘hamburger’menu on the mobile home p
 
 
 
-<p>
+<p><br>
 Recommendation: make the menu items as visible in the mobile view as they are in the desktop view. 
-<p>
+</p>
 
 
 ## Writing meaninful titles and descriptions
@@ -103,16 +103,16 @@ One of the hard things about writing tasks is tayloring your word choice to a no
 Our UX study demonstrated that users often overlooked a link that would have taken them to the correct information because they didn't recognize the title of that link or section as being useful for completing their task. In the example below, we see that people misunderstood this list – most answered incorrectly that they should get the Yellow Fever vaccine to visit Mexico.  Only a few opened it to see that it is not recommended for Mexico.
 
 
-<p>
+<p><br>
  <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/Use-Vaccine-recommendations-hidden 2.JPG" alt="image-of-mobile-device-where-the-vaccine-recommendations-hidden-in-drop-down-menu">
  </span>
       </div>
-<p>
-<p>
+</p>
+<p><br>
 Recommendation: change list titles so that recommendations are visible on first glance. 
-
+</b>
 
  
 ## Displaying information meaningfully 
@@ -122,19 +122,16 @@ Half of the people incorrectly answered that a cough was one of the most importa
 The image below shows an example of the what the users saw on their mobile devices that resulted in them choosing the incorrect answer to their task. Many users saw this information and failed to scroll further down the page to find the chart.
 
 
-<p>
+<p><br>
  <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/Understand.jpg" alt="image-of-mobile-device-where-the-user-misunderstands-given-information">
  </span>
       </div>
-
-
-
-<p>
-<p>
+</p>
+<p><br>
 Recommendation: add the table of flu versus cold symptoms to the top of this page – people who found it got the answer correct. 
-<p>
+</p>
 
 
 ## Find out more
