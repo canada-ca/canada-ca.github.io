@@ -86,13 +86,9 @@ Many people didn’t find Health in the ‘hamburger’menu on the mobile home p
 <p><br>
 </p>
 
-<div itemprop="text" class="" data="type-text">
-      <div class="img-responsive left-block col-md-6">
-          <span class=""><img src="../images/Discovery- Menu-too-hard-to-find-on-mobile 2.JPG" alt="Menu-too-hard-to-find" style="floating:left">
-<span>
  
 <div itemprop="text" class="" data="type-text">
-      <div class="img-responsive right-block col-md-6">
+      <div class="img-responsive center-block col-md-12">
           <span class=""><img src="../images/Before-and-after-menu.JPG" alt="image-compairing-baseline-and-Prototype-Canada.ca-main-menus-for-mobile-" style="floating:right">
        </span>
       </div>
