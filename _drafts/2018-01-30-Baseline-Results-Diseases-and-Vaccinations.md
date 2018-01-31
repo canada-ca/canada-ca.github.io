@@ -93,7 +93,7 @@ Many people didn’t find Health in the ‘hamburger’menu on the mobile home p
  
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive right-block col-md-6">
-          <span class=""><img src="../images/New-Menu-for-Mobile_iphonesespacegrey_portrait.png" alt="Prototype-menu-for-mobile-" style="floating:right">
+          <span class=""><img src="../images/Before-and-after-menu.JPG" alt="image-compairing-baseline-and-Prototype-Canada.ca-main-menus-for-mobile-" style="floating:right">
        </span>
       </div>
 
