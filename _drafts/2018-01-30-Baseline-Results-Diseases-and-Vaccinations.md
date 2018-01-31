@@ -138,7 +138,7 @@ The image below shows an example of the what the users saw on their mobile devic
        <div>
         
 <p><br>
-Recommendation: add the table of flu versus cold symptoms to the top of this page – people who found it got the answer correct. 
+Recommendation: add the table of flu versus cold to the top of this page – people who found it got the answer correct. 
 <p><br>
 </p>
 
