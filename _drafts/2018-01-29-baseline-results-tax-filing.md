@@ -79,14 +79,19 @@ Many people didn’t find Health in the ‘hamburger’menu on the mobile home p
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive left-block col-md-6">
-          <span class=""><img src="../images/Discovery- Menu-too-hard-to-find-on-mobile 2.JPG" alt="Menu-too-hard-to-find" style="floating:left">
+          <span class=""><img src="../images/TF-slide1.JPG" alt="Menu-too-hard-to-find" style="floating:left">
 <span>
- 
+<br>
 <div itemprop="text" class="" data="type-text">
-      <div class="img-responsive right-block col-md-6">
-          <span class=""><img src="../images/New-Menu-for-Mobile_iphonesespacegrey_portrait.png" alt="Prototype-menu-for-mobile-" style="floating:right">
-       </span>
-      </div>
+      <div class="img-responsive left-block col-md-6">
+          <span class=""><img src="../images/TF-slide2.JPG" alt="Menu-too-hard-to-find" style="floating:left">
+<br>
+<div itemprop="text" class="" data="type-text">
+      <div class="img-responsive left-block col-md-6">
+          <span class=""><img src="../images/TF-slide3.JPG" alt="Menu-too-hard-to-find" style="floating:left">
+
+</span>
+</div>
 
 <p><br>
  </p>
