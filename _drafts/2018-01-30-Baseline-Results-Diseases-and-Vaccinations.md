@@ -129,15 +129,11 @@ The image below shows an example of the what the users saw on their mobile devic
 
 
 <p><br>
- <div itemprop="text" class="" data="type-text">
-      <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/Understand.jpg" alt="image-of-mobile-device-where-the-user-misunderstands-given-information">
- </span>
-      </div>
+
 </p>
  <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/New-Symptoms-of-flu_iphonesespacegrey_portrait.png" alt="image-of-mobile-device-where-the-flu-vs-cold-table-visible">
+          <span class=""><img src="../images/Before-and-after-flu-symptoms.JPG" alt="image-compairing-mobile-devices-where-the-flu-vs-cold-table-visible-in-the-prototype">
        </span>
        <div>
         
