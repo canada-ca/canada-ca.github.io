@@ -55,21 +55,21 @@ Your business operates seasonally, so you don't pay employees during the winter.
 ## Baseline Test Results - How successful were people at completing their tasks?
 
 
-The following chart compares the baseline test scores for findability with the task completion score for all eleven questions posed to participants.
+The following chart compares the baseline test scores for findability with the task completion score for all ten questions posed to participants.
 
 
 <p><br>
 </p>
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/Baseline-Performance-Results-Health-and-Travel-Optimization.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
+          <span class=""><img src="../images/TaxFilingbaseline.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
  </span>
       </div>
   <p><br>
   </p>
  
  
-## Common issues for mobile users
+## Common issues uncovered in testing
 
 Many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.
 
@@ -95,65 +95,9 @@ Recommendation: make the menu items as visible in the mobile view as they are in
 </p>
 
 
-## Writing meaninful titles and descriptions
 
-One of the hard things about writing tasks is tayloring your word choice to a non-specialist audience. To increase the findability of your content it is important to encorporate commonly used search terms into your section titles and web content instead of focusing on using scientific lingo or profession-specific jargon. 
-
-Our UX study demonstrated that users often overlooked a link that would have taken them to the correct information because they didn't recognize the title of that link or section as being useful for completing their task. In the example below, we see that people misunderstood this list – most answered incorrectly that they should get the Yellow Fever vaccine to visit Mexico.  Only a few opened it to see that it is not recommended for Mexico.
-
-<p><br>
-
-   <div class="img-responsive left-block col-md-6">
-          <span class=""><img src="../images/Use-Vaccine-recommendations-hidden 2.JPG" alt="image-of-mobile-device-where-the-vaccine-recommendations-hidden-in-drop-down-menu">
-  </span>
-            </div>
- </p>
-<div class="img-responsive right-block col-md-6">
-          <span class=""><img src="../images/New-Vaccines-titles_iphonesespacegrey_portrait.png" alt="image-of-mobile-device-where-the-vaccine-recommendations-are-visoble-in-drop-down-menu">
- </span>
-      </div>
-</p>
-<p><br>
-Recommendation: change list titles so that recommendations are visible on first glance. 
-<p><br>
- </p>
-
- 
-## Displaying information meaningfully 
-
-Half of the people incorrectly answered that a cough was one of the most important signals that someone had the flu rather than a cold. In this case, they missed two of the three bullets that listed the most common flu symptoms. For this scenario, the participants that successfully completed the task were those that found the flu vs. cold table which was located further down the page. The task highlights that how information is displayed can have a significant impact on task completion. Although the information they needed was at the top of the page in bulleted form, it was only those that saw the table comparing the symptoms of flus versus colds that were able to complete their task successfully.
-
-The image below shows an example of the what the users saw on their mobile devices that resulted in them choosing the incorrect answer to their task. Many users saw this information and failed to scroll further down the page to find the chart.
-
-
-<p><br>
- <div itemprop="text" class="" data="type-text">
-      <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/Understand.jpg" alt="image-of-mobile-device-where-the-user-misunderstands-given-information">
- </span>
-      </div>
-</p>
- <div itemprop="text" class="" data="type-text">
-      <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/New-Symptoms-of-flu_iphonesespacegrey_portrait.png" alt="image-of-mobile-device-where-the-flu-vs-cold-table-visible">
-       </span>
-       <div>
-        
-<p><br>
-Recommendation: add the table of flu versus cold symptoms to the top of this page – people who found it got the answer correct. 
-<p><br>
-</p>
 
 ## Find out more
 
 We’re happy to share what we’ve learned. If you’ve got questions, email us at ux.eu@tbs-sct.gc.ca
-
-## Explore further
-
-* [Top task management on Canada.ca]() presents the methodology we use to identify and manage the top 100 tasks for Canada.ca
-* [Making Canada.ca for Canadians]() gives an overview of how we originally used the top 100 tasks in 2013 to design Canada.ca navigation
-* [How we're optimizing top tasks on Canada.ca](https://canada-ca.github.io/category/2017/08/21/optimization-overview.html) shares more about how we're focusing now on improving specific top tasks on Canada.ca
-* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) is a great article from Gerry McGovern on the value of top tasks and the survey voting method to validate them
-* [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
-* [How to conduct a top task analysis](https://measuringu.com/top-tasks/) from Jeff Sauro gets into some of the statistical details around analysing top task data from surveys
 
