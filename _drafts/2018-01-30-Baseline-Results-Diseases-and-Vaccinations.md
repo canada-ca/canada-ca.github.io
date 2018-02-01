@@ -38,9 +38,9 @@ The participants were asked to complete 11 tasks. Each task had to be completed 
 
 
 <p><br>
- <ul>
+<ul>
 <li> Q1.
-This year's flu season could be worse than usual. Find the government’s advice on the most important way to avoid getting the flu.
+This year's flu season could be worse than usual. Find the government’s advice on the most important way to avoid getting the flu. </li>
 <br>
 <li> Q2.
 Your friend put up a post urging her friends not to vaccinate their kids because of the risk of autism. Find some answers that would make you feel ready to discuss it with her. </li>
