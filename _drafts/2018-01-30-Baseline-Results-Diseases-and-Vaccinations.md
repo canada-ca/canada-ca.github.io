@@ -8,23 +8,13 @@ published: false
 lang: en
 ---
 
-It can be hard to keep track of all of the digital content an institution produces. Website optimization is a process of systematically improving the performance of the website (structure and content organization) to meet a particular objective. The optimization of top tasks is a way to focus attention on what's most important - how people use that content. The purpose of our optimization project with our partners at Health Canada and the Public Health Authority of Canada is to help users complete their tasks quickly and successfully. 
-
-This article looks at a sample of baseline testing results from a recent usability (UX) test of several top tasks for Health Canada and Public Health Agency of Canada.
-
-
-## What we mean by a task
- 
-A task is basically what someone wants to do. For example, some typical tasks might be: 
-
-* renew my passport
-* get the flu shot
-* get insurance for my crops
-
+Website optimization is a process of systematically improving the performance of the website (structure, flow, and content organization) to meet a particular objective. The optimization of top tasks is a way to focus attention on what's most important - how people use that content. The purpose of our optimization project with our partners at Health Canada (HC) and the Public Health Authority of Canada (PHAC) is to help users complete their tasks quickly and successfully. 
 
 This doesn't mean that we're creating new policies or services, but we're shifting the focus from how the organization thinks about their service (what we're doing and how we're doing it) to how the visitor consumes it (ensuring they can actually apply, understand the guidance to comply or make safe or healthy decisions, which in turn contribute to policy outcomes and change for Canadians).
 
 That doesn't guarantee success of course. But it puts you in the right position to manage content in a way that focuses on the people who use it. 
+
+This article looks at a sample of baseline testing results from a recent usability (UX) test of several top tasks for HC and PHAC. The examples below were chosen because they demonstrated some of the most common behaviours shown by participants in the study.
  
 * [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
 * [How to conduct a top task analysis](https://measuringu.com/top-tasks/)
