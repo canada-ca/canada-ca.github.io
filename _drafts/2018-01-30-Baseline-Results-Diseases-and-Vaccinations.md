@@ -38,33 +38,35 @@ The participants were asked to complete 11 tasks. Each task had to be completed 
 
 
 <p><br>
-* Q1.
+ <ul>
+<li> Q1.
 This year's flu season could be worse than usual. Find the government’s advice on the most important way to avoid getting the flu.
 <br>
-* Q2.
+<li> Q2.
 Your friend put up a post urging her friends not to vaccinate their kids
 because of the risk of autism. Find some answers that would make you feel ready
-to discuss it with her. 
+ to discuss it with her. </li>
 <br>
-* Q3. You got a few mosquito bites on your honeymoon down south but you feel fine. Before getting pregnant, you want to make sure you don’t have Zika. Is there a test that can tell if you're infected?
+<li> Q3. You got a few mosquito bites on your honeymoon down south but you feel fine. Before getting pregnant, you want to make sure you don’t have Zika. Is there a test that can tell if you're infected? </li>
 <br>
-* Q4. You plan to start a family soon, but want a sunny vacation first. Which of the countries below should you avoid because of the risk of Zika?
+<li> Q4. You plan to start a family soon, but want a sunny vacation first. Which of the countries below should you avoid because of the risk of Zika? </li>
 <br>
-* Q5. Your baby was born on the first of this month. At what age is the first set of vaccinations recommended?
+<li> Q5. Your baby was born on the first of this month. At what age is the first set of vaccinations recommended? </li>
 <br>
-* Q6. It is flu season and a family member is pregnant. Find out whether or not she should get a flu shot while pregnant. 
+<li> Q6. It is flu season and a family member is pregnant. Find out whether or not she should get a flu shot while pregnant. </li> 
 <br>
-* Q7. You don't want to miss work tomorrow but should stay away if you have the flu. Yesterday, all of the symptoms below hit - find out which ones are the signal that it's the flu. 
+<li> Q7. You don't want to miss work tomorrow but should stay away if you have the flu. Yesterday, all of the symptoms below hit - find out which ones are the signal that it's the flu. </li>
 <br>
-* Q8. Find out whether the number of cases of flu last week were higher or lower than usual, to help you decide if you should get a flu shot now or wait. 
+<li> Q8. Find out whether the number of cases of flu last week were higher or lower than usual, to help you decide if you should get a flu shot now or wait. </li>
 <br>
-* Q9. You think you heard something on the news about people being sick in Italy. Is there a particular concern you should be aware of before you go with your baby?
+ <li> Q9. You think you heard something on the news about people being sick in Italy. Is there a particular concern you should be aware of before you go with your baby? </li>
 <br>
-* Q10. You are planning a trip to Mexico. Which specific vaccinations are recommended before you go?
+<li> Q10. You are planning a trip to Mexico. Which specific vaccinations are recommended before you go? </li>
 <br>
-* Q11. The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.
-<br/>
-<p/>
+<li> Q11. The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.</li>
+</ul>
+ </br>
+</p>
 The following chart compares the baseline test scores for findability with the task completion score for all eleven questions posed to participants.
 
 
