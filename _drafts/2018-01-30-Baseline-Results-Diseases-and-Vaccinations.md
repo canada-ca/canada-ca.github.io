@@ -8,7 +8,9 @@ published: false
 lang: en
 ---
 
-It can be hard to keep track of all of the digital content an institution produces. Managing by tasks is a way to focus attention on what's most important - how people use that content. This article looks at a sample of baseline testing results from a recent usability (UX) test of several top tasks for Health Canada and Public Health Agency of Canada.
+It can be hard to keep track of all of the digital content an institution produces. Website optimization is a process of systematically improving the performance of the website (structure and content organization) to meet a particular objective. The optimization of top tasks is a way to focus attention on what's most important - how people use that content. The purpose of our optimization project with our partners at Health Canada and the Public Health Authority of Canada is to help users complete their tasks quickly and successfully. 
+
+This article looks at a sample of baseline testing results from a recent usability (UX) test of several top tasks for Health Canada and Public Health Agency of Canada.
 
 
 ## What we mean by a task
