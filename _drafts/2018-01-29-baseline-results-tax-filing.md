@@ -19,37 +19,38 @@ Link to Starting a Business post
 For this project, we wanted to focus in on issues that people were actually facing. To do this, we invited agents from CRA's call centres to help craft the task scenarios. Some of these people actually answer phones when people call CRA with their questions. 
 
 Test participants were asked to complete all 10 tasks, with 5 minutes per task. The questions were as follows, although the order changed for each participant. 
+<ul>
+      
+< li>Q1. 
+Can you pay your company's payroll CPP and EI deductions to CRA using Interac?</li>
 
-*Q1. 
-Can you pay your company's payroll CPP and EI deductions to CRA using Interac?
+< li>Q2.
+You issued an invoice for services, with GST included, the day before you filed your return. Can you wait until the invoice is paid before sending in your payment?</li>
 
-*Q2.
-You issued an invoice for services, with GST included, the day before you filed your return. Can you wait until the invoice is paid before sending in your payment?
+< li>Q3.
+You accidentally made an error when you submitted your last payroll return. You under-paid your source deductions by $350. Will you be fined?</li>
 
-Q3.
-You accidentally made an error when you submitted your last payroll return. You under-paid your source deductions by $350. Will you be fined?
+< li>Q4.
+If your Ontario company sells and ships a taxable product to a customer in Alberta, do you charge them GST, PST or both (i.e. HST)?</li>
 
-*Q4.
-If your Ontario company sells and ships a taxable product to a customer in Alberta, do you charge them GST, PST or both (i.e. HST)?
+< li>Q5.
+You mailed a cheque to pay your company’s payroll deductions. How would you confirm that the CRA received it?</li>
 
-*Q5.
-You mailed a cheque to pay your company’s payroll deductions. How would you confirm that the CRA received it?
+< li>Q6.
+You registered for GST for the first time in on August 31, and will file your return annually. Your fiscal year ended October 31. In that time, your net tax was $2,500. Will you need to pay your GST in instalments for the next fiscal year?</li>
 
-*Q6.
-You registered for GST for the first time in on August 31, and will file your return annually. Your fiscal year ended October 31. In that time, your net tax was $2,500. Will you need to pay your GST in instalments for the next fiscal year?
+< li>Q7. 
+A business collects taxes from its employees’ pay. It sends the taxes it has collected to the government 4 times a year. When must it send the next payment by?</li>
 
-*Q7. 
-A business collects taxes from its employees’ pay. It sends the taxes it has collected to the government 4 times a year. When must it send the next payment by?
+< li>Q8.
+In 2018, what will be the maximum amount of CPP contributions for one employee for the whole year?</li>
 
-*Q8.
-In 2018, what will be the maximum amount of CPP contributions for one employee for the whole year?
+< li>Q9.
+You have recently registered for a GST account and have been collecting GST. How would you find out when you have to pay it?</li>
 
-*Q9.
-You have recently registered for a GST account and have been collecting GST. How would you find out when you have to pay it?
-
-*Q10.
-Your business operates seasonally, so you don't pay employees during the winter. Do you need to let CRA know this?
-
+< li>Q10.
+Your business operates seasonally, so you don't pay employees during the winter. Do you need to let CRA know this?</li>
+</ul>
 
 
 ## Baseline Test Results - How successful were people at completing their tasks?
