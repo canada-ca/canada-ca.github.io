@@ -90,7 +90,8 @@ Many people didn’t find Health in the ‘hamburger’menu on the mobile home p
 
 <p><br>
  </p>
-Recommendation
+<h2>Recommendation</h2>
+<br></br>
 <ul>
 <li> make the menu items as visible in the mobile view as they are in the desktop view</li>
 <li> remove carousel so more content is visible in mobile view</li>
