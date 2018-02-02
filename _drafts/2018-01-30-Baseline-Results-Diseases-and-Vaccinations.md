@@ -73,7 +73,7 @@ The following chart compares the baseline test scores for findability with the t
  
 ## Common issues for mobile users
 
-Many departmental websites were originally designed and optimized for use on desktop computers and as a result can be difficult for mobile users to use effectively. When visiting these sites mobile devices often only display a few lines of text and cannot easily run client-side programs or scripts because of slow wireless connections or insufficent physical capacity. In recent times, Canadians have turned more and more to their mobile devices to conduct web searches and complete complex tasks. For example, mobile devices are commonly used for banking, submitting taxes, looking up locations for various services and amenities, etc. To meet user needs (and departmental service goals/metrics), web designers and content owners must take this change in behaviour  into account. 
+Many departmental websites were originally designed and optimized for use on desktop computers and as a result can be difficult for mobile users to use effectively. When visiting these sites mobile devices often only display a few lines of text and cannot easily run client-side programs or scripts because of slow wireless connections. In recent times, Canadians have turned more and more to their mobile devices to conduct web searches and complete complex tasks. For example, mobile devices are commonly used for banking, submitting taxes, looking up locations for various services and amenities, etc. To meet user needs (and departmental service goals/metrics), web designers and content owners must take this change in behaviour into account. 
 
 Many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.
 
@@ -90,7 +90,11 @@ Many people didn’t find Health in the ‘hamburger’menu on the mobile home p
 
 <p><br>
  </p>
-Recommendation: make the menu items as visible in the mobile view as they are in the desktop view. 
+Recommendation
+<ul>
+<li> make the menu items as visible in the mobile view as they are in the desktop view<li>
+<li> remove carousel so more content is visible in mobile view<li>
+</ul>
 </p><br>
 </p>
 
