@@ -115,7 +115,10 @@ Our UX study demonstrated that users often overlooked a link that would have tak
       </div>
 </p>
 <p><br>
-Recommendation: change list titles so that recommendations are visible on first glance. 
+<h3>Recommendation</h3>
+<ul>
+<li> change menu titles so that recommendations are visible on first glance</li>
+</ul>
 <p><br>
  </p>
 
@@ -137,7 +140,12 @@ The image below shows an example of the what the users saw on their mobile devic
        <div>
         
 <p><br>
-Recommendation: add the table of flu versus cold to the top of this page – people who found it got the answer correct. 
+<h3>Recommendation</h3>
+<ul>
+<li> add the table of flu versus cold to the top of this page – people who found it got the answer correct</li>
+<li> shorten title in line with common search queries</li>
+<li> combine bullet lists and reorder symptoms based on importance to task</li>
+</ul>
 <p><br>
 </p>
 
