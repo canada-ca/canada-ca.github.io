@@ -150,12 +150,19 @@ The image below shows an example of the what the users saw on their mobile devic
        </span>
        <div>
         
-<p><br>
-<h3>Recommendation</h3>
+        <p><br>
+<h3> Issues and Behaviors</h3>
 <ul>
-<li> add the table of flu versus cold to the top of this page – people who found it got the answer correct</li>
-<li> shorten title in line with common search queries</li>
-<li> combine bullet lists and reorder symptoms based on importance to task</li>
+<li> Participants skim over content to quickly search for pertinent information - this can lead to them missing key messaging or failing to differentiate between types of content </li>
+<li> Multiple bulleted lists confused participants resulting in task failure </li>
+<li> Section and page titles did not accurately reflect search query structure - titles asked questions instead of supplying the answers that would help visitors complete tasks
+</ul>
+
+<h3>Recommendations</h3>
+<ul>
+<li> Add the table of flu versus cold to the top of this page – people who found it got the answer correct</li>
+<li> Shorten title in line with common search queries</li>
+<li> Combine bullet lists and reorder symptoms based on importance to task</li>
 </ul>
 <p><br>
 </p>
