@@ -75,11 +75,11 @@ The following chart compares the baseline test scores for findability with the t
 
 Many departmental websites were originally designed and optimized for use on desktop computers and as a result can be difficult for mobile users to use effectively. When visiting these sites mobile devices often only display a few lines of text and cannot easily run client-side programs or scripts because of slow wireless connections. In recent times, Canadians have turned more and more to their mobile devices to conduct web searches and complete complex tasks. For example, mobile devices are commonly used for banking, submitting taxes, looking up locations for various services and amenities, etc. To meet user needs (and departmental service goals/metrics), web designers and content owners must take this change in behaviour into account. 
 
-<h3>Issue</h3>
+<h3> Issues </h3>
 <ul>
 <li> Many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.</li>
-<li> Carousel takes up the majority of screen space when in mobile view</li>
-<li> Theme navigation is not visible in mobile view</li>
+<li> carousel takes up the majority of screen space when in mobile view</li>
+<li> theme navigation is not visible in mobile view</li>
 </ul>
 
 <p><br>
@@ -94,6 +94,7 @@ Many departmental websites were originally designed and optimized for use on des
 
 <p><br>
  </p>
+ 
 <h3>Recommendations</h3>
 <ul>
 <li> make the menu items as visible in the mobile view as they are in the desktop view</li>
@@ -122,16 +123,16 @@ Our UX study demonstrated that users often overlooked a link that would have tak
  
 <h3> Issues and Behaviors </h3>
 <ul>
- <li> Section and menu titles were not meaningful to users looking to complete specific tasks</li>
- <li> Mobile users scoll quickly and scan text - this behavior can lead to them
+<li> Section and menu titles were not meaningful to users looking to complete specific tasks</li>
+<li> Mobile users scoll quickly and scan text - this behavior can lead to them</li>
  
-<h3>Recommendations</h3>
+<h3> Recommendations </h3>
 <ul>
-<li> Change menu titles so that recommendations are visible on first glance</li>
-<li> Change menu format so buttons are more obviously click-able </li>
+<li> change menu titles so that recommendations are visible on first glance</li>
+<li> change menu format so buttons are more obviously click-able </li>
 </ul>
 <p><br>
- </p>
+</p>
 
  
 ## Displaying information meaningfully 
@@ -153,16 +154,16 @@ The image below shows an example of the what the users saw on their mobile devic
         <p><br>
 <h3> Issues and Behaviors</h3>
 <ul>
-<li> Participants skim over content to quickly search for pertinent information - this can lead to them missing key messaging or failing to differentiate between types of content </li>
-<li> Multiple bulleted lists confused participants resulting in task failure </li>
-<li> Section and page titles did not accurately reflect search query structure - titles asked questions instead of supplying the answers that would help visitors complete tasks
+<li> participants skim over content to quickly search for pertinent information - this can lead to them missing key messaging or failing to differentiate between types of content </li>
+<li> multiple bulleted lists confused participants resulting in task failure </li>
+<li> section and page titles did not accurately reflect search query structure - titles asked questions instead of supplying the answers that would help visitors complete tasks</li>
 </ul>
 
-<h3>Recommendations</h3>
+<h3> Recommendations </h3>
 <ul>
-<li> Add the table of flu versus cold to the top of this page – people who found it got the answer correct</li>
-<li> Shorten title in line with common search queries</li>
-<li> Combine bullet lists and reorder symptoms based on importance to task</li>
+<li> add the table of flu versus cold to the top of this page – people who found it got the answer correct</li>
+<li> shorten title in line with common search queries</li>
+<li> combine bullet lists and reorder symptoms based on importance to task</li>
 </ul>
 <p><br>
 </p>
