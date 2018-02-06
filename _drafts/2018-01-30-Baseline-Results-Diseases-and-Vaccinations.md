@@ -155,10 +155,10 @@ The image below shows an example of the what the users saw on their mobile devic
  
 <h3> Issues and Behaviors</h3>
 <ul>
-<li> density of content too high 
+ Density of content too high 
  <li> participants skim over content to quickly search for pertinent information - this can lead to them missing key messaging or failing to differentiate between types of content <li>
  <li> multiple bulleted lists confused participants resulting in task failure </li>
-<li> Naming and labelling categories 
+ Naming and labelling categories 
  <li> section and page titles did not accurately reflect search query structure - titles asked questions instead of supplying the answers that would help visitors complete tasks</li>
 </ul>
 
