@@ -81,8 +81,9 @@ The gap between findability and task completion highlighted a number of issues a
 <h4> Too many layers and headings </h4>
 <p> Content does not provide answers up front and instead requires reading and coming to a conclusion on your own. Participants were observed reading multiple resources and concluding wrong answers.Task 10, about protection when traveling to Mexico, is a good example of this issue as although 55% participants found the appropriate resource, but only 10% answered correctly. </p><br>
 
-<p><br>
-  </p>
+<h4> Too much information </h4>
+<p> Many pages and resources in the website contain more information than necessary. This was evidenced by the amount of searches done by participants overall (45% of all cases [tasks x participants]). Participants were also using the “find in page” functionalities on mobile and desktop to skip content on a page and go to the keywords they were looking for.</p><br>
+
  
 ## Common issues for mobile users
 
