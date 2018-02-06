@@ -73,7 +73,7 @@ The following chart compares the baseline test scores for findability with the t
 <br>
 <p>
  The gap between findability and task completion highlighted a number of issues and behaviors: 
-</p><br>
+</p>
 <h4> Mobile users skim </h4>
 <p> For example, in all scenarios, participants were observed skimming through the content looking for highlighted or related Keywords. This is further evidenced by the amount of searches after clicking on a few links and scrolling through some of the content (all tasks except 7).</p>
 
