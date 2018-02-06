@@ -123,9 +123,10 @@ Our UX study demonstrated that users often overlooked a link that would have tak
  
 <h3> Issues and Behaviors </h3>
 <ul>
-<li> Section and menu titles were not meaningful to users looking to complete specific tasks</li>
-<li> Mobile users scoll quickly and scan text - this behavior can lead to them</li>
- 
+<li> section and menu titles were not meaningful to users looking to complete specific tasks</li>
+<li> mobile users scoll quickly and scan text - this behavior can lead to them</li>
+</ul>
+
 <h3> Recommendations </h3>
 <ul>
 <li> change menu titles so that recommendations are visible on first glance</li>
