@@ -77,7 +77,7 @@ Many departmental websites were originally designed and optimized for use on des
 
 <h3> Issues </h3>
 <ul>
-<li> Many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.</li>
+<li> many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.</li>
 <li> carousel takes up the majority of screen space when in mobile view</li>
 <li> theme navigation is not visible in mobile view</li>
 </ul>
