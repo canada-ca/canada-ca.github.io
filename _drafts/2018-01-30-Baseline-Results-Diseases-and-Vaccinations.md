@@ -69,7 +69,20 @@ The following chart compares the baseline test scores for findability with the t
       </div>
   <p><br>
   </p>
- 
+<p>
+The gap between findability and task completion highlighted a number of issues and behaviors: 
+<br>
+<h4> Mobile users skim </h4>
+<p> For example, in all scenarios, participants were observed skimming through the content looking for highlighted or related Keywords. This is further evidenced by the amount of searches after clicking on a few links and scrolling through some of the content (all tasks except 7).</p><br>
+
+<h4> Complex navigation </h4>
+<p> Finding the appropriate resources to complete tasks required a long and in some cases complex navigation.For example,tasks 4 and 5, starting at the Zika page, illustrated how complex navigation can be. Paths for these tasks include paths of up to 8 clicks on links.</p><br>
+
+<h4> Too many layers and headings </h4>
+<p> Content does not provide answers up front and instead requires reading and coming to a conclusion on your own. Participants were observed reading multiple resources and concluding wrong answers.Task 10, about protection when traveling to Mexico, is a good example of this issue as although 55% participants found the appropriate resource, but only 10% answered correctly. </p><br>
+
+<p><br>
+  </p>
  
 ## Common issues for mobile users
 
