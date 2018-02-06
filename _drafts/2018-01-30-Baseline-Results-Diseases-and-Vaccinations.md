@@ -151,8 +151,8 @@ The image below shows an example of the what the users saw on their mobile devic
           <span class=""><img src="../images/Baseline-flu-symptoms.JPG" alt="image-of-flu-symptom-page-for-baseline-test-on-mobile-devices">
        </span>
        <div>
-        
-        <p><br>
+<p><br>
+ 
 <h3> Issues and Behaviors</h3>
 <ul>
 <li> participants skim over content to quickly search for pertinent information - this can lead to them missing key messaging or failing to differentiate between types of content </li>
