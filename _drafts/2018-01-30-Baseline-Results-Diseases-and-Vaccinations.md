@@ -69,7 +69,7 @@ The following chart compares the baseline test scores for findability with the t
       </div>
   <p><br>
   </p>
-<h2> Findability vs Task Success </h2>
+<h2> Findability vs Task Completion </h2>
 <br>
 <p>
  The gap between findability and task completion highlighted a number of issues and behaviors: 
