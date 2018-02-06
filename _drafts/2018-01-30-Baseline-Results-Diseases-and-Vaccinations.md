@@ -75,13 +75,16 @@ The following chart compares the baseline test scores for findability with the t
 
 Many departmental websites were originally designed and optimized for use on desktop computers and as a result can be difficult for mobile users to use effectively. When visiting these sites mobile devices often only display a few lines of text and cannot easily run client-side programs or scripts because of slow wireless connections. In recent times, Canadians have turned more and more to their mobile devices to conduct web searches and complete complex tasks. For example, mobile devices are commonly used for banking, submitting taxes, looking up locations for various services and amenities, etc. To meet user needs (and departmental service goals/metrics), web designers and content owners must take this change in behaviour into account. 
 
-<h3> Issues </h3>
+<h3> Issues and Behaviors </h3>
+<h4> Complex Navigation </h4>
 <ul>
 <li> many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.</li>
-<li> carousel takes up the majority of screen space when in mobile view</li>
 <li> theme navigation is not visible in mobile view</li>
 </ul>
-
+<h4> Density of content </h4>
+<ul>
+<li> carousel takes up the majority of screen space when in mobile view</li>
+</ul>
 <p><br>
 </p>
 
@@ -122,8 +125,13 @@ Our UX study demonstrated that users often overlooked a link that would have tak
 <p><br>
  
 <h3> Issues and Behaviors </h3>
+
+<h4> Naming and labelling of categories</h4>
 <ul>
 <li> section and menu titles were not meaningful to users looking to complete specific tasks</li>
+</ul>
+<h4> Complex navigation</h4>
+<ul>
 <li> mobile users scoll quickly and scan text - this behavior can lead to them missing call-to-action buttons</li>
 </ul>
 
