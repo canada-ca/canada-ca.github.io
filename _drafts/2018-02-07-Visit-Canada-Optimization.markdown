@@ -22,15 +22,15 @@ Early on, we faced a dilemma on how to conduct user testing for this project. Al
 
 To address this situation, we decided to use four different methods of usability testing to make sure we learned everything we needed to about the content in a cost and time-effective way, while ensuring the task still worked with the target audience. The testing methods used in this project were as follows:
 
-1.	Moderated testing with Canadians
+##1.	Moderated testing with Canadians
 <br>
 This is the method we are used to using on optimization projects. Facilitators sit down with actual people and watch them try to complete the tasks. The facilitators take careful notes on how users behave, and these insights are used to inform how to ultimately improve the content. We tested Canadian citizens to learn where people struggled when trying to complete the tasks. 
 
-2.	Unmoderated testing with people from other countries
+##2.	Unmoderated testing with people from other countries
 
-3.	“Café” or “Street” testing with Canadians
+##3.	“Café” or “Street” testing with Canadians
 
-4.	Survey testing with Canadians and foreign nationals
+##4.	Survey testing with Canadians and foreign nationals
 
 
 From this experience our team learned that the most effective testing methods were, surprisingly not the ones that were done solely online (unmoderated and survey testing), they were the ones that were done face-to-face with real people (moderated and café testing). 
