@@ -18,19 +18,21 @@ Knowing which document you need to apply for, if any, isn’t always clear. Many
 
 We at the TBS Digital Transformation Office partnered up with the IRCC Web team to improve this experience for people trying to visit Canada. 
 
+Image of content before
+
 Early on, we faced a dilemma on how to conduct user testing for this project. Almost all of the people applying for these documents live in other countries, and many do not speak English or French. Therefore it would make sense to test with people from other countries, but to do so would require significantly more time and resources than we could afford. 
 
 To address this situation, we decided to use four different methods of usability testing to make sure we learned everything we needed to about the content in a cost and time-effective way, while ensuring the task still worked with the target audience. The testing methods used in this project were as follows:
 
-##1.	Moderated testing with Canadians
+<h3>1.	Moderated usability testing</h3>
 <br>
 This is the method we are used to using on optimization projects. Facilitators sit down with actual people and watch them try to complete the tasks. The facilitators take careful notes on how users behave, and these insights are used to inform how to ultimately improve the content. We tested Canadian citizens to learn where people struggled when trying to complete the tasks. 
 
-##2.	Unmoderated testing with people from other countries
+<h3>2.	Unmoderated usability testing through usertesting.com </h3>
 
-##3.	“Café” or “Street” testing with Canadians
+<h3>3.	“Café” or “Street” testing </h3>
 
-##4.	Survey testing with Canadians and foreign nationals
+<h3>4.	Survey testing </h3>
 
 
 From this experience our team learned that the most effective testing methods were, surprisingly not the ones that were done solely online (unmoderated and survey testing), they were the ones that were done face-to-face with real people (moderated and café testing). 
