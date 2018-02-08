@@ -18,11 +18,11 @@ Knowing which document you need to apply for, if any, isn’t always clear. Many
 
 We at the TBS Digital Transformation Office partnered up with the IRCC Web team to improve this experience for people trying to visit Canada. 
 
-<div itemprop="text" class="" data="type-text">
-      <div class="img-responsive center-block col-md-12">
-          <span class=""><img src="../images/VisaETA-before.JPG" alt="Image of what the Find out if you need a visa or an eTA webpage looked like before optimization" style="floating:right">
-       </span>
-      </div>
+<div class="col-md-6">
+<div class="center-block">
+<img class="img-responsive center-block"  style="margin-bottom: 50px;" src="/images/VisaETA-before.JPG" alt="Image of what the Find out if you need a visa or an eTA webpage looked like before optimization">
+</div>
+</div>
 
 Early on, we faced a dilemma on how to conduct user testing for this project. Almost all of the people applying for these documents live in other countries, and many do not speak English or French. Therefore it would make sense to test with people from other countries, but to do so would require significantly more time and resources than we could afford. 
 
