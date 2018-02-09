@@ -35,9 +35,8 @@ Test participants were asked to complete all 10 tasks, with 5 minutes per task. 
 </p>      
 
 ## Baseline Test Results - How successful were people at completing their tasks?
-
-
 The following chart compares the baseline test scores for findability with the task completion score for all ten questions posed to participants. The bars with a check mark represent task success (Was the participant able to successfully complete the task?) and the bars with a magnifying glass represent task findability (was the participant able to get to the page with the answer on it?).
+
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/TaxFilingbaseline.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
@@ -45,12 +44,10 @@ The following chart compares the baseline test scores for findability with the t
       </div>
   <p><br>
   </p>
- 
- 
+  
 ## Common issues uncovered in testing
 
 Many people got lost on long pages of text. They may be on the correct page, but if their answer is too obscured to be found, the task is still not successful. 
-
 
 <p><br>
 </p>
@@ -60,10 +57,13 @@ Many people got lost on long pages of text. They may be on the correct page, but
           <span class=""><img src="../images/TF-slide1.JPG" alt="Menu-too-hard-to-find" style="floating:left">
 <span>
 <br>
+      Sometimes people would be have to look throughlong lists of links to find the next step. In many cases, they were not able to find the right link.
+      
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive left-block col-md-6">
           <span class=""><img src="../images/TF-slide2.JPG" alt="Menu-too-hard-to-find" style="floating:left">
 <br>
+      Another problem that came up frequently involved pages that seemed like they should have the right answer on it but didn't. In user centered design terms, the "scent of information" was leading people downt the wrong path.  
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive left-block col-md-6">
           <span class=""><img src="../images/TF-slide3.JPG" alt="Menu-too-hard-to-find" style="floating:left">
