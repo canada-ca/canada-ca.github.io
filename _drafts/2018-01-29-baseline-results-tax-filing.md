@@ -8,11 +8,10 @@ published: false
 lang: en
 ---
 
-The Digital Transformation Office is currently engaged in an optimization project with the Canada Revenue Agency. This time, we are looking at tasks related to filing payroll and GST/HST. To start, we used the prototype from the Starting a Business project, then tested new tasks and improved it further. 
+The Digital Transformation Office is currently engaged in an optimization project with the Canada Revenue Agency. This time, we are looking at tasks related to filing payroll and GST/HST. 
 
-For more information about tasks, optimization, and the Start a Business project see the following:
-Link to Top task post
-Link to Starting a Business post
+For more general information about how we optimize tasks on Canada.ca see the following:
+* [How we're optimizing Canada.ca top tasks](https://canada-ca.github.io/category/2017/12/12/optimization-overview.html)
 
 ## Baseline Test Results - What tasks did we test?
 
@@ -58,10 +57,6 @@ Your business operates seasonally, so you don't pay employees during the winter.
 
 
 The following chart compares the baseline test scores for findability with the task completion score for all ten questions posed to participants.
-
-
-<p><br>
-</p>
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/TaxFilingbaseline.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
@@ -73,7 +68,7 @@ The following chart compares the baseline test scores for findability with the t
  
 ## Common issues uncovered in testing
 
-Many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.
+Many people got lost on long pages of text. They may be on the correct page, but if their answer is too obscured to be found, the task is still not successful. 
 
 
 <p><br>
