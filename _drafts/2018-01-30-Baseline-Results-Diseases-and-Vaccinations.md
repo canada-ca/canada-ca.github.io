@@ -8,23 +8,21 @@ published: false
 lang: en
 ---
 
-Website optimization is a process of systematically improving the performance of the website (structure, flow, and content organization) to meet a particular objective. The optimization of top tasks is a way to focus attention on what's most important - how people use that content. The purpose of our optimization project with our partners at Health Canada (HC) and the Public Health Authority of Canada (PHAC) is to help users complete their tasks quickly and successfully. 
+Helping people complete their tasks quickly and successfuly was the purpose of our recent optimization project with our partners at Health Canada (HC) and the Public Health Authority of Canada (PHAC).  Website optimization is a process of systematically improving the performance of the website (structure, flow, and task organization) to meet user needs. We selected a set of top tasks to focus the optimization on some of the most frequently-used pages and paths within the Health theme.  
 
-This doesn't mean that we're creating new policies or services, but we're shifting the focus from how the organization thinks about their service (what we're doing and how we're doing it) to how the visitor consumes it (ensuring they can actually apply, understand the guidance to comply or make safe or healthy decisions, which in turn contribute to policy outcomes and change for Canadians).
-
-That doesn't guarantee success of course. But it puts you in the right position to manage content in a way that focuses on the people who use it. 
-
-This article looks at a sample of baseline testing results from a recent usability (UX) test of several top tasks for HC and PHAC. The examples below were chosen because they demonstrated some of the most common behaviours shown by participants in the study.
- 
 * [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
-* [How to conduct a top task analysis](https://measuringu.com/top-tasks/)
-<p><br>
-</p>
 
+This article shares the evidence and learning from that top task optimization project across two important diseases - Zika and the Flu and for important travel and immunization tasks for Canadians. The entire team participated in the Discovery process to understand Canadian's needs for these tasks based on their mandate, website traffic patterns and evidence from phone and support requests. We quickly realized that most of the people visiting the pages were doing so on their smartphones - checking whether they had the cold or the flu, or which vaccinations they would need for a specific country.  From this evidence, we generated the set of tasks to measure and improve, by framing them as Jobs to be Done (When I..., I want to ..., so I can ..). Some examples include:
+
+* When it's flu season, I want to know	if/where the flu shot is available, so I can	go and get it
+* When I am worried about immunizing my child, I want to	know if the vaccine is safe, so I can	understand the risks
+* When I return from a tropical trip, I want to	know if I can be tested for Zika, so I can	decide if I should delay pregnancy
+
+These needs were then crafted into tasks that could be presented to Canadians who had volunteered to help improve the Canada.ca website via an invitation posted on the site. For this project, we selected people with children who were able to attend sessions in Toronto and Ottawa with their smartphones.  
 
 ## Baseline Test Results - How successful were people at completing their tasks?
 
-To find out how sucessful people were at finding the correct information and being able to complete their task we ran a usability (UX) test that asked the participants to complete a series of tasks. The test looked at three main things (1) Was the participant able to find the correct information, (2) Was the participant able to successfully complete their task, (3) What path did they follow in their attempt to find the correct information.
+To find out how sucessful people were at finding the correct information and being able to complete their task we ran a usability (UX) test in which a set of participants to complete a series of tasks. The test looked at three main things (1) Was the participant able to find the correct information, (2) Was the participant able to successfully complete their task, (3) What path did they follow in their attempt to find the correct information.
 
 The participants were asked to complete 11 tasks. Each task had to be completed within five minutes and the participant had to record their answer to the task. 
 
