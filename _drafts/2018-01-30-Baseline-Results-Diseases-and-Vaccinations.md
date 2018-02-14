@@ -131,16 +131,7 @@ Our UX study demonstrated that users often overlooked a link that would have tak
 
 <p><br>
 
-  
- </p>
-<div class="img-responsive center-block col-md-12">
-          <span class=""><img src="../images/Baseline-vaccines.JPG" alt="image-of-screenshos-on-mobile-device-where-the-vaccine-recommendations-aren't-visable-in-menu">
- </span>
-      </div>
-</p>
-<p><br>
- 
-<h3> Issues and Behaviors </h3>
+  <h3> Issues and Behaviors </h3>
 
 <h4> Naming and labelling of categories</h4>
 <ul>
@@ -150,6 +141,14 @@ Our UX study demonstrated that users often overlooked a link that would have tak
 <ul>
 <li> mobile users scoll quickly and scan text - this behavior can lead to them missing call-to-action buttons</li>
 </ul>
+
+ </p>
+<div class="img-responsive center-block col-md-12">
+          <span class=""><img src="../images/Baseline-vaccines.JPG" alt="image-of-screenshos-on-mobile-device-where-the-vaccine-recommendations-aren't-visable-in-menu">
+ </span>
+      </div>
+</p>
+<p><br>
 
 <h3> Recommendations </h3>
 <ul>
@@ -168,15 +167,6 @@ The image below shows an example of the what the users saw on their mobile devic
 
 
 <p><br>
-
-</p>
- <div itemprop="text" class="" data="type-text">
-      <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/Baseline-flu-symptoms.JPG" alt="image-of-flu-symptom-page-for-baseline-test-on-mobile-devices">
-       </span>
-       <div>
-<p><br>
- 
 <h3> Issues and Behaviors</h3>
 
 <h4> Density of content too high</h4> 
@@ -188,6 +178,16 @@ The image below shows an example of the what the users saw on their mobile devic
 <ul>
 <li> section and page titles did not accurately reflect search query structure - titles asked questions instead of supplying the answers that would help visitors complete tasks</li>
 </ul>
+
+</p>
+ <div itemprop="text" class="" data="type-text">
+      <div class="img-responsive center-block col-md-6">
+          <span class=""><img src="../images/Baseline-flu-symptoms.JPG" alt="image-of-flu-symptom-page-for-baseline-test-on-mobile-devices">
+       </span>
+       <div>
+<p><br>
+ 
+
 
 <h3> Recommendations </h3>
 <ul>
