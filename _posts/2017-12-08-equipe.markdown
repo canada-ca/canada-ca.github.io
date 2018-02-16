@@ -70,7 +70,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" width="185px" alt="Eric Cooper" />
       Eric Cooper<br>
-      <b>Coordonnateur de projets</b>
+      <b>Coordonnateur de projet</b>
    </div>
 </div>
 
