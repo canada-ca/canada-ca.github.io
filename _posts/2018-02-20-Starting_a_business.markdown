@@ -7,7 +7,7 @@ date:   2017-08-15 09:48:44 +0100
 categories: category
 published: false
 lang: en
-description: Starting a business is a top task for Canadians and it’s not an easy one. We held a series of design sprints, testing design prototypes with Canadians.
+description: Starting a business is a top task for Canadians and it’s not an easy one. Here’s how this optimization project turned out.
 ---
 
 Tens of thousands of new businesses are started every year in Canada. Starting a business is a top task for Canadians, and it’s not an easy one. There are different legal requirements at the provincial and federal levels. Requirements vary depending on the size and type of business. There’s a lot to get through and understand to do something that should be as easy as possible. 
