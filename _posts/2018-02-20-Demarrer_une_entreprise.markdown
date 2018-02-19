@@ -38,12 +38,12 @@ Ce qui a également aidé à mettre en lumière certains des points du processus
 <p>Le diagramme de décision rédigé à la main commence par « Constituer l’entreprise en société? ». </p>
   
   <ul>
-  <li>Dans l’affirmative, alors il faut « Obtenir un nom d’entreprise unique ou utiliser votre nom » (qui est mis en surbrillance pour montrer qu’il s’agit d’un point problématique).</li> 
-  <li>Pour constituer une entreprise au niveau « fédéral », alors il faut « obtenir un rapport de recherche de dénominations fédéral ou provincial ». </li>
-  <li>Si à l’échelon « fédéral », alors il faut « présenter votre demande ». </li>
-  <li>Si à l’échelon « provincial », le diagramme se termine. </li> 
-  <li>Si la réponse est « non » à « Constituer l’entreprise en société », alors si vous en êtes le « propriétaire unique – propre nom », allez à « numéro d’entreprise ».</li>
-  <li>Si la réponse est « non » à « propriétaire unique – propre nom », alors allez à « nom unique » (qui est mis en surbrillance pour montrer qu’il s’agit d’un point problématique), qui comprend les partenariats, les coopératives, autres.</li>
+  <li>Dans l’affirmative, alors il faut « Obtenir un nom d’entreprise unique ou utiliser votre nom » (qui est mis en surbrillance pour montrer qu’il s’agit d’un point problématique)</li> 
+  <li>Pour constituer une entreprise au niveau « fédéral », alors il faut « obtenir un rapport de recherche de dénominations fédéral ou provincial »</li>
+  <li>Si à l’échelon « fédéral », alors il faut « présenter votre demande » </li>
+  <li>Si à l’échelon « provincial », le diagramme se termine </li> 
+  <li>Si la réponse est « non » à « Constituer l’entreprise en société », alors si vous en êtes le « propriétaire unique – propre nom », allez à « numéro d’entreprise »</li>
+  <li>Si la réponse est « non » à « propriétaire unique – propre nom », alors allez à « nom unique » (qui est mis en surbrillance pour montrer qu’il s’agit d’un point problématique), qui comprend les partenariats, les coopératives, autres</li>
   </ul>
  </details>
 
