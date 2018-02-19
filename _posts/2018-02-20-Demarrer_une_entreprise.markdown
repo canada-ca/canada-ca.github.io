@@ -6,7 +6,7 @@ date:   2017-08-15 09:48:44 +0100
 categories: category
 published: false
 lang: fr
-description: Lancer une entreprise est une tâche prioritale pour les Canadiens et en est une qui n’est pas facile.
+description: Lancer une entreprise est une tâche prioritale pour les Canadiens et en est une qui n’est pas facile. Voici comment le projet d’optimisation s’est déroulé.
 ---
 
 Des dizaines de milliers d’entreprises sont lancées chaque année au Canada « Lancer une entreprise » est une tâche prioritaire pour les Canadiens et en est une qui n’est pas facile. Il y a diverses exigences juridiques d’ordre provincial et fédéral. Les exigences varient selon la taille et le type d’entreprise. Il y a beaucoup de points à réaliser et à comprendre pour faire quelque chose qui devrait aussi facile que possible. 
