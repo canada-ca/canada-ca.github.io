@@ -3,7 +3,7 @@ layout: post
 title:  "Helping Canadians start a business"
 gradelevel: 11.1
 ref: starting
-date:   2017-08-15 09:48:44 +0100
+date:   2017-02-20 09:48:44 +0100
 categories: category
 published: false
 lang: en
@@ -40,7 +40,7 @@ To understand those needs, we mapped out the different actions and decisions tha
 	<li>If yes, then “Get a unique business name or use your name” (which is highlighted to show it’s a pain point)</li>
 		<li>If “Federal”, then “Get a name report Federal or Provincial” </li>
 		<li>If “Federal”, then “Apply”. If “Provincial”, the tree ends </li>
-	<li>If “Going to incorporate?” is “no”, then if “Sole prop – own name”, go to “Business number” <li>
+	<li>If “Going to incorporate?” is “no”, then if “Sole prop – own name”, go to “Business number” </li>
 	<li>If not “Sole prop – own name”, then go to “unique name” (which is highlighted to show it’s a pain point), which includes partnership, co-op, others</li>
 	</ul>
 		
