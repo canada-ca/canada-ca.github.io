@@ -8,10 +8,11 @@ published: false
 lang: en
 ---
 
-When you think of Canada.ca you think of Government services directed at Canadians. However, did you know that the second and fifth most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)"? These are both tasks for people from other countries who want to visit Canada.
+Canada is a great big, beautiful country with lots to see and do. It's no surprise we get a ton of tourists every year, over 18 million in 2015 according to StatsCan. 
+Did you know that the second and fifth most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)"? 
 * [How we're optimizing Canada.ca top tasks](https://canada-ca.github.io/pages/top-task-list-canada-ca.html)
 
-If you have never heard of an eTA before, you are not alone. Lots of places require foreigners to have some kind of government-issued travel visa to visit. In Canada we have two types of these travel documents; travel visas and an electronis travel authorizarions (eTA). Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC), which is part of the Government of Canada. 
+If you have never heard of an eTA before, you are not alone. It is not umcommon for countries to require foreigners to get a government-issued travel visa to visit. In Canada we have two types of these travel documents; travel visas and electronic travel authorizarions (eTA). Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC), which is part of the Government of Canada. 
 
 Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they should apply for, and some people were even stopped at the Canadian border because they had for the wrong document. 
 * [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927)
