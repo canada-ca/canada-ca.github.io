@@ -67,11 +67,16 @@ The new designs went live in the Canada.ca “Business” theme in early 2017. A
 
 **Before and after optimization:** February 4 to April 4, 2017 and May 26 to July 24, 2017    
 
-<img class="img-responsive" alt="Chart showing traffic differences before and after optimization. Text version follows." src="/images/Naming_a_business_funnel_952x495.png">
+<img class="img-responsive" alt="Chart showing traffic differences before and after optimization. Text version follows." src="/images/Naming_a_business_funnel.png">
 
-<!-- Long description of image: (Details/Summary:) Text version of this chart
+<details>
+		<summary>Text version of this chart</summary>
+  <p>
 Funnel diagram showing a before and after. In before, at the top of the funnel 520 start at “Naming your business”. 30% then went to “NUANS corporate name search”. 5% then went to “Learn more”, then 2% went to “Order now” where the funnel ends. 
-In after, at the top of the funnel 3081 start at “Choosing a business name”. 59% then go to “Find out if the name is taken”. Then, 16% get to “Search Canadian corporate names” where the funnel ends. -->
+In after, at the top of the funnel 3081 start at “Choosing a business name”. 59% then go to “Find out if the name is taken”. Then, 16% get to “Search Canadian corporate names” where the funnel ends.</p>
+		
+</details>
+  
 
 As the chart shows, the flow is like a funnel leading to the successful outcome at the bottom of the image. Before optimization, only 10 people (less than 2%) made it from the “Starting a business” page to the “Choosing a business name” page. The “After” chart shows what happened 2 months later: 16% of visitors to the “Choosing a business page” took the new simplified path to the search page for business names. That’s 55 times more people who found their task! 
 
