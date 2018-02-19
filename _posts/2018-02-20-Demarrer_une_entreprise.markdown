@@ -2,7 +2,7 @@
 layout: post
 title:  "Aider les Canadiens à lancer une entreprise"
 ref: starting
-date:   2017-08-15 09:48:44 +0100
+date:   2017-02-20 09:48:44 +0100
 categories: category
 published: false
 lang: fr
@@ -68,7 +68,7 @@ La nouvelle conception a été mise en ligne dans le menu « Entreprises » de C
 
 **Avant et après l’optimisation :** Du 4 février au 4 avril 2017 et du 26 mai au 24 juillet 2017
 
-<img class="img-responsive" alt="Le diagramme montre la différence de flux avant et après l’optimisation. La version texte suit." src="/images/Nom_dentreprise_entonnoir_962x504.png">
+<img class="img-responsive" alt="Le diagramme montre la différence de flux avant et après l’optimisation. La version texte suit." src="/images/Nom_dentreprise_entonnoir.png">
 
 <!-- Long description of image: [(Détails/sommaire :) Version texte de ce diagramme
 Le diagramme en entonnoir montre les étapes avant et après. Avant, dans le haut de l’entonnoir, 520 utilisateurs ont accédé à « Nommer votre entreprise ». Puis, 30 % ont accédé à « Nuans – Rapport Nuans de recherche de dénominations ». Enfin, 5 % ont accédé à la section « En savoir plus » et seulement 2 % ont accédé à « Commander maintenant », où l’entonnoir se termine. 
