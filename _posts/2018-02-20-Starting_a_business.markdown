@@ -32,8 +32,15 @@ To understand those needs, we mapped out the different actions and decisions tha
 
 <img class="img-responsive" alt="Hand-drawn decision tree showing what happens when incorporating. Text version follows" src="/images/Naming_a_business_decisions.JPG">
 
-<!-- Long description of image: (details/summary:) Text version:
-Hand-drawn decision tree beginning with “Going to incorporate?”. If yes, then “Get a unique business name or use your name” (which is highlighted to show it’s a pain point). If “Federal”, then “Get a name report Federal or Provincial”. If “Federal”, then “Apply”. If “Provincial”, the tree ends.  If “Going to incorporate?” is “no”, then if “Sole prop – own name”, go to “Business number”. If not “Sole prop – own name”, then go to “unique name” (which is highlighted to show it’s a pain point), which includes partnership, co-op, others.  -->
+
+<details>
+		<summary>Text version of this chart</summary>
+	<h3>Hand-drawn decision tree beginning with “Going to incorporate?”</h3>
+	<p>If yes, then “Get a unique business name or use your name” (which is highlighted to show it’s a pain point). If “Federal”, then “Get a name report Federal or Provincial”. If “Federal”, then “Apply”. If “Provincial”, the tree ends.  If “Going to incorporate?” is “no”, then if “Sole prop – own name”, go to “Business number”. If not “Sole prop – own name”, then go to “unique name” (which is highlighted to show it’s a pain point), which includes partnership, co-op, others.</p>
+		
+</details>
+
+
 
 Whether incorporating or not, people must choose a unique name for their business. The naming process seemed difficult in our initial research, so we looked to validate it.  
 
@@ -71,7 +78,7 @@ The new designs went live in the Canada.ca “Business” theme in early 2017. A
 
 <details>
 		<summary>Text version of this chart</summary>
-	<h3>Funnel diagram showing a before and after.</h3>
+	<h3>Funnel diagram showing a before and after</h3>
 	<p> In before, at the top of the funnel 520 start at “Naming your business”. 30% then went to “NUANS corporate name search”. 5% then went to “Learn more”, then 2% went to “Order now” where the funnel ends. </p><p>
 In after, at the top of the funnel 3081 start at “Choosing a business name”. 59% then go to “Find out if the name is taken”. Then, 16% get to “Search Canadian corporate names” where the funnel ends.</p>
 		
