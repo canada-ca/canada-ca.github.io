@@ -15,10 +15,15 @@ It's no surprise then that two of the top five most popular services on Canada.c
 
 * [See the list of Canada.ca top tasks](https://canada-ca.github.io/pages/top-task-list-canada-ca.html)
 
-If you have never heard of an eTA before, you are not alone. It is not uncommon for countries to require foreigners to get a government-issued travel visa to visit. In Canada we have two types of these travel documents; travel visas and electronic travel authorizarions (eTA). Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC), which is part of the Government of Canada. 
+If you have never heard of an eTA before, you are not alone. It is fairly common for countries to require foreigners to get a government-issued travel visa to visit their country as a tourist. Canada has two types of these travel documents; travel visas and electronic travel authorizarions (eTA). Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC), which is part of the Government of Canada. The eTA is quicker and less expensive to obtain. 
 
-Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they should apply for, and some people were even stopped at the Canadian border because they had for the wrong document. 
+Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they should apply for, and some people were even stopped at the Canadian border because they had for the wrong document, leading to news atricles like this one: 
 * [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927)
+
+Last January the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. The TBS Digital Transformation Office offered to help out. 
+
+<h3>Issues</h3>
+There was a lot of work done to explore the issues for these tasks. In a later post, we will discuss the extensive usability testing done for this project. For now, please accept that we ran hundreds of people through these tasks to find out how and why they were struggling. Here are some of the most prominent issues we uncovered.
 
 This is what the page looked like when we started. Notice the text at the top of the page with links for Exceptions, dual citizens, and Canadian permanent residents. Testing showed that people weren't able to consistently see these links and would go straight to the drop-down list. 
 <div itemprop="text" class="" data="type-text">
@@ -27,9 +32,9 @@ This is what the page looked like when we started. Notice the text at the top of
  </span>
  </div>
 
-Last January the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. The TBS Digital Transformation Office offered to help out. 
 
-We will write a separate post on the extensive usability testing done for this project. For now, please accept that we ran hundreds of people through these tasks to find out how and why they were struggling. Here are some of the most prominent issues we uncovered.
+
+
 
 <ul>
 <li>the wizard that guides people through the task works better than the block of text</li>
