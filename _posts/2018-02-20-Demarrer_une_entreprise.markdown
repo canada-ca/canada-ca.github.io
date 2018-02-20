@@ -99,6 +99,6 @@ Dites-nous ce que vous pensez de ce projet. Envoyez-nous un courriel à <informa
 ## En savoir plus sur le projet 
 
 * [Consultez la page optimisée « Lancer une entreprise »](https://www.canada.ca/fr/services/entreprises/lancer.html)
-* [Consultez le diagramme de décision complet pour le lancement d’une entreprise](/images/Decisions_demarrer_une_entreprise_Nov2016_gris_1818x1237.png)
 * [Lisez sur la manière de faciliter les sprints de conception comme ce projet d’optimisation](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast) (en anglais)
 * [Apprenez comment Gov.UK mène ses projets d’optimisation entrepreneuriale](https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/) (en anglais)
+<!-- * [Consultez le diagramme de décision complet pour le lancement d’une entreprise](/images/Decisions_demarrer_une_entreprise_Nov2016_gris_1818x1237.png) -->
