@@ -20,7 +20,11 @@ Knowing which document you need to apply for, if any, isn’t always clear. Many
 Last January the IRCC Web team made it a priority to fix this problem before a change to the eTA requirements came into effect which would have added to the confusion. The TBS Digital Transformation Office offered to help out. 
 
 Some day soon, we will write a whole article on the different methods of usability testing we employed to study this issue. For now, just accept that we ran lots of people through these tasks to find out where and how they were struggling. Here are some of the most prominent issues we uncovered, along with the what we did to address them.
-
+<div itemprop="text" class="" data="type-text">
+      <div class="img-responsive center-block col-md-6">
+          <span class=""><img src="../images/Baseline-Performance-Results-Health-and-Travel-Optimization.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
+ </span>
+      </div>
 <ul>
 <li>the wizard that guides people through the task works better than the block of text</li>
 <li>new pages were created for groups that were not represented (refugees and former permanent residents)</li>
