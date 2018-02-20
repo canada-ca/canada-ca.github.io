@@ -20,7 +20,7 @@ Knowing which document you need to apply for, if any, isn’t always clear. Many
 This is what the page looked like when we started. Notice the text at the top of the page with links for Exceptions, dual citizens, and Canadian permanent residents. Testing showed that people weren't able to consistently see these links and would go straight to the drop-down list. 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/VisaETA-before.jpg" alt="Image-showing-what-the-visa-page-looked-like-before-optimization">
+          <span class=""><img src="../images/VisaETA-before.jpg" alt="Image-showing-what-the-visa-page-looked-like-before-optimization" border="5">
  </span>
  </div>
 
