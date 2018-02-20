@@ -8,11 +8,11 @@ published: false
 lang: en
 ---
 
-Canada is a great big, beautiful country with lots to see and do. It's no surprise we get a ton of tourists every year, over 18 million in 2015 according to StatsCan. 
-Did you know that the second and fifth most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)"? 
-* [How we're optimizing Canada.ca top tasks](https://canada-ca.github.io/pages/top-task-list-canada-ca.html)
+Canada is a great big, beautiful country with lots to see and do.  we get a ton of tourists every year; over 18 million in 2015 according to StatsCan and many more in 2017 for Canada's 150th year of Confederation. 
+It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)"? 
+* [See the list of Canada.ca top tasks](https://canada-ca.github.io/pages/top-task-list-canada-ca.html)
 
-If you have never heard of an eTA before, you are not alone. It is not umcommon for countries to require foreigners to get a government-issued travel visa to visit. In Canada we have two types of these travel documents; travel visas and electronic travel authorizarions (eTA). Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC), which is part of the Government of Canada. 
+If you have never heard of an eTA before, you are not alone. It is not uncommon for countries to require foreigners to get a government-issued travel visa to visit. In Canada we have two types of these travel documents; travel visas and electronic travel authorizarions (eTA). Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC), which is part of the Government of Canada. 
 
 Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they should apply for, and some people were even stopped at the Canadian border because they had for the wrong document. 
 * [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927)
