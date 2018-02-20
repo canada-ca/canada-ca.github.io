@@ -4,7 +4,7 @@ title:  "Aider les Canadiens à lancer une entreprise"
 ref: starting
 date:   2018-02-20 09:48:44 +0100
 categories: category
-published: false
+published: true
 lang: fr
 description: Lancer une entreprise est une tâche prioritale pour les Canadiens et en est une qui n’est pas facile. Voici comment le projet d’optimisation s’est déroulé.
 ---
