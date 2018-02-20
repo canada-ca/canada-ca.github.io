@@ -23,7 +23,7 @@ Knowing which document you need to apply for, if any, isn’t always clear. Many
 Last January the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. The TBS Digital Transformation Office offered to help out. 
 
 <h3>Issues</h3>
-There was a lot of work done to explore the issues for these tasks. In a later post, we will discuss the extensive usability testing done for this project. For now, please accept that we ran hundreds of people through these tasks to find out how and why they were struggling. Here are some of the most prominent issues we uncovered.
+There was a lot of work done to explore the issues for these tasks including web reports, call centre reports, feedback from embassies, and of course testing. In a later post, we will discuss all the usability testing done for this project (it was a lot). For now, please accept that we ran hundreds of people through these tasks to find out how and why they were struggling. Here were some of the most prominent and recurrent issues we found.
 
 This is what the page looked like when we started. Notice the text at the top of the page with links for Exceptions, dual citizens, and Canadian permanent residents. Testing showed that people weren't able to consistently see these links and would go straight to the drop-down list. 
 <div itemprop="text" class="" data="type-text">
@@ -31,9 +31,6 @@ This is what the page looked like when we started. Notice the text at the top of
           <span class=""><img src="../images/VisaETA-before.jpg" alt="Image-showing-what-the-visa-page-looked-like-before-optimization" border="5">
  </span>
  </div>
-
-
-
 
 
 <ul>
