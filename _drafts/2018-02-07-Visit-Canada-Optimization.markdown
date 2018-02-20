@@ -17,16 +17,16 @@ If you have never heard of an eTA before, you are not alone. It is not umcommon 
 Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they should apply for, and some people were even stopped at the Canadian border because they had for the wrong document. 
 * [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927)
 
-This is what the page looked like when we started. Notice how  
+This is what the page looked like when we started. Notice the text at the top of the page with links for Exceptions, dual citizens, and Canadian permanent residents. Testing showed that people weren't able to consistently see these links and would go straight to the drop-down list. 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/VisaETA-before.jpg" alt="Image-showing-what-the-visa-page-looked-like-before-optimization">
  </span>
  </div>
 
-Last January the IRCC Web team made it a priority to fix this problem before a change to the eTA requirements came into effect which would have added to the confusion. The TBS Digital Transformation Office offered to help out. 
+Last January the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. The TBS Digital Transformation Office offered to help out. 
 
-Some day soon, we will write a whole article on the different methods of usability testing we employed to study this issue. For now, just accept that we ran lots of people through these tasks to find out where and how they were struggling. Here are some of the most prominent issues we uncovered, along with the what we did to address them.
+We could write a whole article on the different methods of usability testing we employed to study this issue. For now, please accept that we ran hundreds of people through these tasks to find out where and how they were struggling. Here are some of the most prominent issues we uncovered, along with the what we did to address them.
 
 <ul>
 <li>the wizard that guides people through the task works better than the block of text</li>
