@@ -10,6 +10,7 @@ lang: en
 
 Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we broke had approximately 20.8 million visitors, breaking our previous record. 
 * [Canada 150 saw record number of international tourists: Statistics Canada](http://nationalpost.com/pmn/news-pmn/canada-news-pmn/canada-150-saw-record-number-of-international-tourists-statistics-canada)
+<br>
 It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)"? 
 
 * [See the list of Canada.ca top tasks](https://canada-ca.github.io/pages/top-task-list-canada-ca.html)
