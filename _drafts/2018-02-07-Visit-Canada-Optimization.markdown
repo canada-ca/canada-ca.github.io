@@ -24,7 +24,7 @@ Some day soon, we will write a whole article on the different methods of usabili
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/VisaETA-before.jpg" alt="Image-showing-what-the-visa-page-looked-like-before-optimization">
  </span>
-      </div>
+ </div>
 <ul>
 <li>the wizard that guides people through the task works better than the block of text</li>
 <li>new pages were created for groups that were not represented (refugees and former permanent residents)</li>
