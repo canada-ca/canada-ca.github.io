@@ -28,7 +28,7 @@ This is what the page looked like when we started. Notice the text at the top of
 
 Last January the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. The TBS Digital Transformation Office offered to help out. 
 
-We could write a whole article on the different methods of usability testing we employed to study this issue. For now, please accept that we ran hundreds of people through these tasks to find out where and how they were struggling. Here are some of the most prominent issues we uncovered, along with the what we did to address them.
+We will write a separate post on the extensive usability testing done for this project. For now, please accept that we ran hundreds of people through these tasks to find out how and why they were struggling. Here are some of the most prominent issues we uncovered.
 
 <ul>
 <li>the wizard that guides people through the task works better than the block of text</li>
