@@ -11,16 +11,12 @@ lang: en
 Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we broke had approximately 20.8 million visitors, breaking our previous record. 
 * [Canada 150 saw record number of international tourists: Statistics Canada](http://nationalpost.com/pmn/news-pmn/canada-news-pmn/canada-150-saw-record-number-of-international-tourists-statistics-canada)
 <br>
-It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)"? 
+It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)". Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC). 
 
-* [See the list of Canada.ca top tasks](https://canada-ca.github.io/pages/top-task-list-canada-ca.html)
-
-If you have never heard of an eTA before, you are not alone. It is fairly common for countries to require foreigners to get a government-issued travel visa to visit their country as a tourist. Canada has two types of these travel documents; travel visas and electronic travel authorizarions (eTA). Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC), which is part of the Government of Canada. The eTA is quicker and less expensive to obtain. 
-
-Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they should apply for, and some people were even stopped at the Canadian border because they had for the wrong document, leading to news atricles like this one: 
+Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they needed, and some people were even stopped at the Canadian border because they had for the wrong document. 
 * [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927)
 
-Last January the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. The TBS Digital Transformation Office offered to help out. 
+In January 2017, the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. To help out, the Digital Transformation Office worked with IRCC to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out. 
 
 <h3>Issues</h3>
 There was a lot of work done to explore the issues for these tasks including web reports, call centre reports, feedback from embassies, and of course testing. In a later post, we will discuss all the usability testing done for this project (it was a lot). For now, please accept that we ran hundreds of people through these tasks to find out how and why they were struggling. Here were some of the most prominent and recurrent issues we found.
