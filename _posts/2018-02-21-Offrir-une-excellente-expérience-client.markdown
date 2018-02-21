@@ -1,17 +1,18 @@
 ---
 layout: post
 title:  "Offrir une excellente expérience client"
-ref: starting
+ref: customer
 date:   2018-02-21 09:48:44 +0100
 categories: category
 published: false
 lang: fr
-description: Lancer une entreprise est une tâche prioritale pour les Canadiens et en est une qui n’est pas facile. Voici comment le projet d’optimisation s’est déroulé.
+description: .
 ---
 
-Des dizaines de milliers d’entreprises sont lancées chaque année au Canada « Lancer une entreprise » est une tâche prioritaire pour les Canadiens et en est une qui n’est pas facile. Il y a diverses exigences juridiques d’ordre provincial et fédéral. Les exigences varient selon la taille et le type d’entreprise. Il y a beaucoup de points à réaliser et à comprendre pour faire quelque chose qui devrait aussi facile que possible. 
+« Lorsqu’on rend notre dernier souffle, personne ne se dit ‘j'aurais aimé ça passer plus de temps avec le gouvernement!’ » Voilà ce qu’ont entendu plusieurs fonctionnaires et membres de la collectivité numérique qui ont participé la semaine dernière à une séance de formation animée par Gerry McGovern, un expert mondial de l’expérience client numérique. 
 
-En 2017, le Bureau de la transformation numérique a travaillé avec Innovation, Sciences et Développement économique Canada (ISDE) et l’Agence du revenu du Canada (ARC) afin d’améliorer l’expérience de lancement d’une entreprise par l’intermédiaire de Canada.ca. Voici comment le projet d’optimisation s’est déroulé.
+Le SCT l’a invité à Ottawa pour partager ses connaissances des techniques et des outils pour mesurer la réussite de l’utilisateur.
+
 
 ## Comprendre le problème
 
