@@ -19,7 +19,7 @@ Le SCT l’a invité à Ottawa pour partager ses connaissances des techniques et
 
 <img class="img-responsive" alt="Photo de Gerry McGovern en interaction avec le public à l’atelier de maître" src="/images/Gerry and mic 2018_02_18-4075.jpg">
 
-## Qu’est-ce que la réussite de l’utilisateur?
+Qu’est-ce que la réussite de l’utilisateur?
 
 Eh bien, le commentaire de Gerry au moment de rendre notre dernier souffle en est une bonne indication. 
 
