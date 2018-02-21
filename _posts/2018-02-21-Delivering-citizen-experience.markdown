@@ -42,6 +42,8 @@ That’s why the work done at Canada.ca is critical. It’s central to a great c
 
 <b>The Honourable Scott Brison is the President of the Treasury Board.</b>
 
-Minister Brison, the Member of Parliament for Kings–Hants (Nova Scotia), has been elected to Canada's House of Commons in seven general elections. He was a key spokesperson on economic issues and served as the Critic for Finance as well as Vice-Chair of the House of Commons Standing Committee on Finance.
+Minister Brison, the Member of Parliament for Kings–Hants (Nova Scotia), has been elected to Canada's House of Commons in seven general elections. 
 
-He served as Minister of Public Works and Government Services, and Receiver General of Canada, and was the youngest member of Prime Minister Paul Martin's Cabinet. He also served on three Cabinet committees: Treasury Board, Domestic Affairs and Expenditure Review.
+Scott Brison, the Member of Parliament for Kings–Hants (Nova Scotia), has been elected to Canada's House of Commons in 7 general elections between June 1997 and October 2015.
+
+Prime Minister Trudeau appointed Mr. Brison to the federal cabinet as President of the Treasury Board in November 2015. He serves as a member of the key Cabinet Committee on Agenda, Results and Communications that tracks progress on the government’s priorities; the Cabinet Committee on Growing the Middle Class that considers strategies to promote inclusive economic growth, opportunity, employment, and social security; and as Vice-Chair of the Cabinet Committee on Defence Procurement.
