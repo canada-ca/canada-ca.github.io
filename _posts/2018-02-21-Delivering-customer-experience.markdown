@@ -18,7 +18,7 @@ Last week, public servants and members of the community gathered for a bracing m
 
 Gerry was in Ottawa at the invitation of TBS to share his knowledge of tools and techniques for measuring user success.
 
-<!-- insert image here -->
+<img src="" alt="">
 
 What is user success?
 
