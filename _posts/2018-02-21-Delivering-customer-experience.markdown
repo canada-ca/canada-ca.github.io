@@ -5,7 +5,7 @@ gradelevel: 11.1
 ref: customer
 date:   2018-02-21 09:48:44 +0100
 categories: category
-published: false
+published: true
 lang: en
 description: Last week, public servants and members of the community gathered for a bracing master class with Gerry McGovern, a leading global expert on the digital customer experience. 
 ---
