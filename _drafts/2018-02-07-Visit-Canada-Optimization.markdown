@@ -9,8 +9,7 @@ lang: en
 ---
 
 Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we broke had approximately 20.8 million visitors, breaking our previous record. 
-* [Canada 150 saw record number of international tourists: Statistics Canada](http://nationalpost.com/pmn/news-pmn/canada-news-pmn/canada-150-saw-record-number-of-international-tourists-statistics-canada)
-<br>
+
 It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)". Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC). 
 
 Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they needed, and some people were even stopped at the Canadian border because they had for the wrong document. 
