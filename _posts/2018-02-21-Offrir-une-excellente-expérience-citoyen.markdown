@@ -40,6 +40,7 @@ Le travail que nous faisons sur Canada.ca est essentiel, car il est au cœur d�
 
 <b>L'honorable Scott Brison est le président du Conseil du Trésor du Canada.</b>
 
-M. Brison, député libéral de Kings–Hants en Nouvelle-Écosse, a été élu sept fois à la Chambre des communes. Il a été l'un des porte-parole clés en matière d'économie en plus d'être le principal porte-parole de son Parti en matière de Finances. Il a également servi au sein du Comité permanent des finances de la Chambre des communes à titre de vice-président.
+Scott Brison, député de Kings–Hants (Nouvelle-Écosse), a été élu à la Chambre des communes du Canada lors de sept élections, entre juin 1997 et octobre 2015.
 
-M. Brison a par ailleurs occupé les postes de ministre des Travaux publics et des Services gouvernementaux et de receveur général du Canada, ce qui faisait de lui le plus jeune membre du Cabinet du premier ministre Paul Martin. Il siégeait également à trois comités du Cabinet : Conseil du Trésor, Affaires intérieures et Examen des dépenses.
+En novembre 2015, M. Brison a été nommé au Cabinet fédéral en tant que président du Conseil du Trésor par le premier ministre Trudeau. Il est membre du Comité clé du Cabinet chargé du programme gouvernemental, des résultats et des communications, qui fait le suivi des progrès réalisés relativement aux priorités du gouvernement; du Comité du Cabinet chargé de la croissance de la classe moyenne, qui examine les stratégies visant à promouvoir une croissance économique inclusive, l’égalité des chances, l’emploi et la sécurité sociale; et il est Vice-président du Comité du Cabinet chargé de l’approvisionnement en matière de défense.
+
