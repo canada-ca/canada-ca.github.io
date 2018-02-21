@@ -7,7 +7,7 @@ date:   2018-02-21 09:48:44 +0100
 categories: category
 published: true
 lang: en
-description: Last week, public servants and members of the community gathered for a bracing master class with Gerry McGovern, a leading global expert on the digital customer experience. 
+description: Last week, public servants and members of the community gathered for a bracing master class with Gerry McGovern. 
 ---
 
 <b>Blog post by the Honourable Scott Brison, President of the Treasury Board</b>
