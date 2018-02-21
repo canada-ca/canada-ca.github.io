@@ -6,12 +6,14 @@ date:   2018-02-21 09:48:44 +0100
 categories: category
 published: false
 lang: fr
-description: .
+description: Voilà ce qu’ont entendu plusieurs fonctionnaires et membres de la collectivité numérique qui ont participé la semaine dernière à une séance de formation animée par Gerry McGovern, un expert mondial de l’expérience client numérique. 
 ---
 
-<i>Guest post by the Honourable Scott Brison, President of the Treasury Board</i>
+<!-- <i>Guest post by the Honourable Scott Brison, President of the Treasury Board</i> -->
 
-« Lorsqu’on rend notre dernier souffle, personne ne se dit ‘j'aurais aimé ça passer plus de temps avec le gouvernement!’ » Voilà ce qu’ont entendu plusieurs fonctionnaires et membres de la collectivité numérique qui ont participé la semaine dernière à une séance de formation animée par Gerry McGovern, un expert mondial de l’expérience client numérique. 
+« Lorsqu’on rend notre dernier souffle, personne ne se dit ‘j'aurais aimé ça passer plus de temps avec le gouvernement!’ » 
+
+Voilà ce qu’ont entendu plusieurs fonctionnaires et membres de la collectivité numérique qui ont participé la semaine dernière à une séance de formation animée par Gerry McGovern, un expert mondial de l’expérience client numérique. 
 
 Le SCT l’a invité à Ottawa pour partager ses connaissances des techniques et des outils pour mesurer la réussite de l’utilisateur.
 
