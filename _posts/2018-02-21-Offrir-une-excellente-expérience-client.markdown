@@ -17,6 +17,8 @@ Voilà ce qu’ont entendu plusieurs fonctionnaires et membres de la collectivit
 
 Le SCT l’a invité à Ottawa pour partager ses connaissances des techniques et des outils pour mesurer la réussite de l’utilisateur.
 
+<img class="img-responsive" alt="Photograph of Gerry McGovern presenting at the master class" src="/images/Gerry and mic 2018_02_18-4075.jpg">
+
 Qu’est-ce que la réussite de l’utilisateur?
 
 Eh bien, le commentaire de Gerry au moment de rendre notre dernier souffle en est une bonne indication. 
