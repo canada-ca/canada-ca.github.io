@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Offrir une excellente expérience citoyen"
+title:  "Offrir une excellente expérience pour les citoyens"
 ref: citizen-experience
 date:   2018-02-21 09:48:44 +0100
 categories: category
@@ -34,5 +34,5 @@ Concentrons-nous sur la collecte de données démontrant les taux de réussite d
 Ce travail est en cours pour Canada.ca. Et le SCT aide les ministères et organismes, qui veulent savoir combien de gens réussissent réellement à accomplir une tâche plutôt que de simplement visiter une page Web. Selon Gerry McGovern, c’est la réussite du client qui compte, et non la réussite de l'organisation. Ça ne devrait pas être surprenant. Il faut mettre l’accent sur la diffusion de renseignements simples et faciles à comprendre. 
 
 Comme je l’ai dit auparavant, nous ne pouvons pas avoir un gouvernement « Blockbuster » au service d’une population « Netflix ». Cependant, Netflix n’aurait jamais réussi si les gens n’avaient pas compris comment utiliser leurs produits rapidement et facilement. 
-Le travail que nous faisons sur Canada.ca est essentiel, car il est au cœur d’une excellente expérience citoyen et d’un gouvernement numérique exemplaire.
+Le travail que nous faisons sur Canada.ca est essentiel, car il est au cœur d’une excellente expérience pour les citoyens et d’un gouvernement numérique exemplaire.
 
