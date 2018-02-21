@@ -9,7 +9,7 @@ lang: fr
 description: Voilà ce qu’ont entendu plusieurs fonctionnaires et membres de la collectivité numérique qui ont participé la semaine dernière à une séance de formation animée par Gerry McGovern, un expert mondial de l’expérience client numérique. 
 ---
 
-<!-- <i>Guest post by the Honourable Scott Brison, President of the Treasury Board</i> -->
+<b>Billet de blogue de l'honorable Scott Brison, président du Conseil du Trésor</b>
 
 « Lorsqu’on rend notre dernier souffle, personne ne se dit ‘j'aurais aimé ça passer plus de temps avec le gouvernement!’ » 
 
