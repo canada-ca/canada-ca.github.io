@@ -36,3 +36,10 @@ Ce travail est en cours pour Canada.ca. Et le SCT aide les ministères et organi
 Comme je l’ai dit auparavant, nous ne pouvons pas avoir un gouvernement « Blockbuster » au service d’une population « Netflix ». Cependant, Netflix n’aurait jamais réussi si les gens n’avaient pas compris comment utiliser leurs produits rapidement et facilement. 
 Le travail que nous faisons sur Canada.ca est essentiel, car il est au cœur d’une excellente expérience pour les citoyens et d’un gouvernement numérique exemplaire.
 
+<hr>
+
+<b>L'honorable Scott Brison est le président du Conseil du Trésor du Canada.</b>
+
+M. Brison, député libéral de Kings–Hants en Nouvelle-Écosse, a été élu sept fois à la Chambre des communes. Il a été l'un des porte-parole clés en matière d'économie en plus d'être le principal porte-parole de son Parti en matière de Finances. Il a également servi au sein du Comité permanent des finances de la Chambre des communes à titre de vice-président.
+
+M. Brison a par ailleurs occupé les postes de ministre des Travaux publics et des Services gouvernementaux et de receveur général du Canada, ce qui faisait de lui le plus jeune membre du Cabinet du premier ministre Paul Martin. Il siégeait également à trois comités du Cabinet : Conseil du Trésor, Affaires intérieures et Examen des dépenses.
