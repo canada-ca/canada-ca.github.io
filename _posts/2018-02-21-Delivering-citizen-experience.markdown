@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Delivering a great customer experience"
+title:  "Delivering a great citizen experience"
 gradelevel: 11.1
-ref: customer
+ref: citizen-experience
 date:   2018-02-21 09:48:44 +0100
 categories: category
 published: true
@@ -36,4 +36,4 @@ This work is underway at Canada.ca. And TBS is helping departments and agencies 
 
 As l’ve said before, we can’t be a Blockbuster government serving a Netflix citizenry. But Netflix never would have succeeded if people couldn’t figure out how to use it, quickly and easily.  
 
-That’s why the work done at Canada.ca is critical. It’s central to a great customer experience and central to great digital government.
+That’s why the work done at Canada.ca is critical. It’s central to a great citizen experience and central to great digital government.
