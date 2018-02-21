@@ -20,7 +20,7 @@ Gerry was in Ottawa at the invitation of TBS to share his knowledge of tools and
 
 <img class="img-responsive" alt="Photograph of Gerry McGovern interacting with the audience at the master class" src="/images/Gerry and mic 2018_02_18-4075.jpg">
 
-What is user success?
+##What is user success?
 
 Well, Gerry’s wry observation about deathbed wish lists gives us a strong hint.
 
