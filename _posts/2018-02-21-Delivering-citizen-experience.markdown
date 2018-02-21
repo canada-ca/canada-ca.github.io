@@ -37,3 +37,11 @@ This work is underway at Canada.ca. And TBS is helping departments and agencies 
 As l’ve said before, we can’t be a Blockbuster government serving a Netflix citizenry. But Netflix never would have succeeded if people couldn’t figure out how to use it, quickly and easily.  
 
 That’s why the work done at Canada.ca is critical. It’s central to a great citizen experience and central to great digital government.
+
+<hr>
+
+<b>The Honourable Scott Brison is the President of the Treasury Board.</b>
+
+Minister Brison, the Member of Parliament for Kings–Hants (Nova Scotia), has been elected to Canada's House of Commons in seven general elections. He was a key spokesperson on economic issues and served as the Critic for Finance as well as Vice-Chair of the House of Commons Standing Committee on Finance.
+
+He served as Minister of Public Works and Government Services, and Receiver General of Canada, and was the youngest member of Prime Minister Paul Martin's Cabinet. He also served on three Cabinet committees: Treasury Board, Domestic Affairs and Expenditure Review.
