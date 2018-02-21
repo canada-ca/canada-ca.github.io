@@ -9,7 +9,7 @@ lang: fr
 description: Voilà ce qu’ont entendu plusieurs fonctionnaires et membres de la collectivité numérique qui ont participé la semaine dernière à une séance de formation animée par Gerry McGovern, un expert mondial de l’expérience client numérique. 
 ---
 
-<b>Billet de blogue de l'honorable Scott Brison, président du Conseil du Trésor</b>
+<b>Billet de blogue par l'honorable Scott Brison, président du Conseil du Trésor</b>
 
 « Lorsqu’on rend notre dernier souffle, personne ne se dit ‘j'aurais aimé ça passer plus de temps avec le gouvernement!’ » 
 
@@ -17,7 +17,7 @@ Voilà ce qu’ont entendu plusieurs fonctionnaires et membres de la collectivit
 
 Le SCT l’a invité à Ottawa pour partager ses connaissances des techniques et des outils pour mesurer la réussite de l’utilisateur.
 
-<img class="img-responsive" alt="Photograph of Gerry McGovern presenting at the master class" src="/images/Gerry and mic 2018_02_18-4075.jpg">
+<img class="img-responsive" alt="Photo de Gerry McGovern en interaction avec le public à l’atelier de maître" src="/images/Gerry and mic 2018_02_18-4075.jpg">
 
 Qu’est-ce que la réussite de l’utilisateur?
 
