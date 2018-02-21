@@ -4,7 +4,7 @@ title:  "Offrir une excellente expérience client"
 ref: customer
 date:   2018-02-21 09:48:44 +0100
 categories: category
-published: false
+published: true
 lang: fr
 description: Voilà ce qu’ont entendu plusieurs fonctionnaires et membres de la collectivité numérique qui ont participé la semaine dernière à une séance de formation animée par Gerry McGovern, un expert mondial de l’expérience client numérique. 
 ---
