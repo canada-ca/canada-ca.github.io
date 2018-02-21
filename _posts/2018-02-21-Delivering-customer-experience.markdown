@@ -18,7 +18,7 @@ Last week, public servants and members of the community gathered for a bracing m
 
 Gerry was in Ottawa at the invitation of TBS to share his knowledge of tools and techniques for measuring user success.
 
-<img src="" alt="">
+<img class="img-responsive" alt="Photograph of Gerry McGovern presenting at the master class" src="/images/Gerry and mic 2018_02_18-4075.jpg">
 
 What is user success?
 
