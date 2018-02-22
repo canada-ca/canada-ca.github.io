@@ -16,6 +16,7 @@ In 2007, I first visited Ottawa. It was winter. Very cold. But what I remember m
 I’m writing this on a flight home to Ireland as I end my latest trip to Ottawa. It’s been a thrill! So many wonderful, enthusiastic and talented people. So much energy and desire to deliver the very best services possible. 
 
 <img class="img-responsive" alt="Photograph of Gerry McGovern presenting at the master class, Bayview Yards, February 13, 2018" src="/images/2018_02_18-4058.jpg">
+-- Gerry McGovern presenting to the audience during the master class at Bayview Yards in Ottawa, February 13, 2018. --
 
 There are challenges. They are mainly organizational. People are rightly frustrated that the current government organizational model is not fit for purpose in the digital age. Everything has changed in our world except how large organizations organize themselves. The silos have become lumbering dinosaurs, holding back and inhibiting quality service.
 
@@ -34,4 +35,5 @@ Canada is in a better position to do this than a great many organizations I have
 <hr>
 
 <b>About Gerry McGovern</b>
+
 Gerry helps large organizations deliver a better digital customer experience. He has written six books on the digital customer experience. In his latest book, called Transform: A Rebel’s Guide for Digital Transformation, he argues that digital transformation is far more about culture change than technology change. His commercial clients include Microsoft, Dropbox, Cisco, NetApp, VMware, and IBM. He has also consulted with the US, UK, EU, Dutch, Canadian, Norwegian, and Irish governments. The Irish Times described Gerry as one of five visionaries who have had a major impact on the development of the Web.
