@@ -16,7 +16,7 @@ J’ai visité Ottawa pour la première fois durant l’hiver, en 2007. Il faisa
 Je suis dans l’avion qui me ramène en Irlande. Je reviens d’Ottawa et mon séjour a été fantastique! J’ai fait la connaissance de nombreuses personnes merveilleuses, enthousiastes et talentueuses. Ces rencontres inoubliables me donnent toujours beaucoup d’énergie et me poussent à offrir le meilleur de moi-même. 
 
 <figure>
-<img class="img-responsive" alt="Photographie de Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018" src="/images/2018_02_18-4058.jpg">
+<img class="img-responsive" alt="Photographie de Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018" src="/images/gerry-week/2018_02_18-4058.jpg">
 <figcaption><small>Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018.</small></figcaption>
 </figure><br>
 
