@@ -18,7 +18,7 @@ Voilà ce qu’ont entendu plusieurs fonctionnaires et membres de la collectivit
 Le SCT l’a invité à Ottawa pour partager ses connaissances des techniques et des outils pour mesurer la réussite de l’utilisateur.
 
 <figure>
-<img class="img-responsive" alt="Photo de Gerry McGovern en interaction avec le public à l’atelier de maître, Bayview Yards, le 13 février 2018" src="/images/Gerry and mic 2018_02_18-4075.jpg">
+<img class="img-responsive" alt="Photo de Gerry McGovern en interaction avec le public à l’atelier de maître, Bayview Yards, le 13 février 2018" src="/images/gerry-week/Gerry and mic 2018_02_18-4075.jpg">
 <figcaption><small>Gerry McGovern en interaction avec le public pendant l'atelier de maître au Bayview Yards à Ottawa, le 13 février 2018.</small></figcaption>
 </figure><br>
 
