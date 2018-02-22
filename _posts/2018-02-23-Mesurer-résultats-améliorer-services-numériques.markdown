@@ -9,7 +9,7 @@ published: false
 lang: fr
 description: Last week, public servants and members of the community gathered for a bracing master class with Gerry McGovern. 
 ---
-<br>Billet de blogue par Gerry McGovern</b>
+<b>Billet de blogue par Gerry McGovern</b>
 
 J’ai visité Ottawa pour la première fois durant l’hiver, en 2007. Il faisait très froid, mais j’ai été impressionné par la chaleur et l’enthousiasme de l’auditoire. Et sa taille! Trois cents personnes ont participé à l’atelier de deux jours. C’était le plus grand auditoire de toute ma carrière! J’étais emballé! 
 
