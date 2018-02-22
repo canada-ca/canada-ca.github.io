@@ -28,6 +28,12 @@ Changez les paramètres clés et vous changerez l’organisation. Changez l’or
 
 Le Canada est présentement dans une meilleure position pour atteindre cet objectif que plusieurs organisations que j’ai eu l’occasion de visiter. Je quitte en étant très optimiste et encouragé, en sachant qu’une équipe de personnes talentueuses et déterminées va continuer à pousser le Canada vers un service à la clientèle hors-pair pour les Canadiens. 
 
+## En savoir plus
+
+- [Visitez le site Web de Gerry McGovern](http://www.gerrymcgovern.com/)
+- [Lire comment nous identifions les principales tâches pour Canada.ca](https://canada-ca.github.io/2017/12/11/100-taches-du-gc.html)
+- [Voir comment la mesure de réussite des tâches est primordiale pour optimiser les tâches principales de Canada.ca](https://canada-ca.github.io/category/2017/12/12/apercu-d-optimisation.html)
+
 <hr>
 
 <b>À propos de Gerry McGovern</b>
