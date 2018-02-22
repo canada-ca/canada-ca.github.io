@@ -7,7 +7,7 @@ date:   2018-02-23 09:48:44 +0100
 categories: category
 published: false
 lang: fr
-description: Last week, public servants and members of the community gathered for a bracing master class with Gerry McGovern. 
+description: Gerry McGovern partage ses réflexions au sujet de sa visite à Ottawa la semaine dernière. 
 ---
 <b>Billet de blogue par Gerry McGovern</b>
 
