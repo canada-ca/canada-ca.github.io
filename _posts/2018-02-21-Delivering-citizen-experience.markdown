@@ -23,6 +23,7 @@ Gerry was in Ottawa at the invitation of TBS to share his knowledge of tools and
 <figcaption>Gerry McGovern interacts with the audience during the master class at Bayview Yards in Ottawa, February 13, 2018.</figcaption>
 </figure>
 
+
 What is user success?
 
 Well, Gerry’s wry observation about deathbed wish lists gives us a strong hint.
