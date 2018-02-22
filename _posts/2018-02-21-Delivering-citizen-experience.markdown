@@ -18,8 +18,10 @@ Last week, public servants and members of the community gathered for a bracing m
 
 Gerry was in Ottawa at the invitation of TBS to share his knowledge of tools and techniques for measuring user success.
 
+<figure>
 <img class="img-responsive" alt="Photograph of Gerry McGovern interacting with the audience at the master class, Bayview Yards, February 13, 2018" src="/images/Gerry and mic 2018_02_18-4075.jpg">
-
+<figcaption><small>Gerry McGovern interacts with the audience during the master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
+</figure><br>
 What is user success?
 
 Well, Gerry’s wry observation about deathbed wish lists gives us a strong hint.
