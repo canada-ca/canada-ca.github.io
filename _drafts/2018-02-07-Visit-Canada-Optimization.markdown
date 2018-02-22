@@ -74,7 +74,7 @@ Once the prototypes were integrated into the live site in March 2017, analytics 
 <b>Before and after optimization:</b> February 2017 and June 2017
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/Visa-funnels.jpg" alt="Image showing that in February 2017, only 35% of clicks from the Visit Canada topic page went to either the Find out if you need a visa or an eTA, Apply for a visa, or Apply for an eTA pages. In June 2017 that number rose to 62%. This indicates that the Visit Canada topic page became more effective at heloing people complete their tasks." border="5">
+          <span class=""><img src="../images/VisitFunnels.PNG" alt="Image showing that in February 2017, only 35% of clicks from the Visit Canada topic page went to either the Find out if you need a visa or an eTA, Apply for a visa, or Apply for an eTA pages. In June 2017 that number rose to 62%. This indicates that the Visit Canada topic page became more effective at heloing people complete their tasks." border="5">
  </span>
  </div>
  As the chart shows, people’s success at finding the apply pages jumped by 27 percentage points, from 35% before to 62% after. Also, we saw more people using the navigation menu to enter the flow.
