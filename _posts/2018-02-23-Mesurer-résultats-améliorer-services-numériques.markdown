@@ -5,7 +5,7 @@ gradelevel: 11.1
 ref: measuring-outcomes
 date:   2018-02-23 09:48:44 +0100
 categories: category
-published: false
+published: true
 lang: fr
 description: Gerry McGovern partage ses réflexions au sujet de sa visite à Ottawa la semaine dernière. 
 ---
