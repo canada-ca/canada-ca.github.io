@@ -6,7 +6,7 @@ date:   2018-02-21 09:48:44 +0100
 categories: category
 published: true
 lang: fr
-description: Billet de blogue par l’honorable Scott Brison, président du Conseil du Trésor. <br /><br />
+description: Billet de blogue par l’honorable Scott Brison, président du Conseil du Trésor.
 ---
 
 <b>Billet de blogue par l'honorable Scott Brison, président du Conseil du Trésor</b>
