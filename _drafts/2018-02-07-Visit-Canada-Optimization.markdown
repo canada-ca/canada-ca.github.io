@@ -8,7 +8,7 @@ published: false
 lang: en
 ---
 
-Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we broke had approximately 20.8 million visitors, breaking our previous record. 
+Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we had approximately 20.8 million visitors, breaking our previous record. 
 
 It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)". Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC). 
 
@@ -44,7 +44,7 @@ This is what the key page in the process looked like when we started. Notice the
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/VisaETA-before.jpg" alt="Image-showing-what-the-visa-page-looked-like-before-optimization" border="5">
+          <span class=""><img src="../images/VisaETA-before.jpg" alt="Image showing what Find out if you need a visa page looked like before optimization." border="5">
  </span>
  </div>
 
@@ -60,7 +60,7 @@ With baseline research in hand, the team redesigned the process to solve the iss
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/VisaETA-after.jpg" alt="Image-showing-what-the-visa-page-looked-like-after-optimization" border="5">
+          <span class=""><img src="../images/VisaETA-after.jpg" alt="Image showing what the Find out if you need a visa or an eTA page looked like after optimization" border="5">
  </span>
  </div>
 
