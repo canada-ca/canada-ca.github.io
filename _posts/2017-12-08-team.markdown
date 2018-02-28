@@ -9,7 +9,7 @@ lang: en
 alt: A photo of the Digital Transformation Office team
 description: About the Digital Transformation Office at Treasury Board of Canada Secretariat.
 ---
-The Digital Transformation Office (DTO) is part of the Treasury Board of Canada Secretariat’s Strategic Communications and Ministerial Affairs sector. At DTO, we are communications professionals with expertise in plain language writing, content and interaction design, and user research.
+The Digital Transformation Office (DTO) is part of the Treasury Board of Canada Secretariat’s Strategic Communications and Ministerial Affairs sector. At DTO, we are communications professionals with expertise in content and interaction design, user research and plain language writing.
 
 We work with departments to:
 
@@ -104,24 +104,6 @@ She holds an honours Bachelor’s degree in Geography with a specialization in H
 </figcaption>
 </div>
 
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3061_277x370.jpg" width="185px" alt="Julie Dufour" />
-      Julie Dufour<br>
-      <b>Senior Content Designer</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Julie is a Senior Content Designer for the Treasury Board of Canada Secretariat where she helps institutions to develop their own task-based, citizen-centric web pages. Julie focuses on how best practices lead to content that can be easily found, understood and used. Julie currently splits her time between developing official guidance, doing outreach and teaching digital writing at the Canada School of Public Service.</p><p>She is also the former manager of web writing for Health Canada and has spent several years figuring out how to operationalize guidance. In the last 12 months, she has presented more than 60 times to over 30 federal institutions and 2,000 people.</p>
-
-</figcaption>
-</div>
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
