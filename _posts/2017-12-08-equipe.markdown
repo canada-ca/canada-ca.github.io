@@ -10,7 +10,7 @@ alt: Photo de groupe de l'équipe Bureau de la transformation numérique
 description: À propos du Bureau de la transformation numérique au Secrétariat du Conseil du Trésor du Canada.
 ---
 
-Le Bureau de la transformation numérique (BTN) fait partie des Communications stratégiques et affaires ministérielles du Secrétariat du Conseil du Trésor du Canada. En tant que professionnels des communications au BTN, nous avons une expertise en rédaction en langage clair, en conception de contenu et d’interactions, et en recherche sur les utilisateurs.
+Le Bureau de la transformation numérique (BTN) fait partie des Communications stratégiques et affaires ministérielles du Secrétariat du Conseil du Trésor du Canada. En tant que professionnels des communications au BTN, nous avons une expertise en conception de contenu et d’interactions, en recherche sur les utilisateurs et en rédaction en langage clair.
 
 Nous travaillons avec les ministères pour :
 
@@ -105,25 +105,6 @@ Nous travaillons avec les ministères pour :
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3061_277x370.jpg" width="185px" alt="Julie Dufour" />
-      Julie Dufour<br>
-      <b>Conceptrice de contenu pricipale</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Julie est une conceptrice de contenu pricipale pour le Secrétariat du Conseil du Trésor où elle aide les institutions à développer leurs propres pages Web axées sur les tâches et centrées sur les citoyens. Julie se concentre sur la façon dont les pratiques exemplaires peuvent permettre au contenu d’être facilement trouvé, compris et utilisé. Julie divise son temps entre le développement de l’orientation officielle, la mobilisation et l’enseignement d’un cours de rédaction numérique à l’École de la fonction publique du Canada.</p><p>Auparavant, elle était responsable de la rédaction pour le Web à Santé Canada, où elle a passé plusieurs années à essayer d’opérationnaliser les conseils. Dans les 12 derniers mois, elle a fait des présentations plus de 60 fois dans plus de 30 institutions fédérales devant 2 000 personnes.</p>
-
-</figcaption>
-</div>
-
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="margin-bottom: 15px;">
