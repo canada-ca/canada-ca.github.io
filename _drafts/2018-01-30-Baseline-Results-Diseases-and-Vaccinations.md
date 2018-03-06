@@ -10,8 +10,6 @@ lang: en
 
 Helping people complete their tasks quickly and successfuly was the purpose of our recent optimization project with our partners at Health Canada (HC) and the Public Health Authority of Canada (PHAC).  Website optimization is a process of systematically improving the performance of the website (structure, flow, and task organization) to meet user needs. We selected a set of top tasks to focus the optimization on some of the most frequently-used pages and paths within the Health theme.  
 
-* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
-
 This article shares the evidence and learning from that top task optimization project across two important diseases - Zika and the Flu and for important travel and immunization tasks for Canadians. The entire team participated in the Discovery process to understand Canadian's needs for these tasks based on their mandate, website traffic patterns and evidence from phone and support requests. We quickly realized that most of the people visiting the pages were doing so on their smartphones - checking whether they had the cold or the flu, or which vaccinations they would need for a specific country.  From this evidence, we generated the set of tasks to measure and improve, by framing them as Jobs to be Done (When I..., I want to ..., so I can ..). Some examples include:
 
 * When it's flu season, I want to know	if/where the flu shot is available, so I can	go and get it
@@ -121,7 +119,7 @@ Many departmental websites were originally designed and optimized for use on des
 </p>
 
 
-## Writing meaninful titles and descriptions
+## Writing meaningful titles and descriptions
 
 One of the hard things about writing tasks is tayloring your word choice to a non-specialist audience. To increase the findability of your content it is important to encorporate commonly used search terms into your section titles and web content instead of focusing on using scientific lingo or profession-specific jargon. 
 
@@ -208,4 +206,4 @@ We’re happy to share what we’ve learned. If you’ve got questions, email us
 * [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) is a great article from Gerry McGovern on the value of top tasks and the survey voting method to validate them
 * [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
 * [How to conduct a top task analysis](https://measuringu.com/top-tasks/) from Jeff Sauro gets into some of the statistical details around analysing top task data from surveys
-
+* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
