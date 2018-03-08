@@ -59,16 +59,16 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 <br>
 
 <h4> Mobile users skim </h4>
-<p> For example, in all scenarios, participants were observed skimming through the content looking for highlighted or related Keywords. This is further evidenced by the amount of searches after clicking on a few links and scrolling through some of the content (all tasks except 7).</p>
+<p> Participants were observed skimming through the content. As titles and headings scroll off phones faster, people couldn’t tell what they were looking at. This skimming behaviour was further evidenced by the amount of searches conducted after clicking on a few links and scrolling through some of the content (all tasks except 7).</p>
 
 <h4> Complex navigation </h4>
-<p> Finding the appropriate resources to complete tasks required a long and in some cases complex navigation.For example,tasks 4 and 5, starting at the Zika page, illustrated how complex navigation can be. Paths for these tasks include paths of up to 8 clicks on links.</p>
+<p> Top level navigation and overlapping topics caused failures. Finding the appropriate resources to complete tasks required a long and in some cases complex navigation.For example,tasks 4 and 5, starting at the Zika page, illustrated how complex navigation can be. Paths for these tasks include paths of up to 8 clicks on links.</p> 
 
 <h4> Too many layers and headings </h4>
-<p> Content does not provide answers up front and instead requires reading and coming to a conclusion on your own. Participants were observed reading multiple resources and concluding wrong answers.Task 10, about protection when traveling to Mexico, is a good example of this issue as although 55% participants found the appropriate resource, but only 10% answered correctly. </p>
+<p> Content does not provide answers up front and instead requires reading and coming to a conclusion on your own. Participants were observed reading multiple resources and concluding wrong answers.People failed at tasks because they were lost in posters & awareness resources (usually PDF, had to pinch and zoom on phones). </p>
 
 <h4> Too much information </h4>
-<p> Many pages and resources in the website contain more information than necessary. This was evidenced by the amount of searches done by participants overall (45% of all cases [tasks x participants]). Participants were also using the “find in page” functionalities on mobile and desktop to skip content on a page and go to the keywords they were looking for.</p>
+<p> Many pages and resources in the website contain more information than necessary. People had a hard time finding the right answer for tasks - they tended to scan the headings instead of the text where answers were buried, end up in the health professionals content like the Canadian Immunization Guide and missed answers under vague headings. Particpant frustration with the large amount of information they were being given was evidenced by the amount of searches done by participants overall (45% of all cases [tasks x participants]). Participants were also using the “find in page” functionalities on mobile and desktop to skip content on a page and go to the keywords they were looking for.</p>
 <p>
 <br>
 
