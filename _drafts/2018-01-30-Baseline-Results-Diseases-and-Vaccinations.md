@@ -8,7 +8,6 @@ published: false
 lang: en
 ---
 
-Helping people complete their tasks quickly and successfuly was the purpose of our recent optimization project with our partners at Health Canada (HC) and the Public Health Authority of Canada (PHAC).  Website optimization is a process of systematically improving the performance of the website (structure, flow, and task organization) to meet user needs. We selected a set of top tasks to focus the optimization on some of the most frequently-used pages and paths within the Health theme.  
 
 This article shares the evidence and learning from that top task optimization project across two important diseases - Zika and the Flu and for important travel and immunization tasks for Canadians. The entire team participated in the Discovery process to understand Canadian's needs for these tasks based on their mandate, website traffic patterns and evidence from phone and support requests. We quickly realized that most of the people visiting the pages were doing so on their smartphones - checking whether they had the cold or the flu, or which vaccinations they would need for a specific country.  From this evidence, we generated the set of tasks to measure and improve, by framing them as Jobs to be Done (When I..., I want to ..., so I can ..). Some examples include:
 
@@ -52,12 +51,10 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 <li> Q11. The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.</li>
 </ul>
  </br>
-</p>
-The following chart compares the baseline test scores for findability with the task completion score for all eleven questions posed to participants.
 
 
-<p><br>
-</p>
+
+<p>
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/Baseline-Performance-Results-Health-and-Travel-Optimization.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
@@ -65,11 +62,9 @@ The following chart compares the baseline test scores for findability with the t
       </div>
   <p><br>
   </p>
-<h2> Findability vs Task Completion </h2>
+<h2> Baseline Observations </h2>
 <br>
-<p>
- The gap between findability and task completion highlighted a number of issues and behaviors: 
-</p>
+
 <h4> Mobile users skim </h4>
 <p> For example, in all scenarios, participants were observed skimming through the content looking for highlighted or related Keywords. This is further evidenced by the amount of searches after clicking on a few links and scrolling through some of the content (all tasks except 7).</p>
 
