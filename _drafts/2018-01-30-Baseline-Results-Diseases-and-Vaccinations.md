@@ -17,6 +17,8 @@ This article shares the evidence and learning from that top task optimization pr
 
 These needs were then crafted into tasks that could be presented to Canadians who had volunteered to help improve the Canada.ca website via an invitation posted on the site. For this project, we selected people with children who were able to attend sessions in Toronto and Ottawa with their smartphones.  
 
+<p><br>
+
 ## Establishing a Baseline 
 
 To find out how sucessful people were at finding the correct information and being able to complete their task we ran a usability (UX) test in which a set of participants to complete a series of tasks. The test looked at three main things (1) Was the participant able to find the correct information, (2) Was the participant able to successfully complete their task, (3) What path did they follow in their attempt to find the correct information.
@@ -68,7 +70,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 <h4> Too much information </h4>
 <p> Many pages and resources in the website contain more information than necessary. This was evidenced by the amount of searches done by participants overall (45% of all cases [tasks x participants]). Participants were also using the “find in page” functionalities on mobile and desktop to skip content on a page and go to the keywords they were looking for.</p>
 
- 
+ <br>
 ## Driving Succes - overall issues
 
 
@@ -83,7 +85,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 <h4> Bring top tasks up  - don’t dilute with tiny tasks </h4>
 
 <h4> Show Answers not information - surface and craft answers for top tasks</h4>
-
+<br>
 ## Find out more
 
 We’re happy to share what we’ve learned. If you’ve got questions, email us at ux.eu@tbs-sct.gc.ca
