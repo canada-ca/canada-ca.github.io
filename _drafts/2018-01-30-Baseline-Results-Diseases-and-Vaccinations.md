@@ -70,7 +70,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 <h4> Too much information </h4>
 <p> Many pages and resources in the website contain more information than necessary. This was evidenced by the amount of searches done by participants overall (45% of all cases [tasks x participants]). Participants were also using the “find in page” functionalities on mobile and desktop to skip content on a page and go to the keywords they were looking for.</p>
 
- <br>
+<p> <br>
 ## Driving Succes - overall issues
 
 
@@ -85,7 +85,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 <h4> Bring top tasks up  - don’t dilute with tiny tasks </h4>
 
 <h4> Show Answers not information - surface and craft answers for top tasks</h4>
-<br>
+<p><br></p>
 ## Find out more
 
 We’re happy to share what we’ve learned. If you’ve got questions, email us at ux.eu@tbs-sct.gc.ca
