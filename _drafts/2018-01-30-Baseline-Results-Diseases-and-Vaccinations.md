@@ -74,17 +74,17 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 ## Driving Succes - overall issues
 
 <p>
-<h4> Design for mobile first - less prose, more space and interaction</h4>
+* Design for mobile first - less prose, more space and interaction
 
-<h4> Group tasks and sub-tasks together to improve findability</h4>
+* Group tasks and sub-tasks together to improve findability
 
-<h4> Design content to flow from specific to general -  with Calls to Action</h4>
+* Design content to flow from specific to general -  with Calls to Action
 
-<h4> Lose the paper mentality - bring content into html out of PDF & posters</h4>
+* Lose the paper mentality - bring content into html out of PDF & posters
 
-<h4> Bring top tasks up  - don’t dilute with tiny tasks </h4>
+* Bring top tasks up  - don’t dilute with tiny tasks 
 
-<h4> Show Answers not information - surface and craft answers for top tasks</h4>
+* Show Answers not information - surface and craft answers for top tasks
 </p>
 <br>
 
