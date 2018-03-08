@@ -17,7 +17,7 @@ This article shares the evidence and learning from that top task optimization pr
 
 These needs were then crafted into tasks that could be presented to Canadians who had volunteered to help improve the Canada.ca website via an invitation posted on the site. For this project, we selected people with children who were able to attend sessions in Toronto and Ottawa with their smartphones.  
 
-## Baseline Test Results - How successful were people at completing their tasks?
+## Establishing a Baseline 
 
 To find out how sucessful people were at finding the correct information and being able to complete their task we ran a usability (UX) test in which a set of participants to complete a series of tasks. The test looked at three main things (1) Was the participant able to find the correct information, (2) Was the participant able to successfully complete their task, (3) What path did they follow in their attempt to find the correct information.
 
@@ -62,7 +62,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
       </div>
   <p><br>
   </p>
-<h2> Baseline Observations </h2>
+<h2> Baseline Observations - Issues and Behaviours </h2>
 <br>
 
 <h4> Mobile users skim </h4>
@@ -115,8 +115,6 @@ Many departmental websites were originally designed and optimized for use on des
 
 
 ## Writing meaningful titles and descriptions
-
-One of the hard things about writing tasks is tayloring your word choice to a non-specialist audience. To increase the findability of your content it is important to encorporate commonly used search terms into your section titles and web content instead of focusing on using scientific lingo or profession-specific jargon. 
 
 Our UX study demonstrated that users often overlooked a link that would have taken them to the correct information because they didn't recognize the title of that link or section as being useful for completing their task. In the example below, we see that people misunderstood this menu – most answered incorrectly that they should get the Yellow Fever vaccine to visit Mexico.  Only a few opened the menu link to see that the vaccine is not recommended for Mexico.
 
