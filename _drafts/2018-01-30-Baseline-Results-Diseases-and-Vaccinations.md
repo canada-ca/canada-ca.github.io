@@ -90,6 +90,14 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 </p>
 <br>
 
+</p>
+ <div itemprop="text" class="" data="type-text">
+      <div class="img-responsive center-block col-md-6">
+          <span class=""><img src="../images/Baseline vs Validation Success results.JPG" alt="image-of-chart-showing-baseline-and-final-test-resultss">
+       </span>
+       <div>
+<p><br>
+
 
 ## Find out more
 
