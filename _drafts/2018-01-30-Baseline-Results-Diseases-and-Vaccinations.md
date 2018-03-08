@@ -53,15 +53,6 @@ Your friend put up a post urging her friends not to vaccinate their kids because
  </br>
 
 
-
-<p>
-<div itemprop="text" class="" data="type-text">
-      <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/Baseline-Performance-Results-Health-and-Travel-Optimization.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
- </span>
-      </div>
-  <p><br>
-  </p>
 <h2> Baseline Observations - Issues and Behaviours </h2>
 <br>
 
