@@ -53,7 +53,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
  </br>
 
 
-<h2> Baseline Observations - Issues and Behaviours </h2>
+<h2> Issues and Behaviours </h2>
 <br>
 
 <h4> Mobile users skim </h4>
@@ -69,114 +69,20 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 <p> Many pages and resources in the website contain more information than necessary. This was evidenced by the amount of searches done by participants overall (45% of all cases [tasks x participants]). Participants were also using the “find in page” functionalities on mobile and desktop to skip content on a page and go to the keywords they were looking for.</p>
 
  
-## Common issues for mobile users
-
-Many departmental websites were originally designed and optimized for use on desktop computers and as a result can be difficult for mobile users to use effectively. When visiting these sites mobile devices often only display a few lines of text and cannot easily run client-side programs or scripts because of slow wireless connections. In recent times, Canadians have turned more and more to their mobile devices to conduct web searches and complete complex tasks. For example, mobile devices are commonly used for banking, submitting taxes, looking up locations for various services and amenities, etc. To meet user needs (and departmental service goals/metrics), web designers and content owners must take this change in behaviour into account. 
-
-<h3> Issues and Behaviors </h3>
-<h4> Complex Navigation </h4>
-<ul>
-<li> many people didn’t find Health in the ‘hamburger’menu on the mobile home page of Canada.ca – so if their search failed, they tended to fail the task.</li>
-<li> theme navigation is not visible in mobile view</li>
-</ul>
-<h4> Density of content </h4>
-<ul>
-<li> carousel takes up the majority of screen space when in mobile view</li>
-</ul>
-<p><br>
-</p>
-
- 
-<div itemprop="text" class="" data="type-text">
-      <div class="img-responsive center-block col-md-12">
-          <span class=""><img src="../images/Baseline-menu.JPG" alt="image-of-baseline-Canada.ca-main-menus-for-mobile-" style="floating:right">
-       </span>
-      </div>
-
-<p><br>
- </p>
- 
-<h3>Recommendations</h3>
-<ul>
-<li> make the menu items as visible in the mobile view as they are in the desktop view</li>
-<li> remove carousel so more content is visible in mobile view</li>
-</ul>
-</p><br>
-</p>
+## Driving Succes - overall issues
 
 
-## Writing meaningful titles and descriptions
+<h4> Design for mobile first - less prose, more space and interaction</h4>
 
-Our UX study demonstrated that users often overlooked a link that would have taken them to the correct information because they didn't recognize the title of that link or section as being useful for completing their task. In the example below, we see that people misunderstood this menu – most answered incorrectly that they should get the Yellow Fever vaccine to visit Mexico.  Only a few opened the menu link to see that the vaccine is not recommended for Mexico.
+<h4> Group tasks and sub-tasks together to improve findability</h4>
 
-<p><br>
+<h4> Design content to flow from specific to general -  with Calls to Action</h4>
 
-  <h3> Issues and Behaviors </h3>
+<h4> Lose the paper mentality - bring content into html out of PDF & posters</h4>
 
-<h4> Naming and labelling of categories</h4>
-<ul>
-<li> section and menu titles were not meaningful to users looking to complete specific tasks</li>
-</ul>
-<h4> Complex navigation</h4>
-<ul>
-<li> mobile users scoll quickly and scan text - this behavior can lead to them missing call-to-action buttons</li>
-</ul>
+<h4> Bring top tasks up  - don’t dilute with tiny tasks </h4>
 
- </p>
-<div class="img-responsive center-block col-md-12">
-          <span class=""><img src="../images/Baseline-vaccines.JPG" alt="image-of-screenshos-on-mobile-device-where-the-vaccine-recommendations-aren't-visable-in-menu">
- </span>
-      </div>
-</p>
-<p><br>
-
-<h3> Recommendations </h3>
-<ul>
-<li> change menu titles so that recommendations are visible on first glance</li>
-<li> change menu format so buttons are more obviously click-able </li>
-</ul>
-<p><br>
-</p>
-
- 
-## Displaying information meaningfully 
-
-Half of the people incorrectly answered that a cough was one of the most important signals that someone had the flu rather than a cold. In this case, they missed two of the three bullets that listed the most common flu symptoms. For this scenario, the participants that successfully completed the task were those that found the flu vs. cold table which was located further down the page. The task highlights that how information is displayed can have a significant impact on task completion. Although the information they needed was at the top of the page in bulleted form, it was only those that saw the table comparing the symptoms of flus versus colds that were able to complete their task successfully.
-
-The image below shows an example of the what the users saw on their mobile devices that resulted in them choosing the incorrect answer to their task. Many users saw this information and failed to scroll further down the page to find the chart.
-
-
-<p><br>
-<h3> Issues and Behaviors</h3>
-
-<h4> Density of content too high</h4> 
-<ul>
-<li> participants skim over content to quickly search for pertinent information - this can lead to them missing key messaging or failing to differentiate between types of content </li>
-<li> multiple bulleted lists confused participants resulting in task failure </li>
-</ul>
-<h4> Naming and labelling categories </h4>
-<ul>
-<li> section and page titles did not accurately reflect search query structure - titles asked questions instead of supplying the answers that would help visitors complete tasks</li>
-</ul>
-
-</p>
- <div itemprop="text" class="" data="type-text">
-      <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/Baseline-flu-symptoms.JPG" alt="image-of-flu-symptom-page-for-baseline-test-on-mobile-devices">
-       </span>
-       <div>
-<p><br>
- 
-
-
-<h3> Recommendations </h3>
-<ul>
-<li> add the table of flu versus cold to the top of this page – people who found it got the answer correct</li>
-<li> shorten title in line with common search queries</li>
-<li> combine bullet lists and reorder symptoms based on importance to task</li>
-</ul>
-<p><br>
-</p>
+<h4> Show Answers not information - surface and craft answers for top tasks</h4>
 
 ## Find out more
 
