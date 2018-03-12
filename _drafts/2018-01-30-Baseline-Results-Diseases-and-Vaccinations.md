@@ -62,7 +62,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 <p> Participants were observed skimming through the content. As titles and headings scroll off phones faster, people couldn’t tell what they were looking at. This skimming behaviour was further evidenced by the amount of searches conducted after clicking on a few links and scrolling through some of the content (all tasks except 7).</p>
 
 <h4> Complex navigation </h4>
-<p> Top level navigation and overlapping topics caused failures. Finding the appropriate resources to complete tasks required a long and in some cases complex navigation.For example,tasks 4 and 5, starting at the Zika page, illustrated how complex navigation can be. Paths for these tasks include paths of up to 8 clicks on links.</p> 
+<p> Top level navigation and overlapping topics caused failures. Finding the appropriate resources to complete tasks required a long and in some cases complex navigation. For example,tasks 4 and 5, starting at the Zika page, illustrated how complex navigation can be. Paths for these tasks include paths of up to 8 clicks on links.</p> 
 
 <h4> Too many layers and headings </h4>
 <p> Content does not provide answers up front and instead requires reading and coming to a conclusion on your own. Participants were observed reading multiple resources and concluding wrong answers.People failed at tasks because they were lost in posters & awareness resources (usually PDF, had to pinch and zoom on phones). </p>
