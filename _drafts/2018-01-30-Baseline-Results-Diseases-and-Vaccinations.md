@@ -111,4 +111,4 @@ We’re happy to share what we’ve learned. If you’ve got questions, email us
 * [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) is a great article from Gerry McGovern on the value of top tasks and the survey voting method to validate them
 * [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
 * [How to conduct a top task analysis](https://measuringu.com/top-tasks/) from Jeff Sauro gets into some of the statistical details around analysing top task data from surveys
-* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
+
