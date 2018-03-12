@@ -76,6 +76,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 
 <p> After observing and analyzing the issues and behaviours seen in the baseline test, the team created and tested a prototype that encorporated several design changes aimed at improving task success. The following is a list of the overall design lessons the team gained as a result of an analysis of baseline test data:
  
+ 
 * Design for mobile first - less prose, more space and interaction
 
 * Group tasks and sub-tasks together to improve findability
@@ -87,7 +88,8 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 * Bring top tasks up  - don’t dilute with tiny tasks 
 
 * Show Answers not information - surface and craft answers for top tasks
-</p>
+</p><br>
+
 <p> Once several iterations of the prototype were created and tested a new group of participants was recruited to complete the same 11 tasks on the prototype. The results of the new round of UX testing were unanimously positive! Overall task success went from 54% points to 84% points and findability went up 25% points. 
  
  The following chart illustrates the task success rate from the baseline test and the validation (prototype) test:
