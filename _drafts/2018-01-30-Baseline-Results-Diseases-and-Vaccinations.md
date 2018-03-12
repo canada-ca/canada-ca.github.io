@@ -55,7 +55,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
  </br>
 
 
-<h3> Issues and Behaviours </h3>
+<h3> Our Observations - Issues and Behaviours </h3>
 <br>
 
 <h4> Mobile users skim </h4>
