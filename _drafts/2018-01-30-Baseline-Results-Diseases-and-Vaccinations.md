@@ -88,7 +88,9 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 
 * Show Answers not information - surface and craft answers for top tasks
 </p>
-<p> Once several iterations of the prototype were created and tested a new group of participants was recruited to complete the same 11 tasks on the prototype. The results of the new round of UX testing were unanimously positive!
+<p> Once several iterations of the prototype were created and tested a new group of participants was recruited to complete the same 11 tasks on the prototype. The results of the new round of UX testing were unanimously positive! Overall task success went from 54% points to 84% points and findability went up 25% points. 
+ 
+ The following chart illustrates the task success rate from the baseline test and the validation (prototype) test:
 <br>
 
 </p>
