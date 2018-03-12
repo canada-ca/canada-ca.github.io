@@ -83,7 +83,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 
 * Design content to flow from specific to general -  with Calls to Action
 
-* Lose the paper mentality - bring content into html out of PDF & posters
+* Lose the paper mentality - bring content into HTML out of PDF & posters
 
 * Bring top tasks up  - don’t dilute with tiny tasks 
 
