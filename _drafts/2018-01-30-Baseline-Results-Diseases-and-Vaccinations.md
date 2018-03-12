@@ -74,7 +74,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 
 ## Driving Success - lessons learned
 
-<p>
+<p> After observing and analyzing the issues and behaviours seen in the baseline test, the team created and tested a prototype that encorporated several design changes aimed at improving task success. The following is a list of the overall design lessons the team gained as a result of an analysis of baseline test data:
  
 * Design for mobile first - less prose, more space and interaction
 
@@ -88,6 +88,7 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 
 * Show Answers not information - surface and craft answers for top tasks
 </p>
+<p> Once several iterations of the prototype were created and tested a new group of participants was recruited to complete the same 11 tasks on the prototype. The results of the new round of UX testing were unanimously positive!
 <br>
 
 </p>
