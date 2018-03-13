@@ -29,10 +29,10 @@ McGovern warned us about what he calls the cult of volume — the idea that lots
 
 McGovern advocates this simple approach:
 
-# Find out what tasks users are trying to accomplish on our websites (through the use of site analytics and surveys);
-# Find out whether users are successful in accomplishing their task;
-# Find out how long it took for users to accomplish their task;
-# Test and iterate, aiming for a 90% completion rate and a short completion time.
+1. Find out what tasks users are trying to accomplish on our websites (through the use of site analytics and surveys);
+2. Find out whether users are successful in accomplishing their task;
+3. Find out how long it took for users to accomplish their task;
+4. Test and iterate, aiming for a 90% completion rate and a short completion time.
 
 He also provided some specific guidelines on conducting user testing:
 
