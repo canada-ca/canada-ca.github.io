@@ -9,78 +9,50 @@ lang: en
 ---
 
 
-The CanadadotCa team has several projects underway to optimize Top Tasks on Canada.ca. In the fall of 2017, the Diseases and Immunization project kicked off by pulling together a collaborative team with Health Canada and the Public Health Agency of Canada, including members from web communications, immunization and disease programs, and strategic marketing, with the designers and researchers from the Digital Transformation Office. The team chose two highly-visited diseases, Zika and the Flu, to improve, along with several frequently-visited travel and immunization tasks. The entire team participated in the Discovery process to understand Canadian's needs for these tasks based on their mandate, website traffic patterns, search patterns, a literature search on vaccine hesitancy and evidence from phone and support requests. Among the highlights was that the analytics data showed that the majority of Canadians visiting the pages were doing so on their smartphones - checking whether they had the cold or the flu, or which vaccinations they would need for a specific country.  
+In the fall of 2017, the Diseases and Immunization optimization project kicked off by pulling together a collaborative team with Health Canada and the Public Health Agency of Canada, including members from web communications, immunization and disease programs, and strategic marketing, with the designers and researchers from the Digital Transformation Office. The team chose two highly-visited diseases, Zika and the Flu, to improve, along with several frequently-visited travel and immunization tasks. The entire team participated in the Discovery process to understand Canadian's needs for these tasks based on previous data, website traffic patterns, search patterns, a literature search on vaccine hesitancy and evidence from phone and support requests. Among the highlights was that the analytics data showed that the majority of Canadians visiting the pages were doing so on their smartphones - checking whether they had the cold or the flu, or which vaccinations they would need for a specific country.  
 
-To start the transition into user-centred design, the team generated a set of as Jobs to be Done (When I..., I want to ..., so I can ..) from the discovery insights. Some examples the team produced include:
+To start the user-centred design process, the team generated a set of as Jobs to be Done (When I..., I want to ..., so I can ..) from the discovery insights. Some examples the team produced include:
 
 * When it's flu season, I want to know	if/where the flu shot is available, so I can	go and get it
 * When I am worried about immunizing my child, I want to	know if the vaccine is safe, so I can	understand the risks
 * When I return from a tropical trip, I want to	know if I can be tested for Zika, so I can	decide if I should delay pregnancy
 
-The long list of Jobs to be Done statements were then winnowed down into a set of just 11 that could be completed in an hour. They were crafted into detailed task scenarios that could be presented to Canadians who had volunteered to help improve the Canada.ca website. 
+The long list of Jobs to be Done statements was then winnowed down into a set of just 11 tasks that could be completed in an hour. They were crafted into detailed task scenarios that could be presented to Canadians who had volunteered to help improve the Canada.ca website. 
 
-<p><br>
 
 ## Establishing a Baseline 
 
-From the participant volunteers, we recruited 16 employed parents of children under the age of 18, who were able to attend research sessions in Toronto and Ottawa with their smartphones. In their sessions, participants were asked to complete to complete the full set of 11 task scenarios on the Canada.ca website. The task scenarios were presented in random order, except for the first and last tasks. Some tasks began on the home page of Canada.ca while others began on the Zika, Flu and Immunization topic pages. The scenarios, a timer set to 5.5 minutes and the possible answers to the scenario were presented on a tablet beside the participant. The participant could refer to the tablet while they attempted the task, and then return to enter in their answer, if they found one. You can try out the scenario display process and tasks yourself (select that you are doing the tasks at the Akendi Office) at this SurveyGizmo link: http://ca.surveygizmo.com/s3/50011188/Health-task-display-v1 EN http://ca.surveygizmo.com/s3/50011188/sante-v1 FR
+From the participant volunteers, we recruited 16 employed parents of children under the age of 18, who were able to attend research sessions in Toronto and Ottawa with their smartphones. In their sessions, participants were asked to complete to complete the full set of 11 task scenarios on the Canada.ca website. The task scenarios were presented in random order, except for the first and last tasks. Some tasks began on the home page of Canada.ca while others began on the Zika, Flu and Immunization topic pages. The scenarios, a timer set to 5.5 minutes and the possible answers to the scenario were presented on a tablet beside the participant. The participant could refer to the tablet while they attempted the task, and then return to enter in their answer, if they found one. 
  
-The two important measures from the study were the Findability success rate - whether people found the page designed as the target for that task, and Task Completion success rate - whether people successfully found the correct answer to the task scenario. 
+The two important measures from the study were the Findability success rate - whether people found the page designed as the target for that task, and Task Completion success rate - whether people successfully selected the correct answer to the task scenario. 
 
+The overall success rate was 54% across the 11 tasks by the set of 16 mobile participants (176 task trials). A single task reached the 80% task completion target for Canada.ca. 6 of the tasks had successes rates below or at 50%. 
+
+The team observed together videos of the sessions together to understand how people used the site to solve the tasks. With the addition of clickpath maps, we were able to observe and quantify behaviours and usability issues that caused task failures.
+
+For example, Participants were observed skimming through the long pages, looking only at headings and links, fingers flicking quickly. As titles and headings scrolled out of view, people couldn’t tell what they were looking at. For example, 4 people were unable to complete task 4 because they kept trying to find Bermuda on the list of countries. The heading "Countries with recent or ongoing risk of Zika virus infection" had scrolled off the top of the long phone page. 
+
+## Redesign and retest to improve task success
+
+After observing and analyzing the issues and behaviours seen in the baseline test, the team created a new design. Several workshops were held with program teams to work intensively to resolve issues that participants experienced on those pages. For example, the Zika team realized that participants hadn't absorbed the serious risks of pregnancy after exposure to Zika. The immunization team worked hard to integrate content to counter vaccine hesitancy. New home page designs for Canada.ca were created to expose the links to Health and Travel that people missed in the baseline tests. 
+
+Once several iterations of the prototype were created and tested a new group of parent participants was recruited to complete the same 11 tasks on the prototype. The results of the new round of testing were very positive.  The new simplified navigation, home page designs and grouping of tasks improved findability rates from 66% up to 90%. Once they'd found the right target page, people were able to find the answers in the cleaner answer-not-information designs. Overall task completion success rose from 54% to 84% points.   
+ 
+ This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype:
+ 
+ <div itemprop="text" class="" data="type-text">
+      <div class="img-responsive center-block col-md-6">
+          <span class=""><img src="../images/Baseline vs Validation Success results.JPG" alt="image-of-chart-showing-baseline-and-final-test-resultss">
+       </span>
+       <div>
 <p><br>
-<ul>
-<li> Q1.
-This year's flu season could be worse than usual. Find the government’s advice on the most important way to avoid getting the flu. </li>
-<br>
-<li> Q2.
-Your friend put up a post urging her friends not to vaccinate their kids because of the risk of autism. Find some answers that would make you feel ready to discuss it with her. </li>
-<br>
-<li> Q3. You got a few mosquito bites on your honeymoon down south but you feel fine. Before getting pregnant, you want to make sure you don’t have Zika. Is there a test that can tell if you're infected? </li>
-<br>
-<li> Q4. You plan to start a family soon, but want a sunny vacation first. Which of the countries below should you avoid because of the risk of Zika? </li>
-<br>
-<li> Q5. Your baby was born on the first of this month. At what age is the first set of vaccinations recommended? </li>
-<br>
-<li> Q6. It is flu season and a family member is pregnant. Find out whether or not she should get a flu shot while pregnant. </li> 
-<br>
-<li> Q7. You don't want to miss work tomorrow but should stay away if you have the flu. Yesterday, all of the symptoms below hit - find out which ones are the signal that it's the flu. </li>
-<br>
-<li> Q8. Find out whether the number of cases of flu last week were higher or lower than usual, to help you decide if you should get a flu shot now or wait. </li>
-<br>
- <li> Q9. You think you heard something on the news about people being sick in Italy. Is there a particular concern you should be aware of before you go with your baby? </li>
-<br>
-<li> Q10. You are planning a trip to Mexico. Which specific vaccinations are recommended before you go? </li>
-<br>
-<li> Q11. The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.</li>
-</ul>
- </br>
-
-
-<h3> Our Observations - Issues and Behaviours </h3>
-<br>
-
-<h4> Mobile users skim </h4>
-<p> Participants were observed skimming through the content. As titles and headings scroll off phones faster, people couldn’t tell what they were looking at. This skimming behaviour was further evidenced by the amount of searches conducted after clicking on a few links and scrolling through some of the content (all tasks except 7).</p>
-
-<h4> Complex navigation </h4>
-<p> Top level navigation and overlapping topics caused failures. Finding the appropriate resources to complete tasks required a long and in some cases complex navigation. For example,tasks 4 and 5, starting at the Zika page, illustrated how complex navigation can be. Paths for these tasks include paths of up to 8 clicks on links.</p> 
-
-<h4> Too many layers and headings </h4>
-<p> Content does not provide answers up front and instead requires reading and coming to a conclusion on your own. Participants were observed reading multiple resources and concluding wrong answers.People failed at tasks because they were lost in posters & awareness resources (usually PDF, had to pinch and zoom on phones). </p>
-
-<h4> Too much information </h4>
-<p> Many pages and resources in the website contain more information than necessary. People had a hard time finding the right answer for tasks - they tended to scan the headings instead of the text where answers were buried, end up in the health professionals content like the Canadian Immunization Guide and missed answers under vague headings. Particpant frustration with the large amount of information they were being given was evidenced by the amount of searches done by participants overall (45% of all cases [tasks x participants]). Participants were also using the “find in page” functionalities on mobile and desktop to skip content on a page and go to the keywords they were looking for.</p>
-<p>
-<br>
-
-## Driving Success - lessons learned
-
-<p> After observing and analyzing the issues and behaviours seen in the baseline test, the team created and tested a prototype that encorporated several design changes aimed at improving task success. The following is a list of the overall design lessons the team gained as a result of an analysis of baseline test data:
  
+ ## Key drivers of success 
+ The team derived this set of 6 design principles that appeared to have the most impact on improving success rates: 
  
 * Design for mobile first - less prose, more space and interaction
 
-* Group tasks and sub-tasks together to improve findability
+* Group tasks and sub-tasks together to improve findability - reduce layers
 
 * Design content to flow from specific to general -  with Calls to Action
 
@@ -89,21 +61,6 @@ Your friend put up a post urging her friends not to vaccinate their kids because
 * Bring top tasks up  - don’t dilute with tiny tasks 
 
 * Show Answers not information - surface and craft answers for top tasks
-</p><br>
-
-<p> Once several iterations of the prototype were created and tested a new group of participants was recruited to complete the same 11 tasks on the prototype. The results of the new round of UX testing were unanimously positive! Overall task success went from 54% points to 84% points and findability went up 25% points. 
- 
- The following chart illustrates the task success rate from the baseline test and the validation (prototype) test:
-<br>
-
-</p>
- <div itemprop="text" class="" data="type-text">
-      <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/Baseline vs Validation Success results.JPG" alt="image-of-chart-showing-baseline-and-final-test-resultss">
-       </span>
-       <div>
-<p><br>
-
 
 ## Find out more
 
@@ -118,3 +75,29 @@ We’re happy to share what we’ve learned. If you’ve got questions, email us
 * [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
 * [How to conduct a top task analysis](https://measuringu.com/top-tasks/) from Jeff Sauro gets into some of the statistical details around analysing top task data from surveys
 
+## Detailed task scenarios as presented to participants
+You can try out the scenario display process and tasks yourself (select that you are doing the tasks at the Akendi Office) at this SurveyGizmo link: http://ca.surveygizmo.com/s3/50011188/Health-task-display-v1 EN http://ca.surveygizmo.com/s3/50011188/sante-v1 FR
+<ul>
+<li> 1.This year's flu season could be worse than usual. Find the government’s advice on the most important way to avoid getting the flu. </li>
+<br>
+<li> 2.Your friend put up a post urging her friends not to vaccinate their kids because of the risk of autism. Find some answers that would make you feel ready to discuss it with her. </li>
+<br>
+<li> 3. You got a few mosquito bites on your honeymoon down south but you feel fine. Before getting pregnant, you want to make sure you don’t have Zika. Is there a test that can tell if you're infected? </li>
+<br>
+<li> 4. You plan to start a family soon, but want a sunny vacation first. Which of the countries below should you avoid because of the risk of Zika? (For Bermuda, Cuba, Jamaica)</li>
+<br>
+<li> 5. Your baby was born on the first of this month. At what age is the first set of vaccinations recommended? (2 months, 4 months, 6 months)</li>
+<br>
+<li> 6. It is flu season and a family member is pregnant. Find out whether or not she should get a flu shot while pregnant. </li> 
+<br>
+<li> 7. You don't want to miss work tomorrow but should stay away if you have the flu. Yesterday, all of the symptoms below hit - find out which ones are the signal that it's the flu. </li>
+<br>
+<li> 8. Find out whether the number of cases of flu last week were higher or lower than usual, to help you decide if you should get a flu shot now or wait. </li>
+<br>
+ <li> 9. You think you heard something on the news about people being sick in Italy. Is there a particular concern you should be aware of before you go with your baby? </li>
+<br>
+<li> 10. You are planning a trip to Mexico. Which specific vaccinations are recommended before you go? </li>
+<br>
+<li>11. The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.</li>
+</ul>
+ </br>
