@@ -20,9 +20,10 @@ From these discovery insights, the team generated a set of Jobs to be Done (When
 * When I return from a tropical trip, I want to	know if I can be tested for Zika, so I can	decide if I should delay pregnancy
 
 <figure>
-<img class="img-responsive" alt="Sticky note says When I'm pregnant, I want to know if I should get a flu shot so I can protect myself and my baby" src="/images/JTBS_dots.jpg">
-<figcaption><small>Sticky note of Jobs to be Done statement with voting dots placed by team</small></figcaption>
+<img class="img-responsive" alt="Sticky note says When I'm pregnant, I want to know if I should get a flu shot so I can protect myself and my baby" src="/images/JTBD_dots.jpg">
+<figcaption><small>Jobs to be Done statement with team's voting dots</small></figcaption>
 </figure><br>
+
 From the long list of Jobs to be Done, the team used a Design Sprint dot voting technique to narrow down to the top 11 statements. we crafted these into detailed task scenarios that could be presented to Canadians who had volunteered to help improve the Canada.ca website. 
 
 ## Establishing a Baseline 
@@ -38,14 +39,16 @@ The overall findability rate was 66%, and the overall success rate was 54% acros
 
 The team observed videos of the sessions together to understand how people had used the site to solve the tasks. With the addition of clickpath maps, we were able to observe and quantify behaviours and usability issues that caused task failures. For example, 4 people were unable to complete task 4 because they kept trying to find Bermuda on the list of countries. The heading "Countries with recent or ongoing risk of Zika virus infection" had scrolled off the top of the long phone page. 
 
-## Redesign to improve task success and retest
+## Redesign to improve task success
 
 To solve the long list of issues they'd captured, the team created a working prototype for a new mobile-1st design on Github. Several workshops were held with program teams to work intensively to resolve issues that participants experienced on those pages. For example, the Zika team realized that participants hadn't absorbed the serious risks of pregnancy after exposure to Zika. The immunization team worked hard to integrate content to counter vaccine hesitancy. New home page designs for Canada.ca were created to expose the links to Health and Travel that people missed in the baseline tests. 
 <figure>
 <img class="img-responsive" alt="Photograph of smartphones showing web page before and after redesign" src="/images/zika_phones.png">
 <figcaption><small>Destinations with Zika page at baseline and after mobile redesign for validation</small></figcaption>
 </figure><br>
-A new group of parent participants was recruited to complete the same 11 tasks on the prototype. The results of the new round of testing met the 20% improvement targets for the project.  The new simplified navigation, home page designs and grouping of tasks improved findability rates from 66% up to 90%. Once they'd found the right target page, people were able to find the answers in the cleaner answer-not-information designs. Overall task completion success rose from 54% to 84% points.   
+
+## Measure success rates on redesigned prototype
+A new group of 16 parent participants was recruited to complete the same 11 tasks, this time on the prototype. The results of the new round of testing met the 20% improvement targets for a Canada.ca optimization project.  The new simplified navigation, home page designs and grouping of tasks improved findability rates from 66% up to 90%. Once they'd found the right target page, people were able to more successfully find the answers in the cleaner answer-not-information designs. Overall task completion success rose from 54% to 84% points.   
  
  This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype for the 32 participants:
  
@@ -70,7 +73,6 @@ A new group of parent participants was recruited to complete the same 11 tasks o
 * Bring top tasks up  - don’t dilute with tiny tasks 
 
 * Show Answers not information - surface and craft answers for top tasks
-
 
 ## Find out more
 
