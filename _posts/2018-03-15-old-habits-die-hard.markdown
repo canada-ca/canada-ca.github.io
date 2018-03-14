@@ -3,10 +3,10 @@ layout: post
 title:  "Old habits die hard (when feelings get in the way)"
 ref: habits
 date:   2018-03-14 09:48:44 +0100
-published: false
+published: true
 lang: en
 alt: Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018
-description: 
+description: The main challenge of improving the UX of our sites and services isn’t the adoption of a particular technology or tool; it’s the adoption of new values and approaches — culture change.
 ---
 
 I’ve been working in digital content for the better part of a decade and I’ve often wondered why it’s so hard to get good work done when the best practices are out there, backed by research, and logically, we know what we need to do.
