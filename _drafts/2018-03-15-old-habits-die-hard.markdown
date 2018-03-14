@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Old habits die hard (when feelings get in the way)"
-ref: template
+ref: habits
 date:   2018-03-14 09:48:44 +0100
 categories: category
+published: false
 lang: en
+alt:
+description: 
 ---
 
 I’ve been working in digital content for the better part of a decade and I’ve often wondered why it’s so hard to get good work done when the best practices are out there, backed by research, and logically, we know what we need to do.
