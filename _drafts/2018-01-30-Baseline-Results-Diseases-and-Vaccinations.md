@@ -9,7 +9,9 @@ lang: en
 ---
 
 
-In the fall of 2017, the Diseases and Immunization optimization project kicked off by pulling together a collaborative team with Health Canada and the Public Health Agency of Canada, including members from web communications, immunization and disease programs, and strategic marketing, with the designers and researchers from the Digital Transformation Office. The team chose two highly-visited diseases, Zika and the Flu, to improve, along with several frequently-visited travel and immunization tasks. The entire team participated in the Discovery process to understand Canadian's needs for these tasks based on previous data, website traffic patterns, search patterns, a literature search on vaccine hesitancy and evidence from phone and support requests. Among the highlights was that the analytics data showed that the majority of Canadians visiting the pages were doing so on their smartphones - checking whether they had the cold or the flu, or which vaccinations they would need for a specific country.  
+In the fall of 2017, the Diseases and Immunization optimization project kicked off by pulling together a collaborative team with Health Canada and the Public Health Agency of Canada, including members from web communications, immunization and disease programs, and strategic marketing, with the designers and researchers from the Digital Transformation Office. The team chose two highly-visited diseases, Zika and the Flu, to improve, along with several frequently-visited travel and immunization tasks. 
+
+The entire team participated in the Discovery process to understand Canadian's needs for these tasks based on previous data, website traffic patterns, search patterns, a literature search on vaccine hesitancy and evidence from phone and support requests. Among the highlights was that the analytics data showed that the majority of Canadians visiting the pages were doing so on their smartphones - checking whether they had the cold or the flu, or which vaccinations they would need for a specific country.  
 
 To start the user-centred design process, the team generated a set of as Jobs to be Done (When I..., I want to ..., so I can ..) from the discovery insights. Some examples the team produced include:
 
@@ -19,26 +21,21 @@ To start the user-centred design process, the team generated a set of as Jobs to
 
 The long list of Jobs to be Done statements was then winnowed down into a set of just 11 tasks that could be completed in an hour. They were crafted into detailed task scenarios that could be presented to Canadians who had volunteered to help improve the Canada.ca website. 
 
-
 ## Establishing a Baseline 
 
 From the participant volunteers, we recruited 16 employed parents of children under the age of 18, who were able to attend research sessions in Toronto and Ottawa with their smartphones. In their sessions, participants were asked to complete to complete the full set of 11 task scenarios on the Canada.ca website. The task scenarios were presented in random order, except for the first and last tasks. Some tasks began on the home page of Canada.ca while others began on the Zika, Flu and Immunization topic pages. The scenarios, a timer set to 5.5 minutes and the possible answers to the scenario were presented on a tablet beside the participant. The participant could refer to the tablet while they attempted the task, and then return to enter in their answer, if they found one. 
  
-The two important measures from the study were the Findability success rate - whether people found the page designed as the target for that task, and Task Completion success rate - whether people successfully selected the correct answer to the task scenario. 
+The two important measures from the study were the Findability success rate - whether people found the page designed as the target for that task, and Task Completion success rate - whether people successfully selected the correct answer to the task scenario. The overall success rate was 54% across the 11 tasks by the set of 16 mobile participants (176 task trials). A single task reached the 80% task completion target for Canada.ca. 6 of the tasks had successes rates below or at 50%. The overall findability rate was 66%. 
 
-The overall success rate was 54% across the 11 tasks by the set of 16 mobile participants (176 task trials). A single task reached the 80% task completion target for Canada.ca. 6 of the tasks had successes rates below or at 50%. 
+The team observed together videos of the sessions together to understand how people used the site to solve the tasks. With the addition of clickpath maps, we were able to observe and quantify behaviours and usability issues that caused task failures. For example, 4 people were unable to complete task 4 because they kept trying to find Bermuda on the list of countries. The heading "Countries with recent or ongoing risk of Zika virus infection" had scrolled off the top of the long phone page. 
 
-The team observed together videos of the sessions together to understand how people used the site to solve the tasks. With the addition of clickpath maps, we were able to observe and quantify behaviours and usability issues that caused task failures.
+## Redesign to improve task success and retest
 
-For example, Participants were observed skimming through the long pages, looking only at headings and links, fingers flicking quickly. As titles and headings scrolled out of view, people couldn’t tell what they were looking at. For example, 4 people were unable to complete task 4 because they kept trying to find Bermuda on the list of countries. The heading "Countries with recent or ongoing risk of Zika virus infection" had scrolled off the top of the long phone page. 
-
-## Redesign and retest to improve task success
-
-After observing and analyzing the issues and behaviours seen in the baseline test, the team created a new design. Several workshops were held with program teams to work intensively to resolve issues that participants experienced on those pages. For example, the Zika team realized that participants hadn't absorbed the serious risks of pregnancy after exposure to Zika. The immunization team worked hard to integrate content to counter vaccine hesitancy. New home page designs for Canada.ca were created to expose the links to Health and Travel that people missed in the baseline tests. 
+To solve the long list of issues they'd captured, the team created a new design, in most cases, from scratch. Several workshops were held with program teams to work intensively to resolve issues that participants experienced on those pages. For example, the Zika team realized that participants hadn't absorbed the serious risks of pregnancy after exposure to Zika. The immunization team worked hard to integrate content to counter vaccine hesitancy. New home page designs for Canada.ca were created to expose the links to Health and Travel that people missed in the baseline tests. 
 
 Once several iterations of the prototype were created and tested a new group of parent participants was recruited to complete the same 11 tasks on the prototype. The results of the new round of testing were very positive.  The new simplified navigation, home page designs and grouping of tasks improved findability rates from 66% up to 90%. Once they'd found the right target page, people were able to find the answers in the cleaner answer-not-information designs. Overall task completion success rose from 54% to 84% points.   
  
- This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype:
+ This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype for the 32 participants:
  
  <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
