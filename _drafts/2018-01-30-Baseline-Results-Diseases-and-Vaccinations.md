@@ -9,22 +9,23 @@ lang: en
 ---
 
 
-This article is an excerpt of the evidence and learning from the Diseases and Immuniazations top task optimization project. The project looks at issues across two important diseases, Zika and the Flu, and at important travel and immunization tasks for Canadians. The entire team participated in the Discovery process to understand Canadian's needs for these tasks based on their mandate, website traffic patterns and evidence from phone and support requests. We quickly realized that most of the people visiting the pages were doing so on their smartphones - checking whether they had the cold or the flu, or which vaccinations they would need for a specific country.  From this insight, we generated the set of tasks to measure and improve, by framing them as Jobs to be Done (When I..., I want to ..., so I can ..). Some examples include:
+The CanadadotCa team has several projects underway to optimize Top Tasks on Canada.ca. In the fall of 2017, the Diseases and Immunization project kicked off by pulling together a collaborative team with Health Canada and the Public Health Agency of Canada, including members from web communications, immunization and disease programs, and strategic marketing, with the designers and researchers from the Digital Transformation Office. The team chose two highly-visited diseases, Zika and the Flu, to improve, along with several frequently-visited travel and immunization tasks. The entire team participated in the Discovery process to understand Canadian's needs for these tasks based on their mandate, website traffic patterns, search patterns, a literature search on vaccine hesitancy and evidence from phone and support requests. Among the highlights was that the analytics data showed that the majority of Canadians visiting the pages were doing so on their smartphones - checking whether they had the cold or the flu, or which vaccinations they would need for a specific country.  
+
+To start the transition into user-centred design, the team generated a set of as Jobs to be Done (When I..., I want to ..., so I can ..) from the discovery insights. Some examples the team produced include:
 
 * When it's flu season, I want to know	if/where the flu shot is available, so I can	go and get it
 * When I am worried about immunizing my child, I want to	know if the vaccine is safe, so I can	understand the risks
 * When I return from a tropical trip, I want to	know if I can be tested for Zika, so I can	decide if I should delay pregnancy
 
-These needs were then crafted into tasks that could be presented to Canadians who had volunteered to help improve the Canada.ca website via an invitation posted on the site. For this project, we selected people with children who were able to attend sessions in Toronto and Ottawa with their smartphones.  
+The long list of Jobs to be Done statements were then winnowed down into a set of just 11 that could be completed in an hour. They were crafted into detailed task scenarios that could be presented to Canadians who had volunteered to help improve the Canada.ca website. 
 
 <p><br>
 
 ## Establishing a Baseline 
 
-To find out how sucessful people were at finding the correct information and being able to complete their task we ran a usability (UX) test in which a set of participants to complete a series of tasks. The test looked at three main things (1) Was the participant able to find the correct information, (2) Was the participant able to successfully complete their task, (3) What path did they follow in their attempt to find the correct information.
-
-The participants were asked to complete 11 tasks. Each task had to be completed within five minutes and the participant had to record their answer to the task. 
-
+From the participant volunteers, we recruited 16 employed parents of children under the age of 18, who were able to attend research sessions in Toronto and Ottawa with their smartphones. In their sessions, participants were asked to complete to complete the full set of 11 task scenarios on the Canada.ca website. The task scenarios were presented in random order, except for the first and last tasks. Some tasks began on the home page of Canada.ca while others began on the Zika, Flu and Immunization topic pages. The scenarios, a timer set to 5.5 minutes and the possible answers to the scenario were presented on a tablet beside the participant. The participant could refer to the tablet while they attempted the task, and then return to enter in their answer, if they found one. You can try out the scenario display process and tasks yourself (select that you are doing the tasks at the Akendi Office) at this SurveyGizmo link: http://ca.surveygizmo.com/s3/50011188/Health-task-display-v1 EN http://ca.surveygizmo.com/s3/50011188/sante-v1 FR
+ 
+The two important measures from the study were the Findability success rate - whether people found the page designed as the target for that task, and Task Completion success rate - whether people successfully found the correct answer to the task scenario. 
 
 <p><br>
 <ul>
