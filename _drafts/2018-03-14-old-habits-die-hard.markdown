@@ -15,7 +15,7 @@ The main challenge of improving the UX of our sites and services isn’t the ado
 
 <figure>
 <img class="img-responsive" alt="Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018" src="/images/gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png">
-<figcaption><small>Celeste Côté during the master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
+<figcaption><small>Celeste Côté during Gerry McGovern's master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
 </figure><br>
 
 McGovern joked about traditional approaches to design being very Mad Men — bosses smoking cigars in back rooms making decisions. While workplaces have changed over the years, we still have the tendency to base decisions on personal preferences — especially when those decisions involve design, about which everyone tends to have no shortage of feelings and opinions.
