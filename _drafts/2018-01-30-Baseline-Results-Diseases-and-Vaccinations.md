@@ -19,6 +19,10 @@ From these discovery insights, the team generated a set of Jobs to be Done (When
 * When I am worried about immunizing my child, I want to	know if the vaccine is safe, so I can	understand the risks
 * When I return from a tropical trip, I want to	know if I can be tested for Zika, so I can	decide if I should delay pregnancy
 
+<figure>
+<img class="img-responsive" alt="Sticky note says When I'm pregnant, I want to know if I should get a flu shot so I can protect myself and my baby" src="/images/JTBS_dots.jpg">
+<figcaption><small>Sticky note of Jobs to be Done statement with voting dots placed by team</small></figcaption>
+</figure><br>
 From the long list of Jobs to be Done, the team used a Design Sprint dot voting technique to narrow down to the top 11 statements. we crafted these into detailed task scenarios that could be presented to Canadians who had volunteered to help improve the Canada.ca website. 
 
 ## Establishing a Baseline 
@@ -36,8 +40,11 @@ The team observed videos of the sessions together to understand how people had u
 
 ## Redesign to improve task success and retest
 
-To solve the long list of issues they'd captured, the team created a working prototype for a new design on Github. Several workshops were held with program teams to work intensively to resolve issues that participants experienced on those pages. For example, the Zika team realized that participants hadn't absorbed the serious risks of pregnancy after exposure to Zika. The immunization team worked hard to integrate content to counter vaccine hesitancy. New home page designs for Canada.ca were created to expose the links to Health and Travel that people missed in the baseline tests. 
-
+To solve the long list of issues they'd captured, the team created a working prototype for a new mobile-1st design on Github. Several workshops were held with program teams to work intensively to resolve issues that participants experienced on those pages. For example, the Zika team realized that participants hadn't absorbed the serious risks of pregnancy after exposure to Zika. The immunization team worked hard to integrate content to counter vaccine hesitancy. New home page designs for Canada.ca were created to expose the links to Health and Travel that people missed in the baseline tests. 
+<figure>
+<img class="img-responsive" alt="Photograph of smartphones showing web page before and after redesign" src="/images/zika_phones.png">
+<figcaption><small>Destinations with Zika page at baseline and after mobile redesign for validation</small></figcaption>
+</figure><br>
 A new group of parent participants was recruited to complete the same 11 tasks on the prototype. The results of the new round of testing met the 20% improvement targets for the project.  The new simplified navigation, home page designs and grouping of tasks improved findability rates from 66% up to 90%. Once they'd found the right target page, people were able to find the answers in the cleaner answer-not-information designs. Overall task completion success rose from 54% to 84% points.   
  
  This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype for the 32 participants:
@@ -63,6 +70,7 @@ A new group of parent participants was recruited to complete the same 11 tasks o
 * Bring top tasks up  - don’t dilute with tiny tasks 
 
 * Show Answers not information - surface and craft answers for top tasks
+
 
 ## Find out more
 
