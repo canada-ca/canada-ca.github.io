@@ -3,7 +3,6 @@ layout: post
 title:  "Old habits die hard (when feelings get in the way)"
 ref: habits
 date:   2018-03-14 09:48:44 +0100
-categories: category
 published: false
 lang: en
 alt: Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018
