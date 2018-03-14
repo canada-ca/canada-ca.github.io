@@ -2,7 +2,7 @@
 layout: post
 title:  "On se débarrasse difficilement des vieilles habitudes (lorsque les sentiments font obstacle)"
 ref: template
-date:   2018-03-14 09:48:44 +0100
+date:  2018-03-14 09:48:44 +0100
 categories: category
 lang: fr
 ---
