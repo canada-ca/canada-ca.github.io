@@ -24,6 +24,7 @@ From these discovery insights, the team generated a set of Jobs to be Done (When
 <figcaption><small>Jobs to be Done statement with team's voting dots</small></figcaption>
 </figure><br>
 
+
 From the long list of Jobs to be Done, the team used a Design Sprint dot voting technique to narrow down to the top 11 statements. we crafted these into detailed task scenarios that could be presented to Canadians who had volunteered to help improve the Canada.ca website. 
 
 ## Establishing a Baseline 
@@ -86,6 +87,7 @@ We’re happy to share what we’ve learned. If you’ve got questions, email us
 * [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) is a great article from Gerry McGovern on the value of top tasks and the survey voting method to validate them
 * [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
 * [How to conduct a top task analysis](https://measuringu.com/top-tasks/) from Jeff Sauro gets into some of the statistical details around analysing top task data from surveys
+* [Countering vaccine hesitancy - Pediatrics - August 2016](http://pediatrics.aappublications.org/content/early/2016/08/25/peds.2016-2146)
 
 ## Detailed task scenarios as presented to participants
 You can try out the scenario display process and tasks yourself (select that you are doing the tasks at the Akendi Office) at this SurveyGizmo link: http://ca.surveygizmo.com/s3/50011188/Health-task-display-v1 EN http://ca.surveygizmo.com/s3/50011188/sante-v1 FR
