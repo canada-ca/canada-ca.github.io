@@ -58,7 +58,7 @@ Les étapes sont relativement simples. Maintenant, notre principale tâche consi
 
 <b>À propos de Celeste Côté</b>
 
-Celeste Côté s’est jointe à la fonction publique en novembre 2017 pour travailler avec l’excellente équipe des opérations numériques du premier ministre au Bureau du Conseil privé (BCP). En tant que chef d’équipe du site Web du premier ministre (pm.gc.ca<http://pm.gc.ca>), Celeste gère les activités du site avec une formidable équipe de collaborateurs. Elle fournit également des conseils en matière de publication sur le Web à d’autres équipes du BCP et à l’échelle du gouvernement, au besoin.
+Celeste Côté s’est jointe à la fonction publique en novembre 2017 pour travailler avec l’excellente équipe des opérations numériques du premier ministre au Bureau du Conseil privé (BCP). En tant que chef d’équipe du site Web du premier ministre [pm.gc.ca](<http://pm.gc.ca>), Celeste gère les activités du site avec une formidable équipe de collaborateurs. Elle fournit également des conseils en matière de publication sur le Web à d’autres équipes du BCP et à l’échelle du gouvernement, au besoin.
 
 Entre son travail dans le secteur sans but lucratif et celui de consultante, Celeste évolue dans le domaine des communications et de la stratégie du contenu depuis plus d’une décennie. Elle a revu la mise en page et l’architecture du site Web, planifié et exécuté des campagnes multiplateformes et évalué les efforts au moyen d’analyses.
 
