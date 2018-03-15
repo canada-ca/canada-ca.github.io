@@ -25,7 +25,7 @@ From these discovery insights, the team generated a set of Jobs to be Done (When
 </figure><br>
 
 
-From the long list of Jobs to be Done, the team used a Design Sprint dot voting technique to narrow down to the top 11 statements. we crafted these into detailed task scenarios that could be presented to Canadians who had volunteered to help improve the Canada.ca website. 
+From the long list of Jobs to be Done, the team used a Design Sprint dot voting technique to narrow down to the top 11 statements. We crafted these into detailed task scenarios that could be presented to Canadians who had volunteered to help improve the Canada.ca website. 
 
 ## Establishing a Baseline 
 
