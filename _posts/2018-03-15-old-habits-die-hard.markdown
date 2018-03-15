@@ -62,6 +62,6 @@ Celeste Côté joined the public service in November 2017 to work with the stell
 
 Between her time in the non-profit sector and as a consultant, Celeste has been in communications and content strategy for over a decade. She's redesigned website layouts and architecture, planned and executed multi-platform campaigns, and evaluated efforts through analytics.
 
-Celeste is passionate about the (constantly changing) way people interact with information online. and keeps up with best practices by taking as many courses and webinars as possible.
+Celeste is passionate about the (constantly changing) way people interact with information online and keeps up with best practices by taking as many courses and webinars as possible.
 
 She's acclimatizing to life in government but still needs colleagues to spell out acronyms on occasion.
