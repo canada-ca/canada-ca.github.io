@@ -52,9 +52,23 @@ To solve the long list of issues we captured, the team created a working prototy
 
 Throughout the design process, we tested content with people through small, informal "guerilla" tests. These tests revealed problems with our designs that we were able to address before full-scale moderated usability testing. 
 
-<img class="img-responsive" alt="Smartphones showing the Zika page before and after redesign. The before image shows links with text under, while the after shows fewer options as buttons." src="/images/zika_phones.png">
+<img class="img-responsive" alt="Smartphones showing the Zika page before and after redesign. Detailed description follows." src="/images/zika_phones.png">
 <figure>
 <figcaption><small>Destinations with Zika page at baseline and after mobile redesign for validation</small></figcaption>
+<details>
+<summary>
+Detailed description
+</summary>
+<p>
+Two smartphones are shown with 2 different web pages. One is labelled "Baseline", the other "Redesign". In the "Baseline" page, the title is "Countries with recent or ongoing risk of Zika virus infection", followed by 2 long paragraphs of text that are too small to read. Following that is a list of countries beginning with "A", starting with Angola, Anguilla, Antigua and Barbuda, Argentina, and Aruba. An arrow points to the country list with an annotation "Too small to touch. Click to see answer.".</p>
+<p>
+In the "Redesign" page, the title is "Zika cirus: Destinations with risk of Zika". Below is a list of 6 links that are too small to read, one of which is highlighted. An arrow points to the highlighted link with the annotation "Tasks grouped together. Simplified title".</p>
+<p>
+Below that is a short paragraph of text too small to read, followed by a search box and a table showing countries with "No risk of Zika", "Low risk of Zika" or "High risk of Zika" next to them. An arrow points to the countries with an annotation "All countries listed. Answers in view."
+</p>
+
+</details>
+
 </figure><br />
 
 
