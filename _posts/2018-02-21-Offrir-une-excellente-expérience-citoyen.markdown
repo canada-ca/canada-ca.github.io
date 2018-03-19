@@ -9,7 +9,7 @@ lang: fr
 description: Billet de blogue par l’honorable Scott Brison, président du Conseil du Trésor.
 ---
 
-<b>Billet de blogue par l'honorable Scott Brison, président du Conseil du Trésor</b>
+<b>Par l'honorable Scott Brison, président du Conseil du Trésor</b>
 
 « Lorsqu’on rend notre dernier souffle, personne ne se dit ‘j'aurais aimé ça passer plus de temps avec le gouvernement!’ » 
 
