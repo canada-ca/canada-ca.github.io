@@ -10,7 +10,7 @@ lang: en
 description: Blog post by the Honourable Scott Brison, President of the Treasury Board. 
 ---
 
-<b>Blog post by the Honourable Scott Brison, President of the Treasury Board</b>
+<b>By the Honourable Scott Brison, President of the Treasury Board</b>
 
 “People on their deathbed don’t say to themselves ‘I wish I had spent more time with the government!’”
 
