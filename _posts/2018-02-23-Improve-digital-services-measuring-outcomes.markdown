@@ -9,7 +9,7 @@ published: true
 lang: en
 description: Gerry McGovern offers his thoughts on his visit to Ottawa last week. 
 ---
-<b>Blog post by Gerry McGovern</b>
+<b>By Gerry McGovern</b>
 
 In 2007, I first visited Ottawa. It was winter. Very cold. But what I remember most is the warmth and enthusiasm of the audience. And the size! There were about 300 people in the room for a two-day workshop. It was the biggest workshop audience I had ever—or have ever—presented to. It was a thrill!
 
