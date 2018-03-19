@@ -8,6 +8,7 @@ lang: en
 alt: Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018
 description: The main challenge of improving the UX of our sites and services isn’t the adoption of a particular technology or tool; it’s the adoption of new values and approaches — culture change.
 ---
+<b>By Celeste Côté</b>
 
 I’ve been working in digital content for the better part of a decade and I’ve often wondered why it’s so hard to get good work done when the best practices are out there, backed by research, and logically, we know what we need to do.
 
