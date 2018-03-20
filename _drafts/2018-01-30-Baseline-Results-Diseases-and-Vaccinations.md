@@ -23,7 +23,7 @@ From these discovery insights, the team generated a set of job stories. Job stor
 * **When** I return from a tropical trip, **I want to** know if I can be tested for Zika, **so I can** decide if I should delay getting pregnant
 
 <figure>
-<img class="img-responsive" alt="Hand-written sticky note says: When I'm pregnant, I want to know if I should get a flu shot so I can protect myself and my baby. There are several dots on the note." src="/images/JTBD_dots.jpg">
+<img class="img-responsive" alt="Hand-written sticky note on top of page with task for getting flu shot when pregnant.There are sticker dots on the note." src="/images/task_JTBD.jpg">
 <figcaption><small>Job stories with team's voting dots</small></figcaption>
 </figure><br>
 
