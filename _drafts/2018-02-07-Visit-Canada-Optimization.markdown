@@ -72,6 +72,7 @@ To understand if the prototypes were working better for people trying to visit C
 <h3>Seeing it work in the real world</h3>
 Once the prototypes were integrated into the live site in March 2017, analytics showed a solid improvement in people making it from the Visit Canada topic page through to the apply pages.
 
+
 <b>Before and after optimization:</b> February 2017 and June 2017
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
