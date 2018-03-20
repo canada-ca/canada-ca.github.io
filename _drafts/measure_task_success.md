@@ -9,11 +9,14 @@ lang: en
 ---
 Task success is a critical measurement for Canada.ca. Over the years, success rates for most top tasks have been measured in moderated task-based scenario research studies with Canadians.  As we conducted these studies across the vast scope of Canada.ca, we realized that we needed a new way to break down task success metrics to make the results actionable for the right teams.  Theme Leads are focused on the navigation layer while specialists tend to work on the actual content. To help assess the success of the navigation layers and Search and identify gaps caused by the content itself, we broke out Findability from the Task Completion Rate. 
 
-<img class="img-responsive" alt="Chart bars for 100 per cent findability and 50 per cent completion - arrow shows gap of 50%" src="/_images/Contentgap-en.PNG">
+Findability success rate
+Defined as the percent of participants who visited the target answer page(s) for the task during their task attempt. 
+* Usually there is only a single target page, but in some cases, the task can be solved from several pages, in which case all are included as targets. 
+* In some cases, the search result snippet for the target page shows enough detail that people can solve the task from the snippet alone. We coded these cases as successful for findability as well, since they used the content of the target page.  
+* Findability example: For the task of finding out whether your symptoms are more likely to be the flu versus a cold, the target pages selected by the team were the [Flu Symptoms page](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/symptoms-flu-influenza.html) and the [Is it a cold or the flu poster page](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/is-it-cold-or-flu.html). There is a link on the Flu symptoms page to the poster. 
+** 100% of 16 participants found the Flu Symptoms page, and 2 also found the poster. 
 
-Findability success rate = the percent of participants who visited the target page(s) for the task, either via search or navigation.
-* Findability example: For the task of finding out whether your symptoms are more likely to be the flu versus a cold, the target page selected by the team is the [Flu Symptoms page](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/symptoms-flu-influenza.html). 
-** 100% of 16 participants found the Flu Symptoms page 
+<img class="img-responsive" alt="Chart bars for 100 per cent findability and 50 per cent completion - arrow shows gap of 50%" src="/_images/Contentgap-en.PNG">
 
 Task completion rate = the percent of participants who correctly answered the task without guessing, either from the task content on the target page or on another page. 
 * Task completion example: The flu symptoms target page showed a list of flu and cold symptoms. Participants had to select both headache and fever from a list of symptoms as the most important signals that they had the flu rather than a cold. 
