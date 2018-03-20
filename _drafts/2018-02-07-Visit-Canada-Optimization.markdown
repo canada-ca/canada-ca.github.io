@@ -38,7 +38,7 @@ We then narrowed our scope to the most common tasks based on IRCC’s data and k
       <li>... to transit through a Canadian airport.</li>
 </ul>
 
-We ran hundreds of people through these tasks to find out how and why they were struggling. 
+We ran hundreds of people through these tasks in a combination of online and moderated studies to find out how and why they were struggling. 
 
 This is what the key page in the process looked like when we started. Notice the text at the top of the page with links for exceptions, dual citizens, and Canadian permanent residents. Testing showed that people weren't able to consistently see these links and would go straight to the drop-down list.
 
