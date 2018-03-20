@@ -70,7 +70,8 @@ The confusing layout including links to rules and requirements has been replaced
 To understand if the prototypes were working better for people trying to visit Canada, we ran 46 participants through the tasks in café testing sessions. The overall success rate for the prototypes was 91%, representing an improvement of 44 percentage points against the same tasks on the live site. 
 
 <h3>Seeing it work in the real world</h3>
-Once the prototypes were integrated into the live site in March 2017, analytics showed a solid improvement in people making it from the Visit Canada topic page through to the apply pages. 
+Once the prototypes were integrated into the live site in March 2017, analytics showed a solid improvement in people making it from the Visit Canada topic page through to the apply pages.
+
 <b>Before and after optimization:</b> February 2017 and June 2017
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
