@@ -9,7 +9,7 @@ alt: Photographie de Celeste Côté durant l’atelier de maître de Gerry McGov
 description: Le principal défi lié à l’amélioration de l’EU de nos sites et services ne consiste pas en l’adoption d’une technologie ou d’un outil en particulier; il s'agit plutôt d’adopter de nouvelles valeurs et approches, autrement dit, un changement de culture.
 ---
 
-<b>Par Celeste Côté</b>
+<b>Par Celeste Côté, Bureau du Conseil privé</b>
 
 Je travaille dans le domaine du contenu numérique depuis une dizaine d’années et je me suis souvent demandé pourquoi il est si difficile de faire du bon travail quand les pratiques exemplaires sont là, appuyées par la recherche, et que logiquement, nous savons ce que nous devons faire.  
 
