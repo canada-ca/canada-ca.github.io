@@ -39,7 +39,7 @@ The following chart compares the baseline test scores for findability with the t
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/TaxFilingbaseline.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
+          <span class=""><img src="../images/taxes-impots/TaxFilingbaseline.jpg" alt="Bar-chart-of-Baseline-Performance-Results-comparing-findability-and-task-completion">
  </span>
       </div>
   <p><br>
@@ -54,19 +54,19 @@ Many people got lost on long pages of text. They may be on the correct page, but
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive left-block col-md-6">
-          <span class=""><img src="../images/TF-slide1.JPG" alt="Menu-too-hard-to-find" style="floating:left">
+          <span class=""><img src="../images/taxes-impots/TF-slide1.JPG" alt="Menu-too-hard-to-find" style="floating:left">
 <span>
 <br>
       Sometimes people would be have to look throughlong lists of links to find the next step. In many cases, they were not able to find the right link.
       
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive left-block col-md-6">
-          <span class=""><img src="../images/TF-slide2.JPG" alt="Menu-too-hard-to-find" style="floating:left">
+          <span class=""><img src="../images/taxes-impots/TF-slide2.JPG" alt="Menu-too-hard-to-find" style="floating:left">
 <br>
       Another problem that came up frequently involved pages that seemed like they should have the right answer on it but didn't. In user centered design terms, the "scent of information" was leading people downt the wrong path.  
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive left-block col-md-6">
-          <span class=""><img src="../images/TF-slide3.JPG" alt="Menu-too-hard-to-find" style="floating:left">
+          <span class=""><img src="../images/taxes-impots/TF-slide3.JPG" alt="Menu-too-hard-to-find" style="floating:left">
 
 </span>
 </div>
