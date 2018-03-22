@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Improving the online experience for people visiting Canada"
-ref: template
+ref: XXtemplateXX
 date:   2018-02-05 16:34:44 +0100
-categories: category
 published: false
 lang: en
+alt: XXXX alt tag for the article image on the blog list XXXX
+description: XXXX article description that goes on main blog list XXXX
 ---
 
 Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we had approximately 20.8 million visitors, breaking our previous record. 
@@ -44,7 +45,7 @@ This is what the key page in the process looked like when we started. Notice the
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/VisaETA-before.jpg" alt="Image showing what Find out if you need a visa page looked like before optimization." border="5">
+          <span class=""><img src="../images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what Find out if you need a visa page looked like before optimization." border="5">
  </span>
  </div>
 
@@ -60,7 +61,7 @@ With baseline research in hand, the team redesigned the process to solve the iss
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/VisaETA-after.jpg" alt="Image showing what the Find out if you need a visa or an eTA page looked like after optimization" border="5">
+          <span class=""><img src="../images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the Find out if you need a visa or an eTA page looked like after optimization" border="5">
  </span>
  </div>
 
@@ -76,7 +77,7 @@ Once the prototypes were integrated into the live site in March 2017, analytics 
 <b>Before and after optimization:</b> February 2017 and June 2017
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/VisitFunnels.PNG" alt="Image showing that in February 2017, only 35% of clicks from the Visit Canada topic page went to either the Find out if you need a visa or an eTA, Apply for a visa, or Apply for an eTA pages. In June 2017 that number rose to 62%. This indicates that the Visit Canada topic page became more effective at helping people complete their tasks." border="5">
+          <span class=""><img src="../images/eTA-AVE/VisitFunnels.PNG" alt="Image showing that in February 2017, only 35% of clicks from the Visit Canada topic page went to either the Find out if you need a visa or an eTA, Apply for a visa, or Apply for an eTA pages. In June 2017 that number rose to 62%. This indicates that the Visit Canada topic page became more effective at helping people complete their tasks." border="5">
  </span>
  </div>
  As the chart shows, people’s success at finding the apply pages jumped by 27 percentage points, from 35% before to 62% after. Also, we saw more people using the navigation menu to enter the flow.
