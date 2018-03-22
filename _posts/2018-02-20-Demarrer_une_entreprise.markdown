@@ -31,7 +31,7 @@ Afin de comprendre ces besoins, nous avons déterminé les différentes mesures 
 
 Ce qui a également aidé à mettre en lumière certains des points du processus qui étaient particulièrement problématiques. Voici un exemple de diagramme de décision pour l’une des tâches de lancement d’entreprise, qui a mis en lumière les points problématiques.
 
-<img class="img-responsive" alt="Diagramme rédigé à la main qui montre ce qui se passe au moment de la constitution en société. La version texte suit." src="/images/Nom_dentreprise_decisions.jpg">
+<img class="img-responsive" alt="Diagramme rédigé à la main qui montre ce qui se passe au moment de la constitution en société. La version texte suit." src="/images/start-lancer/Nom_dentreprise_decisions.jpg">
 
 <details>
 		<summary>Version texte</summary>
@@ -79,7 +79,7 @@ La nouvelle conception a été mise en ligne dans le menu « Entreprises » de C
 
 **Avant et après l’optimisation :** Du 4 février au 4 avril 2017 et du 26 mai au 24 juillet 2017
 
-<img class="img-responsive" alt="Le diagramme montre la différence de flux avant et après l’optimisation. La version texte suit." src="/images/Nom_dentreprise_entonnoir.png">
+<img class="img-responsive" alt="Le diagramme montre la différence de flux avant et après l’optimisation. La version texte suit." src="/images/start-lancer/Nom_dentreprise_entonnoir.png">
 
 <details>
   <summary>Version texte de ce diagramme</summary>
