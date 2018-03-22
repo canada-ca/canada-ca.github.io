@@ -13,7 +13,7 @@ Canada is a great big, beautiful country with lots to see and do. In 2017, Canad
 
 It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)". Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC). 
 
-Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they needed, and some people were even stopped at the Canadian border because they had for the wrong document. 
+Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they needed, and some people could not board their originally scheduled flight to Canada because they had for the wrong document. 
 * [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927)
 
 In January 2017, the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. To help out, the Digital Transformation Office worked with IRCC to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out. 
