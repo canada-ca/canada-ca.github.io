@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Measuring findability and task success"
-ref: template
+ref: XXtemplateXX
 date:   2018-01-02 09:48:44 +0100
-categories: category
 published: false
 lang: en
+alt: XXXX alt tag for the article image on the blog list XXXX
+description: XXXX article description that goes on main blog list XXXX
 ---
 Task success is a critical measurement for Canada.ca. Over the years, success rates for most top tasks have been measured in moderated task-based scenario research studies with Canadians.  As we conducted these studies across the vast scope of Canada.ca, we realized that we needed a new way to break down task success metrics to make the results actionable for the right teams.  The team of Theme Leads are responsible for the design of the navigation layer on Canada.ca - the menus and topic pages. Specialists within government institutions tend to work on the destination page content, where user tasks are usually completed. To help assess the success of the navigation layers and Search and identify gaps caused by the content itself, we broke out Findability from the Task Completion Rate. 
 
@@ -16,7 +17,7 @@ Defined as the percent of participants who visited the target answer page(s) for
 * Findability example: For the task of finding out whether your symptoms are more likely to be the flu versus a cold, the target page selected by the team was the [Flu Symptoms page](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/symptoms-flu-influenza.html).
 ** 100% of 16 smart phone participants in the Baseline test study found the Flu Symptoms page.  94% (15 of 16 smartphone participants) found the Symptoms page in the Validation study. Clearly finding the page isn't the problem. 
 
-<img class="img-responsive" alt="Chart bars for 100 per cent findability and 50 per cent completion - arrow shows gap of 50%" src="/images/Content_gap-en.PNG">
+<img class="img-responsive" alt="Chart bars for 100 per cent findability and 50 per cent completion - arrow shows gap of 50%" src="/images/diseases-maladies-immun/Content_gap-en.PNG">
 
 Task completion rate = the percent of participants who correctly answered the task, either from the task content on the target page or from correct content on a page other than the target page(s). 
 * Task completion example: The flu symptoms target page showed a list of flu and cold symptoms. Participants had to select both headache and fever from a list of symptoms as the most important signals that they had the flu rather than a cold. 
