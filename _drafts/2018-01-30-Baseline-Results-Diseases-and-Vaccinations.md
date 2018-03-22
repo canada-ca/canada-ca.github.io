@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Diseases and immunization project"
-ref: template
+ref: XXtemplateXX
 date:   2018-01-23 15:19:02 +0100
-categories: category
 published: false
 lang: en
+alt: XXXX alt tag for the article image on the blog list XXXX
+description: XXXX article description that goes on main blog list XXXX
 ---
 
 The diseases and immunization optimization project kicked off in the fall of 2017. Health Canada and the Public Health Agency of Canada pulled together a collaborative team from web communications, immunization and disease programs, and strategic marketing. Combined with the designers and researchers from the Digital Transformation Office, we set out to improve content and design related to diseases, immunization, and travel health. 
@@ -23,7 +24,7 @@ From these discovery insights, the team generated a set of job stories. Job stor
 * **When** I return from a tropical trip, **I want to** know if I can be tested for Zika, **so I can** decide if I should delay getting pregnant
 
 <figure>
-<img class="img-responsive" alt="Hand-written sticky note on top of page with task for getting flu shot when pregnant.There are sticker dots on the note." src="/images/task_JTBD.jpg">
+<img class="img-responsive" alt="Hand-written sticky note on top of page with task for getting flu shot when pregnant.There are sticker dots on the note." src="/images/diseases-maladies-immun/task_JTBD.jpg">
 <figcaption><small>Job stories with team's voting dots</small></figcaption>
 </figure><br>
 
@@ -52,7 +53,7 @@ To solve the long list of issues we captured, the team created a working prototy
 
 Throughout the design process, we tested content with people through small, informal "guerilla" tests. These tests revealed problems with our designs that we were able to address before full-scale moderated usability testing. 
 
-<img class="img-responsive" alt="Smartphones showing the Zika page before and after redesign. Detailed description follows." src="/images/zika_phones.png">
+<img class="img-responsive" alt="Smartphones showing the Zika page before and after redesign. Detailed description follows." src="/images/diseases-maladies-immun/zika_phones.png">
 <figure>
 <figcaption><small>Destinations with Zika page at baseline and after mobile redesign for validation</small></figcaption>
 <details>
@@ -80,7 +81,7 @@ Once the revised design was ready, 16 new participants were recruited to complet
  
  <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/Baseline vs Validation Success results.JPG" alt="image-of-chart-showing-baseline-and-final-test-results">
+          <span class=""><img src="../images/diseases-maladies-immun/Baseline_vs_Validation_Success_results.JPG" alt="image-of-chart-showing-baseline-and-final-test-results">
        </span>
 	   <strong>NOTE that we have to include a datatable listing all of these values, it's not enough to say that it's a chart</strong>
        </div>
