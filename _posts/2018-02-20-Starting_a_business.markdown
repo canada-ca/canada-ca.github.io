@@ -30,7 +30,7 @@ The needs of the entrepreneurs were straightforward. They wanted to:
 
 To understand those needs, we mapped out the different actions and decisions that a new business owner has to make. This also helped to highlight some of the points in the process that were particularly painful. Here’s an example of a decision map for one of the start-a-business tasks that highlighted a key pain point:
 
-<img class="img-responsive" alt="Hand-drawn decision tree showing what happens when incorporating. Text version follows" src="/images/Naming_a_business_decisions.JPG">
+<img class="img-responsive" alt="Hand-drawn decision tree showing what happens when incorporating. Text version follows" src="/images/start-lancer/Naming_a_business_decisions.JPG">
 
 
 <details>
@@ -80,7 +80,7 @@ The new designs went live in the Canada.ca “Business” theme in early 2017. A
 
 **Before and after optimization:** February 4 to April 4, 2017 and May 26 to July 24, 2017    
 
-<img class="img-responsive" alt="Chart showing traffic differences before and after optimization. Text version follows." src="/images/Naming_a_business_funnel.png">
+<img class="img-responsive" alt="Chart showing traffic differences before and after optimization. Text version follows." src="/images/start-lancer/Naming_a_business_funnel.png">
 
 <details>
 		<summary>Text version of this chart</summary>
