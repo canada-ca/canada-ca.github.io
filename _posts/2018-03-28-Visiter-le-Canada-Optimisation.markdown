@@ -30,7 +30,7 @@ Lors de nos recherches initiales, nous avons élaboré différents scénarios po
 
 Nous avons ensuite rétréci notre champ d’examen aux tâches les plus courantes. Pour ce faire, nous sommes appuyés sur les données et les connaissances d’IRCC : 
 
-<br>Découvrir ce dont j’ai besoin pour venir au Canada...
+Découvrir ce dont j’ai besoin pour venir au Canada...
 <ul>
       <li>... comme touriste de mon pays</li>
       <li>... pour rendre visite à mes enfants ou petits-enfants</li>
