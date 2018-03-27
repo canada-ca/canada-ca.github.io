@@ -56,11 +56,11 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 À l’aide de la recherche de base, l’équipe a remanié le processus pour régler les problèmes dont nous avons appris l’existence. Ensemble, IRCC et le BTN ont élaboré des prototypes. Nous espérions que ces prototypes allaient aider les gens à savoir de quels documents de voyage ils ont besoin. Voici quelques uns des principales corrections :
 
 <ul>
-      <li>Using a question and answer approach to guide people through the task</li>
-      <li>Creating new pages for groups that were not covered previously (refugees and former permanent residents)</li>
-      <li>Simplifying navigation to reduce cognitive load, by removing sidebar navigation links from pages</li>
-      <li>Reducing the number of links on the Visit Canada topic page from 9 to 5 to streamline the target path</li>
-      <li>Adding a crosslink to the Visit Canada topic page in the Travel theme menu based on user evidence</li>
+      <li>adopter une approche de questions et réponses pour guider les gens qui effectuent la tâche</li>
+      <li>créer de nouvelles pages pour les groupes qui n’étaient pas couverts auparavant (réfugiés et anciens résidents permanents</li>
+      <li>simplifier la navigation pour réduire la charge cognitive, en supprimant les liens de navigation dans les encadrés latéraux des pages</li>
+      <li>ramener le nombre de liens sur la page thématique Visiter le Canada de 9 à 5 afin de simplifier le chemin d’accès</li>
+      <li>ajouter un lien croisé à la page thématique Visiter le Canada dans le menu thématique Voyage, en fonction des données probantes sur l’utilisateur</li>
 </ul>
 
 <div itemprop="text" class="" data="type-text">
@@ -69,28 +69,27 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
  </span>
  </div>
 
-The confusing layout including links to rules and requirements has been replaced by a series of questions and answers that help people get to the right answer.
+La mise en page était parfois confondante, notamment les liens vers les règles et les exigences. Nous l’avons remplacée par une série de questions et réponses qui aident les gens à obtenir la bonne réponse.
 
-<h3>Validating the prototypes</h3>
-To understand if the prototypes were working better for people trying to visit Canada, we ran 46 participants through the tasks in café testing sessions. The overall success rate for the prototypes was 91%, representing an improvement of 44 percentage points against the same tasks on the live site. 
+<h3>Validation des prototypes</h3>
+Pour comprendre si les prototypes produisaient de meilleurs résultats pour les personnes qui essaient de visiter le Canada, nous avons organisé 46 séances d’essai de style Café. Le taux de réussite global pour les prototypes était de 91 %. Cela représente une amélioration de 44 points de pourcentage par rapport aux mêmes tâches sur le site en direct. 
 
-<h3>Seeing it work in the real world</h3>
-Once the prototypes were integrated into the live site in March 2017, analytics showed a solid improvement in people making it from the Visit Canada topic page through to the apply pages.
+<h3>Voir son fonctionnement dans le monde réel</h3>
+Après l’intégration des prototypes au site en direct en mars 2017, les analyses ont montré une amélioration marquée du nombre de personnes qui sont passées de la page thématique Visiter le Canada aux pages de présentation de demande. 
 
-
-<b>Before and after optimization:</b> February 2017 and June 2017
+<b>Avant et après l’optimisation : </b> février 2017 et juin 2017
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/eTA-AVE/VisitFunnels.PNG" alt="Image showing that in February 2017, only 35% of clicks from the Visit Canada topic page went to either the Find out if you need a visa or an eTA, Apply for a visa, or Apply for an eTA pages. In June 2017 that number rose to 62%. This indicates that the Visit Canada topic page became more effective at helping people complete their tasks." border="5">
  </span>
  </div>
- As the chart shows, people’s success at finding the apply pages jumped by 27 percentage points, from 35% before to 62% after. Also, we saw more people using the navigation menu to enter the flow.
-Due to this project, people who want to visit Canada can spend less time worrying about travel documents, and more time enjoying their visit to our country.
 
-<h3>What do you think?</h3>
-Let us know what you think about this project. Email us at <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> or tweet using the hashtag #Canadadotca.
+Comme le montre le graphique, le nombre de personnes qui ont réussi à trouver les pages de présentation de demande a fait un bond de 27 points de pourcentage, passant de 35 % avant à 62 % après l’optimisation. Nous avons également constaté qu’un plus grand nombre de personnes utilisent le menu de navigation pour commencer le processus. Grâce à ce projet, les personnes qui souhaitent visiter le Canada peuvent passer moins de temps à s’inquiéter au sujet des documents de voyage et profiter davantage de leur visite dans notre pays. 
 
-<h3>Learn more about this project</h3>
-      <li><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html">Check out the optimized Visit Canada page</a></li>
-      <li><a href="http://www.statcan.gc.ca/daily-quotidien/180220/dq180220c-eng.htm">Read Statistics Canada’s report on travel between Canada and other countries</a></li>
-      <li><a href="https://canada-ca.github.io/pages/top-task-list-canada-ca.html">See the inventory of top tasks for Canada.ca</a></li>
+<h3>Qu’en pensez-vous?</h3>
+Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à l’adresse <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> ou un gazouillis au moyen du mot-clic #Canadapointca.
+
+<h3>Pour en savoir plus long sur ce projet</h3>
+      <li><a href="https://www.canada.ca/fr/immigration-refugees-citizenship/services/visit-canada.html">Consultez la page Visiter le Canada optimisée</a></li>
+      <li><a href="http://www.statcan.gc.ca/daily-quotidien/180220/dq180220c-fr.htm">Lisez le rapport de Statistique Canada sur les voyages entre le Canada et d’autres pays </a></li>
+      <li><a href="https://canada-ca.github.io/pages/top-task-list-canada-ca.html">Consultez l’inventaire des tâches principales pour Canada.ca</a></li>
