@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visiter le Canada - Optimisation"
+title:  "Visiter le Canada Optimisation"
 ref: visit
 date:   2018-03-28 16:34:44 +0100
 published: false
