@@ -6,7 +6,7 @@ date:   2018-03-28 16:34:44 +0100
 published: false
 lang: en
 alt: XXXX alt tag for the article image on the blog list XXXX
-description: XXXX article description that goes on main blog list XXXX
+description: The Digital Transformation Office (DTO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
 ---
 
 Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we had approximately 20.8 million visitors, breaking our previous record. 
