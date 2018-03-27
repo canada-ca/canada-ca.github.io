@@ -1,47 +1,50 @@
 ---
 layout: post
-title:  "Improving the online experience for people visiting Canada"
+title:  "Visiter le Canada - Optimisation"
 ref: visit
 date:   2018-03-28 16:34:44 +0100
 published: false
-lang: en
+lang: fr
 alt: XXXX alt tag for the article image on the blog list XXXX
-description: XXXX article description that goes on main blog list XXXX
+description: Le Bureau de la transformation numérique (BTN) a collaboré avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
 ---
 
-Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we had approximately 20.8 million visitors, breaking our previous record. 
+Le Canada est un grand et beau pays dans lequel il y a beaucoup à voir et de nombreuses expériences à vivre. En 2017, année du 150e anniversaire de la Confédération du Canada, nous avons accueilli environ 20,8 millions de visiteurs. Nous avons ainsi battu notre précédent record.
 
-It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)". Both of these travel documents are issued by Immigration, Refugees, and Citizenship Canada (IRCC). 
+Il ne faut donc pas s’étonner que 2 des 5 services les plus populaires sur Canada.ca soient « Obtenez un visa de visiteur » et « Obtenez une autorisation de voyage électronique (AVE) ». Immigration, Réfugiés et Citoyenneté Canada (IRCC) ces deux documents de voyage.
 
-Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they needed, and some people could not board their flight to Canada because they had for the wrong document. 
-* [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927)
+Il n’est pas toujours facile de savoir quel document vous devez demander pour entrer au Canada. Ou même si vous devez en demander un. Plusieurs personnes ont eu du mal à déterminer de quel document elles avaient besoin. Quelques personnes n’ont pas pu monter à bord de l’avion pour le Canada parce qu’elles n’avaient pas le bon document
 
-In January 2017, the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. To help out, the Digital Transformation Office worked with IRCC to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out. 
+* [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927) (Les nouvelles exigences en matière de voyage empêchent un homme d’entrer au Canada pour Noël (chaîne anglaise de Radio-Canada)
 
-<h3>Understanding the problem</h3>
-During our discovery research, we mapped out the different scenarios for people visiting Canada. What they need depended on a variety of criteria:
+En janvier 2017, l’équipe Web d’IRCC s’est donné pour priorité de régler cette tâche. Les modifications des exigences relatives à l’AVE devaient bientôt entrer en vigueur et rendre la situation encore plus confuse. Le Bureau de la transformation numérique (BTN) a collaboré avec IRCC afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
+
+<h3>Comprendre le problème</h3>
+Lors de nos recherches initiales, nous avons élaboré différents scénarios pour des personnes qui visitent le Canada. Ce dont elles ont besoins dépend de divers critères :
 <ul>
-      <li>What country they are coming from</li>
-      <li>What foreign citizenship they currently hold</li>
-      <li>Whether they are a dual citizen or a permanent resident</li>
-      <li>What mode of travel they are using to cross the Canadian border.</li>
+      <li>De quel pays viennent elles?</li>
+      <li>Quelle est leur nationalité actuelle d’un pays étranger?</li>
+      <li>Ont-elles la double nationalité ou sont-elles des résidents permanents?</li>
+      <li>Quel mode de transport utilisent elles pour franchir la frontière canadienne?</li>
 </ul>
 
-We then narrowed our scope to the most common tasks based on IRCC’s data and knowledge:
-<br>Find out what I need to come to Canada...
+Nous avons ensuite rétréci notre champ d’examen aux tâches les plus courantes. Pour ce faire, nous sommes appuyés sur les données et les connaissances d’IRCC : 
+
+<br>Découvrir ce dont j’ai besoin pour venir au Canada...
 <ul>
-      <li>... as a tourist from my country</li>
-      <li>... to visit my children or grandchildren</li>
-      <li>... as a Canadian permanent resident</li>
-      <li>... as a former Canadian permanent resident</li>
-      <li>... as a Canadian dual citizen</li>
-      <li>... from the USA with an American passport</li>
-      <li>... to transit through a Canadian airport.</li>
+      <li>... comme touriste de mon pays</li>
+      <li>... pour rendre visite à mes enfants ou petits-enfants</li>
+      <li>... en tant que résident permanent canadien</li>
+      <li>... en tant qu’ancien résident permanent canadien</li>
+      <li>... en tant que citoyen canadien ayant la double nationalité</li>
+      <li>... des États-Unis avec un passeport américain</li>
+      <li>... pour transiter par un aéroport canadien</li>
 </ul>
 
-We ran hundreds of people through these tasks in a combination of online and moderated studies to find out how and why they were struggling. 
+Nous avons fait exécuter ces tâches à des centaines de personnes dans le cadre d’études en ligne combinées à des études dirigées. Notre objectif était de découvrir comment et pourquoi elles avaient eu tant de mal.
 
-This is what the key page in the process looked like when we started. Notice the text at the top of the page with links for exceptions, dual citizens, and Canadian permanent residents. Testing showed that people weren't able to consistently see these links and would go straight to the drop-down list.
+Voici à quoi ressemblait la page principale du processus lorsque nous avons commencé. Remarquez le texte au sommet de la page. Ce texte comprend des liens pour les exceptions, les citoyens qui ont la double nationalité et les résidents permanents canadiens. Des tests ont montré que les gens n’étaient pas capables de voir ces liens avec régularité. Ils allaient plutôt directement à la liste déroulante.
+
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
@@ -49,8 +52,9 @@ This is what the key page in the process looked like when we started. Notice the
  </span>
  </div>
 
-<h3>Redesigning the process</h3>
-With baseline research in hand, the team redesigned the process to solve the issues we learned about. Together, IRCC and DTO built prototypes that we hoped would improve the experience of people trying to understand which travel documents they needed. Key fixes included:
+<h3>Remaniement du processus</h3>
+À l’aide de la recherche de base, l’équipe a remanié le processus pour régler les problèmes dont nous avons appris l’existence. Ensemble, IRCC et le BTN ont élaboré des prototypes. Nous espérions que ces prototypes allaient aider les gens à savoir de quels documents de voyage ils ont besoin. Voici quelques uns des principales corrections :
+
 <ul>
       <li>Using a question and answer approach to guide people through the task</li>
       <li>Creating new pages for groups that were not covered previously (refugees and former permanent residents)</li>
