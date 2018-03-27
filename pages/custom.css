@@ -31,6 +31,23 @@ body {
     }
 }
 
+.timeline-title {
+  
+        font-size: 20px;
+		font-weight: 500;
+        max-width: 400px;
+
+    }
+
+	
+.timeline-title-soon {
+  
+        font-size: 20px;
+		font-weight: 500;
+        max-width: 400px;
+		margin: 0 0 0 1.8em;
+    }
+
 /* -- timeline -- */
     .timeline {
         line-height: 1.4em;
@@ -133,6 +150,15 @@ body {
   
    .summary-custom {
 	  
-	 border-top: 1px solid #ccc; 
-	 padding-top: 15px;
+	 border-top: 1px solid #ddd;
+	 margin-top: 10px;
+
+  }
+
+   /* ::-webkit-details-marker { display:none; } */
+
+  
+  .soon {
+	  
+	  color: #bbb;
   }
