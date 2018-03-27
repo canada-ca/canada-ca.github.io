@@ -90,6 +90,6 @@ Comme le montre le graphique, le nombre de personnes qui ont réussi à trouver 
 Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à l’adresse <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> ou un gazouillis au moyen du mot-clic #Canadapointca.
 
 <h3>Pour en savoir plus long sur ce projet</h3>
-      <li><a href="https://www.canada.ca/fr/immigration-refugees-citizenship/services/visit-canada.html">Consultez la page Visiter le Canada optimisée</a></li>
-      <li><a href="http://www.statcan.gc.ca/daily-quotidien/180220/dq180220c-fr.htm">Lisez le rapport de Statistique Canada sur les voyages entre le Canada et d’autres pays </a></li>
-      <li><a href="https://canada-ca.github.io/pages/top-task-list-canada-ca.html">Consultez l’inventaire des tâches principales pour Canada.ca</a></li>
+      <li><a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada.html">Consultez la page Visiter le Canada optimisée</a></li>
+      <li><a href="http://www.statcan.gc.ca/daily-quotidien/180220/dq180220c-fra.htm">Lisez le rapport de Statistique Canada sur les voyages entre le Canada et d’autres pays </a></li>
+      <li><a href="https://canada-ca.github.io/pages/taches-principales-canada-ca.html">Consultez l’inventaire des tâches principales pour Canada.ca</a></li>
