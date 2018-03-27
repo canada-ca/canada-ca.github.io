@@ -48,7 +48,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what Find out if you need a visa page looked like before optimization." border="5">
+          <span class=""><img src="../images/eTA-AVE/VisaAVE-avant.JPG" alt="Image showing what Find out if you need a visa page looked like before optimization." border="5">
  </span>
  </div>
 
