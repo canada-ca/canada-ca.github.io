@@ -80,6 +80,21 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
           <span class=""><img src="../images/eTA-AVE/VisaAVE-apres.JPG" alt="Image showing what the Find out if you need a visa or an eTA page looked like after optimization" border="5">
  </span>
  </div>
+	
+<details>
+		<summary>Text version of this image</summary>
+	<p>Cette image montre la page  « Vérifiez si vous avez besoin d'un visa » après optimisation. Il y a un court paragraphe de texte suivi de «Êtes-vous :», suivi de cinq choix possibles: </p>
+	<ul>
+		<li>un citoyen du Canada et d’un autre pays (double nationalité)</li>
+		<li>un résident permanent du Canada (Carte RP)</li>
+		<li>un réfugié voyageant avec un titre de voyage délivré aux non-citoyens</li>
+		<li>une personne apatride voyageant avec un passeport pour étranger</li>
+		<li>un ancien résident du Canada</li>
+		<li>aucune de ces situations</li>
+	</ul>
+	<p>La page a beaucoup moins de « bruit visuel  » qu'avant l'optimisation.<p>
+	
+</details>
 
 La mise en page était parfois confondante, notamment les liens vers les règles et les exigences. Nous l’avons remplacée par une série de questions et réponses qui aident les gens à obtenir la bonne réponse.
 
