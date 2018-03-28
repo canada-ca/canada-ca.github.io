@@ -54,15 +54,13 @@ This is what the key page in the process looked like when we started. Notice the
 
 <details>
 		<summary>Text version of this image</summary>
-	<p>This image shows what the “Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa” page looked like before it was optimized.</p><p>There are two paragraphs of text with four links embedded in them. Below that, in a blue box, is more text with a drop down menu of countries. At the bottom of the page are three large related links in boxes. On the left side of the page is a left-hand navigation table with links to:</p>
-	
-	<p><ul>
+	<p>This image shows what the “Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa” page looked like before it was optimized.</p><p>There are two paragraphs of text with four links embedded in them. Below that, in a blue box, is more text with a drop down menu of countries. At the bottom of the page are three large related links in boxes. On the left side of the page is a left-hand navigation table with links to:</p><ul>
 	<li>visit as a tourist</li>
 	<li>visit your children or grandchildren</li>
 	<li>visit on business</li>
 	<li>extend your stay</li>
 	<li>transit through Canada</li>
-	</ul></p>
+	</ul>
 	
 </details>
 
