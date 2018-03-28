@@ -48,7 +48,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/eTA-AVE/VisaAVE-avant.JPG" alt="Image showing what Find out if you need a visa page looked like before optimization." border="5">
+          <span class=""><img src="../images/eTA-AVE/VisaAVE-avant.JPG" alt="Image montrant la page « Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur » avant l'optimisation." border="5">
  </span>
  </div>
 
@@ -77,7 +77,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/eTA-AVE/VisaAVE-apres.JPG" alt="Image showing what the Find out if you need a visa or an eTA page looked like after optimization" border="5">
+          <span class=""><img src="../images/eTA-AVE/VisaAVE-apres.JPG" alt="Image montrant la page « Vérifiez si vous avez besoin d'un visa » après l'optimisation." border="5">
  </span>
  </div>
 	
