@@ -2,7 +2,7 @@
 layout: post
 title:  "Visit Canada Optimization"
 ref: visit
-date:   2018-03-29 16:34:44 +0100
+date:   2018-03-28 16:34:44 +0100
 published: false
 lang: en
 alt: This image shows two funnels comparing before and after optimization.
@@ -48,7 +48,7 @@ This is what the key page in the process looked like when we started. Notice the
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what Find out if you need a visa page looked like before optimization." border="5">
+          <span class=""><img src="../images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what “Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa” looked like before optimization." border="5">
  </span>
  </div>
 
@@ -76,7 +76,7 @@ With baseline research in hand, the team redesigned the process to solve the iss
 
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the Find out if you need a visa or an eTA page looked like after optimization" border="5">
+          <span class=""><img src="../images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the "Find out if you need a visa page" looked like after optimization" border="5">
  </span>
  </div>
       
