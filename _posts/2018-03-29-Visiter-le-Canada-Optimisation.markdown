@@ -2,7 +2,7 @@
 layout: post
 title:  "Visiter le Canada Optimisation"
 ref: visit
-date:   2018-03-28 16:34:44 +0100
+date:   2018-03-29 16:34:44 +0100
 published: false
 lang: fr
 alt: XXXX alt tag for the article image on the blog list XXXX
@@ -107,7 +107,7 @@ Après l’intégration des prototypes au site en direct en mars 2017, les analy
 <b>Avant et après l’optimisation : </b> février 2017 et juin 2017
 <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
-          <span class=""><img src="../images/eTA-AVE/VisitFunnels.PNG" alt="Image showing that in February 2017, only 35% of clicks from the Visit Canada topic page went to either the Find out if you need a visa or an eTA, Apply for a visa, or Apply for an eTA pages. In June 2017 that number rose to 62%. This indicates that the Visit Canada topic page became more effective at helping people complete their tasks." border="5">
+          <span class=""><img src="../images/eTA-AVE/VisiterEntonnoirs.PNG" alt="Image showing that in February 2017, only 35% of clicks from the Visit Canada topic page went to either the Find out if you need a visa or an eTA, Apply for a visa, or Apply for an eTA pages. In June 2017 that number rose to 62%. This indicates that the Visit Canada topic page became more effective at helping people complete their tasks." border="5">
  </span>
  </div>
 	<details>
