@@ -133,3 +133,20 @@ Let us know what you think about this project. Email us at <a href="mailto:infor
       <li><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html">Check out the optimized Visit Canada page</a></li>
       <li><a href="http://www.statcan.gc.ca/daily-quotidien/180220/dq180220c-eng.htm">Read Statistics Canada’s report on travel between Canada and other countries</a></li>
       <li><a href="https://canada-ca.github.io/pages/top-task-list-canada-ca.html">See the inventory of top tasks for Canada.ca</a></li>
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" width="185px" alt="Eric Cooper" />
+      Eric Cooper<br>
+      <b>Project Coordinator</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>Eric is a Project Coordinator for the Treasury Board of Canada Secretariat. It takes a lot of work to overhaul a top task and Eric contributes by engaging with partners, managing the schedules, and getting tools when needed (digital or analog). Over the past 3 years, he’s contributed to the development and publication of the Canada.ca Content and Information Architecture Specification and the Canada.ca Content Style Guide.</p><p>He holds an honours Bachelor’s degree of Integrated Science with concentrations in Mathematics and Psychology and he earned his Project Management Professional PMP certification in 2017.</p>
+
+</figcaption>
+</div>
