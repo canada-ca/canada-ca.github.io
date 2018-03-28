@@ -52,6 +52,12 @@ This is what the key page in the process looked like when we started. Notice the
  </span>
  </div>
 
+<details>
+		<summary>Text version of this image</summary>
+	<p>This image shows what the “Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa” page looked like before it was optimized. There are two paragraphs of text with four links embedded in them. Below that, in a blue box, is more text with a drop down menu of countries. At the bottom of the page are three large related links in boxes. On the left side of the page is a left-hand navigation table with links to: Visit as a tourist, Visit your children or grandchildren, Visit on business, Extend your stay, and Transit through Canada.<p>
+	
+</details>
+
 <h3>Redesigning the process</h3>
 With baseline research in hand, the team redesigned the process to solve the issues we learned about. Together, IRCC and DTO built prototypes that we hoped would improve the experience of people trying to understand which travel documents they needed. Key fixes included: 
 <ul>
@@ -67,6 +73,12 @@ With baseline research in hand, the team redesigned the process to solve the iss
           <span class=""><img src="../images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the Find out if you need a visa or an eTA page looked like after optimization" border="5">
  </span>
  </div>
+      
+<details>
+		<summary>Text version of this image</summary>
+	<p>This image shows the “Find out if you need a visa” page after optimization. It has a small paragraph of text followed by “You are:” and then five possible selections: A citizen of Canada and another country (dual citizen), A permanent resident of Canada (PR Card), A refugee travelling with a document for non-citizens, A stateless person travelling with an alien’s passport, A former resident of Canada, but have not been back for many years, None of the above. The page has much less “visual noise” than it did before optimization.<p>
+	
+</details>
 
 The layout was at times confusing, including links to rules and requirements. We replaced it by a series of questions and answers that help people get to the right answer.
 
@@ -85,7 +97,12 @@ Once the prototypes were integrated into the live site in March 2017, analytics 
           <span class=""><img src="../images/eTA-AVE/VisaETA-funnels2.JPG" alt="Image showing that in February 2017, only 35% of clicks from the Visit Canada topic page went to either the Find out if you need a visa or an eTA, Apply for a visa, or Apply for an eTA pages. In June 2017 that number rose to 62%. This indicates that the Visit Canada topic page became more effective at helping people complete their tasks." border="5">
  </span>
  </div>
-      
+
+<details>
+		<summary>Text version of this image</summary>
+	<p>This image shows two funnels comparing before and after optimization the number of people who went from the Visit Canada topic page to any of the following pages: Find out if you need an Electronic travel authorization (eTA) or a visitor visa, Apply for a visitor visa, Apply for an eTA. Before optimization, 35% of clicks from the Visit Canada topic page went to one of those pages. After optimization, it was 62%, meaning the topic page was more effective at driving people to those pages. There were also 10% more entries to the Visit Canada topic page through the megamenu after optimization.<p>
+	
+</details>
 As the chart shows, people’s success at finding the apply pages jumped by 27 percentage points, from 35% before to 62% after. Also, we saw more people using the navigation menu to enter the flow. Due to this project, people who want to visit Canada can spend less time worrying about travel documents, and more time enjoying their visit to our country.
 
 <h3>What do you think?</h3>
