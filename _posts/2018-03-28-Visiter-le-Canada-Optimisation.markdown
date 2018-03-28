@@ -3,7 +3,7 @@ layout: post
 title:  "Visiter le Canada Optimisation"
 ref: visit
 date:   2018-03-28 16:34:44 +0100
-published: false
+published: true
 lang: fr
 alt: Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation.
 description: Le Bureau de la transformation numérique (BTN) a collaboré avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
@@ -131,3 +131,22 @@ Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à 
       <li><a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada.html">Consultez la page Visiter le Canada optimisée</a></li>
       <li><a href="http://www.statcan.gc.ca/daily-quotidien/180220/dq180220c-fra.htm">Lisez le rapport de Statistique Canada sur les voyages entre le Canada et d’autres pays </a></li>
       <li><a href="https://canada-ca.github.io/pages/taches-principales-canada-ca.html">Consultez l’inventaire des tâches principales pour Canada.ca</a></li>
+
+<br>
+<b>Par</b>
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" width="185px" alt="Eric Cooper" />
+      Eric Cooper<br>
+      <b>Coordonnateur de projet</b>
+   </div>
+</div>
+
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>Eric est un coordonnateur de projet pour le Bureau de la transformation numérique. Faire la révision d’une tâche prioritaire, du début à la fin demande beaucoup de travail, et Eric y contribue en communiquant avec les partenaires, gérant les horaires et en obtenant les outils lorsque nécessaire (numériques ou analogiques). Au cours des trois dernières années, il a contribué au développement et à la publication des Spécifications du contenu et de l’architecture de l’information pour Canada.ca et le Guide de rédaction du contenu du site Canada.ca.</p><p>Il détient un baccalauréat spécialisé en science intégrée avec des concentrations en mathématiques et psychologie et en 2017, il a obtenu sa certification de professionnel en gestion de projet PGP.</p>
+
+</figcaption>
+</div>
