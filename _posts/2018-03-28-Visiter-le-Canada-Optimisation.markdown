@@ -54,7 +54,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 
 <details>
 		<summary>Version texte</summary>
-	<p>Cette image montre ce qu'était la page « Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur » avant qu'elle ne soit optimisée.</p><p>Il y a deux paragraphes de texte qui comportent quatre liens chacun. En-dessous, dans une boîte bleue, il y a plus de texte avec un menu déroulant des pays. Au bas de la page, il y a trois liens connexes dans de grandes boîtes. Sur le côté gauche de la page se trouve un menu de navigation de gauche avec des liens vers:</p><ul>
+	<p>Cette image montre ce qu'était la page « Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur » avant qu'elle ne soit optimisée.</p><p>Il y a deux paragraphes de texte qui comportent quatre liens chacun. En-dessous, dans une boîte bleue, il y a plus de texte avec un menu déroulant des pays. Au bas de la page, il y a trois liens connexes dans de grandes boîtes. Sur le côté gauche de la page se trouve un menu de navigation de gauche avec des liens vers :</p><ul>
 	<li>visiter en touriste</li>
 	<li>visiter ses enfants ou petits-enfants</li>
 	<li>visiter pour affaires</li>
@@ -83,7 +83,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 	
 <details>
 		<summary>Version texte</summary>
-	<p>Cette image montre la page  « Vérifiez si vous avez besoin d'un visa » après optimisation. Il y a un court paragraphe de texte suivi de «Êtes-vous :», suivi de cinq choix possibles: </p>
+	<p>Cette image montre la page  « Vérifiez si vous avez besoin d'un visa » après optimisation. Il y a un court paragraphe de texte suivi de «Êtes-vous :», suivi de cinq choix possibles : </p>
 	<ul>
 		<li>un citoyen du Canada et d’un autre pays (double nationalité)</li>
 		<li>un résident permanent du Canada (Carte RP)</li>
@@ -112,13 +112,13 @@ Après l’intégration des prototypes au site en direct en mars 2017, les analy
  </div>
 	<details>
 		<summary>Version texte</summary>
-	<p>Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation, le nombre de personnes qui sont allées de la page de sujet Visiter le Canada à l'une des pages suivantes:</p>
+	<p>Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation, le nombre de personnes qui sont allées de la page de sujet Visiter le Canada à l'une des pages suivantes :</p>
 	<ul>
 		<li>déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur</li>
 		<li>présenter une demande de visa</li>
 		<li>présenter une demande d’AVE</li>
 	</ul>
-<p>Avant l'optimisation, 35% des clics de la page de sujet Visiter le "Canada sont allés à l'une de ces pages. Après l'optimisation, cette proportion est grimpée à 62%, ce qui signifiait que la page de sujet était plus efficace pour amener les gens vers ces pages. Il y a aussi eu 10% plus d'entrées à la page du sujet de Visiter le Canada par le biais du mégamenu après l'optimisation.<p>
+<p>Avant l'optimisation, 35% des clics de la page de sujet Visiter le Canada sont allés à l'une de ces pages. Après l'optimisation, cette proportion est grimpée à 62%, ce qui signifiait que la page de sujet était plus efficace pour amener les gens vers ces pages. Il y a aussi eu 10% plus d'entrées à la page du sujet de Visiter le Canada par le biais du mégamenu après l'optimisation.<p>
 	
 </details>
 
