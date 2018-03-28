@@ -92,7 +92,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 		<li>un ancien résident du Canada</li>
 		<li>aucune de ces situations</li>
 	</ul>
-	<p>La page a beaucoup moins de « bruit visuel  » qu'avant l'optimisation.<p>
+	<p>La page a beaucoup moins de « bruit visuel » qu'avant l'optimisation.<p>
 	
 </details>
 
