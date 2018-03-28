@@ -2,7 +2,7 @@
 layout: post
 title:  "Visiter le Canada Optimisation"
 ref: visit
-date:   2018-03-29 16:34:44 +0100
+date:   2018-03-28 16:34:44 +0100
 published: false
 lang: fr
 alt: Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation.
