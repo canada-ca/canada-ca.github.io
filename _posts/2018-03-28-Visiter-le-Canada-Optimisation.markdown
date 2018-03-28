@@ -52,6 +52,18 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
  </span>
  </div>
 
+<details>
+		<summary>Text version of this image</summary>
+	<p>Cette image montre ce qu'était la page « Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur » avant qu'elle ne soit optimisée.</p><p>Il y a deux paragraphes de texte qui comportent quatre liens chacun. En-dessous, dans une boîte bleue, il y a plus de texte avec un menu déroulant des pays. Au bas de la page, il y a trois liens connexes dans de grandes boîtes. Sur le côté gauche de la page se trouve un menu de navigation de gauche avec des liens vers:</p><ul>
+	<li>visiter en touriste</li>
+	<li>visiter ses enfants ou petits-enfants</li>
+	<li>visiter pour affaires</li>
+	<li>prolonger votre séjour</li>
+	<li>transiter par le Canada</li>
+	</ul>
+	
+</details>
+
 <h3>Remaniement du processus</h3>
 À l’aide de la recherche de base, l’équipe a remanié le processus pour régler les problèmes dont nous avons appris l’existence. Ensemble, IRCC et le BTN ont élaboré des prototypes. Nous espérions que ces prototypes allaient aider les gens à savoir de quels documents de voyage ils ont besoin. Voici quelques uns des principales corrections :
 
