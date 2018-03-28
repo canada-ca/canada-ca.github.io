@@ -54,7 +54,7 @@ This is what the key page in the process looked like when we started. Notice the
 
 <details>
 		<summary>Text version of this image</summary>
-	<p>This image shows what the “Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa” page looked like before it was optimized. There are two paragraphs of text with four links embedded in them. Below that, in a blue box, is more text with a drop down menu of countries. At the bottom of the page are three large related links in boxes. On the left side of the page is a left-hand navigation table with links to: Visit as a tourist, Visit your children or grandchildren, Visit on business, Extend your stay, and Transit through Canada.<p>
+	<p>This image shows what the “Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa” page looked like before it was optimized.</p><p>There are two paragraphs of text with four links embedded in them. Below that, in a blue box, is more text with a drop down menu of countries. At the bottom of the page are three large related links in boxes. On the left side of the page is a left-hand navigation table with links to: Visit as a tourist, Visit your children or grandchildren, Visit on business, Extend your stay, and Transit through Canada.<p>
 	
 </details>
 
@@ -76,7 +76,16 @@ With baseline research in hand, the team redesigned the process to solve the iss
       
 <details>
 		<summary>Text version of this image</summary>
-	<p>This image shows the “Find out if you need a visa” page after optimization. It has a small paragraph of text followed by “You are:” and then five possible selections: A citizen of Canada and another country (dual citizen), A permanent resident of Canada (PR Card), A refugee travelling with a document for non-citizens, A stateless person travelling with an alien’s passport, A former resident of Canada, but have not been back for many years, None of the above. The page has much less “visual noise” than it did before optimization.<p>
+	<p>This image shows the “Find out if you need a visa” page after optimization.</p><p> It has a small paragraph of text followed by “You are:” and then five possible selections:</p>
+	<ul>
+		<li>a citizen of Canada and another country (dual citizen)</li>
+		<li>a permanent resident of Canada (PR Card)</li>
+		<li>a refugee travelling with a document for non-citizens</li>
+		<li>a stateless person travelling with an alien’s passport</li>
+		<li>a former resident of Canada, but have not been back for many years</li>
+		<li>None of the above</li>
+	</ul>
+	<p>The page has much less “visual noise” than it did before optimization.<p>
 	
 </details>
 
@@ -100,7 +109,13 @@ Once the prototypes were integrated into the live site in March 2017, analytics 
 
 <details>
 		<summary>Text version of this image</summary>
-	<p>This image shows two funnels comparing before and after optimization the number of people who went from the Visit Canada topic page to any of the following pages: Find out if you need an Electronic travel authorization (eTA) or a visitor visa, Apply for a visitor visa, Apply for an eTA. Before optimization, 35% of clicks from the Visit Canada topic page went to one of those pages. After optimization, it was 62%, meaning the topic page was more effective at driving people to those pages. There were also 10% more entries to the Visit Canada topic page through the megamenu after optimization.<p>
+	<p>This image shows two funnels comparing before and after optimization the number of people who went from the Visit Canada topic page to any of the following pages:</p>
+	<ul>
+		<li>find out if you need an Electronic travel authorization (eTA) or a visitor visa</li>
+		<li>apply for a visitor visa</li>
+		<li>apply for an eTA</li>
+	</ul>
+<p>Before optimization, 35% of clicks from the Visit Canada topic page went to one of those pages.</p><p> After optimization, it was 62%, meaning the topic page was more effective at driving people to those pages. There were also 10% more entries to the Visit Canada topic page through the megamenu after optimization.<p>
 	
 </details>
 As the chart shows, people’s success at finding the apply pages jumped by 27 percentage points, from 35% before to 62% after. Also, we saw more people using the navigation menu to enter the flow. Due to this project, people who want to visit Canada can spend less time worrying about travel documents, and more time enjoying their visit to our country.
