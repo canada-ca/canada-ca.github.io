@@ -53,7 +53,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
  </div>
 
 <details>
-		<summary>Text version of this image</summary>
+		<summary>Version texte</summary>
 	<p>Cette image montre ce qu'était la page « Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur » avant qu'elle ne soit optimisée.</p><p>Il y a deux paragraphes de texte qui comportent quatre liens chacun. En-dessous, dans une boîte bleue, il y a plus de texte avec un menu déroulant des pays. Au bas de la page, il y a trois liens connexes dans de grandes boîtes. Sur le côté gauche de la page se trouve un menu de navigation de gauche avec des liens vers:</p><ul>
 	<li>visiter en touriste</li>
 	<li>visiter ses enfants ou petits-enfants</li>
@@ -82,7 +82,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
  </div>
 	
 <details>
-		<summary>Text version of this image</summary>
+		<summary>Version texte</summary>
 	<p>Cette image montre la page  « Vérifiez si vous avez besoin d'un visa » après optimisation. Il y a un court paragraphe de texte suivi de «Êtes-vous :», suivi de cinq choix possibles: </p>
 	<ul>
 		<li>un citoyen du Canada et d’un autre pays (double nationalité)</li>
@@ -110,6 +110,17 @@ Après l’intégration des prototypes au site en direct en mars 2017, les analy
           <span class=""><img src="../images/eTA-AVE/VisitFunnels.PNG" alt="Image showing that in February 2017, only 35% of clicks from the Visit Canada topic page went to either the Find out if you need a visa or an eTA, Apply for a visa, or Apply for an eTA pages. In June 2017 that number rose to 62%. This indicates that the Visit Canada topic page became more effective at helping people complete their tasks." border="5">
  </span>
  </div>
+	<details>
+		<summary>Version texte</summary>
+	<p>Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation, le nombre de personnes qui sont allées de la page de sujet Visiter le Canada à l'une des pages suivantes:</p>
+	<ul>
+		<li>déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur</li>
+		<li>présenter une demande de visa</li>
+		<li>présenter une demande d’AVE</li>
+	</ul>
+<p>Avant l'optimisation, 35% des clics de la page de sujet Visiter le "Canada sont allés à l'une de ces pages. Après l'optimisation, cette proportion est grimpée à 62%, ce qui signifiait que la page de sujet était plus efficace pour amener les gens vers ces pages. Il y a aussi eu 10% plus d'entrées à la page du sujet de Visiter le Canada par le biais du mégamenu après l'optimisation.<p>
+	
+</details>
 
 Comme le montre le graphique, le nombre de personnes qui ont réussi à trouver les pages de présentation de demande a fait un bond de 27 points de pourcentage, passant de 35 % avant à 62 % après l’optimisation. Nous avons également constaté qu’un plus grand nombre de personnes utilisent le menu de navigation pour commencer le processus. Grâce à ce projet, les personnes qui souhaitent visiter le Canada peuvent passer moins de temps à s’inquiéter au sujet des documents de voyage et profiter davantage de leur visite dans notre pays. 
 
