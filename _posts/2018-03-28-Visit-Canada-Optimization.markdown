@@ -53,7 +53,7 @@ This is what the key page in the process looked like when we started. Notice the
  </div>
 
 <details>
-		<summary>Version texte</summary>
+		<summary>Text version of this image</summary>
 	<p>This image shows what the “Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa” page looked like before it was optimized.</p><p>There are two paragraphs of text with four links embedded in them. Below that, in a blue box, is more text with a drop down menu of countries. At the bottom of the page are three large related links in boxes. On the left side of the page is a left-hand navigation table with links to:</p><ul>
 	<li>visit as a tourist</li>
 	<li>visit your children or grandchildren</li>
@@ -81,7 +81,7 @@ With baseline research in hand, the team redesigned the process to solve the iss
  </div>
       
 <details>
-		<summary>Version texte</summary>
+		<summary>Text version of this image</summary>
 	<p>This image shows the “Find out if you need a visa” page after optimization.</p><p> It has a small paragraph of text followed by “You are:” and then five possible selections:</p>
 	<ul>
 		<li>a citizen of Canada and another country (dual citizen)</li>
