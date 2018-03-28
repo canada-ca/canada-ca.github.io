@@ -54,7 +54,15 @@ This is what the key page in the process looked like when we started. Notice the
 
 <details>
 		<summary>Text version of this image</summary>
-	<p>This image shows what the “Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa” page looked like before it was optimized.</p><p>There are two paragraphs of text with four links embedded in them. Below that, in a blue box, is more text with a drop down menu of countries. At the bottom of the page are three large related links in boxes. On the left side of the page is a left-hand navigation table with links to: Visit as a tourist, Visit your children or grandchildren, Visit on business, Extend your stay, and Transit through Canada.<p>
+	<p>This image shows what the “Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa” page looked like before it was optimized.</p><p>There are two paragraphs of text with four links embedded in them. Below that, in a blue box, is more text with a drop down menu of countries. At the bottom of the page are three large related links in boxes. On the left side of the page is a left-hand navigation table with links to:</p>
+	
+	<p><ul>
+	<li>visit as a tourist</li>
+	<li>visit your children or grandchildren</li>
+	<li>visit on business</li>
+	<li>extend your stay</li>
+	<li>transit through Canada</li>
+	</ul></p>
 	
 </details>
 
@@ -83,7 +91,7 @@ With baseline research in hand, the team redesigned the process to solve the iss
 		<li>a refugee travelling with a document for non-citizens</li>
 		<li>a stateless person travelling with an alien’s passport</li>
 		<li>a former resident of Canada, but have not been back for many years</li>
-		<li>None of the above</li>
+		<li>none of the above</li>
 	</ul>
 	<p>The page has much less “visual noise” than it did before optimization.<p>
 	
