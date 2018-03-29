@@ -114,11 +114,12 @@ Let us know what you think about this project. Email us at <information@tbs-sct.
 
 * [Countering vaccine hesitancy - Pediatrics - August 2016](http://pediatrics.aappublications.org/content/early/2016/08/25/peds.2016-2146)
 
-## Detailed task scenarios as presented to participants
+<!-- ## Detailed task scenarios as presented to participants -->
 
 <!-- Do we really want to have to maintain this survey forever...? 
 You can try out the scenario display process and tasks yourself (select that you are doing the tasks at the Akendi Office) at this SurveyGizmo link: http://ca.surveygizmo.com/s3/50011188/Health-task-display-v1 EN http://ca.surveygizmo.com/s3/50011188/sante-v1 FR -->
 
+<!-- not sure we need to include this stuff
 1.This year's flu season could be worse than usual. Find the government’s advice on the most important way to avoid getting the flu. 
 2.Your friend put up a post urging her friends not to vaccinate their kids because of the risk of autism. Find some answers that would make you feel ready to discuss it with her.
 3. You got a few mosquito bites on your honeymoon down south but you feel fine. Before getting pregnant, you want to make sure you don’t have Zika. Is there a test that can tell if you're infected? 
@@ -129,6 +130,4 @@ You can try out the scenario display process and tasks yourself (select that you
 8. Find out whether the number of cases of flu last week were higher or lower than usual, to help you decide if you should get a flu shot now or wait.
 9. You think you heard something on the news about people being sick in Italy. Is there a particular concern you should be aware of before you go with your baby?
 10. You are planning a trip to Mexico. Which specific vaccinations are recommended before you go?
-11. The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.
-
-**Does this section need to be here?**
+11. The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.-->
