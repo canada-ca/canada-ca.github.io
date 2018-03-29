@@ -90,7 +90,7 @@ The layout was at times confusing, including links to rules and requirements. We
 
 ## Validating the prototypes
 
-To understand if the prototypes were working better for people trying to visit Canada, we ran 46 participants through the tasks in café testing sessions. The overall success rate for the prototypes was 91%, representing an improvement of 44 percentage points against the same tasks on the live site. 
+To understand if the prototypes were working better for people trying to visit Canada, we ran 46 participants through the tasks in café testing sessions. The overall success rate for the prototypes was 91%, representing an improvement of 47 percentage points against the same tasks on the live site. 
 
 ## Seeing it work in the real world
 
