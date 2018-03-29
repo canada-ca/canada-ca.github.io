@@ -43,7 +43,7 @@ The 3 important measures for optimization studies are:
 
 For the baseline test, the overall findability rate was 66%, and the overall success rate was 54% across the 11 tasks and 176 task trials. 
 
-We watched videos of the testing sessions together. This helped the entire team understand the problems people had in trying to complete the tasks. We could observe and quantify behaviours and usability issues that caused task failures. We captured these observations in click paths (to understand how people moved throught the site) and described the problems in detailed issues so we could address them during the design phase.  
+We watched videos of the testing sessions together. This helped the entire team understand the problems people had in trying to complete the tasks. We could observe and quantify behaviours and usability issues that caused task failures. We captured these observations in click paths (to understand how people moved throughout the site) and described the problems in detailed issues so we could address them during the design phase.  
 
 ## Redesign to improve task success
 
