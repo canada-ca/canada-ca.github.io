@@ -132,4 +132,4 @@ You can try out the scenario display process and tasks yourself (select that you
 10. You are planning a trip to Mexico. Which specific vaccinations are recommended before you go?
 11. The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.
 
-
+**Does this section need to be here?**
