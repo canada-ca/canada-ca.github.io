@@ -94,7 +94,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 La mise en page était parfois confondante, notamment les liens vers les règles et les exigences. Nous l’avons remplacée par une série de questions et réponses qui aident les gens à obtenir la bonne réponse.
 
 ## Validation des prototypes
-Pour comprendre si les prototypes produisaient de meilleurs résultats pour les personnes qui essaient de visiter le Canada, nous avons organisé 46 séances d’essai de style Café. Le taux de réussite global pour les prototypes était de 91 %. Cela représente une amélioration de 44 points de pourcentage par rapport aux mêmes tâches sur le site en direct. 
+Pour comprendre si les prototypes produisaient de meilleurs résultats pour les personnes qui essaient de visiter le Canada, nous avons organisé 46 séances d’essai de style Café. Le taux de réussite global pour les prototypes était de 91 %. Cela représente une amélioration de 47 points de pourcentage par rapport aux mêmes tâches sur le site en direct. 
 
 ## Voir son fonctionnement dans le monde réel
 Après l’intégration des prototypes au site en direct en mars 2017, les analyses ont montré une amélioration marquée du nombre de personnes qui sont passées de la page thématique Visiter le Canada aux pages de présentation de demande. 
