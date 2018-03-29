@@ -3,7 +3,7 @@ layout: post
 title:  "Visit Canada Optimization"
 ref: visit
 date:   2018-03-28 16:34:44 +0100
-published: true
+published: false
 lang: en
 alt: This image shows two funnels comparing before and after optimization.
 description: The Digital Transformation Office (DTO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
