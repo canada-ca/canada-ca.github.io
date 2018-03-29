@@ -111,8 +111,7 @@ Let us know what you think about this project. Email us at <information@tbs-sct.
 * [How we're optimizing top tasks on Canada.ca](https://canada-ca.github.io/category/2017/08/21/optimization-overview.html) shares more about how we're focusing now on improving specific top tasks on Canada.ca
 * [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) is a great article from Gerry McGovern on the value of top tasks and the survey voting method to validate them
 * [New Thinking](http://gerrymcgovern.com/new-thinking/) is where Gerry McGovern posts weekly on a range of top task management and digital transformation themes 
-
-* [Countering vaccine hesitancy - Pediatrics - August 2016](http://pediatrics.aappublications.org/content/early/2016/08/25/peds.2016-2146)
+* [Countering vaccine hesitancy](http://pediatrics.aappublications.org/content/early/2016/08/25/peds.2016-2146) an academic article on overcoming concerns about getting immunized
 
 <!-- ## Detailed task scenarios as presented to participants -->
 
