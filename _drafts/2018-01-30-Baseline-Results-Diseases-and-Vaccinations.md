@@ -83,7 +83,7 @@ Once the revised design was ready, 16 new participants were recruited to complet
       <div class="img-responsive center-block col-md-6">
           <span class=""><img src="../images/diseases-maladies-immun/Baseline_vs_Validation_Success_results.JPG" alt="image-of-chart-showing-baseline-and-final-test-results">
        </span>
-	   <strong>NOTE that we have to include a datatable listing all of these values, it's not enough to say that it's a chart</strong>
+	   <strong>NOTE that we have to include a datatable listing all of these values, it's not enough to include an alt tag saying that it's a chart</strong>
        </div>
 <br>
  
@@ -103,9 +103,9 @@ Once the revised design was ready, 16 new participants were recruited to complet
 
 * Show answers not information: craft answers for top tasks
 
-## Find out more
+## What do you think?
 
-We’re happy to share what we’ve learned. If you’ve got questions, email us at information@tbs-sct.gc.ca
+Let us know what you think about this project. Email us at <information@tbs-sct.gc.ca> or tweet using the hashtag #Canadadotca.
 
 ## Explore further
 
