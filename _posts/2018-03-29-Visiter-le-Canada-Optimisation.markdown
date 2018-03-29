@@ -122,9 +122,9 @@ Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à 
 
 ## Pour en savoir plus long sur ce projet
 
-[Consultez la page Visiter le Canada optimisée](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada.html)
-[Lisez le rapport de Statistique Canada sur les voyages entre le Canada et d’autres pays](http://www.statcan.gc.ca/daily-quotidien/180220/dq180220c-fra.htm)
-[Consultez l’inventaire des tâches principales pour Canada.ca](https://canada-ca.github.io/pages/taches-principales-canada-ca.html)
+- [Consultez la page Visiter le Canada optimisée](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada.html)
+- [Lisez le rapport de Statistique Canada sur les voyages entre le Canada et d’autres pays](http://www.statcan.gc.ca/daily-quotidien/180220/dq180220c-fra.htm)
+- [Consultez l’inventaire des tâches principales pour Canada.ca](https://canada-ca.github.io/pages/taches-principales-canada-ca.html)
 
 
 ## Eric Cooper
