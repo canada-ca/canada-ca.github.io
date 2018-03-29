@@ -353,9 +353,7 @@ She holds an honours Bachelor’s degree in Geography with a specialization in H
 
 Join the digital conversation at [#Canadadotca](https://twitter.com/search?q=%23Canadadotca) or send us an email at <information@tbs-sct.gc.ca>
 
-<div class="datemod col-xs-12 mrgn-tp-lg">
-        <dl id="wb-dtmd">
-    <dt>Date modified:</dt>
+<dt>Date modified:</dt>
     <dd><time property="dateModified">March 29, 2018</time></dd>
-</dl>
-    </div>
+    
+
