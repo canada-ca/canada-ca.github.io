@@ -71,7 +71,7 @@ With baseline research in hand, the team redesigned the process to solve the iss
 - reducing the number of links on the Visit Canada topic page from 9 to 5 to streamline the target path
 - adding a crosslink to the Visit Canada topic page in the Travel theme menu based on user evidence
 
-<img src="/images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the 'Find out if you need a visa page' looked like after optimization" border="5">
+<img class="img-responsive" src="/images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the 'Find out if you need a visa page' looked like after optimization" border="5">
 
   <details>
 		<summary>Text version of this image</summary>
@@ -99,7 +99,7 @@ Once the prototypes were integrated into the live site in March 2017, analytics 
 
 <b>Before and after optimization:</b> February 2017 and June 2017
 
-<img src="/images/eTA-AVE/VisaETA-funnels2.JPG" alt="This image shows two funnels comparing before and after optimization." border="5">
+<img class="img-responsive" src="/images/eTA-AVE/VisaETA-funnels2.JPG" alt="This image shows two funnels comparing before and after optimization." border="5">
 
 <details>
 		<summary>Text version of this image</summary>
