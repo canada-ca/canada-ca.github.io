@@ -13,7 +13,7 @@ The diseases and immunization optimization project kicked off in the fall of 201
 
 ## Discovery
 
-We started with a discovery phase. This is taking time to understand the current situation, people's needs related to the current content, and problems they may be having. Sources included reviewing previous usability studies, analyzing website traffic patterns and search behaviours, and reviewing phone and support requests. This provided enough insight to determine target audiences, which we then used to talk to people affected by the current content. We also researched vaccine hesitancy and how that's been addressed around the world. 
+We started with a discovery phase to understand the current situation, people's needs related to the current content, and problems they may be having. Sources included reviewing previous usability studies, analyzing website traffic patterns and search behaviours, and reviewing phone and support requests. This provided enough insight to determine target audiences, which we then used to talk to people affected by the current content. We also researched vaccine hesitancy and how that's been addressed around the world. 
 
 We also found that most people were accessing the content using mobile devices. People were checking whether they had the cold or the flu, when they needed vaccinations, or which vaccinations they would need for a specific country on their smartphones.  
 
@@ -32,9 +32,7 @@ From the long list of job stories, the team voted to narrow down to the top 11 s
 
 ## Establishing a baseline 
 
-Before making changes, we need to establish a baseline score. This gives us a measure we can use to tell if our changes are truly improving things. It also helps us to prioritize areas that are most in need of improvement. We use moderated usability tests to determine this baseline, so we also gain a lot of insight into how people use the current site and the problems they face. 
-
-We recruited 16 employed parents of children under 18. These participants attended research sessions in Toronto and Ottawa with their smartphones in English or French. Participants were asked to complete the 11 task scenarios on the Canada.ca website. If they had time, they repeated one task on the Ontario.ca site for comparison. 
+Before making changes, we established a baseline score through moderated usability testing. We recruited 16 employed parents of children under 18. These participants attended research sessions in Toronto and Ottawa with their smartphones in English or French. Participants were asked to complete the 11 task scenarios on the Canada.ca website. If they had time, they repeated one task on the Ontario.ca site for comparison. 
 
 The task scenarios were presented in random order, except for the first and last tasks. Some tasks began on the home page of Canada.ca while others began on the Zika, Flu and immunization pages. The scenarios were presented on a tablet beside the participant. The participant could refer to the tablet while they attempted the task, and then return to enter in their answer and proceed to the next. 
  
@@ -51,7 +49,7 @@ We watched videos of the testing sessions together. This helped the entire team 
 
 To solve the long list of issues we captured, the team created a working prototype for a new design on the Github code-sharing site. We held several workshops with smaller teams to work intensively on issues that participants experienced. For example, the Zika team realized that participants hadn't absorbed the serious risks of pregnancy after exposure to Zika. The immunization team worked hard to integrate content to counter vaccine hesitancy. And new home page designs for Canada.ca were created to expose the links to Health and Travel that people missed in the baseline tests. 
 
-Throughout the design process, we tested content with people through small, informal "guerilla" tests. These tests revealed problems with our designs that we were able to address before full-scale moderated usability testing. 
+Throughout the design process, we tested content with people through small, informal "guerilla" sessions. These tests revealed problems with our designs that we were able to address before full-scale moderated usability testing. 
 
 <img class="img-responsive" alt="Smartphones showing the Zika page before and after redesign. Detailed description follows." src="/images/diseases-maladies-immun/zika_phones.png">
 <figure>
@@ -75,9 +73,9 @@ Below that is a short paragraph of text too small to read, followed by a search 
 
 ## Measuring success rates on the redesigned prototype
 
-Once the revised design was ready, 16 new participants were recruited to complete the same 11 tasks. We aim for either 80% success, or an improvement of at least 20 points over the baseline score. The revised content and design improved findability rates from 66% up to 90%. Overall task completion success rose from 54% to 84%.   
+Once the revised design was ready, 16 new participants were recruited to complete the same 11 tasks. Our target was either 80% success, or an improvement of at least 20 points over the baseline score. The revised content and design improved findability rates from 66% up to 90%. Overall task completion success rose from 54% to 84%.   
  
- This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype for the 32 participants:
+This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype for all 32 participants:
  
  <div itemprop="text" class="" data="type-text">
       <div class="img-responsive center-block col-md-6">
