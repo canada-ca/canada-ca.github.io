@@ -48,7 +48,7 @@ Nous avons fait exécuter ces tâches à des centaines de personnes dans le cadr
 Voici à quoi ressemblait la page principale du processus lorsque nous avons commencé. Remarquez le texte au sommet de la page. Ce texte comprend des liens pour les exceptions, les citoyens qui ont la double nationalité et les résidents permanents canadiens. Des tests ont montré que les gens n’étaient pas capables de voir ces liens avec régularité. Ils allaient plutôt directement à la liste déroulante.
 
 
-<img class="img-responsive" src="/images/eTA-AVE/VisaAVE-avant.JPG" alt="Image montrant la page « Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur » avant l'optimisation.">
+<img class="img-responsive border" src="/images/eTA-AVE/VisaAVE-avant.JPG" alt="Image montrant la page « Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur » avant l'optimisation.">
 
 
 <details>
@@ -75,7 +75,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 
 
 
-<img class="img-responsive" src="/images/eTA-AVE/VisaAVE-apres.JPG" alt="Image montrant la page « Vérifiez si vous avez besoin d'un visa » après l'optimisation.">
+<img class="img-responsive border" src="/images/eTA-AVE/VisaAVE-apres.JPG" alt="Image montrant la page « Vérifiez si vous avez besoin d'un visa » après l'optimisation.">
 
 <details>
 		<summary>Version texte</summary>
@@ -101,7 +101,7 @@ Après l’intégration des prototypes au site en direct en mars 2017, les analy
 
 <b>Avant et après l’optimisation : </b> février 2017 et juin 2017
 
-<img class="img-responsive" src="/images/eTA-AVE/VisiterEntonnoirs.PNG" alt="Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation.">
+<img class="img-responsive border" src="/images/eTA-AVE/VisiterEntonnoirs.PNG" alt="Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation.">
 
 <details>
 		<summary>Version texte</summary>
