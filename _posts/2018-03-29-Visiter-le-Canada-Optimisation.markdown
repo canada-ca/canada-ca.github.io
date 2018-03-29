@@ -4,12 +4,12 @@ title:  "Visiter le Canada Optimisation"
 ref: visit
 date:   2018-03-29 16:34:44 +0100
 datemodified: 2018-03-29
-published: false
+published: true
 lang: fr
 alt: Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation.
 description: Le Bureau de la transformation numérique (BTN) a collaboré avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
 ---
-**Par Eric Cooper, le Bureau de la transformation numérique**
+**Par Eric Cooper, Bureau de la transformation numérique**
 
 Le Canada est un grand et beau pays dans lequel il y a beaucoup à voir et de nombreuses expériences à vivre. En 2017, année du 150e anniversaire de la Confédération du Canada, nous avons accueilli environ 20,8 millions de visiteurs. Nous avons ainsi battu notre précédent record.
 
@@ -93,7 +93,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 
 La mise en page était parfois confondante, notamment les liens vers les règles et les exigences. Nous l’avons remplacée par une série de questions et réponses qui aident les gens à obtenir la bonne réponse.
 
-## Validation des prototypes<
+## Validation des prototypes
 Pour comprendre si les prototypes produisaient de meilleurs résultats pour les personnes qui essaient de visiter le Canada, nous avons organisé 46 séances d’essai de style Café. Le taux de réussite global pour les prototypes était de 91 %. Cela représente une amélioration de 44 points de pourcentage par rapport aux mêmes tâches sur le site en direct. 
 
 ## Voir son fonctionnement dans le monde réel
@@ -127,7 +127,7 @@ Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à 
 - [Consultez l’inventaire des tâches principales pour Canada.ca](https://canada-ca.github.io/pages/taches-principales-canada-ca.html)
 
 
-## Eric Cooper
+## À propos d'Eric Cooper
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" width="185px" alt="Eric Cooper" />
