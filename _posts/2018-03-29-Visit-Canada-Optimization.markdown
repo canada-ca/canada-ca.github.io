@@ -47,7 +47,7 @@ We ran hundreds of people through these tasks in a combination of online and mod
 
 This is what the key page in the process looked like when we started. Notice the text at the top of the page with links for exceptions, dual citizens, and Canadian permanent residents. Testing showed that people weren't able to consistently see these links and would go straight to the drop-down list.
 
-<img class="img-responsive" src="/images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what 'Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa' looked like before optimization.">
+<kbd><img class="img-responsive" src="/images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what 'Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa' looked like before optimization."></kbd>
 
 
 <details>
