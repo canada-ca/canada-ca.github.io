@@ -88,8 +88,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 		<li>un ancien résident du Canada</li>
 		<li>aucune de ces situations</li>
 	</ul>
-	<p>La page a beaucoup moins de « bruit visuel » qu'avant l'optimisation.<p>
-	
+	La page a beaucoup moins de « bruit visuel » qu'avant l'optimisation.	
 </details>
 
 La mise en page était parfois confondante, notamment les liens vers les règles et les exigences. Nous l’avons remplacée par une série de questions et réponses qui aident les gens à obtenir la bonne réponse.
