@@ -46,40 +46,7 @@ Content can start to look old even if it's still accurate and relevant. This cre
 ## Watch people disregarding old content ##
 
 In this video, Canadians are trying to see if it's safe for pregnant women to get the flu shot (it is and they should!). Here's what happens when they see that content is from more than 2 years ago:
-<figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/dates-matter/old-content-video-poster.jpg" title="Thinking information is out of date">
-		<source type="video/mp4" src="/images/dates-matter/trust-of-old-content.mp4" />
-		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
-	</video>
-<figcaption>
-<details id="inline-captions">
-				<summary>Transcript: People looking at older content</summary>
-				<p class="wet-boew-vd">(Participant 1)
-				<p class="wet-boew-vd">(Video showing someone looking at a Canada.ca search results page. Text appears pointing to a result for "Vaccination and pregnancy", which has a date of "June 20, 2015".)
-				<span class="wb-tmtxt" data-begin="6.02s" data-dur="6.84s">And, so this is from 2015 so I'll just scroll down a little bit to see if maybe...</span>
-				<p class="wet-boew-vd">(The picture zooms into filter controls on the side of the page. The mouse moves over "By date: Past year" and clicks the link.)
-				<span class="wb-tmtxt" data-begin="14.12s" data-dur="4.84s">...maybe from the past year - I'll filter my results...</span>
-				<p class="wet-boew-vd">(The search results reload and the Vaccination and pregnancy page is gone.)
-				<span class="wb-tmtxt" data-begin="17.12s" data-dur="4.84s">...in case there's something more current.</span>
-				<p class="wet-boew-vd">(Text appears saying that "The filter hid the best result".)
-				<p class="wet-boew-vd">(Participant 2)
-				<p class="wet-boew-vd">(Someone is looking at a Canada.ca search results page on a mobile phone.)
-				<span class="wb-tmtxt" data-begin="26.12s" data-dur="3.84s">This information goes back to 2015.</span>
-				<p class="wet-boew-vd">(They tap the first result and see the Vaccination and pregnancy page. They begin scrolling down.)
-				<span class="wb-tmtxt" data-begin="29.00s" data-dur="4.84s">I wonder if there's anything that's newer than that.</span>
-				<span class="wb-tmtxt" data-begin="32.00s" data-dur="3.84s">Although that's still pretty current...</span>
-				<span class="wb-tmtxt" data-begin="36.41s" data-dur="3.84s">...I'd feel better if there was something a little newer.<span>				
-				<p class="wet-boew-vd">(Participant 3)
-				<p class="wet-boew-vd">(Another person on a different mobile phone is looking at Canada.ca search results. They scroll down and look at the first result.)
-				<span class="wb-tmtxt" data-begin="47.72s" data-dur="3.84s">Vaccination and pregnancy ok...</span>
-				<p class="wet-boew-vd">(They seem ready to tap the link to the page, but hesitate.)
-				<span class="wb-tmtxt" data-begin="52.42s" data-dur="3.84s">...but that's like from 2015</span>
-				<span class="wb-tmtxt" data-begin="55.12s" data-dur="3.84s">Where's the latest information from it?</span>
-			</details>
-	</figcaption>
-			
-</figure>
-
+<figure class="wb-mltmd wb-init video cc_on"><video poster="/images/dates-matter/old-content-video-poster.jpg" title="Thinking information is out of date"><source type="video/mp4" src="/images/dates-matter/trust-of-old-content.mp4" /><track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" /></video><figcaption><details id="inline-captions"><summary>Transcript: People looking at older content</summary><p class="wet-boew-vd">(Participant 1)<p class="wet-boew-vd">(Video showing someone looking at a Canada.ca search results page. Text appears pointing to a result for "Vaccination and pregnancy", which has a date of "June 20, 2015".)<span class="wb-tmtxt" data-begin="6.02s" data-dur="6.84s">And, so this is from 2015 so I'll just scroll down a little bit to see if maybe...</span><p class="wet-boew-vd">(The picture zooms into filter controls on the side of the page. The mouse moves over "By date: Past year" and clicks the link.)<span class="wb-tmtxt" data-begin="14.12s" data-dur="4.84s">...maybe from the past year - I'll filter my results...</span><p class="wet-boew-vd">(The search results reload and the Vaccination and pregnancy page is gone.)<span class="wb-tmtxt" data-begin="17.12s" data-dur="4.84s">...in case there's something more current.</span><p class="wet-boew-vd">(Text appears saying that "The filter hid the best result".)<p class="wet-boew-vd">(Participant 2)<p class="wet-boew-vd">(Someone is looking at a Canada.ca search results page on a mobile phone.)<span class="wb-tmtxt" data-begin="26.12s" data-dur="3.84s">This information goes back to 2015.</span><p class="wet-boew-vd">(They tap the first result and see the Vaccination and pregnancy page. They begin scrolling down.)<span class="wb-tmtxt" data-begin="29.00s" data-dur="4.84s">I wonder if there's anything that's newer than that.</span><span class="wb-tmtxt" data-begin="32.00s" data-dur="3.84s">Although that's still pretty current...</span><span class="wb-tmtxt" data-begin="36.41s" data-dur="3.84s">...I'd feel better if there was something a little newer.<span><p class="wet-boew-vd">(Participant 3)<p class="wet-boew-vd">(Another person on a different mobile phone is looking at Canada.ca search results. They scroll down and look at the first result.)<span class="wb-tmtxt" data-begin="47.72s" data-dur="3.84s">Vaccination and pregnancy ok...</span><p class="wet-boew-vd">(They seem ready to tap the link to the page, but hesitate.)<span class="wb-tmtxt" data-begin="52.42s" data-dur="3.84s">...but that's like from 2015</span><span class="wb-tmtxt" data-begin="55.12s" data-dur="3.84s">Where's the latest information from it?</span></details></figcaption></figure>
 Even if the information is perfectly valid, people still thought there should be something newer.
 
 ## Review content regularly to confirm it’s up to date, not just when you change it ##
