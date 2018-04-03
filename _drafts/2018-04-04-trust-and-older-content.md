@@ -2,11 +2,13 @@
 layout: post
 title: "Dates matter: Trust and older content on Canada.ca"
 gradelevel: 8
-ref: template
-date:   2018-03-29 09:48:44 +0100
-categories: category
+ref: trust
+date:   2018-04-04 09:48:44 +0100
+datemodified: 2018-04-04 09:48:44 +0100
 published: false
 lang: en
+alt:
+description: In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.
 ---
 
 In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. They assumed that because the page had not been “modified” for some time that the information on that page could not be relied upon. However, the content was perfectly valid and had in fact just been reviewed.
