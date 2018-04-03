@@ -31,7 +31,7 @@ The second place people see the date is in search engine results. Both on Intern
 
 <img class="img-responsive border" src="/images/dates-matter/blog-date-canadadotca-serp.png" width="1024" alt="Canada.ca search results page for 'vaccines while pregnant' showing a result (Vaccinations and pregnancy) with June 20, 2015 highlighted">
 
-##Why content age matters##
+## Why content age matters ##
 
 When trying to accomplish a task, people really notice the age of the content presented. The more recent your content looks, the more credible it seems to people. Without this piece of information they may not be successful finding what they are looking for. 
 That’s why the design guidance for Canada.ca requires you to implement the “Date modified” component.
@@ -43,7 +43,7 @@ But for it to be useful for people, the component needs to be managed well. And 
 Content can start to look old even if it's still accurate and relevant. This creates problems, especially with content that can appear out-of-date quickly. 
 
 
-##Watch people disregarding old content##
+## Watch people disregarding old content ##
 
 In this video, Canadians are trying to see if it's safe for pregnant women to get the flu shot (it is and they should!). Here's what happens when they see that content is from more than 2 years ago:
 <figure class="wb-mltmd wb-init video cc_on">
@@ -84,18 +84,18 @@ In this video, Canadians are trying to see if it's safe for pregnant women to ge
 
 Even if the information is perfectly valid, people still thought there should be something newer.
 
-##Review content regularly to confirm it’s up to date, not just when you change it##
+## Review content regularly to confirm it’s up to date, not just when you change it ##
 
 Review your content regularly as part of your content management lifecycle. How often to review depends on the content. Make sure you understand the business lifecycle of the content and review as often as makes sense.
 
 These tests have confirmed something we've had our eye on for a while. Currently, our guidance suggests only updating the “Date modified” component when making significant changes to content. We’ll be making changes to the guidance to reflect the need for a regular content review cycle that reaffirms content currency for people on Canada.ca.
 
-##If you reviewed the page and it's still valid, update its “Date modified” ##
+## If you reviewed the page and it's still valid, update its “Date modified” ##
 
 If you've done a full review of the content and decided it's still valid, then you can update the “Date modified” component. The date issued remains the same, but this provides a signal that the content has been assessed and is still current.
 
 It's very important not to update the “Date modified” component of pages without the proper review, just because you want to make them <strong>look</strong> new. Knowing the actual date something was modified or reviewed is important. It should only be done as part of a content lifecycle review process that has actually determined that the content is still valid. 
 
-##We want to hear from you##
+## We want to hear from you ##
 
 Let us know what you think about optimization for Canada.ca. Email us at <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> or tweet using the hashtag <a href="https://twitter.com/search?q=%23Canadadotca">#Canadadotca</a>.
