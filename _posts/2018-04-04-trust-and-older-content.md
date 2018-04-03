@@ -71,8 +71,8 @@ In this video, Canadians are trying to see if it's safe for pregnant women to ge
 				<p class="wet-boew-vd">(They seem ready to tap the link to the page, but hesitate.)</p>
 				<span class="wb-tmtxt" data-begin="52.42s" data-dur="3.84s">...but that's like from 2015</span>
 				<span class="wb-tmtxt" data-begin="55.12s" data-dur="3.84s">Where's the latest information from it?</span>
-			</ details>
-	</ figcaption>
+</details>
+</figcaption>
   
 Even if the information is perfectly valid, people still thought there should be something newer.
 
