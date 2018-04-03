@@ -3,7 +3,6 @@ layout: post
 title:  "Visiter le Canada : optimisation"
 ref: visit
 date:   2018-03-29 16:34:44 +0100
-datemodified: Date de modification : le 29 mars, 2018
 published: true
 lang: fr
 alt: Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation.
