@@ -4,6 +4,7 @@ title:  "De quelle façon déterminons-nous les principales tâches pour Canada.
 gradelevel: 7.8
 ref: toptasks
 date:   2017-12-11 09:48:44 +0100
+datemodified: "Date de modification : le 11 nov, 2017"
 published: true
 lang: fr
 description: Les tâches – simples et complexes – en lien avec le gouvernement du Canada (GC) se comptent par milliers. Comment nous y prenons-nous pour prioriser?
