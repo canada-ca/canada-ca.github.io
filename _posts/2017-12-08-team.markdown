@@ -4,6 +4,7 @@ title:  "About the Digital Transformation Office"
 gradelevel: 7.8
 ref: aboutus
 date:   2017-12-08 09:48:44 +0100
+datemodified: "Date modified: March 29, 2018" 
 published: true
 lang: en
 alt: A photo of the Digital Transformation Office team
@@ -353,7 +354,5 @@ She holds an honours Bachelor’s degree in Geography with a specialization in H
 
 Join the digital conversation at [#Canadadotca](https://twitter.com/search?q=%23Canadadotca) or send us an email at <information@tbs-sct.gc.ca>
 
-<br>
-Date modified: March 29, 2018
     
 
