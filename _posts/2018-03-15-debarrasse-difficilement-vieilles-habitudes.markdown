@@ -3,6 +3,7 @@ layout: post
 title:  "On se débarrasse difficilement des vieilles habitudes (lorsque les sentiments font obstacle)"
 ref: habits
 date:  2018-03-14 09:48:44 +0100
+datemodified: "Date de modification : le 14 mars, 2018"
 published: true
 lang: fr
 alt: Photographie de Celeste Côté durant l’atelier de maître de Gerry McGovern au Bayview Yards à Ottawa, le 13 février 2018
