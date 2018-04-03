@@ -15,7 +15,7 @@ How can we can help show that content is still relevant? By indicating when page
 
 ## You can see how old content is on Canada.ca ##
 
-<img class="blog-screenshot" src="../../../../images/dates-matter/pagewithdate-small-en.jpg" alt="Screenshot of a blurred Canada.ca page showing the date modified near the bottom on the left side." />
+<img class="blog-screenshot" src="/images/dates-matter/pagewithdate-small-en.jpg" alt="Screenshot of a blurred Canada.ca page showing the date modified near the bottom on the left side." />
 
 (You'll see the date this post was published if you look near the bottom of this page.)
 Since it's in the same place on every Canada.ca web page, people can count on finding the date if they want to know how current the information is.
