@@ -47,6 +47,7 @@ Content can start to look old even if it's still accurate and relevant. This cre
 
 In this video, Canadians are trying to see if it's safe for pregnant women to get the flu shot (it is and they should!). Here's what happens when they see that content is from more than 2 years ago:
 
+{::nomarkdown}
 <figcaption>
 <details id="inline-captions">
 				<summary>Transcript: People looking at older content</summary>
@@ -73,7 +74,8 @@ In this video, Canadians are trying to see if it's safe for pregnant women to ge
 				<span class="wb-tmtxt" data-begin="55.12s" data-dur="3.84s">Where's the latest information from it?</span>
 </details>
 </figcaption>
-  
+ {:/nomarkdown}
+	
 Even if the information is perfectly valid, people still thought there should be something newer.
 
 ## Review content regularly to confirm it’s up to date, not just when you change it ##
