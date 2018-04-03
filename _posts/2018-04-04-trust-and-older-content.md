@@ -48,6 +48,12 @@ Content can start to look old even if it's still accurate and relevant. This cre
 In this video, Canadians are trying to see if it's safe for pregnant women to get the flu shot (it is and they should!). Here's what happens when they see that content is from more than 2 years ago:
 
 {::nomarkdown}
+<figure class="wb-mltmd wb-init video cc_on">
+	<video poster="/images/dates-matter/old-content-video-poster.jpg" title="Thinking information is out of date">
+		<source type="video/mp4" src="/images/dates-matter/trust-of-old-content.mp4" />
+		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
+	</video>
+
 <figcaption>
 <details id="inline-captions">
 				<summary>Transcript: People looking at older content</summary>
