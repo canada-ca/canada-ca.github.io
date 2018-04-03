@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "How people perceive older content"
-gradelevel: x
-ref: template
+gradelevel: 5
+ref: oldcontent
 date:   2018-01-22 09:48:44 +0100
-categories: category
+datemodified: 2018-01-22
 published: false
 lang: en
+alt: X.
+description: X
 ---
 
 We had some interesting results related to content age in a recent usability study. It showed us about how people perceive content based on its age. This might influence how we present the date updated on Canada.ca.
