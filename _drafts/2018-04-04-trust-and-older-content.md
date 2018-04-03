@@ -7,9 +7,10 @@ date:   2018-04-04 09:48:44 +0100
 datemodified: 2018-04-04 09:48:44 +0100
 published: false
 lang: en
-alt:
+alt: Screenshot of a Canada.ca page showing the date modified
 description: In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.
 ---
+By Patrick
 
 In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. They assumed that because the page had not been “modified” for some time that the information on that page could not be relied upon. However, the content was perfectly valid and had in fact just been reviewed.
 
@@ -17,18 +18,18 @@ How can we can help show that content is still relevant? By indicating when page
 
 ## You can see how old content is on Canada.ca ##
 
-<img class="blog-screenshot" src="/images/dates-matter/pagewithdate-small-en.jpg" alt="Screenshot of a blurred Canada.ca page showing the date modified near the bottom on the left side." />
+<img class="img-responsive border" src="/images/dates-matter/pagewithdate-small-en.jpg" alt="Screenshot of a blurred Canada.ca page showing the date modified near the bottom on the left side." />
 
 (You'll see the date this post was published if you look near the bottom of this page.)
 Since it's in the same place on every Canada.ca web page, people can count on finding the date if they want to know how current the information is.
 
 The second place people see the date is in search engine results. Both on Internet search engines:
 
-<img class="blog-screenshot" src="../../../../images/dates-matter/blog-date-internet-serp-en.png" alt="Internet search results page for 'Vaccines while pregnant' showing a Canada.ca result (Vaccinations and pregnancy) with June 30, 2015 highlighted">
+<img class="img-responsive border" src="/images/dates-matter/blog-date-internet-serp-en.png" alt="Internet search results page for 'Vaccines while pregnant' showing a Canada.ca result (Vaccinations and pregnancy) with June 30, 2015 highlighted">
 
 ...and on Canada.ca search:
 
-<img class="blog-screenshot" src="../../../../images/dates-matter/blog-date-canadadotca-serp.png" width="1024" alt="Canada.ca search results page for 'vaccines while pregnant' showing a result (Vaccinations and pregnancy) with June 20, 2015 highlighted">
+<img class="img-responsive border" src="/images/dates-matter/blog-date-canadadotca-serp.png" width="1024" alt="Canada.ca search results page for 'vaccines while pregnant' showing a result (Vaccinations and pregnancy) with June 20, 2015 highlighted">
 
 ##Why content age matters##
 
