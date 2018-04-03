@@ -3,7 +3,7 @@ layout: post
 title:  "Visit Canada: Optimization"
 ref: visit
 date:   2018-03-29 16:34:44 +0100
-datemodified: 2018-03-29
+datemodified: Date modified: March 29, 2018
 published: true
 lang: en
 alt: This image shows two funnels comparing before and after optimization.
