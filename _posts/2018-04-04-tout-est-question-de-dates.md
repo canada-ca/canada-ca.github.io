@@ -5,10 +5,10 @@ gradelevel: 8
 ref: datesmatter
 date:   2018-04-04 09:48:44 +0100
 datemodified: "Date de modification : le avril 4 2018"
-published: false
+published: true
 lang: fr
-alt: Screenshot of a Canada.ca page showing the date modified
-description: In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.
+alt: Capture d'écran d'une page de Canada.ca indiquant la date de modification
+description: Dans une étude de convivialité récente, nous avons vu des gens qui n’ont pas tenu compte des résultats de recherche de Canada.ca qui semblaient trop vieux. Découvrez comment vous pouvez valider votre contenu et montrer qu'il est toujours à jour.
 ---
 **Par Patrick Lajeunesse, Bureau de la transformation numérique**
 
@@ -18,14 +18,14 @@ Comment pouvons-nous contribuer à convaincre les utilisateurs que le contenu es
 
 ## Vous pouvez voir la date de publication du contenu sur Canada.ca ##
 
-<img class="img-responsive border" src="/images/dates-matter/pagewithdate-small-fr.jpg" alt="Screenshot of a blurred Canada.ca page showing the date modified near the bottom on the left side." />
+<img class="img-responsive border" src="/images/dates-matter/pagewithdate-small-fr.jpg" alt="Capture d'écran d'une page floue de Canada.ca montrant la date modifiée près du bas sur le côté gauche" />
 
 (Vous verrez la date de publication si vous regardez au bas de cette page.)
 Comme cette information est au même endroit sur chaque page Web de Canada.ca, les gens peuvent s’y fier s’ils veulent savoir à quel point l’information est à jour.
 
 Le deuxième endroit où les gens voient la date est dans les résultats de moteurs de recherche. Sur des moteurs de recherche Internet :
 
-<img class="img-responsive border" src="/images/dates-matter/blog-date-internet-serp-fr.png" alt="Internet search results page for 'Vaccines while pregnant' showing a Canada.ca result (Vaccinations and pregnancy) with June 30, 2015 highlighted">
+<img class="img-responsive border" src="/images/dates-matter/blog-date-internet-serp-fr.png" alt="La page de résultats de recherche sur Internet pour « Vaccin pendant la grossesse » montrant un résultat de Canada.ca (Vaccination et grossesse) avec le 30 juin 2015 surligné.">
 
 ...and on Canada.ca search:
 
@@ -49,7 +49,7 @@ Dans cette vidéo, des Canadiens essaient de voir si les femmes enceintes peuven
 
 {::nomarkdown}
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/dates-matter/old-content-video-poster.jpg" title="Thinking information is out of date">
+	<video poster="/images/dates-matter/old-content-video-poster.jpg" title="Penser que l'information est périmée">
 		<source type="video/mp4" src="/images/dates-matter/trust-of-old-content.mp4" />
 		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="fr" label="French" />
 	</video>
