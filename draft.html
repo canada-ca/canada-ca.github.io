@@ -9,19 +9,6 @@ lang: en
 
   <h1 class="page-heading">Newest articles</h1>
 
-   <div class="wb-eqht"> 
-  {% assign drafts=site.drafts | where:"lang", page.lang %}
-    {% for post in drafts %}
-<section class="col-md-6">
-
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><img src="./thumbs/{{ post.date | date: "%F" | img_url: '100x100' crop: 'center' }}.png" alt="{{ post.alt }}" class="img-responsive thumbnail"></a>
-		<p>{{ post.description }} - <small>[{{ post.date | date: "%F" }}]</small> </p>
-  
-</section>
-
-  {% endfor %}
-  
-	</div>
 
 <div class="row">
 <div class="col-sm-8">
