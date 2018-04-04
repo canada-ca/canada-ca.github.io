@@ -5,12 +5,12 @@ gradelevel: 8
 ref: datesmatter
 date:   2018-04-04 09:48:44 +0100
 datemodified: 2018-04-04 09:48:44 +0100
-published: false
+published: true
 lang: fr
 alt: Screenshot of a Canada.ca page showing the date modified
 description: In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.
 ---
-By Patrick
+**Par Patrick, Bureau de la transformation numérique**
 
 Dans une étude récente sur la convivialité, nous avons vu que des gens ignoraient les résultats de recherche de Canada.ca qui semblaient trop vieux. Ils supposaient que, parce que la page n’avait pas été « modifiée » depuis un certain temps, l’information sur cette page n’était pas fiable. Cependant, le contenu était parfaitement valide et venait d’être revu. 
 
@@ -51,7 +51,7 @@ Dans cette vidéo, des Canadiens essaient de voir si les femmes enceintes peuven
 <figure class="wb-mltmd wb-init video cc_on">
 	<video poster="/images/dates-matter/old-content-video-poster.jpg" title="Thinking information is out of date">
 		<source type="video/mp4" src="/images/dates-matter/trust-of-old-content.mp4" />
-		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
+		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="fr" label="French" />
 	</video>
 
 <figcaption>
@@ -100,3 +100,21 @@ Il est très important de ne pas mettre à jour la composante « Date de modific
 ## Nous voulons connaître votre opinion ##
 
 Dites-nous ce que vous pensez de notre travail d’optimisation et des changements que nous apportons aux lignes directrices en matière de conception pour Canada.ca. Écrivez-nous par courriel à l’adresse <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> ou sur Twitter en utilisant le mot-clic <a href="https://twitter.com/search?q=%23Canadapointca">#Canadapointca</a>.
+
+## À propos de Patrick Lajeunesse ##
+
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive" style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3035_277x370.jpg" width="185px" alt="Patrick Lajeunesse" />
+      Patrick Lajeunesse <br />
+      <b>Chercheur en conception principal</b>
+   </div>
+</div>
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>Patrick a 20 ans d’expérience dans la conception et la recherche de l’expérience utilisateur. Avec un diplôme en psychologie, il a appliqué sa formation de recherche et analyse aux communications numériques pour les Nations Unies et d’autres organismes internationaux basés à Genève, Suisse.</p><p>Il a passé dix ans à travailler dans des entreprises en démarrage à Ottawa et au Connecticut où il dirigeait la conception de produit pour un ensemble d’outils utilisés par certains des plus grands districts scolaires aux États-Unis. Patrick travaille dans l’amélioration de la prestation de services pour le gouvernement du Canada depuis 2009.</p>
+
+</figcaption>
+</div>
