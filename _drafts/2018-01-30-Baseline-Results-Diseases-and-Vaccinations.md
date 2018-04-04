@@ -3,7 +3,7 @@ layout: post
 title:  "Diseases and immunization project"
 ref: XXtemplateXX
 date:   2018-01-23 15:19:02 +0100
-
+published: true
 lang: en
 alt: XXXX alt tag for the article image on the blog list XXXX
 description: XXXX article description that goes on main blog list XXXX
