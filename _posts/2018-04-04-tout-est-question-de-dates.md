@@ -72,7 +72,7 @@ Dans cette vidéo, des Canadiens essaient de voir si les femmes enceintes peuven
 				<span class="wb-tmtxt" data-begin="29.00s" data-dur="4.84s">Je me demande s’il y a quelque chose de plus récent.</span>
 				<span class="wb-tmtxt" data-begin="32.00s" data-dur="3.84s">Bien que ce ne soit pas très vieux...
 	</span>
-				<span class="wb-tmtxt" data-begin="36.41s" data-dur="3.84s">... Je me sentirais mieux s’il y avait quelque chose de plus récent.<span>				
+				<span class="wb-tmtxt" data-begin="36.41s" data-dur="3.84s">... Je me sentirais mieux s’il y avait quelque chose de plus récent.</span>				
 				<p class="wet-boew-vd">(Participant 3)</p>
 				<p class="wet-boew-vd">(Une autre personne qui utilise un téléphone mobile différent consulte les résultats de sa recherche sur Canada.ca. Elle fait défiler les résultats et examine le premier.)</p>
 				<span class="wb-tmtxt" data-begin="47.72s" data-dur="3.84s">Vaccination et grossesse, OK...</span>
