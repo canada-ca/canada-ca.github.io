@@ -14,7 +14,7 @@ lang: en
     {% for draft in drafts %}
 <section class="col-md-6">
 
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ draft.title }}</h3><img src="./thumbs/{{ draft.date | date: "%F" | img_url: '100x100' crop: 'center' }}.png" alt="{{ draft.alt }}" class="img-responsive thumbnail"></a>
+        <a class="post-link" href="{{ draft.url | prepend: site.baseurl }}"><h3>{{ draft.title }}</h3><img src="./thumbs/{{ draft.date | date: "%F" | img_url: '100x100' crop: 'center' }}.png" alt="{{ draft.alt }}" class="img-responsive thumbnail"></a>
 		<p>{{ draft.description }} - <small>[{{ draft.date | date: "%F" }}]</small> </p>
   
 </section>
