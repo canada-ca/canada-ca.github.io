@@ -25,11 +25,11 @@ Comme cette information est au même endroit sur chaque page Web de Canada.ca, l
 
 Le deuxième endroit où les gens voient la date est dans les résultats de moteurs de recherche. Sur des moteurs de recherche Internet :
 
-<img class="img-responsive border" src="/images/dates-matter/blog-date-internet-serp-fr.png" alt="La page de résultats de recherche sur Internet pour « Vaccin pendant la grossesse » montrant un résultat de Canada.ca (Vaccination et grossesse) avec le 30 juin 2015 surligné.">
+<img class="img-responsive border" src="/images/dates-matter/blog-date-internet-serp-fr.png" alt="La page de résultats de recherche sur Internet pour « Vaccin quand enceinte » montrant un résultat de Canada.ca (Vaccination et grossesse) avec le 30 juin 2015 surligné.">
 
 ...and on Canada.ca search:
 
-<img class="img-responsive border" src="/images/dates-matter/blog-date-canadadotca-serp-fr.png" width="1024" alt="La page de résultats de recherche sur Internet pour « Vaccins grossesse» montrant un résultat (Vaccination et grossesse) avec le 20 juin 2015 surligné">
+<img class="img-responsive border" src="/images/dates-matter/blog-date-canadadotca-serp-fr.png" width="1024" alt="La page de résultats de recherche sur Internet pour « Vaccins grossesse » montrant un résultat (Vaccination et grossesse) avec le 20 juin 2015 surligné">
 
 ## Pourquoi l’actualité du contenu est importante ##
 
