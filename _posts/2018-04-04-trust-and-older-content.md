@@ -71,7 +71,7 @@ In this video, Canadians are trying to see if it's safe for pregnant women to ge
 				<p class="wet-boew-vd">(They tap the first result and see the Vaccination and pregnancy page. They begin scrolling down.)</p>
 				<span class="wb-tmtxt" data-begin="29.00s" data-dur="4.84s">I wonder if there's anything that's newer than that.</span>
 				<span class="wb-tmtxt" data-begin="32.00s" data-dur="3.84s">Although that's still pretty current...</span>
-				<span class="wb-tmtxt" data-begin="36.41s" data-dur="3.84s">...I'd feel better if there was something a little newer.<span>				
+				<span class="wb-tmtxt" data-begin="36.41s" data-dur="3.84s">...I'd feel better if there was something a little newer.</span>				
 				<p class="wet-boew-vd">(Participant 3)</p>
 				<p class="wet-boew-vd">(Another person on a different mobile phone is looking at Canada.ca search results. They scroll down and look at the first result.)</p>
 				<span class="wb-tmtxt" data-begin="47.72s" data-dur="3.84s">Vaccination and pregnancy ok...</span>
