@@ -11,10 +11,10 @@ lang: en
 
 	   <div class="wb-eqht"> 
   {% assign draft=site.drafts | where:"lang", page.lang %}
-    {% for draft in drafts %}
+    {% for draft in site.drafts %}
 <section class="col-md-6">
 
-        <a class="post-link" href="{{ draft.url | prepend: site.baseurl }}"><h3>{{ draft.title }}</h3><img src="./thumbs/{{ draft.date | date: "%F" | img_url: '100x100' crop: 'center' }}.png" alt="{{ draft.alt }}" class="img-responsive thumbnail"></a>
+        <a class="draft-link" href="{{ draft.url | prepend: site.baseurl }}"><h3>{{ draft.title }}</h3><img src="./thumbs/{{ draft.date | date: "%F" | img_url: '100x100' crop: 'center' }}.png" alt="{{ draft.alt }}" class="img-responsive thumbnail"></a>
 		<p>{{ draft.description }} - <small>[{{ draft.date | date: "%F" }}]</small> </p>
   
 </section>
