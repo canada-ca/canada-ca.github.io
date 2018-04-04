@@ -10,7 +10,7 @@ lang: fr
 alt: Screenshot of a Canada.ca page showing the date modified
 description: In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.
 ---
-**Par Patrick, Bureau de la transformation numérique**
+**Par Patrick Lajeunesse, Bureau de la transformation numérique**
 
 Dans une étude récente sur la convivialité, nous avons vu que des gens ignoraient les résultats de recherche de Canada.ca qui semblaient trop vieux. Ils supposaient que, parce que la page n’avait pas été « modifiée » depuis un certain temps, l’information sur cette page n’était pas fiable. Cependant, le contenu était parfaitement valide et venait d’être revu. 
 
