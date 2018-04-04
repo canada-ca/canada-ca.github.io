@@ -2,7 +2,7 @@
 layout: post
 title: "Dates matter: Trust and older content on Canada.ca"
 gradelevel: 8
-ref: trust
+ref: true
 date:   2018-04-04 09:48:44 +0100
 datemodified: 2018-04-04 09:48:44 +0100
 published: false
