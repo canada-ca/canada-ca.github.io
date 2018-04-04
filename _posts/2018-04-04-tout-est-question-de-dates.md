@@ -1,51 +1,51 @@
 ---
 layout: post
-title: "Dates matter: Trust and older content on Canada.ca"
+title: "Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca"
 gradelevel: 8
-ref: trust
+ref: datesmatter
 date:   2018-04-04 09:48:44 +0100
 datemodified: 2018-04-04 09:48:44 +0100
 published: false
-lang: en
+lang: fr
 alt: Screenshot of a Canada.ca page showing the date modified
 description: In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.
 ---
 By Patrick
 
-In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. They assumed that because the page had not been “modified” for some time that the information on that page could not be relied upon. However, the content was perfectly valid and had in fact just been reviewed.
+Dans une étude récente sur la convivialité, nous avons vu que des gens ignoraient les résultats de recherche de Canada.ca qui semblaient trop vieux. Ils supposaient que, parce que la page n’avait pas été « modifiée » depuis un certain temps, l’information sur cette page n’était pas fiable. Cependant, le contenu était parfaitement valide et venait d’être revu. 
 
-How can we can help show that content is still relevant? By indicating when pages were last reviewed for accuracy. 
+Comment pouvons-nous contribuer à convaincre les utilisateurs que le contenu est toujours pertinent? En indiquant la date de la dernière vérification de l’exactitude des pages.
 
-## You can see how old content is on Canada.ca ##
+## Vous pouvez voir la date de publication du contenu sur Canada.ca ##
 
-<img class="img-responsive border" src="/images/dates-matter/pagewithdate-small-en.jpg" alt="Screenshot of a blurred Canada.ca page showing the date modified near the bottom on the left side." />
+<img class="img-responsive border" src="/images/dates-matter/pagewithdate-small-fr.jpg" alt="Screenshot of a blurred Canada.ca page showing the date modified near the bottom on the left side." />
 
-(You'll see the date this post was published if you look near the bottom of this page.)
-Since it's in the same place on every Canada.ca web page, people can count on finding the date if they want to know how current the information is.
+(Vous verrez la date de publication si vous regardez au bas de cette page.)
+Comme cette information est au même endroit sur chaque page Web de Canada.ca, les gens peuvent s’y fier s’ils veulent savoir à quel point l’information est à jour.
 
-The second place people see the date is in search engine results. Both on Internet search engines:
+Le deuxième endroit où les gens voient la date est dans les résultats de moteurs de recherche. Sur des moteurs de recherche Internet :
 
-<img class="img-responsive border" src="/images/dates-matter/blog-date-internet-serp-en.png" alt="Internet search results page for 'Vaccines while pregnant' showing a Canada.ca result (Vaccinations and pregnancy) with June 30, 2015 highlighted">
+<img class="img-responsive border" src="/images/dates-matter/blog-date-internet-serp-fr.png" alt="Internet search results page for 'Vaccines while pregnant' showing a Canada.ca result (Vaccinations and pregnancy) with June 30, 2015 highlighted">
 
 ...and on Canada.ca search:
 
 <img class="img-responsive border" src="/images/dates-matter/blog-date-canadadotca-serp.png" width="1024" alt="Canada.ca search results page for 'vaccines while pregnant' showing a result (Vaccinations and pregnancy) with June 20, 2015 highlighted">
 
-## Why content age matters ##
+## Pourquoi l’actualité du contenu est importante ##
 
-When trying to accomplish a task, people really notice the age of the content presented. The more recent your content looks, the more credible it seems to people. Without this piece of information they may not be successful finding what they are looking for. 
-That’s why the design guidance for Canada.ca requires you to implement the “Date modified” component.
+Quand ils essaient d’accomplir une tâche, les utilisateurs regardent vraiment à quand remonte le contenu présenté. Plus votre contenu est récent, plus il semble crédible. Sans cette information, ils ne réussiront peut-être pas à trouver ce qu’ils recherchent.
+C’est pourquoi les lignes directrices en matière de conception pour Canada.ca vous demandent de mettre en place la composante « Date de modification ».
 
-<ul><li> <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/headers-footers-navigation.html#toc3">Headers, footers and navigation for Canada.ca</a></li></ul>
+<ul><li> <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/en-tetes-pieds-page-navigation.html#toc3">En-tête, pied de page et navigation pour Canada.ca</a></li></ul>
 
-But for it to be useful for people, the component needs to be managed well. And that can be the difficult part. Often, if there's no reason to update the content, we don’t review it. Then the “Date modified” stays the same as the date published. 
+Mais pour que cela soit utile, cette composante doit être bien mise en œuvre et bien gérée. C’est la partie la plus difficile. Souvent, s’il n’y a pas de raison de mettre à jour le contenu, nous ne le révisons pas, et la « Date de modification » demeure la même que la date de publication.
 
-Content can start to look old even if it's still accurate and relevant. This creates problems, especially with content that can appear out-of-date quickly. 
+Le contenu peut commencer à paraître vieux même s’il est toujours exact et pertinent. Cela crée des problèmes, surtout si votre contenu peut devenir désuet rapidement. 
 
 
-## Watch people disregarding old content ##
+## Exemples de gens qui ne tiennent pas compte de vieux contenu ##
 
-In this video, Canadians are trying to see if it's safe for pregnant women to get the flu shot (it is and they should!). Here's what happens when they see that content is from more than 2 years ago:
+Dans cette vidéo, des Canadiens essaient de voir si les femmes enceintes peuvent se faire vacciner contre la grippe (elles le peuvent et le devraient!). Voici ce qui se passe quand ils voient que le contenu date de plus de deux ans :
 
 {::nomarkdown}
 <figure class="wb-mltmd wb-init video cc_on">
@@ -56,46 +56,47 @@ In this video, Canadians are trying to see if it's safe for pregnant women to ge
 
 <figcaption>
 <details id="inline-captions">
-				<summary>Transcript: People looking at older content</summary>
+				<summary>Transcription : Des personnes examinent du contenu datant d’un certain temps</summary>
   <p class="wet-boew-vd">(Participant 1)</p>
-				<p class="wet-boew-vd">(Video showing someone looking at a Canada.ca search results page. Text appears pointing to a result for "Vaccination and pregnancy", which has a date of "June 20, 2015".)</p>
-				<span class="wb-tmtxt" data-begin="6.02s" data-dur="6.84s">And, so this is from 2015 so I'll just scroll down a little bit to see if maybe...</span>
-				<p class="wet-boew-vd">(The picture zooms into filter controls on the side of the page. The mouse moves over "By date: Past year" and clicks the link.)</p>
-				<span class="wb-tmtxt" data-begin="14.12s" data-dur="4.84s">...maybe from the past year - I'll filter my results...</span>
-				<p class="wet-boew-vd">(The search results reload and the Vaccination and pregnancy page is gone.)</p>
-				<span class="wb-tmtxt" data-begin="17.12s" data-dur="4.84s">...in case there's something more current.</span>
-				<p class="wet-boew-vd">(Text appears saying that "The filter hid the best result".)</p>
+				<p class="wet-boew-vd">(Vidéo montrant une personne qui regarde une page de résultats de recherche de Canada.ca. Du texte indique un résultat pour « Vaccination et grossesse », dont la date est le « 20 juin 2015 ».)</p>
+				<span class="wb-tmtxt" data-begin="6.02s" data-dur="6.84s">Ça date de 2015, alors je vais défiler un peu pour voir si peut-être...</span>
+				<p class="wet-boew-vd">(L’image fait un zoom sur les commandes de filtre sur le côté de la page. La souris passe sur « Par date : dernière année » et clique sur le lien.)</p>
+				<span class="wb-tmtxt" data-begin="14.12s" data-dur="4.84s">... peut-être de la dernière année. Je vais filtrer mes résultats...</span>
+				<p class="wet-boew-vd">(Les résultats de la recherche sont rechargés et la page Vaccination et grossesse a disparu.)</p>
+				<span class="wb-tmtxt" data-begin="17.12s" data-dur="4.84s">... au cas où il y aurait quelque chose de plus actuel.</span>
+				<p class="wet-boew-vd">(Le texte indique que « Le filtre a caché le meilleur résultat ».)</p>
 				<p class="wet-boew-vd">(Participant 2)</p>
-				<p class="wet-boew-vd">(Someone is looking at a Canada.ca search results page on a mobile phone.)</p>
-				<span class="wb-tmtxt" data-begin="26.12s" data-dur="3.84s">This information goes back to 2015.</span>
-				<p class="wet-boew-vd">(They tap the first result and see the Vaccination and pregnancy page. They begin scrolling down.)</p>
-				<span class="wb-tmtxt" data-begin="29.00s" data-dur="4.84s">I wonder if there's anything that's newer than that.</span>
-				<span class="wb-tmtxt" data-begin="32.00s" data-dur="3.84s">Although that's still pretty current...</span>
-				<span class="wb-tmtxt" data-begin="36.41s" data-dur="3.84s">...I'd feel better if there was something a little newer.<span>				
+				<p class="wet-boew-vd">(Une personne consulte une page de résultats de recherche Canada.ca sur un téléphone mobile.)</p>
+				<span class="wb-tmtxt" data-begin="26.12s" data-dur="3.84s">Cette information remonte à 2015.</span>
+				<p class="wet-boew-vd">(Elle sélectionne le premier résultat et consulte la page Vaccination et grossesse. Elle commence à défiler vers le bas.)</p>
+				<span class="wb-tmtxt" data-begin="29.00s" data-dur="4.84s">Je me demande s’il y a quelque chose de plus récent.</span>
+				<span class="wb-tmtxt" data-begin="32.00s" data-dur="3.84s">Bien que ce ne soit pas très vieux...
+	</span>
+				<span class="wb-tmtxt" data-begin="36.41s" data-dur="3.84s">... Je me sentirais mieux s’il y avait quelque chose de plus récent.<span>				
 				<p class="wet-boew-vd">(Participant 3)</p>
-				<p class="wet-boew-vd">(Another person on a different mobile phone is looking at Canada.ca search results. They scroll down and look at the first result.)</p>
-				<span class="wb-tmtxt" data-begin="47.72s" data-dur="3.84s">Vaccination and pregnancy ok...</span>
-				<p class="wet-boew-vd">(They seem ready to tap the link to the page, but hesitate.)</p>
-				<span class="wb-tmtxt" data-begin="52.42s" data-dur="3.84s">...but that's like from 2015</span>
-				<span class="wb-tmtxt" data-begin="55.12s" data-dur="3.84s">Where's the latest information from it?</span>
+				<p class="wet-boew-vd">(Une autre personne qui utilise un téléphone mobile différent consulte les résultats de sa recherche sur Canada.ca. Elle fait défiler les résultats et examine le premier.)</p>
+				<span class="wb-tmtxt" data-begin="47.72s" data-dur="3.84s">Vaccination et grossesse, OK...</span>
+				<p class="wet-boew-vd">(Elle semble s’apprêter à cliquer sur le lien, mais hésite.)</p>
+				<span class="wb-tmtxt" data-begin="52.42s" data-dur="3.84s">... mais ça date de 2015</span>
+				<span class="wb-tmtxt" data-begin="55.12s" data-dur="3.84s">Où sont les renseignements les plus récents?</span>
 </details>
 </figcaption>
  {:/nomarkdown}
 	
-Even if the information is perfectly valid, people still thought there should be something newer.
+Même si l’information est parfaitement valide, les gens ont quand même pensé qu’il devait y avoir quelque chose de plus récent.
 
-## Review content regularly to confirm it’s up to date, not just when you change it ##
+## Passez en revue le contenu régulièrement pour confirmer qu’il est à jour, pas seulement lorsque vous apportez des changements importants ##
 
-Review your content regularly as part of your content management lifecycle. How often to review depends on the content. Make sure you understand the business lifecycle of the content and review as often as makes sense.
+Passez en revue régulièrement votre contenu dans le cadre du cycle de vie de la gestion du contenu. La fréquence dépend du contenu. Assurez-vous de comprendre le cycle de vie opérationnel du contenu et de l’examiner aussi souvent que nécessaire.
 
-These tests have confirmed something we've had our eye on for a while. Currently, our guidance suggests only updating the “Date modified” component when making significant changes to content. We’ll be making changes to the guidance to reflect the need for a regular content review cycle that reaffirms content currency for people on Canada.ca.
+Ces tests ont confirmé quelque chose que nous surveillons depuis un certain temps. À l’heure actuelle, nos lignes directrices suggèrent de mettre à jour la composante « Date de modification » uniquement lorsque des changements importants sont apportés au contenu. Nous apporterons des changements aux lignes directrices pour refléter la nécessité d’un cycle d’examen du contenu régulier qui confirmera l’exactitude du contenu pour les visiteurs de Canada.ca.
 
-## If you reviewed the page and it's still valid, update its “Date modified” ##
+## Si vous avez passé en revue la page et qu’elle est toujours valide, mettez à jour sa « Date de modification » ##
 
-If you've done a full review of the content and decided it's still valid, then you can update the “Date modified” component. The date issued remains the same, but this provides a signal that the content has been assessed and is still current.
+Si vous avez effectué une révision complète du contenu et avez décidé qu’il est toujours valide, mettez à jour la composante « Date de modification » pour refléter la date de la révision. La date de publication demeure la même, mais ce changement indique que le contenu a été évalué et qu’il est toujours à jour.
 
-It's very important not to update the “Date modified” component of pages without the proper review, just because you want to make them <strong>look</strong> new. Knowing the actual date something was modified or reviewed is important. It should only be done as part of a content lifecycle review process that has actually determined that the content is still valid. 
+Il est très important de ne pas mettre à jour la composante « Date de modification » des pages qui n’ont pas été soigneusement passées en revue simplement parce que vous voulez qu’elles <b>paraissent</b> récentes. Les gens accordent ou non leur confiance en fonction de cette date. Si l’information n’est pas à jour, cette confiance est brisée. Mettez à jour cette information seulement dans le cadre d’un processus de révision du cycle de vie du contenu ayant déterminé que le contenu est toujours valide. . 
 
-## We want to hear from you ##
+## Nous voulons connaître votre opinion ##
 
-Let us know what you think about optimization for Canada.ca. Email us at <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> or tweet using the hashtag <a href="https://twitter.com/search?q=%23Canadadotca">#Canadadotca</a>.
+Dites-nous ce que vous pensez de notre travail d’optimisation et des changements que nous apportons aux lignes directrices en matière de conception pour Canada.ca. Écrivez-nous par courriel à l’adresse <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> ou sur Twitter en utilisant le mot-clic <a href="https://twitter.com/search?q=%23Canadapointca">#Canadapointca</a>.
