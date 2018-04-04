@@ -4,7 +4,7 @@ title: "Dates matter: Trust and older content on Canada.ca"
 gradelevel: 8
 ref: datesmatter
 date:   2018-04-04 09:48:44 +0100
-datemodified: 2018-04-04 09:48:44 +0100
+datemodified: "Date modified: April 4, 2018"
 published: true
 lang: en
 alt: Screenshot of a Canada.ca page showing the date modified
