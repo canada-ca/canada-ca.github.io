@@ -14,7 +14,7 @@ description: In a recent usability study, we saw people disregarding Canada.ca s
 
 In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. They assumed that because the page had not been “modified” for some time that the information on that page could not be relied upon. However, the content was perfectly valid and had in fact just been reviewed.
 
-How can we can help show that content is still relevant? By indicating when pages were last reviewed for accuracy. 
+How can we can help show that content is still relevant? By indicating when pages were last reviewed for accuracy.
 
 ## You can see how old content is on Canada.ca ##
 
@@ -33,14 +33,14 @@ The second place people see the date is in search engine results. Both on Intern
 
 ## Why content age matters ##
 
-When trying to accomplish a task, people really notice the age of the content presented. The more recent your content looks, the more credible it seems to people. Without this piece of information they may not be successful finding what they are looking for. 
+When trying to accomplish a task, people really notice the age of the content presented. The more recent your content looks, the more credible it seems to people. Without this piece of information they may not be successful finding what they are looking for.
 That’s why the design guidance for Canada.ca requires you to implement the “Date modified” component.
 
 <ul><li> <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/headers-footers-navigation.html#toc3">Headers, footers and navigation for Canada.ca</a></li></ul>
 
-But for it to be useful for people, the component needs to be managed well. And that can be the difficult part. Often, if there's no reason to update the content, we don’t review it. Then the “Date modified” stays the same as the date published. 
+But for it to be useful for people, the component needs to be managed well. And that can be the difficult part. Often, if there's no reason to update the content, we don’t review it. Then the “Date modified” stays the same as the date published.
 
-Content can start to look old even if it's still accurate and relevant. This creates problems, especially with content that can appear out-of-date quickly. 
+Content can start to look old even if it's still accurate and relevant. This creates problems, especially with content that can appear out-of-date quickly.
 
 
 ## Watch people disregarding old content ##
@@ -71,7 +71,7 @@ In this video, Canadians are trying to see if it's safe for pregnant women to ge
 				<p class="wet-boew-vd">(They tap the first result and see the Vaccination and pregnancy page. They begin scrolling down.)</p>
 				<span class="wb-tmtxt" data-begin="29.00s" data-dur="4.84s">I wonder if there's anything that's newer than that.</span>
 				<span class="wb-tmtxt" data-begin="32.00s" data-dur="3.84s">Although that's still pretty current...</span>
-				<span class="wb-tmtxt" data-begin="36.41s" data-dur="3.84s">...I'd feel better if there was something a little newer.</span>				
+				<span class="wb-tmtxt" data-begin="36.41s" data-dur="3.84s">...I'd feel better if there was something a little newer.</span>			
 				<p class="wet-boew-vd">(Participant 3)</p>
 				<p class="wet-boew-vd">(Another person on a different mobile phone is looking at Canada.ca search results. They scroll down and look at the first result.)</p>
 				<span class="wb-tmtxt" data-begin="48.72s" data-dur="2.84s">Vaccination and pregnancy ok...</span>
@@ -81,7 +81,7 @@ In this video, Canadians are trying to see if it's safe for pregnant women to ge
 </details>
 </figcaption>
  {:/nomarkdown}
-	
+
 Even if the information is perfectly valid, people still thought there should be something newer.
 
 ## Review content regularly to confirm it’s up to date, not just when you change it ##
@@ -94,7 +94,7 @@ These tests have confirmed something we've had our eye on for a while. Currently
 
 If you've done a full review of the content and decided it's still valid, then you can update the “Date modified” component. The date issued remains the same, but this provides a signal that the content has been assessed and is still current.
 
-It's very important not to update the “Date modified” component of pages without the proper review, just because you want to make them <strong>look</strong> new. Knowing the actual date something was modified or reviewed is important. It should only be done as part of a content lifecycle review process that has actually determined that the content is still valid. 
+It's very important not to update the “Date modified” component of pages without the proper review, just because you want to make them <strong>look</strong> new. Knowing the actual date something was modified or reviewed is important. It should only be done as part of a content lifecycle review process that has actually determined that the content is still valid.
 
 ## We want to hear from you ##
 
