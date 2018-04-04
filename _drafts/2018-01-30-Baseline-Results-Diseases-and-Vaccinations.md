@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Diseases and immunization project"
-ref: XXtemplateXX
+ref: dis-immun
 date:   2018-01-23 15:19:02 +0100
 published: true
 lang: en
