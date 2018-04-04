@@ -29,7 +29,7 @@ Le deuxième endroit où les gens voient la date est dans les résultats de mote
 
 ...and on Canada.ca search:
 
-<img class="img-responsive border" src="/images/dates-matter/blog-date-canadadotca-serp-fr.png" width="1024" alt="La page de résultats de recherche sur Internet pour « Vaccins grossesse » montrant un résultat (Vaccination et grossesse) avec le 20 juin 2015 surligné">
+<img class="img-responsive border" src="/images/dates-matter/blog-date-canadadotca-serp-fr.png" width="1024" alt="La page de résultats de recherche sur Canada.ca pour « Vaccins grossesse » montrant un résultat (Vaccinations et grossesse) avec le 20 juin 2015 surligné.">
 
 ## Pourquoi l’actualité du contenu est importante ##
 
