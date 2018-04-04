@@ -99,3 +99,20 @@ It's very important not to update the “Date modified” component of pages wit
 ## We want to hear from you ##
 
 Let us know what you think about optimization for Canada.ca. Email us at <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> or tweet using the hashtag <a href="https://twitter.com/search?q=%23Canadadotca">#Canadadotca</a>.
+
+## About Patrick
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive" style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3035_277x370.jpg" width="185px" alt="Patrick Lajeunesse" />
+      Patrick Lajeunesse <br />
+      <b>Senior Design Researcher</b>
+   </div>
+</div>
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>Patrick has been working in user experience design and research for 20 years. With a degree in Psychology, he applied his research and analysis training to digital communications and design for the United Nations and other international agencies based in Geneva, Switzerland before moving to Ottawa.</p><p>He spent a decade working in start-ups based in Ottawa and Connecticut, leading design for products used by some of the largest school districts in the United States. Patrick has been working to improve service delivery for the Government of Canada since 2009.</p>
+
+</figcaption>
+</div>
