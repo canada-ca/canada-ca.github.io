@@ -3,7 +3,7 @@ layout: post
 title:  "Aider les Canadiens à lancer une entreprise"
 ref: starting
 date:   2018-02-20 09:48:44 +0100
-datemodified: "Date de modification : le 20 févr, 2018"
+datemodified: "Date de modification : le 20 févr 2018"
 categories: category
 published: true
 lang: fr
