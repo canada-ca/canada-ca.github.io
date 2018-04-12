@@ -7,7 +7,20 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+.custul {
 
+  list-style-type: circle;
+
+}
+
+
+
+.custli {
+
+padding-top: 5px;
+padding-bottom: 5px;
+
+}
 
 }
 .container-fluid {
@@ -20,9 +33,9 @@ body {
 }
 
 .title-timeline {
-    text-align: center;
+
     margin-bottom: 60px;
-    padding: 3em 0;
+    padding: 0;
     border-bottom: 1px solid #ccc;
     p {
         margin: 0 auto;
@@ -32,16 +45,16 @@ body {
 }
 
 .timeline-title {
-  
+
         font-size: 20px;
 		font-weight: 500;
         max-width: 400px;
 
     }
 
-	
+
 .timeline-title-soon {
-  
+
         font-size: 20px;
 		font-weight: 500;
         max-width: 400px;
@@ -55,7 +68,7 @@ body {
         margin: 0;
         padding: 0;
         width: 100%;
-   
+
     }
 
 /* -- timeline block, including date and projects -- */
@@ -63,7 +76,7 @@ body {
     .timeline-item {
         padding-left: 40px;
         position: relative;
-      
+
     }
 
 /* -- timeline year -- */
@@ -77,16 +90,16 @@ body {
         white-space: nowrap;
     }
 
-	
+
 /* -- timeline markers -- */
-	
+
 	 .timeline-marker:before {
         position: absolute;
         top: 0; bottom: 0; left: 0;
         width: 15px;
-	
- 
-	
+
+
+
             background: #CCCCCC;
             border: 3px solid transparent;
             border-radius: 100%;
@@ -97,10 +110,10 @@ body {
             top: 4px; left: 0;
             width: 15px;
             transition: background 0.3s ease-in-out,
-                    border 0.3s ease-in-out; 
+                    border 0.3s ease-in-out;
         }
-        
-		
+
+
 	.timeline-marker:after {
 		 position: absolute;
         top: 0; bottom: 0; left: 0;
@@ -112,20 +125,20 @@ body {
             position: absolute;
             top: 24px; bottom: 0; left: 6px;
         }
-		
-		
+
+
     .timeline-item:last-child :after {
             content: none;
         }
-      
-    
-	
+
+
+
     .timeline-item:not(.period):hover .timeline-marker:before {
         background: transparent;
-        border: 3px solid #CCCCCC; 
-    } 
+        border: 3px solid #CCCCCC;
+    }
 
-   
+
 
 /*----- content -----*/
 
@@ -137,19 +150,19 @@ body {
     }
 
   .details-custom {
-	  
-	  border: none !important; 
+
+	  border: none !important;
 	  margin-top: 25px;
   }
-  
+
     .borderless {
-	  
-	  border: none !important; 
-	
+
+	  border: none !important;
+
   }
-  
+
    .summary-custom {
-	  
+
 	 border-top: 1px solid #ddd;
 	 margin-top: 10px;
 
@@ -157,8 +170,8 @@ body {
 
    /* ::-webkit-details-marker { display:none; } */
 
-  
+
   .soon {
-	  
+
 	  color: #bbb;
   }
