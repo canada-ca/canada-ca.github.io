@@ -87,9 +87,15 @@ padding-bottom: 5px;
         letter-spacing: 2px;
         margin: 0 0 .5em 0;
         text-transform: uppercase;
-        white-space: nowrap;
+        white-space: nowrap5
     }
 
+    .allcaps {
+        font-size: 14px;
+        font-weight: 500;
+        text-transform: uppercase;
+
+    }
 
 /* -- timeline markers -- */
 
