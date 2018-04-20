@@ -150,6 +150,7 @@ padding-bottom: 5px;
 
     .timeline-content {
         padding-bottom: 40px;
+	
         p:last-child {
             margin-bottom: 0;
         }
