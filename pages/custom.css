@@ -82,9 +82,9 @@ padding-bottom: 5px;
 /* -- timeline year -- */
 
     .timeline-year {
-        font-size: 14px;
+        font-size: 18px;
         font-weight: 700;
-        letter-spacing: 2px;
+        letter-spacing: 1px;
         margin: 0 0 .5em 0;
         text-transform: uppercase;
         white-space: nowrap5
