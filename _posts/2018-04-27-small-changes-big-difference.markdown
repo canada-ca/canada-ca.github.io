@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Visit Canada: Optimization"
-ref: visit
+title:  "Canada.ca: Small changes can make a big difference"
+ref: small-big
 date:   2018-03-29 16:34:44 +0100
-datemodified: "Date modified: March 29, 2018"
+datemodified: "Date modified: April 79, 2018"
 published: false
 lang: en
 alt: This image shows two funnels comparing before and after optimization.
@@ -11,132 +11,36 @@ description: The Digital Transformation Office (DTO) worked with  Immigration, R
 ---
 **By Eric Cooper, Digital Transformation Office**
 
-Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we had approximately 20.8 million visitors, breaking our previous record.
+I’ve noted that Apple can design something so intuitive that my 4 year olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grownups can navigate easily.
 
-It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)". Immigration, Refugees, and Citizenship Canada (IRCC) issues both of these travel documents are issued by.
+In my view, digital government has little to do with technology. It’s got everything to do with enabling, empowering, and serving people. It’s about focusing on user needs to make website content simple and clear. It’s about doing the hard work to improve Canada.ca so Canadians don’t have to.
 
-Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they needed. Some people could not board their flight to Canada because they had for the wrong document.
+We need to continue to make access to government easier for Canadians, whether they’re applying for programs, looking for a quick answer online, engaging with us on important policy questions, or simply learning something new about their federal government. 
+Too often, people have difficulty getting what they need from government websites. Often, instead of providing answers, we just give them information. 
 
-* [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927)
+What’s the difference? Imagine this scenario: you show up at a service desk to submit an application to access a program. When you ask a couple of questions related to your particular situation, the service representative hands you a thick stack of manuals, guides, legislation and reports and says, “Here’s the information. It’s all in there. Read it over and if you have any more questions, get back in line.” Besides eating up your valuable time, in the end you may not actually find the answer you need.
 
-In January 2017, the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. To help out, the Digital Transformation Office worked with IRCC to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
+Of course this would never happen. In reality, service desk staff ask you the right questions for your situation and provide you with an answer you can use. Yet to get such service, you have to go in-person, or pick up a phone.
 
-## Understanding the problem
-During our discovery research, we mapped out the different scenarios for people visiting Canada. What they need depended on a variety of criteria: 
+For truly user-focused online service, we need to think like the person on the other side of the screen. We must understand their needs. What types of situations do they find themselves in? What do they need to know? How do we create answers that make sense to people, and what is the best way to do this? When we understand what people need, we can write simple and clear content that makes sense to them.
+The Treasury Board Secretariat is working with project partners at Health Canada, Employment and Social Development Canada, the Canada Revenue Agency, and Environment and Climate Change Canada to understand what people expect from Canada.ca. 
 
-- what country they are coming from
-- what foreign citizenship they currently hold
-- whether they are a dual citizen or a permanent resident
-- what mode of travel they are using to cross the Canadian border
+The teams are creating prototypes that make it much easier for Canadians to:
+•	find and interpret disease symptoms and immunization guidelines
+•	see if they  are eligible to receive caregiver benefits when looking after loved ones 
+•	understand how to fulfill GST/HST and payroll requirements
+•	prepare for high-impact weather conditions
 
+The teams know the prototypes are successful because they have tested them with users. Before any work started they asked Canadians to use the services, and 40% were successful finding the answers they needed. After they improved the content, the success rate jumped to 77%. If you think about the millions of visits these Canada.ca pages get every year, improvements like this will make a big difference.
 
-We then narrowed our scope to the most common tasks based on IRCC’s data and knowledge:
+Check out the Projects Overview to learn more about these improved services.
 
-Find out what I need to come to Canada...
+This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians. 
 
-- ... as a tourist from my country
-- ... to visit my children or grandchildren
-- ... as a Canadian permanent resident
-- ... as a former Canadian permanent resident
-- ... as a Canadian dual citizen
-- ... from the USA with an American passport
-- ... to transit through a Canadian airport
+With digital content, it is even more critical to get the basics right:
+•	organize instructions in the way people expect. 
+•	replace bureaucratese with simple, clearly organized language that make sense to people. 
+•	only say what needs to be said, nothing more.  
 
+There are many opportunities for a digital government to deliver better results for Canadians.  We are looking at digital approaches to inform policy development and improve our services. In some areas, big changes may be required. But making small, smart changes goesa long way in helping Canadians use our services.
 
-We ran hundreds of people through these tasks in a combination of online and moderated studies to find out how and why they were struggling.
-
-This is what the key page in the process looked like when we started. Notice the text at the top of the page with links for exceptions, dual citizens, and Canadian permanent residents. Testing showed that people weren't able to consistently see these links and would go straight to the drop-down list.
-
-<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what 'Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa' looked like before optimization.">
-
-
-<details>
-		<summary>Text version of this image</summary>
-	<p>This image shows what the “Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa” page looked like before it was optimized.</p><p>There are two paragraphs of text with four links embedded in them. Below that, in a blue box, is more text with a drop down menu of countries. At the bottom of the page are three large related links in boxes. On the left side of the page is a left-hand navigation table with links to:</p><ul>
-	<li>visit as a tourist</li>
-	<li>visit your children or grandchildren</li>
-	<li>visit on business</li>
-	<li>extend your stay</li>
-	<li>transit through Canada</li>
-	</ul>
-	
-</details>
-
-## Redesigning the process
-With baseline research in hand, the team redesigned the process to solve the issues we learned about. Together, IRCC and DTO built prototypes that we hoped would improve the experience of people trying to understand which travel documents they needed. Key fixes included: 
-
-- using a question and answer approach to guide people through the task
-- creating new pages for groups that were not covered previously (refugees and former permanent residents)
-- simplifying navigation to reduce cognitive load, by removing sidebar navigation links from pages
-- reducing the number of links on the Visit Canada topic page from 9 to 5 to streamline the target path
-- adding a crosslink to the Visit Canada topic page in the Travel theme menu based on user evidence
-
-<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the 'Find out if you need a visa page' looked like after optimization">
-
-  <details>
-		<summary>Text version of this image</summary>
-	<p>This image shows the “Find out if you need a visa” page after optimization.</p><p> It has a small paragraph of text followed by “You are:” and then five possible selections:</p><ul>
-	<li>a citizen of Canada and another country (dual citizen)</li>
-		<li>a permanent resident of Canada (PR Card)</li>
-		<li>a refugee travelling with a document for non-citizens</li>
-		<li>a stateless person travelling with an alien’s passport</li>
-		<li>a former resident of Canada, but have not been back for many years</li>
-		<li>none of the above</li>
-	</ul>
-	
-</details>    
-
-The layout was at times confusing, including links to rules and requirements. We replaced it by a series of questions and answers that help people get to the right answer.
-
-## Validating the prototypes
-
-To understand if the prototypes were working better for people trying to visit Canada, we ran 46 participants through the tasks in café testing sessions. The overall success rate for the prototypes was 91%, representing an improvement of 47 percentage points against the same tasks on the live site. 
-
-## Seeing it work in the real world
-
-Once the prototypes were integrated into the live site in March 2017, analytics showed a solid improvement in people making it from the Visit Canada topic page through to the apply pages. 
-
-
-<b>Before and after optimization:</b> February 2017 and June 2017
-
-<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-funnels2.JPG" alt="This image shows two funnels comparing before and after optimization.">
-
-<details>
-		<summary>Text version of this image</summary>
-	<p>This image shows two funnels comparing before and after optimization the number of people who went from the Visit Canada topic page to any of the following pages:</p><ul>
-	<li>find out if you need an Electronic travel authorization (eTA) or a visitor visa</li>
-		<li>apply for a visitor visa</li>
-		<li>apply for an eTA</li>
-	</ul>
-Before optimization, 35% of clicks from the Visit Canada topic page went to one of those pages.
-
-After optimization, it was 62%, meaning the topic page was more effective at driving people to those pages. There were also 10% more entries to the Visit Canada topic page through the megamenu after optimization.
-</details>
-
-As the chart shows, people’s success at finding the apply pages jumped by 27 percentage points, from 35% before to 62% after. Also, we saw more people using the navigation menu to enter the flow. Due to this project, people who want to visit Canada can spend less time worrying about travel documents, and more time enjoying their visit to our country.
-
-## What do you think?
-Let us know what you think about this project. Email us at <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> or tweet using the hashtag #Canadadotca.
-
-## Learn more about this project
-- [Check out the optimized Visit Canada page](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html)
-- [Read Statistics Canada’s report on travel between Canada and other countries](http://www.statcan.gc.ca/daily-quotidien/180220/dq180220c-eng.htm)
-- [See the inventory of top tasks for Canada.ca](https://canada-ca.github.io/pages/top-task-list-canada-ca.html)
-
-## About Eric
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" width="185px" alt="Eric Cooper" />
-      Eric Cooper<br>
-      <b>Project Coordinator</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Eric is a Project Coordinator for the Treasury Board of Canada Secretariat. It takes a lot of work to overhaul a top task and Eric contributes by engaging with partners, managing the schedules, and getting tools when needed (digital or analog). Over the past 3 years, he’s contributed to the development and publication of the Canada.ca Content and Information Architecture Specification and the Canada.ca Content Style Guide.</p><p>He holds an honours Bachelor’s degree of Integrated Science with concentrations in Mathematics and Psychology and he earned his Project Management Professional PMP certification in 2017.</p>
-
-</figcaption>
-</div>
