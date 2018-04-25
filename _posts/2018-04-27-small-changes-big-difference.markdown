@@ -34,7 +34,7 @@ The teams are creating prototypes that make it much easier for Canadians to:
 
 The teams know the prototypes are successful because they have tested them with users. Before any work started they asked Canadians to use the services, and 40% were successful finding the answers they needed. After they improved the content, the success rate jumped to 77%. If you think about the millions of visits these Canada.ca pages get every year, improvements like this will make a big difference.
 
-Check out the [Projects to improve Canada.ca] (https://canada-ca.github.io/pages/projectoverview.html) to learn more about these improved services.
+Check out the [Projects to improve Canada.ca](https://canada-ca.github.io/pages/projectoverview.html) to learn more about these improved services.
 
 This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians. 
 
