@@ -6,8 +6,8 @@ date:   2018-03-29 16:34:44 +0100
 datemodified: "Date modified: April 79, 2018"
 published: false
 lang: en
-alt: This image shows two funnels comparing before and after optimization.
-description: The Digital Transformation Office (DTO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
+alt: XXX
+description: Small changes are making a big difference for Canadians on Canada.ca. Read what TBS President Scott Brison has to say about the improvement work underway.
 ---
 **By the Honourable Scott Brison, President of the Treasury Board**
 
