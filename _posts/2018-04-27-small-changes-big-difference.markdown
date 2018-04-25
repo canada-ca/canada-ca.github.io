@@ -9,7 +9,7 @@ lang: en
 alt: This image shows two funnels comparing before and after optimization.
 description: The Digital Transformation Office (DTO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
 ---
-**By Eric Cooper, Digital Transformation Office**
+**By the Honourable Scott Brison, President of the Treasury Board**
 
 I’ve noted that Apple can design something so intuitive that my 4 year olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grownups can navigate easily.
 
@@ -26,21 +26,22 @@ For truly user-focused online service, we need to think like the person on the o
 The Treasury Board Secretariat is working with project partners at Health Canada, Employment and Social Development Canada, the Canada Revenue Agency, and Environment and Climate Change Canada to understand what people expect from Canada.ca. 
 
 The teams are creating prototypes that make it much easier for Canadians to:
-•	find and interpret disease symptoms and immunization guidelines
-•	see if they  are eligible to receive caregiver benefits when looking after loved ones 
-•	understand how to fulfill GST/HST and payroll requirements
-•	prepare for high-impact weather conditions
+
+- find and interpret disease symptoms and immunization guidelines
+-	see if they  are eligible to receive caregiver benefits when looking after loved ones 
+-	understand how to fulfill GST/HST and payroll requirements
+-	prepare for high-impact weather conditions
 
 The teams know the prototypes are successful because they have tested them with users. Before any work started they asked Canadians to use the services, and 40% were successful finding the answers they needed. After they improved the content, the success rate jumped to 77%. If you think about the millions of visits these Canada.ca pages get every year, improvements like this will make a big difference.
 
-Check out the Projects Overview to learn more about these improved services.
+Check out the [Projects to improve Canada.ca] (https://canada-ca.github.io/pages/projectoverview.html) to learn more about these improved services.
 
 This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians. 
 
 With digital content, it is even more critical to get the basics right:
-•	organize instructions in the way people expect. 
-•	replace bureaucratese with simple, clearly organized language that make sense to people. 
-•	only say what needs to be said, nothing more.  
+-	organize instructions in the way people expect 
+-	replace bureaucratese with simple, clearly organized language that make sense to people 
+-	only say what needs to be said, nothing more 
 
 There are many opportunities for a digital government to deliver better results for Canadians.  We are looking at digital approaches to inform policy development and improve our services. In some areas, big changes may be required. But making small, smart changes goesa long way in helping Canadians use our services.
 
