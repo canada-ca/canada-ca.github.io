@@ -62,7 +62,7 @@ Le gouvernement numérique offre de nombreuses possibilités de produire de meil
 
 <hr>
 
-<b>The Honourable Scott Brison is the President of the Treasury Board.</b>
+<b>L’honorable Scott Brison est le président du Conseil du Trésor du Canada.</b>
 
 Scott Brison, député de Kings–Hants (Nouvelle-Écosse), a été élu à la Chambre des communes du Canada lors de sept élections, entre juin 1997 et octobre 2015.
 
