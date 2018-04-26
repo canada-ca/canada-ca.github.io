@@ -12,7 +12,7 @@ description: Small changes are making a big difference for Canadians on Canada.c
 
 **By the Honourable Scott Brison, President of the Treasury Board**
 
-<img class="img-responsive" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="" />
+<img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="" />
 
 I’ve noted that Apple can design something so intuitive that my 4 year olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grown-ups can navigate easily.
 
@@ -60,6 +60,7 @@ There are many opportunities for a digital government to deliver better results 
 
 - [Improving content on Canada.ca](https://canada-ca.github.io/pages/projectoverview.html)
 
+## About the author
 
 <hr>
 
