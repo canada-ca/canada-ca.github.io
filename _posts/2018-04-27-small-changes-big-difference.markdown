@@ -56,3 +56,15 @@ With digital content, it is even more critical to get the basics right:
 
 There are many opportunities for a digital government to deliver better results for Canadians.  We are looking at digital approaches to inform policy development and improve our services. In some areas, big changes may be required. But making small, smart changes goes a long way in helping Canadians use our services.
 
+## Learn more about the Digital Transformation Office
+
+- [Improving content on Canada.ca](https://canada-ca.github.io/pages/projectoverview.html)
+
+
+<hr>
+
+<b>The Honourable Scott Brison is the President of the Treasury Board.</b>
+
+Scott Brison, the Member of Parliament for Kings–Hants (Nova Scotia), has been elected to Canada's House of Commons in 7 general elections between June 1997 and October 2015.
+
+Prime Minister Trudeau appointed Mr. Brison to the federal cabinet as President of the Treasury Board in November 2015. He serves as a member of the key Cabinet Committee on Agenda, Results and Communications that tracks progress on the government’s priorities; the Cabinet Committee on Growing the Middle Class that considers strategies to promote inclusive economic growth, opportunity, employment, and social security; and as Vice-Chair of the Cabinet Committee on Defence Procurement.
