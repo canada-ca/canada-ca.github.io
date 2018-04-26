@@ -6,12 +6,12 @@ date:   2018-04-27 16:34:44 +0100
 datemodified: "Date de modification : le avril 27 2018"
 published: false
 lang: fr
-alt: XXX
+alt: Une photo de l'honorable Scott Brison
 description: XXX.
 ---
 **Par l’honorable Scott Brison, président du Conseil du Trésor**
 
-<img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="" />
+<img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="Une photo de l'honorable Scott Brison" />
 
 Je constate qu’Apple peut concevoir des appareils tellement intuitifs qu’il ne faut que 40 secondes à mes enfants de 4 ans pour trouver ce qu’ils recherchent. Pourtant, nous avons de la difficulté à concevoir des sites Web gouvernementaux conviviaux même pour nous les adultes.
 
@@ -57,7 +57,7 @@ Le gouvernement numérique offre de nombreuses possibilités de produire de meil
 
 ## Pour en savoir plus sur le Bureau de la transformation numérique
 
-- [Aperçu des projets](https://canada-ca.github.io/pages/apercu-projet.html)
+- [Améliorer le contenu sur Canada.ca](https://canada-ca.github.io/pages/apercu-projet.html)
 
 ## À propos de l'auteur
 
