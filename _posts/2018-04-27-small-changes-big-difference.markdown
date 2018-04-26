@@ -10,24 +10,6 @@ alt: XXX
 description: Small changes are making a big difference for Canadians on Canada.ca. Read what TBS President Scott Brison has to say about the improvement work underway.
 ---
 
-<style>
-  
-  .pquote {
-    float: right;
-    width: 200px;
-    background: url(images/openquote.gif) top left no-repeat;
-    color: #030;
-    font-size: 26px;
-    line-height: 0.9;
-    font-style: italic;
-    padding: 13px;
-}
-
-blockquote {
-    margin: 0;
-}
-  
-</style>
 **By the Honourable Scott Brison, President of the Treasury Board**
 
 I’ve noted that Apple can design something so intuitive that my 4 year olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grown-ups can navigate easily.
