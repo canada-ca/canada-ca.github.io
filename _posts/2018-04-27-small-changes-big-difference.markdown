@@ -6,13 +6,13 @@ date:   2018-04-27 16:34:44 +0100
 datemodified: "Date modified: April 27, 2018"
 published: false
 lang: en
-alt: XXX
+alt: Photo of the Honourable Scott Brison
 description: Small changes are making a big difference for Canadians on Canada.ca. Read what TBS President Scott Brison has to say about the improvement work underway.
 ---
 
 **By the Honourable Scott Brison, President of the Treasury Board**
 
-<img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="" />
+<img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="Photo of the Honourable Scott Brison" />
 
 I’ve noted that Apple can design something so intuitive that my 4 year olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grown-ups can navigate easily.
 
