@@ -7,7 +7,7 @@ datemodified: "Date de modification : le avril 27 2018"
 published: false
 lang: fr
 alt: Une photo de l'honorable Scott Brison
-description: XXX.
+description: XXXX.
 ---
 **Par l’honorable Scott Brison, président du Conseil du Trésor**
 
