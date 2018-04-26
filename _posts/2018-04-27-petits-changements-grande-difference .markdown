@@ -11,7 +11,7 @@ description: XXX.
 ---
 **Par l’honorable Scott Brison, président du Conseil du Trésor**
 
-<img class="img-responsive" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="" />
+<img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="" />
 
 Je constate qu’Apple peut concevoir des appareils tellement intuitifs qu’il ne faut que 40 secondes à mes enfants de 4 ans pour trouver ce qu’ils recherchent. Pourtant, nous avons de la difficulté à concevoir des sites Web gouvernementaux conviviaux même pour nous les adultes.
 
@@ -59,6 +59,7 @@ Le gouvernement numérique offre de nombreuses possibilités de produire de meil
 
 - [Aperçu des projets](https://canada-ca.github.io/pages/apercu-projet.html)
 
+## À propos de l'auteur
 
 <hr>
 
