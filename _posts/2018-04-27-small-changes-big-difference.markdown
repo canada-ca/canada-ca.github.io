@@ -2,13 +2,32 @@
 layout: post
 title:  "Canada.ca: Small changes can make a big difference"
 ref: small-big
-date:   2018-03-29 16:34:44 +0100
+date:   2018-04-27 16:34:44 +0100
 datemodified: "Date modified: April 27, 2018"
-published: false
+published: true
 lang: en
 alt: XXX
 description: Small changes are making a big difference for Canadians on Canada.ca. Read what TBS President Scott Brison has to say about the improvement work underway.
 ---
+
+<style>
+  
+  .pquote {
+    float: right;
+    width: 200px;
+    background: url(images/openquote.gif) top left no-repeat;
+    color: #030;
+    font-size: 26px;
+    line-height: 0.9;
+    font-style: italic;
+    padding: 13px;
+}
+
+blockquote {
+    margin: 0;
+}
+  
+</style>
 **By the Honourable Scott Brison, President of the Treasury Board**
 
 I’ve noted that Apple can design something so intuitive that my 4 year olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grown-ups can navigate easily.
@@ -20,6 +39,11 @@ We need to continue to make access to government easier for Canadians, whether t
 Too often, people have difficulty getting what they need from government websites. Often, instead of providing answers, we just give them information. 
 
 What’s the difference? Imagine this scenario: you show up at a service desk to submit an application to access a program. When you ask a couple of questions related to your particular situation, the service representative hands you a thick stack of manuals, guides, legislation and reports and says, “Here’s the information. It’s all in there. Read it over and if you have any more questions, get back in line.” Besides eating up your valuable time, in the end you may not actually find the answer you need.
+
+<aside class="pquote">
+    <blockquote><p>“This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians.” </p>
+         </blockquote>
+</aside>
 
 Of course this would never happen. In reality, service desk staff ask you the right questions for your situation and provide you with an answer you can use. Yet to get such service, you have to go in-person, or pick up a phone.
 
