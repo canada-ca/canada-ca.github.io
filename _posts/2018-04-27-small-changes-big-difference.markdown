@@ -12,6 +12,8 @@ description: Small changes are making a big difference for Canadians on Canada.c
 
 **By the Honourable Scott Brison, President of the Treasury Board**
 
+<img class="img-responsive" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="" />
+
 I’ve noted that Apple can design something so intuitive that my 4 year olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grown-ups can navigate easily.
 
 In my view, digital government has little to do with technology. It’s got everything to do with enabling, empowering, and serving people. It’s about focusing on user needs to make website content simple and clear. It’s about doing the hard work to improve Canada.ca so Canadians don’t have to.
@@ -20,12 +22,12 @@ We need to continue to make access to government easier for Canadians, whether t
 
 Too often, people have difficulty getting what they need from government websites. Often, instead of providing answers, we just give them information. 
 
-What’s the difference? Imagine this scenario: you show up at a service desk to submit an application to access a program. When you ask a couple of questions related to your particular situation, the service representative hands you a thick stack of manuals, guides, legislation and reports and says, “Here’s the information. It’s all in there. Read it over and if you have any more questions, get back in line.” Besides eating up your valuable time, in the end you may not actually find the answer you need.
-
-<aside class="pquote">
-    <blockquote><p>“This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians.” </p>
+<aside>
+    <blockquote class="pquote img-responsive"><p>“This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians.” </p><p class="quotesig">The Honourable Scott Brison, President of the Treasury Board</p>
          </blockquote>
 </aside>
+
+What’s the difference? Imagine this scenario: you show up at a service desk to submit an application to access a program. When you ask a couple of questions related to your particular situation, the service representative hands you a thick stack of manuals, guides, legislation and reports and says, “Here’s the information. It’s all in there. Read it over and if you have any more questions, get back in line.” Besides eating up your valuable time, in the end you may not actually find the answer you need.
 
 Of course this would never happen. In reality, service desk staff ask you the right questions for your situation and provide you with an answer you can use. Yet to get such service, you have to go in-person, or pick up a phone.
 
