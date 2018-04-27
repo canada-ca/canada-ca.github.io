@@ -73,6 +73,7 @@ color: #3095B5 !important;
   <ul class="pager">
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in posts %}
+	{% unless post.draft %}
       {% if post.title == page.title %}
           {% unless forloop.last %}
               {% assign next = posts[forloop.index] %}
@@ -83,6 +84,7 @@ color: #3095B5 !important;
           {% endunless %}
       {% endif %}
       {% assign prev = post %}
+		{% endunless %}
   {% endfor %}
   </ul>
 </nav>
