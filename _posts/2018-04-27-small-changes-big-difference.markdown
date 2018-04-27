@@ -14,13 +14,18 @@ description: Small changes are making a big difference for Canadians on Canada.c
 
 <img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="Photo of the Honourable Scott Brison" />
 
-I’ve noted that Apple can design something so intuitive that my 4‑year‑olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grownups can navigate easily.
+I’ve noted that Apple can design something so intuitive that my 4‑year‑olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grown-ups can navigate easily.
 
 In my view, digital government has little to do with technology. It’s got everything to do with enabling, empowering, and serving people. It’s about focusing on user needs to make website content simple and clear. It’s about doing the hard work to improve Canada.ca so Canadians don’t have to.
 
 We need to continue to make access to government easier for Canadians, whether they’re applying for programs, looking for a quick answer online, engaging with us on important policy questions, or simply learning something new about their federal government.
 
 Too often, people have difficulty getting what they need from government websites. Often, instead of providing answers, we just give them information.
+
+<aside>		    
+<blockquote class="pquote img-responsive"><p>“This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians.” </p><p class="quotesig">The Honourable Scott Brison, President of the Treasury Board</p>		
+</blockquote>		
+ </aside>
 
 What’s the difference? Imagine this scenario: you show up at a service desk to submit an application to access a program. When you ask a couple of questions related to your particular situation, the service representative hands you a thick stack of manuals, guides, legislation and reports and says, “Here’s the information. It’s all in there. Read it over and if you have any more questions, get back in line.” Besides eating up your valuable time, in the end you may not actually find the answer you need.
 
