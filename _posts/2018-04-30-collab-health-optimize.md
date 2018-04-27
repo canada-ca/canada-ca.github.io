@@ -10,7 +10,7 @@ alt: Some of the Health Canada and Treasury Board Secretariat project team in fr
 description: Over the past few months the web team at Health Canada and the Public Health Agency of Canada have been working with the Digital Transformation Office from the Treasury Board of Canada Secretariat  on optimizing top tasks for the diseases and immunization topics of the Health Theme.
 ---
 
-**Guest post by our optimization partners from Health Canada.**
+<b>Guest post by our optimization partners from Health Canada.<br />Written by: Roger Pankhurst</b>
 
 Over the past few months the web team at Health Canada (HC) and the Public Health Agency of Canada (PHAC) have been working with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) on optimizing [top tasks for the diseases and immunization](http://www.gcpedia.gc.ca/wiki/Diseases_/_Immunization_Optimization_Project) topics of the Health Theme.
 
