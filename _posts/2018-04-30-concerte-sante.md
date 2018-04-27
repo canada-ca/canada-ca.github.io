@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: post
 title:  "Travail concerté pour optimiser le contenu sur les maladies et la vaccination"
 ref: collab-health

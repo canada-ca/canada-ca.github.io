@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: post
 title:  "Collaborative work to optimize diseases and immunization content"
 ref: collab-health
