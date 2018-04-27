@@ -13,9 +13,9 @@ description: The Digital Transformation Office (DTO) worked with  Immigration, R
 
 Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we had approximately 20.8 million visitors, breaking our previous record.
 
-It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)". Immigration, Refugees, and Citizenship Canada (IRCC) issues both of these travel documents are issued by.
+It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)". Immigration, Refugees, and Citizenship Canada (IRCC) issues both of these travel documents.
 
-Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they needed. Some people could not board their flight to Canada because they had for the wrong document.
+Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they needed. Some people could not board their flight to Canada because they had the wrong document.
 
 * [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927)
 
