@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_fr
 title:  "Visiter le Canada : optimisation"
 ref: visit
 date:   2018-03-29 16:34:44 +0100
@@ -30,7 +30,7 @@ Lors de nos recherches initiales, nous avons élaboré différents scénarios po
 - Quel mode de transport utilisent elles pour franchir la frontière canadienne?
 
 
-Nous avons ensuite rétréci notre champ d’examen aux tâches les plus courantes. Pour ce faire, nous sommes appuyés sur les données et les connaissances d’IRCC : 
+Nous avons ensuite rétréci notre champ d’examen aux tâches les plus courantes. Pour ce faire, nous sommes appuyés sur les données et les connaissances d’IRCC :
 
 Découvrir ce dont j’ai besoin pour venir au Canada...
 
@@ -60,7 +60,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 	<li>prolonger votre séjour</li>
 	<li>transiter par le Canada</li>
 	</ul>
-	
+
 </details>
 
 ## Remaniement du processus
@@ -88,16 +88,16 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 		<li>un ancien résident du Canada</li>
 		<li>aucune de ces situations</li>
 	</ul>
-	La page a beaucoup moins de « bruit visuel » qu'avant l'optimisation.	
+	La page a beaucoup moins de « bruit visuel » qu'avant l'optimisation.
 </details>
 
 La mise en page était parfois confondante, notamment les liens vers les règles et les exigences. Nous l’avons remplacée par une série de questions et réponses qui aident les gens à obtenir la bonne réponse.
 
 ## Validation des prototypes
-Pour comprendre si les prototypes produisaient de meilleurs résultats pour les personnes qui essaient de visiter le Canada, nous avons organisé 46 séances d’essai de style Café. Le taux de réussite global pour les prototypes était de 91 %. Cela représente une amélioration de 47 points de pourcentage par rapport aux mêmes tâches sur le site en direct. 
+Pour comprendre si les prototypes produisaient de meilleurs résultats pour les personnes qui essaient de visiter le Canada, nous avons organisé 46 séances d’essai de style Café. Le taux de réussite global pour les prototypes était de 91 %. Cela représente une amélioration de 47 points de pourcentage par rapport aux mêmes tâches sur le site en direct.
 
 ## Voir son fonctionnement dans le monde réel
-Après l’intégration des prototypes au site en direct en mars 2017, les analyses ont montré une amélioration marquée du nombre de personnes qui sont passées de la page thématique Visiter le Canada aux pages de présentation de demande. 
+Après l’intégration des prototypes au site en direct en mars 2017, les analyses ont montré une amélioration marquée du nombre de personnes qui sont passées de la page thématique Visiter le Canada aux pages de présentation de demande.
 
 <b>Avant et après l’optimisation : </b> février 2017 et juin 2017
 
@@ -112,10 +112,10 @@ Après l’intégration des prototypes au site en direct en mars 2017, les analy
 		<li>présenter une demande d’AVE</li>
 	</ul>
 Avant l'optimisation, 35% des clics de la page de sujet Visiter le Canada sont allés à l'une de ces pages. Après l'optimisation, cette proportion est grimpée à 62%, ce qui signifiait que la page de sujet était plus efficace pour amener les gens vers ces pages. Il y a aussi eu 10% plus d'entrées à la page du sujet de Visiter le Canada par le biais du mégamenu après l'optimisation.
-	
+
 </details>
 
-Comme le montre le graphique, le nombre de personnes qui ont réussi à trouver les pages de présentation de demande a fait un bond de 27 points de pourcentage, passant de 35 % avant à 62 % après l’optimisation. Nous avons également constaté qu’un plus grand nombre de personnes utilisent le menu de navigation pour commencer le processus. Grâce à ce projet, les personnes qui souhaitent visiter le Canada peuvent passer moins de temps à s’inquiéter au sujet des documents de voyage et profiter davantage de leur visite dans notre pays. 
+Comme le montre le graphique, le nombre de personnes qui ont réussi à trouver les pages de présentation de demande a fait un bond de 27 points de pourcentage, passant de 35 % avant à 62 % après l’optimisation. Nous avons également constaté qu’un plus grand nombre de personnes utilisent le menu de navigation pour commencer le processus. Grâce à ce projet, les personnes qui souhaitent visiter le Canada peuvent passer moins de temps à s’inquiéter au sujet des documents de voyage et profiter davantage de leur visite dans notre pays.
 
 ## Qu’en pensez-vous?
 Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à l’adresse <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> ou un gazouillis au moyen du mot-clic #Canadapointca.
