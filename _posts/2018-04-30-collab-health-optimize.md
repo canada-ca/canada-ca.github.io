@@ -16,7 +16,7 @@ Over the past few months the web team at Health Canada (HC) and the Public Healt
 
 Specifically, we’ve been optimizing our digital content for:
 
-* the flu (where get your flu shot)
+* the flu (where to get your flu shot)
 * Zika (travel advisories for people wanting to start a family)
 * vaccines (getting yourself and your children vaccinated)
 
