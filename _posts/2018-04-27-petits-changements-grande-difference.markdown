@@ -7,7 +7,7 @@ datemodified: "Date de modification : le 27 avril 2018"
 published: false
 lang: fr
 alt: Une photo de l'honorable Scott Brison
-description: De petits changements font une grande différence pour les Canadiens sur Canada.ca. Lisez ce que le président du Secrétariat du Conseil du Trésor, Scott Brison, a à dire au sujet des travaux d'amélioration en cours.
+description: De petits changements font une grande différence pour les Canadiens sur Canada.ca. Lisez ce que le président du Conseil du Trésor, Scott Brison, a dire au sujet des travaux d'amélioration en cours.
 ---
 **Par l’honorable Scott Brison, président du Conseil du Trésor**
 
@@ -51,8 +51,6 @@ Le gouvernement numérique offre de nombreuses possibilités de produire de meil
 - [Améliorer le contenu sur Canada.ca](https://canada-ca.github.io/pages/apercu-projet.html)
 
 ## À propos de l'auteur
-
-<hr>
 
 <b>L’honorable Scott Brison est le président du Conseil du Trésor du Canada.</b>
 
