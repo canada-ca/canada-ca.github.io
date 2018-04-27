@@ -4,7 +4,7 @@ title:  "Canada.ca : De petits changements peuvent faire une grande différence"
 ref: small-big
 date:   2018-04-27 16:34:44 +0100
 datemodified: "Date de modification : le 27 avril 2018"
-published: false
+published: true
 lang: fr
 alt: Une photo de l'honorable Scott Brison
 description: De petits changements font une grande différence pour les Canadiens sur Canada.ca. Lisez ce que le président du Conseil du Trésor, Scott Brison, a dire au sujet des travaux d'amélioration en cours.

@@ -4,7 +4,7 @@ title:  "Canada.ca: Small changes can make a big difference"
 ref: small-big
 date:   2018-04-27 16:34:44 +0100
 datemodified: "Date modified: April 27, 2018"
-published: false
+published: true
 lang: en
 alt: Photo of the Honourable Scott Brison
 description: Small changes are making a big difference for Canadians on Canada.ca. Read what Treasury Board President Scott Brison has to say about the improvement work underway.
