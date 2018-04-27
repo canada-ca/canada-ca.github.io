@@ -10,7 +10,7 @@ alt: Photo of the Honourable Scott Brison
 description: Small changes are making a big difference for Canadians on Canada.ca. Read what TBS President Scott Brison has to say about the improvement work underway.
 ---
 
-**By the Honourable Scott Brison, President of the Treasury Board**
+<b>By the Honourable Scott Brison, President of the Treasury Board</b>
 
 <img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="Photo of the Honourable Scott Brison" />
 
@@ -18,9 +18,9 @@ I’ve noted that Apple can design something so intuitive that my 4 year olds ca
 
 In my view, digital government has little to do with technology. It’s got everything to do with enabling, empowering, and serving people. It’s about focusing on user needs to make website content simple and clear. It’s about doing the hard work to improve Canada.ca so Canadians don’t have to.
 
-We need to continue to make access to government easier for Canadians, whether they’re applying for programs, looking for a quick answer online, engaging with us on important policy questions, or simply learning something new about their federal government. 
+We need to continue to make access to government easier for Canadians, whether they’re applying for programs, looking for a quick answer online, engaging with us on important policy questions, or simply learning something new about their federal government.
 
-Too often, people have difficulty getting what they need from government websites. Often, instead of providing answers, we just give them information. 
+Too often, people have difficulty getting what they need from government websites. Often, instead of providing answers, we just give them information.
 
 <aside>
     <blockquote class="pquote img-responsive"><p>“This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians.” </p><p class="quotesig">The Honourable Scott Brison, President of the Treasury Board</p>
@@ -33,7 +33,7 @@ Of course this would never happen. In reality, service desk staff ask you the ri
 
 For truly user-focused online service, we need to think like the person on the other side of the screen. We must understand their needs. What types of situations do they find themselves in? What do they need to know? How do we create answers that make sense to people, and what is the best way to do this? When we understand what people need, we can write simple and clear content that makes sense to them.
 
-The Treasury Board Secretariat is working with project partners at Health Canada, Employment and Social Development Canada, the Canada Revenue Agency, and Environment and Climate Change Canada to understand what people expect from Canada.ca. 
+The Treasury Board Secretariat is working with project partners at Health Canada, Employment and Social Development Canada, the Canada Revenue Agency, and Environment and Climate Change Canada to understand what people expect from Canada.ca.
 
 The teams are creating prototypes that make it much easier for Canadians to:
 
@@ -46,13 +46,13 @@ The teams know the prototypes are successful because they have tested them with 
 
 Check out the [projects overview](https://canada-ca.github.io/pages/projectoverview.html) to learn more about these improved services.
 
-This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians. 
+This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians.
 
-With digital content, it is even more critical to get the basics right: 
+With digital content, it is even more critical to get the basics right:
 
 -	organize instructions in the way people expect
 -	replace bureaucratese with simple, clearly organized language that make sense to people
--	only say what needs to be said, nothing more 
+-	only say what needs to be said, nothing more
 
 There are many opportunities for a digital government to deliver better results for Canadians.  We are looking at digital approaches to inform policy development and improve our services. In some areas, big changes may be required. But making small, smart changes goes a long way in helping Canadians use our services.
 
