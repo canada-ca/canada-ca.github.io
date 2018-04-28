@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: post
 title: "Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca"
 gradelevel: 8
