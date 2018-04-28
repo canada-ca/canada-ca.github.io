@@ -6,7 +6,7 @@ gradelevel: 8
 ref: datesmatter
 date:   2018-04-04 09:48:44 +0100
 datemodified: "Date de modification : le avril 4 2018"
-published: true
+published: false
 lang: fr
 alt: Capture d'écran d'une page de Canada.ca indiquant la date de modification
 description: Dans une étude de convivialité récente, nous avons vu des gens qui n’ont pas tenu compte des résultats de recherche de Canada.ca qui semblaient trop vieux. Découvrez comment vous pouvez valider votre contenu et montrer qu'il est toujours à jour.
