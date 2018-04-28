@@ -4,38 +4,34 @@ ref: index
 lang: fr
 ---
 <div class="home">
-
   <h2 class="">Nouveaux articles</h1>
- <div class="wb-eqht"> 
- {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-	
-
-<section class="col-md-6">
-
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><img src="./thumbs/{{ post.date | date: "%F" | img_url: '100x100' crop: 'center' }}fr.png" alt="{{ post.alt }}" class="img-responsive thumbnail"></a>
-		<p>{{ post.description }} - <small>[{{ post.date | date: "%F" }}]</small></p>
-  
-</section>
-
-  {% endfor %}
-  
-	</div>
-
-<div class="row">
-<div class="col-sm-8">
-    <section class="followus">
-      <h2>Suivez</h2>
-      <ul class="list-inline mrgn-tp-lg">
-        <li>
-          <a href="https://canada-ca.github.io/flux.xml"><img src="./images/feed-icon-14x14.png" alt="ATOM" class="mrgn-rght-sm">ATOM</a>
-        </li>
-      </ul>
-    </section>
-</div>
-</div>
-
+    <div class="wb-eqht">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in posts %}
+      <section class="col-md-6">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          <h3>{{ post.title }}</h3>
+          <img src="./thumbs/{{ post.date | date: '%F' }}fr.png" alt="{{ post.alt }}" class="img-responsive thumbnail">
+        </a>
+        <p>{{ post.description }} -
+          <small>[{{ post.date | date: "%F" }}]</small>
+        </p>
+      </section>
+      {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-sm-8">
+        <section class="followus">
+          <h2>Suivez</h2>
+          <ul class="list-inline mrgn-tp-lg">
+            <li>
+              <a href="https://canada-ca.github.io/flux.xml">
+                <img src="./images/feed-icon-14x14.png" alt="ATOM" class="mrgn-rght-sm">ATOM</a>
+            </li>
+          </ul>
+        </section>
+      </div>
+    </div>
 </div>
 
 <p>Date de modification : le 27 avril 2018</p>
-
