@@ -6,8 +6,9 @@ node_js:
 rvm:
   - 2.2
 
-before_install: 
+before_install:
   - bundle install
 
-before_script: 
+script:
   - bundle exec jekyll build
+  - npm test
