@@ -5,7 +5,7 @@ title:  "Travail concerté pour optimiser le contenu sur les maladies et la vacc
 ref: collab-health
 date:   2018-04-30 08:34:44 +0100
 datemodified: "Date de modification : le 30 avril 2018"
-published: false
+published: true
 lang: fr
 alt: Some of the Health Canada and Treasury Board Secretariat project team in front of a screen showing graphs
 description: Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada a travaillé avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor pour optimiser les tâches principales relatives aux maladies et à la vaccination du thème de la santé.
