@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Old habits die hard (when feelings get in the way)"
+pubdate: "March 14, 2018"
 ref: habits
 date:   2018-03-14 09:48:44 +0100
 datemodified: "Date modified: March 14, 2018"
