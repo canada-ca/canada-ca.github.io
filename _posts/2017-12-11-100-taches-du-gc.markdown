@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "De quelle façon déterminons-nous les principales tâches pour Canada.ca"
+pubdate: "le 11 déc, 2017"
 gradelevel: 7.8
 ref: toptasks
 date:   2017-12-11 09:48:44 +0100
