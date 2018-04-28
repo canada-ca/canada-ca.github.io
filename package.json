@@ -1,0 +1,22 @@
+{
+  "name": "canada-ca.github.io",
+  "version": "0.0.1",
+  "description": "Github pages for Canada-ca",
+  "main": "index.js",
+  "scripts": {
+    "test": "markdownlint -i node_modules \"**/*.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canada-ca/canada-ca.github.io.git"
+  },
+  "author": "canada-ca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canada-ca/canada-ca.github.io/issues"
+  },
+  "homepage": "https://github.com/canada-ca/canada-ca.github.io#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.8.1"
+  }
+}
