@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: post
 title: "Dates matter: Trust and older content on Canada.ca"
 gradelevel: 8
