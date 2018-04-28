@@ -1,5 +1,5 @@
 ---
-layout: post_fr
+layout: post
 title:  "Canada.ca : De petits changements peuvent faire une grande différence"
 pubdate: "le 27 avril 2018"
 ref: small-big
