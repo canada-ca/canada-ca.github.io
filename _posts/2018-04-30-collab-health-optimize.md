@@ -2,6 +2,7 @@
 draft: true
 layout: post
 title:  "Collaborative work to optimize diseases and immunization content"
+pubdate: "April 30, 2018"
 ref: collab-health
 date:   2018-04-30 08:34:44 +0100
 datemodified: "Date modified: April 30, 2018"
