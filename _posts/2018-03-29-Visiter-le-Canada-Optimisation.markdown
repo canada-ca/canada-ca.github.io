@@ -1,5 +1,5 @@
 ---
-layout: post_fr
+layout: post
 title:  "Visiter le Canada : optimisation"
 pubdate: "le 29 mars 2018"
 ref: visit
