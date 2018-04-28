@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "On se débarrasse difficilement des vieilles habitudes (lorsque les sentiments font obstacle)"
+pubdate: "le 14 mars 2018"
 ref: habits
 date:  2018-03-14 09:48:44 +0100
 datemodified: "Date de modification : le 14 mars 2018"
