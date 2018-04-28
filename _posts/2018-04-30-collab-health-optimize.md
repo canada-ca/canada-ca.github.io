@@ -5,7 +5,7 @@ title:  "Collaborative work to optimize diseases and immunization content"
 ref: collab-health
 date:   2018-04-30 08:34:44 +0100
 datemodified: "Date modified: April 30, 2018"
-published: true
+published: false
 lang: en
 alt: Some of the Health Canada and Treasury Board Secretariat project team in front of a screen showing graphs
 description: Over the past few months the web team at Health Canada and the Public Health Agency of Canada have been working with the Digital Transformation Office from the Treasury Board of Canada Secretariat  on optimizing top tasks for the diseases and immunization topics of the Health Theme.
