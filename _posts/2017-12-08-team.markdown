@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "About the Digital Transformation Office"
+pubdate: "December 8, 2017"
 gradelevel: 7.8
 ref: aboutus
 date:   2017-12-08 09:48:44 +0100
