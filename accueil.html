@@ -9,7 +9,7 @@ lang: fr
    <div class="wb-eqht">
   {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
-    {% unless post.draft %}
+	   
 <section class="col-md-6">
 
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><img src="./thumbs/{{ post.date | date: "%F" | img_url: '100x100' crop: 'center' }}.png" alt="{{ post.alt }}" class="img-responsive thumbnail"></a>
