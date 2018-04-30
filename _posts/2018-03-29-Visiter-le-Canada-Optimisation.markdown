@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visiter le Canada : optimisation"
-pubdate: "le 29 mars 2018"
+pubdate: "29 mars 2018"
 ref: visit
 date:   2018-03-29 16:34:44 +0100
 published: true
