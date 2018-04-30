@@ -2,17 +2,17 @@
 draft: true
 layout: post
 title:  "Travail concerté pour optimiser le contenu sur les maladies et la vaccination"
-pubdate: "30 avril 2018"
+pubdate: "2 mai 2018"
 ref: collab-health
 date:   2018-04-30 08:34:44 +0100
-datemodified: "Date de modification : le 30 avril 2018"
+datemodified: "Date de modification : le 2 mai 2018"
 published: false
 lang: fr
 alt: Des membres de l'équipe de projet de Santé Canada et du Secrétariat du Conseil du Trésor devant un écran montrant des graphiques.
 description: Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada a travaillé avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor pour optimiser les tâches principales relatives aux maladies et à la vaccination du thème de la santé.
 ---
 
-<b>Message spécial de nos partenaires d’optimisation de Santé Canada.<br />Écris par : Roger Pankhurst</b>
+<b>Par Roger Pankhurst, partenaires d’optimisation de Santé Canada.</b>
 
 Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada (ASPC) a travaillé avec le Bureau de la transformation numérique (BTN] du Secrétariat du Conseil du Trésor (SCT) pour optimiser [les tâches principales relatives aux maladies et à la vaccination](http://www.gcpedia.gc.ca/wiki/Diseases_/_Immunization_Optimization_Project) du thème de la santé.
 
