@@ -12,7 +12,7 @@ alt: Des membres de l'équipe de projet de Santé Canada et du Secrétariat du C
 description: Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada a travaillé avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor pour optimiser les tâches principales relatives aux maladies et à la vaccination du thème de la santé.
 ---
 
-<b>Par Roger Pankhurst, partenaires d’optimisation de Santé Canada.</b>
+<b>Par Roger Pankhurst, partenaire d’optimisation de Santé Canada.</b>
 
 Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada (ASPC) a travaillé avec le Bureau de la transformation numérique (BTN] du Secrétariat du Conseil du Trésor (SCT) pour optimiser [les tâches principales relatives aux maladies et à la vaccination](http://www.gcpedia.gc.ca/wiki/Diseases_/_Immunization_Optimization_Project) du thème de la santé.
 
