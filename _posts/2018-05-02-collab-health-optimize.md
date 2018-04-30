@@ -71,11 +71,11 @@ We’ve just completed another round of usability testing with Canadians to vali
 <figcaption><small>Some of the project team from Health Canada and Public Health Agency of Canada with the Digital Transformation Office.</small></figcaption>
 </figure>
 
+## We want to hear from you ##
+Let us know what you think about task management. Email us at [information@tbs-sct.gc.ca](mailto:information@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
+
 ## About the author
 
 <b>Roger Pankhurst</b>
 
 Roger Pankhurst is a Communications Advisor on the web transformation team at Health Canada. He has worked in internal comms, strategic comms, and has now happily landed in digital comms. He enjoys hockey, baseball, and plain language writing.
-
-## We want to hear from you ##
-Let us know what you think about task management. Email us at [information@tbs-sct.gc.ca](mailto:information@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
