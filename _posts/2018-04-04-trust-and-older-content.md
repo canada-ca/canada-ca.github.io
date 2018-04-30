@@ -6,7 +6,7 @@ gradelevel: 8
 ref: datesmatter
 date:   2018-04-04 09:48:44 +0100
 datemodified: "Date modified: April 4, 2018"
-published: true
+published: false
 lang: en
 alt: Screenshot of a Canada.ca page showing the date modified
 description: In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.
