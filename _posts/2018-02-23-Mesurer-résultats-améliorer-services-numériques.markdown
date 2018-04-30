@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mesurer les résultats pour améliorer les services numériques"
-pubdate: "le 23 févr 2018"
+pubdate: "23 févr 2018"
 gradelevel: 11.1
 ref: measuring-outcomes
 date:   2018-02-23 09:48:44 +0100
