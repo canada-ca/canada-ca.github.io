@@ -2,17 +2,17 @@
 draft: true
 layout: post
 title:  "Collaborative work to optimize diseases and immunization content"
-pubdate: "April 30, 2018"
+pubdate: "May 2, 2018"
 ref: collab-health
 date:   2018-04-30 08:34:44 +0100
-datemodified: "Date modified: April 30, 2018"
+datemodified: "Date modified: May 2, 2018"
 published: true
 lang: en
 alt: Some of the Health Canada and Treasury Board Secretariat project team in front of a screen showing graphs
 description: Over the past few months the web team at Health Canada and the Public Health Agency of Canada have been working with the Digital Transformation Office from the Treasury Board of Canada Secretariat  on optimizing top tasks for the diseases and immunization topics of the Health Theme.
 ---
 
-<b>Guest post by our optimization partners from Health Canada.<br />Written by: Roger Pankhurst</b>
+<b>By Roger Pankhurst, optimization partners from Health Canada</b>
 
 Over the past few months the web team at Health Canada (HC) and the Public Health Agency of Canada (PHAC) have been working with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) on optimizing [top tasks for the diseases and immunization](http://www.gcpedia.gc.ca/wiki/Diseases_/_Immunization_Optimization_Project) topics of the Health Theme.
 
