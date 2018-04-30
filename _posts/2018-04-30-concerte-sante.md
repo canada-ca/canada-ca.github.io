@@ -2,7 +2,7 @@
 draft: true
 layout: post
 title:  "Travail concerté pour optimiser le contenu sur les maladies et la vaccination"
-pubdate: "le 30 avril 2018"
+pubdate: "30 avril 2018"
 ref: collab-health
 date:   2018-04-30 08:34:44 +0100
 datemodified: "Date de modification : le 30 avril 2018"
@@ -57,7 +57,7 @@ Nous avons également appris que, même si l’utilisation des pages de sujet du
 À titre d’exemple, voici un aperçu de ce à quoi ressemblait la section sur la grippe avant et après l’optimisation :
 
 <figure>
-<img class="img-responsive" alt="Screenshots of the old flu page labelled 'Before', which is a typical Canada topic page with a photo of sick people and 9 main links. 'After' is the new flu page, which has no photo, 6 main links, and symptoms and treatment content right on the page." src="/images/collab-health/grippe-avant-apres-835x408-fr.png">
+<img class="img-responsive" alt="Voici une capture d’écran de la vieille page sur la grippe, qui est une page de sujet typique du Canada avec une image présentant des personnes malades et 9 liens principaux. Une flèche pointe vers la nouvelle page sur la grippe, qui n’a pas de photo et contient 6 liens principaux, les symptômes et du contenu lié au traitement directement sur la page principale." src="/images/collab-health/grippe-avant-apres-835x408-fr.png">
 <figcaption><small>The flu page before and after optimization.</small></figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Après l’optimisation, le contenu a été organisé en fonction d’un nouveau
 Nous venons de terminer une autre série de tests de facilité d’emploi avec les Canadiens pour valider les changements proposés. Nous avons constaté une amélioration substantielle de 31 points de pourcentage du succès lié aux tâches! Nous déployons maintenant des efforts en vue de mettre en service le nouveau contenu sur Canada.ca au printemps.
 
 <figure>
-<img class="img-responsive" alt="Photo of 11 people standing in front of a screen showing success improvement data" src="/images/collab-health/hc-phac-dto-team-835x423.jpg">
+<img class="img-responsive" alt="Image présentant 11 personnes debout devant un écran montrant les données d’amélioration." src="/images/collab-health/hc-phac-dto-team-835x423.jpg">
 <figcaption><small>Une partie de l’équipe de projet de Santé Canada et de l’Agence de santé publique Canada avec le Bureau de la transformation numérique.
 </small></figcaption>
 </figure>
