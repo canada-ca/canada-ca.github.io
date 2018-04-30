@@ -4,7 +4,7 @@ layout: post
 title:  "Travail concerté pour optimiser le contenu sur les maladies et la vaccination"
 pubdate: "2 mai 2018"
 ref: collab-health
-date:   2018-04-30 08:34:44 +0100
+date:   2018-05-02 08:34:44 +0100
 datemodified: "Date de modification : le 2 mai 2018"
 published: false
 lang: fr
