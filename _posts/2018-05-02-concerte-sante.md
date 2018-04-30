@@ -6,7 +6,7 @@ pubdate: "2 mai 2018"
 ref: collab-health
 date:   2018-05-02 08:34:44 +0100
 datemodified: "Date de modification : le 2 mai 2018"
-published: true
+published: false
 lang: fr
 alt: Des membres de l'équipe de projet de Santé Canada et du Secrétariat du Conseil du Trésor devant un écran montrant des graphiques.
 description: Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada a travaillé avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor pour optimiser les tâches principales relatives aux maladies et à la vaccination du thème de la santé.
