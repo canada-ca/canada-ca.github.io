@@ -74,25 +74,22 @@ color: #3095B5 !important;
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in posts %}
 	  
-	
+   {% unless post.draft %}
       		{% if post.title == page.title %}
           
 	  {% unless forloop.last %}
-	  {% unless post.draft %}
               {% assign next = posts[forloop.index] %}
               <li class="previous"><a href="{{ site.baseurl }}{{ next.url }}" rel="prev">{{ next.title }}</a></li>
-          {% endunless %}
 	  {% endunless %}
 	  
           {% unless forloop.first %}
-	  {% unless post.draft %}
               <li class="next"><a href="{{ site.baseurl }}{{ prev.url }}" rel="next">{{ prev.title }}</a></li>
-          {% endunless %}
 	  {% endunless %}
 	  
       {% endif %}
       {% assign prev = post %}
-	
+ 
+	  {% endunless %}	
 	  
   {% endfor %}
   </ul>
