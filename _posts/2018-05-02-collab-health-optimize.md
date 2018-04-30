@@ -63,7 +63,7 @@ Before optimization, the topic template offered too many categories and choices.
 After optimization, content was organized into a new template using simple groupings with clear labels that better match the terms people have in mind. And there’s a clear link to one of our biggest top tasks –the flu shot. These are just some of many changes we’ve made to our optimized content on Canada.ca.
 
 
-What’s next
+## What’s next
 We’ve just completed another round of usability testing with Canadians to validate the proposed changes. We’ve seen a substantial 31 percentage point improvement in task success! We’re now working to go live with the new content on Canada.ca in the spring.
 
 <figure>
