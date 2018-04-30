@@ -79,6 +79,7 @@ Nous venons de terminer une autre série de tests de facilité d’emploi avec l
 ## Nous voulons connaître votre opinion ##
 Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courriel à l’adresse [information@tbs-sct.gc.ca](mailto:information@tbs-sct.gc.ca) ou sur Twitter en utilisant le mot-clic #Canadadotca.
 
-<b>A propos de Roger Pankhurst</b>
+## À propos de l'auteur
+<b>Roger Pankhurst</b>
 
 Roger Pankhurst est un conseiller en communications au sein de l’équipe de transformation sur le Web à Santé Canada. Il a fait partie des communications internes et des communications stratégiques, et maintenant, il fait partie des communications numériques. Il aime le hockey, le baseball et la rédaction en langage clair et simple.
