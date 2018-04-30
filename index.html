@@ -12,6 +12,7 @@ lang: en
    <div class="wb-eqht">
   {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
+	   {% unless post.draft %}
 
 <section class="col-md-6">
 
@@ -19,7 +20,7 @@ lang: en
 		<p>{{ post.description }} - <small>[{{ post.date | date: "%F" }}]</small> </p>
 
 </section>
- 
+  {% endunless %}
   {% endfor %}
 
 	</div>
