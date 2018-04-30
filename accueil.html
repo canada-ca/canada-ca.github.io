@@ -8,7 +8,7 @@ lang: fr
   <h2 class="">Nouveaux articles</h1>
    <div class="wb-eqht">
   {% assign posts=site.posts | where:"lang", page.lang %}
-  {% unless post.draft %}
+
 
 <section class="col-md-6">
 
@@ -16,7 +16,7 @@ lang: fr
 		<p>{{ post.description }} - <small>[{{ post.date | date: "%F" }}]</small> </p>
 
 </section>
-  {% endunless %}
+
   {% endfor %}
 
 	</div>
