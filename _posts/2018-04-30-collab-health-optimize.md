@@ -54,7 +54,7 @@ We also learned that while using the “topic” pages from the Canada.ca Conten
 As an example, here’s a quick look at what the flu section looked like before and after optimization:
 
 <figure>
-<img class="img-responsive" alt="Screenshots of the old flu page labelled 'Before', which is a typical Canada topic page with a photo of sick people and 9 main links. 'After' is the new flu page, which has no photo, 6 main links, and symptoms and treatment content right on the page." src="/images/collab-health/flu-before-after-835x408-en.png">
+<img class="img-responsive" alt="Screenshot of the old flu page, which is a typical Canada topic page with a photo of sick people and 9 main links. An arrow points to the new flu page, which has no photo, 6 main links, and symptoms and treatment content right on the page. " src="/images/collab-health/flu-before-after-835x408-en.png">
 <figcaption><small>The flu page before and after optimization.</small></figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ What’s next
 We’ve just completed another round of usability testing with Canadians to validate the proposed changes. We’ve seen a substantial 31 percentage point improvement in task success! We’re now working to go live with the new content on Canada.ca in the spring.
 
 <figure>
-<img class="img-responsive" alt="Photo of 11 people standing in front of a screen showing success improvement data" src="/images/collab-health/hc-phac-dto-team-835x423.jpg">
+<img class="img-responsive" alt="Photo of 11 people standing in front of a screen showing success improvement data." src="/images/collab-health/hc-phac-dto-team-835x423.jpg">
 <figcaption><small>Some of the project team from Health Canada and Public Health Agency of Canada with the Digital Transformation Office.</small></figcaption>
 </figure>
 
