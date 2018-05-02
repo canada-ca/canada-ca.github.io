@@ -2,10 +2,10 @@
 draft: true
 layout: post
 title:  "Collaborative work to optimize diseases and immunization content"
-pubdate: "May 2, 2018"
+pubdate: "May 9, 2018"
 ref: collab-health
-date:   2018-05-02 08:34:44 +0100
-datemodified: "Date modified: May 2, 2018"
+date:   2018-05-09 08:34:44 +0100
+datemodified: "Date modified: May 9, 2018"
 published: true
 lang: en
 alt: Some of the Health Canada and Treasury Board Secretariat project team in front of a screen showing graphs
