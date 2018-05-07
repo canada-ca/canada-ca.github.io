@@ -15,7 +15,7 @@ layout: default
 .border
 	{
 
-	border: 2px solid #ccc;
+	border: 1px solid #ddd;
 
 }
 
@@ -73,24 +73,24 @@ color: #3095B5 !important;
   <ul class="pager">
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in posts %}
-	  
+
    {% unless post.draft %}
       		{% if post.title == page.title %}
-          
+
 	  {% unless forloop.last %}
               {% assign next = posts[forloop.index] %}
               <li class="previous"><a href="{{ site.baseurl }}{{ next.url }}" rel="prev">{{ next.title }}</a></li>
 	  {% endunless %}
-	  
+
           {% unless forloop.first %}
               <li class="next"><a href="{{ site.baseurl }}{{ prev.url }}" rel="next">{{ prev.title }}</a></li>
 	  {% endunless %}
-	  
+
       {% endif %}
       {% assign prev = post %}
- 
-	  {% endunless %}	
-	  
+
+	  {% endunless %}
+
   {% endfor %}
   </ul>
 </nav>
