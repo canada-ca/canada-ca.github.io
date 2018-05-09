@@ -79,9 +79,9 @@ Nous venons de terminer une autre série de tests de facilité d’emploi avec l
 ## Nous voulons connaître votre opinion ##
 Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courriel à l’adresse [information@tbs-sct.gc.ca](mailto:information@tbs-sct.gc.ca) ou sur Twitter en utilisant le mot-clic #Canadadotca.
 
-## Read the project summary
+## Pour en savoir plus
 
-* [Project summary: Diseases and immunization](../research-summaries/diseases-research-summary.html)
+* [Résumé de projet : Maladies et vaccination](https://canada-ca.github.io/research-summaries/maladies-resume-researche.html)
 
 ## À propos de l'auteur
 
