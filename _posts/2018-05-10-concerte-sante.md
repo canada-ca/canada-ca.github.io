@@ -2,10 +2,10 @@
 draft: true
 layout: post
 title:  "Travail concerté pour optimiser le contenu sur les maladies et la vaccination"
-pubdate: "9 mai 2018"
+pubdate: "10 mai 2018"
 ref: collab-health
-date:   2018-05-09 08:34:44 +0100
-datemodified: "Date de modification : le 9 mai 2018"
+date:   2018-05-10 08:34:44 +0100
+datemodified: "Date de modification : le 10 mai 2018"
 published: false
 lang: fr
 alt: Des membres de l'équipe de projet de Santé Canada et du Secrétariat du Conseil du Trésor devant un écran montrant des graphiques.
@@ -78,6 +78,10 @@ Nous venons de terminer une autre série de tests de facilité d’emploi avec l
 
 ## Nous voulons connaître votre opinion ##
 Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courriel à l’adresse [information@tbs-sct.gc.ca](mailto:information@tbs-sct.gc.ca) ou sur Twitter en utilisant le mot-clic #Canadadotca.
+
+## Read the project summary
+
+* [Project summary: Diseases and immunization](../research-summaries/diseases-research-summary.html)
 
 ## À propos de l'auteur
 
