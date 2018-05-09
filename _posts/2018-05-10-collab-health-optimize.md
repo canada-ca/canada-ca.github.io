@@ -74,7 +74,7 @@ We’ve just completed another round of usability testing with Canadians to vali
 ## We want to hear from you ##
 Let us know what you think about task management. Email us at [information@tbs-sct.gc.ca](mailto:information@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
 
-## Read the project summary
+## Learn more
 
 * [Project summary: Diseases and immunization](../research-summaries/diseases-research-summary.html)
 
