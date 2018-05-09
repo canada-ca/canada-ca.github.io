@@ -76,9 +76,7 @@ Let us know what you think about task management. Email us at [information@tbs-s
 
 ## Read the project summary
 
-<ul>
-  <li><a href="../research-summaries/diseases-research-summary.html">Project summary: Diseases and immunization</li>
-</ul>
+* [Project summary: Diseases and immunization](../research-summaries/diseases-research-summary.html)
 
 ## About the author
 
