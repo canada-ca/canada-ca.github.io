@@ -2,10 +2,10 @@
 draft: true
 layout: post
 title:  "Collaborative work to optimize diseases and immunization content"
-pubdate: "May 9, 2018"
+pubdate: "May 10, 2018"
 ref: collab-health
-date:   2018-05-09 08:34:44 +0100
-datemodified: "Date modified: May 9, 2018"
+date:   2018-05-10 08:34:44 +0100
+datemodified: "Date modified: May 10, 2018"
 published: true
 lang: en
 alt: Some of the Health Canada and Treasury Board Secretariat project team in front of a screen showing graphs
@@ -73,6 +73,12 @@ We’ve just completed another round of usability testing with Canadians to vali
 
 ## We want to hear from you ##
 Let us know what you think about task management. Email us at [information@tbs-sct.gc.ca](mailto:information@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
+
+## Read the project summary
+
+<ul>
+  <li><a href="../research-summaries/diseases-research-summary.html">Project summary: Diseases and immunization</li>
+</ul>
 
 ## About the author
 
