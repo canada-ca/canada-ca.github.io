@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: post
 title:  "Collaborative work to optimize diseases and immunization content"
 pubdate: "May 10, 2018"
