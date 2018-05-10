@@ -84,13 +84,13 @@
 <div class="row">
 <ol class="breadcrumb">
 <li><a href="https://www.canada.ca/{{ page.lang }}.html">{{ site.home[page.lang] }}</a></li>
-{% if page.ref != "index" %}
+
   {% if page.lang == "en" %}
     <li><a href="/">{{ site.AllPosts[page.lang] }}</a></li>
   {% else %}
     <li><a href="https://www.canada.ca/fr/gouvernement/a-propos.html">Au sujet de Canada.ca</a></li>
   {% endif %}
-{% endif %}
+
 </ol>
 </div>
 </div>
