@@ -51,7 +51,7 @@ In this video, Canadians are trying to see if it's safe for pregnant women to ge
 {::nomarkdown}
 <figure class="wb-mltmd wb-init video cc_on">
 	<video poster="/images/dates-matter/old-content-video-poster.jpg" title="Thinking information is out of date">
-		<source type="video/mp4" src="/images/dates-matter/trust-of-old-content.mp4" />
+		<source type="video/mp4" src="/images/dates-matter/trust-of-old-content-en.mp4" />
 		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
 	</video>
 

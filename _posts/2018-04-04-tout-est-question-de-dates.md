@@ -13,7 +13,7 @@ description: Dans une étude de convivialité récente, nous avons vu des gens q
 ---
 **Par Patrick Lajeunesse, Bureau de la transformation numérique**
 
-Dans une étude récente sur la convivialité, nous avons vu que des gens ignoraient les résultats de recherche de Canada.ca qui semblaient trop vieux. Ils supposaient que, parce que la page n’avait pas été « modifiée » depuis un certain temps, l’information sur cette page n’était pas fiable. Cependant, le contenu était parfaitement valide et venait d’être revu. 
+Dans une étude récente sur la convivialité, nous avons vu que des gens ignoraient les résultats de recherche de Canada.ca qui semblaient trop vieux. Ils supposaient que, parce que la page n’avait pas été « modifiée » depuis un certain temps, l’information sur cette page n’était pas fiable. Cependant, le contenu était parfaitement valide et venait d’être revu.
 
 Comment pouvons-nous contribuer à convaincre les utilisateurs que le contenu est toujours pertinent? En indiquant la date de la dernière vérification de l’exactitude des pages.
 
@@ -41,7 +41,7 @@ C’est pourquoi les lignes directrices en matière de conception pour Canada.ca
 
 Mais pour que cela soit utile, cette composante doit être bien mise en œuvre et bien gérée. C’est la partie la plus difficile. Souvent, s’il n’y a pas de raison de mettre à jour le contenu, nous ne le révisons pas, et la « Date de modification » demeure la même que la date de publication.
 
-Le contenu peut commencer à paraître vieux même s’il est toujours exact et pertinent. Cela crée des problèmes, surtout si votre contenu peut devenir désuet rapidement. 
+Le contenu peut commencer à paraître vieux même s’il est toujours exact et pertinent. Cela crée des problèmes, surtout si votre contenu peut devenir désuet rapidement.
 
 
 ## Exemples de gens qui ne tiennent pas compte de vieux contenu ##
@@ -51,7 +51,7 @@ Dans cette vidéo, des Canadiens essaient de voir si les femmes enceintes peuven
 {::nomarkdown}
 <figure class="wb-mltmd wb-init video cc_on">
 	<video poster="/images/dates-matter/old-content-video-poster.jpg" title="Penser que l'information est périmée">
-		<source type="video/mp4" src="/images/dates-matter/trust-of-old-content.mp4" />
+		<source type="video/mp4" src="/images/dates-matter/trust-of-old-content-fr.mp4" />
 		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="fr" label="French" />
 	</video>
 
@@ -83,7 +83,7 @@ Dans cette vidéo, des Canadiens essaient de voir si les femmes enceintes peuven
 </details>
 </figcaption>
  {:/nomarkdown}
-	
+
 Même si l’information est parfaitement valide, les gens ont quand même pensé qu’il devait y avoir quelque chose de plus récent.
 
 ## Passez en revue le contenu régulièrement pour confirmer qu’il est à jour, pas seulement lorsque vous apportez des changements importants ##
@@ -96,7 +96,7 @@ Ces tests ont confirmé quelque chose que nous surveillons depuis un certain tem
 
 Si vous avez effectué une révision complète du contenu et avez décidé qu’il est toujours valide, mettez à jour la composante « Date de modification » pour refléter la date de la révision. La date de publication demeure la même, mais ce changement indique que le contenu a été évalué et qu’il est toujours à jour.
 
-Il est très important de ne pas mettre à jour la composante « Date de modification » des pages qui n’ont pas été soigneusement passées en revue simplement parce que vous voulez qu’elles <b>paraissent</b> récentes. Les gens accordent ou non leur confiance en fonction de cette date. Si l’information n’est pas à jour, cette confiance est brisée. Mettez à jour cette information seulement dans le cadre d’un processus de révision du cycle de vie du contenu ayant déterminé que le contenu est toujours valide. . 
+Il est très important de ne pas mettre à jour la composante « Date de modification » des pages qui n’ont pas été soigneusement passées en revue simplement parce que vous voulez qu’elles <b>paraissent</b> récentes. Les gens accordent ou non leur confiance en fonction de cette date. Si l’information n’est pas à jour, cette confiance est brisée. Mettez à jour cette information seulement dans le cadre d’un processus de révision du cycle de vie du contenu ayant déterminé que le contenu est toujours valide. .
 
 ## Nous voulons connaître votre opinion ##
 
