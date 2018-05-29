@@ -4,8 +4,8 @@ layout: post
 title: "Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca"
 gradelevel: 8
 ref: datesmatter
-date:   2018-04-04 09:48:44 +0100
-datemodified: "Date de modification : le avril 4 2018"
+date:   2018-05-30 09:48:44 +0100
+datemodified: "Date de modification : le mai 30 2018"
 published: false
 lang: fr
 alt: Capture d'écran d'une page de Canada.ca indiquant la date de modification
