@@ -2,6 +2,7 @@
 
 layout: post
 title: "Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca"
+pubdate: "Mai 30 2018"
 gradelevel: 8
 ref: datesmatter
 date:   2018-05-30 09:48:44 +0100
