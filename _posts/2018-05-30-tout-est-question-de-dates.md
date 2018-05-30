@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca"
 pubdate: "30 mai 2018"
@@ -7,7 +6,7 @@ gradelevel: 8
 ref: datesmatter
 date:   2018-05-30 09:48:44 +0100
 datemodified: "Date de modification : le mai 30 2018"
-published: false
+published: true
 lang: fr
 alt: Capture d'écran d'une page de Canada.ca indiquant la date de modification
 description: Dans une étude de convivialité récente, nous avons vu des gens qui n’ont pas tenu compte des résultats de recherche de Canada.ca qui semblaient trop vieux. Découvrez comment vous pouvez valider votre contenu et montrer qu'il est toujours à jour.
