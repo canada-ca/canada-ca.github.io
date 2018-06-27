@@ -8,7 +8,7 @@ datemodified: "Date modified: May 10, 2018"
 published: true
 lang: en
 alt: Some of the Health Canada and Treasury Board Secretariat project team in front of a screen showing graphs
-description: Over the past few months the web teams at Health Canada and the Public Health Agency of Canada have been working with the Digital Transformation Office on optimizing top tasks for the diseases and immunization topics of the health theme.
+description: Over the past few months the web team at Health Canada and the Public Health Agency of Canada has been working with the Digital Transformation Office on optimizing top tasks for the diseases and immunization topics of the health theme.
 ---
 
 <b>By Roger Pankhurst, optimization partner from Health Canada</b>
