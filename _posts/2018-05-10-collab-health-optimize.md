@@ -13,7 +13,7 @@ description: Over the past few months the web team at Health Canada and the Publ
 
 <b>By Roger Pankhurst, optimization partner from Health Canada</b>
 
-Over the past few months the web team at Health Canada (HC) and the Public Health Agency of Canada (PHAC) have been working with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) on optimizing [top tasks for the diseases and immunization](http://www.gcpedia.gc.ca/wiki/Diseases_/_Immunization_Optimization_Project) topics of the Health Theme.
+Over the past few months the web team at Health Canada (HC) and the Public Health Agency of Canada (PHAC) have been working with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) on optimizing top tasks for the diseases and immunization topics of the Health Theme.
 
 Specifically, we’ve been optimizing our digital content for:
 
