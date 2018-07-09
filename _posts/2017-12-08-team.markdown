@@ -28,26 +28,6 @@ We work with departments to:
 
 <div class="clearfix" style="padding-top: 30px;"></div>
 
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_BLOG_PHOTO_DSC_3909_277X370.jpg" width="185px" alt="Anna Belanger" />
-      Anna Belanger<br>
-      <b>Project Coordinator</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Anna is a Project Coordinator for the Digital Transformation Office at the Treasury Board Secretariat Canada. It takes a lot of work to overhaul a top task and Anna contributes by engaging with partners, managing the schedules, and getting tools when needed (digital or analog).</p><p> Over the past 2 years, she’s contributed to the publication and optimization of Canada.ca web content through her work at the Web Renewal Initiative. In 2017, Anna along with her WRI team were recognized by Canada’s CIO with a certificate in recognition of their making significant contributions to the public service.</p><p>
-She holds an honours Bachelor’s degree in Geography with a specialization in Health and the Environment and conducted post-graduate research on Canadian Aquaculture and Fisheries policy. She is currently working towards earning her Project Management Professional PMP certification.</p>
-
-</figcaption>
-</div>
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
 
 
 <div class="col-md-3 col-xs-12">
@@ -256,32 +236,6 @@ She holds an honours Bachelor’s degree in Geography with a specialization in H
 <figcaption>
 
 <p>Laura is passionate about plain language and web accessibility. She comes from a training background and loves turning complicated content into something that is easy to understand. Laura has been transforming web content for the past decade-and-a-half with Indigenous and Northern Affairs Canada and the Correctional Service of Canada.</p><p>She has led both external and internal web renewal projects. Laura’s role on the Digital Transformation Office team is to improve content on Canada.ca. She looks for duplicate, conflicting, or confusing information then works with the appropriate department to make that content better for Canadians.</p> 
-
-
-</figcaption>
-</div>
-
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_BLOG_PHOTO_DSC_3921_277X370.jpg" width="185px" alt="Karina Romero" />
-      Karina Romero<br>
-      <b>Team Support Officer</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Karina is Team Support Officer at the Digital Transformation Office at Treasury Board Secretariat Canada, she comes from Venezuela where she was a professional and enthusiastic trained journalist. </p>
-
-<p>Karina’s studies in Communications and Journalism provide her a solid knowledge base in the use and management of mass media, advertising, marketing and organizational communications. As a Journalist and Radio/Television Host in Venezuela, she produced/hosted a weekly radio show, anchored a local television news, and produced events for media outlets. </p>
-
-<p>As part of a visible minority Karina has learned to merge the best of both cultures and she strongly believes that hard work is an invaluable skill.</p>
-
 
 
 </figcaption>
