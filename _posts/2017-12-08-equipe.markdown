@@ -31,26 +31,6 @@ Nous travaillons avec les ministères pour :
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_BLOG_PHOTO_DSC_3909_277X370.jpg" width="185px" alt="Anna Belanger" />
-      Anna Belanger<br>
-      <b>Coordonnatrice de projet</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Anna est coordonnatrice de projet au Bureau de la transformation numérique du Secrétariat du Conseil du Trésor du Canada. Il faut beaucoup de travail pour remanier une tâche principale, et Anna y contribue en collaborant avec des partenaires, en gérant les horaires et en obtenant des outils (numériques ou analogiques) au besoin.</p><p> Au cours des deux dernières années, elle a contribué à la publication et à l’optimisation du contenu Web de Canada.ca par son travail à l’Initiative de renouvellement du Web (IRW). En 2017, Anna et son équipe de l’IRW ont reçu un certificat du dirigeant principal de l’information du Canada en reconnaissance de leur apport important à la fonction publique.</p><p> Elle est titulaire d’un baccalauréat spécialisé en géographie avec spécialisation en santé et en environnement et a mené des recherches postdoctorales sur l’aquaculture et la politique des pêches au Canada. Elle travaille actuellement à l’obtention de la certification PMP (professionnel de la gestion de projets).
-</p>
-
-</figcaption>
-</div>
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3043_277x370.jpg" width="185px" alt="Miguel Borges-Porteous" />
       Miguel Borges-Porteous<br>
       <b>Chercheur en conception</b>
@@ -264,32 +244,6 @@ David s’est joint à l’équipe de Transformation numérique du Conseil du Tr
 <figcaption>
 
 <p>Laura est passionnée par l’emploi en langage simple et l’accessibilité du Web. Elle a une expérience en formation et adore transformer du contenu compliqué pour devenir quelque chose qui est facile à comprendre. Laura fait de la transformation du contenu Web depuis les quinze dernières années avec Affaires autochtones et du Nord Canada et le Service correctionnel du Canada. Elle a mené des projets de renouvellement du Web interne et externe.</p><p>Le rôle de Laura dans l’équipe du Bureau de la transformation numérique est d’améliorer le contenu sur Canada.ca. Elle cherche des renseignements en double, conflictuels ou déroutants, et ensuite elle travaille avec le ministère approprié pour faire en sorte que ce contenu soit meilleur pour les Canadiens.</p>
-
-</figcaption>
-</div>
-
-
-
-<div class="clearfix" style="margin-bottom: 35px;"></div>
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/DTO_BLOG_PHOTO_DSC_3921_277X370.jpg" width="185px" alt="Karina Romero" />
-      Karina Romero<br>
-      <b>Agente de soutien aux équipes</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Karina, agente de soutien aux équipes au Bureau de la transformation numérique du Secrétariat du Conseil du Trésor du Canada, est originaire du Venezuela, où elle a été journaliste professionnelle et enthousiaste. </p>
-
-<p>Les études de Karina dans les domaines des communications et du journalisme lui fournissent une solide base de connaissances sur l’utilisation et la gestion des médias de masse, de la publicité, du marketing et des communications organisationnelles. En tant que journaliste et animatrice à la radio et à la télévision au Venezuela, elle a produit et animé une émission de radio hebdomadaire, a présenté les nouvelles à la télévision locale et a produit des événements pour les médias. </p>
-
-<p>En tant que membre d’une minorité visible, Karina a appris à fusionner les meilleurs aspects des deux cultures et elle croit fermement que le travail acharné est une compétence inestimable.</p>
-
 
 </figcaption>
 </div>
