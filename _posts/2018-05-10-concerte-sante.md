@@ -13,7 +13,7 @@ description: Au cours des derniers mois, l’équipe Web de Santé Canada (SC) e
 
 <b>Par Roger Pankhurst, partenaire d’optimisation de Santé Canada.</b>
 
-Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada (ASPC) a travaillé avec le Bureau de la transformation numérique (BTN] du Secrétariat du Conseil du Trésor (SCT) pour optimiser les tâches principales relatives aux maladies et à la vaccination du thème de la santé.
+Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada (ASPC) a travaillé avec le Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor (SCT) pour optimiser les tâches principales relatives aux maladies et à la vaccination du thème de la santé.
 
 Plus précisément, nous avons optimisé notre contenu numérique portant sur :
 
