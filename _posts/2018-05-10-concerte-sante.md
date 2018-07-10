@@ -80,7 +80,7 @@ Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courr
 
 ## Pour en savoir plus
 
-* [Résumé de projet : Maladies et vaccination](https://canada-ca.github.io/research-summaries/maladies-resume-researche.html)
+* [Résumé de projet : Maladies et vaccination](https://canada-ca.github.io/research-recherche/maladies-resume-recherche.html)
 
 ## À propos de l'auteur
 
