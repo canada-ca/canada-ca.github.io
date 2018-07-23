@@ -54,7 +54,6 @@ As an example, here’s a quick look at what the flu section looked like before 
 
 <figure>
 <img class="img-responsive" alt="Screenshot of the old flu page, which is a typical Canada topic page with a photo of sick people and 9 main links. An arrow points to the new flu page, which has no photo, 6 main links, and symptoms and treatment content right on the page. " src="/images/collab-health/flu-before-after-835x408-en.png">
-<figcaption><small>The flu page before and after optimization.</small></figcaption>
 </figure>
 
 Before optimization, the topic template offered too many categories and choices. Some topics overlapped (like “risks” and “prevention”), and some had unclear labels (like “surveillance”). It was hard for people to tell where to find the answers they were looking for.
