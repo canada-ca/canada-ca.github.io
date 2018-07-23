@@ -57,7 +57,6 @@ Nous avons également appris que, même si l’utilisation des pages de sujet du
 
 <figure>
 <img class="img-responsive" alt="Voici une capture d’écran de la vieille page sur la grippe, qui est une page de sujet typique du Canada avec une image présentant des personnes malades et 9 liens principaux. Une flèche pointe vers la nouvelle page sur la grippe, qui n’a pas de photo et contient 6 liens principaux, les symptômes et du contenu lié au traitement directement sur la page principale." src="/images/collab-health/grippe-avant-apres-835x408-fr.png">
-<figcaption><small>The flu page before and after optimization.</small></figcaption>
 </figure>
 
 Avant l’optimisation, le modèle de sujets offrait trop de catégories et de choix. Certains sujets se chevauchaient (comme « Risques » et « Prévention »), d’autres n’avaient pas d’étiquettes claires (comme « Surveillance »). Il était difficile pour les gens de savoir où trouver les réponses qu’ils cherchaient.
