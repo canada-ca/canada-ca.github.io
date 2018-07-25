@@ -32,7 +32,7 @@ We work with departments to:
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/eleanor.jpg" width="185px" alt="Eleanor Beale" />
       Eleanor Beale<br>
-      <b></b>
+      <b>Junior Communications Officer</b>
    </div>
 </div>
 
