@@ -27,7 +27,7 @@ We work with departments to:
 ## Meet the team
 
 <div class="clearfix" style="padding-top: 30px;"></div>
-<!--
+
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/eleanor.jpg" width="185px" alt="Eleanor Beale" />
@@ -44,7 +44,7 @@ We work with departments to:
 </p><p>Before joining the Canada.ca team, Eleanor interned at a creative agency in Toronto. She has also worked for small and medium sized businesses where she first got a taste for digital marketing and strategy. In 2016, Eleanor earned a Bachelor’s degree in English, Psychology and Women’s Studies. This odd but nevertheless interesting combination of disciplines continues to serve her well.</p>
 
 </figcaption>
-</div> -->
+</div> 
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
