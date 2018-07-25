@@ -5,7 +5,7 @@ pubdate: "le déc 8 2017"
 gradelevel: 7.8
 ref: aboutus
 date:   2017-12-08 09:48:44 +0100
-datemodified: "Date de modification : le 29 mars 2018"
+datemodified: "Date de modification : le 25 juillet 2018"
 published: true
 lang: fr
 alt: Photo de groupe de l'équipe Bureau de la transformation numérique
@@ -28,12 +28,12 @@ Nous travaillons avec les ministères pour :
 ## Rencontrer l'équipe
 
 <div class="clearfix" style="padding-top: 30px;"></div>
-<!--
+
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/eleanor.jpg" width="185px" alt="Eleanor Beale" />
       Eleanor Beale<br>
-      <b></b>
+      <b>Agente subalterne des communications</b>
    </div>
 </div>
 
@@ -44,7 +44,7 @@ Nous travaillons avec les ministères pour :
 <p>Après avoir terminé sa maîtrise en médias numériques, Eleanor s’est donné pour mission d’aider les Canadiens à accéder à des renseignements en ligne. Son rôle au Bureau de la transformation numérique consiste à créer du contenu Web attrayant, utile et précis. Eleanor aimerait développer ses compétences liées au codage et au design UX pendant son temps ici. </p><p>Avant de se joindre à l’équipe Canada.ca, Eleanor était stagiaire dans une agence de création à Toronto. Elle a également travaillé pour des petites et moyennes entreprises où elle a goûté au marketing et à la stratégie numériques. En 2016, elle a obtenu un baccalauréat en anglais, en psychologie et en études des femmes. Ce mélange à la fois étrange et intéressant de disciplines continue de bien la servir aujourd’hui.</p>
 
 </figcaption>
-</div> -->
+</div>
 
 <div class="clearfix" style="margin-bottom: 35px;"></div>
 
