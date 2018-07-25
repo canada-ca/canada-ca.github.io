@@ -5,7 +5,7 @@ pubdate: "December 8, 2017"
 gradelevel: 7.8
 ref: aboutus
 date:   2017-12-08 09:48:44 +0100
-datemodified: "Date modified: March 29, 2018" 
+datemodified: "Date modified: July 25, 2018" 
 published: true
 lang: en
 alt: A photo of the Digital Transformation Office team
@@ -28,7 +28,25 @@ We work with departments to:
 
 <div class="clearfix" style="padding-top: 30px;"></div>
 
+<div class="col-md-3 col-xs-12">
+   <div class="pull-left" style="margin-bottom: 15px;">
+   <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/eleanor.jpg" width="185px" alt="Eleanor Beale" />
+      Eleanor Beale<br>
+      <b></b>
+   </div>
+</div>
 
+
+<div class="col-md-9 col-xs-12">
+<figcaption>
+
+<p>After finishing her Masters of Digital Media, Eleanor made it her mission to help Canadians access information online. Her role at the DTO involves creating engaging web content that is both useful and accurate. Coding and UX design are among the skills Eleanor would like to develop during her time here. 
+</p><p>Before joining the Canada.ca team, Eleanor interned at a creative agency in Toronto. She has also worked for small and medium sized businesses where she first got a taste for digital marketing and strategy. In 2016, Eleanor earned a Bachelor’s degree in English, Psychology and Women’s Studies. This odd but nevertheless interesting combination of disciplines continues to serve her well.</p>
+
+</figcaption>
+</div>
+
+<div class="clearfix" style="margin-bottom: 35px;"></div>
 
 <div class="col-md-3 col-xs-12">
    <div class="pull-left" style="margin-bottom: 15px;">
