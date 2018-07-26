@@ -33,7 +33,7 @@ Nous travaillons avec les ministères pour :
    <div class="pull-left" style="margin-bottom: 15px;">
    <img class="img-responsive"  style="margin-bottom: 15px;" src="/images/DTO-aboutus/eleanor.jpg" width="185px" alt="Eleanor Beale" />
       Eleanor Beale<br>
-      <b>Agente subalterne des communications</b>
+      <b>Agente des communications</b>
    </div>
 </div>
 
