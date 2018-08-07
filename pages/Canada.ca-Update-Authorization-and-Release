@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en" dir="ltr"><!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+		<title>Authorization and Release</title>
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<!-- Meta data-->
+		<!-- Load closure template scripts -->
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/compiled/soyutils.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/compiled/wet-en.js"></script>
+
+		<!-- Write closure template -->
+		<script type="text/javascript">
+			document.write(wet.builder.refTop({
+			}));
+		</script>
+		<!-- Analytics -->
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		  ga('create', 'UA-105628416-1', 'auto');
+		  ga('send', 'pageview');
+		</script>
+	</head>
+	
+	<body vocab="http://schema.org/" typeof="WebPage">
+		<div id="def-top">
+		</div>
+		<!-- Write closure template -->
+		<main role="main" property="mainContentOfPage" class="container">
+<h1>Authorization and Release</h1>
+<h2>Event: Canada.ca - Update, Ottawa</h2>
+	<p>
+  I grant Her majesty the Queen in right of Canada, as represented by the President of Treasury Board of Canada Secretariat (TBS), the right to take, modify, adapt, exhibit, publish, transmit, reproduce, create derivative work from, distribute and otherwise use my name, photograph, video and/or audio recording, likeness, artwork, profile and/or testimonial in any material developed by or on behalf of TBS, including but not limited to current and future publications, Web sites, videos and/or audio recordings for purposes that promotes and supports the mission of the TBS, whether for internal use or public dissemination.
+I forever release TBS from any liability from direct, indirect, special, incidental or consequential damages of any kind arising from the use of my name, photograph, video and/or audio recording, likeness, artwork, profile and/or testimonial.
+I have read and fully understood the terms and legal effects of this agreement.
+</p>
+ 
+	<p>Notice:
+Personal information, as defined in section 3 of the Privacy Act, R.S.C. 1985, c.P-21, is subject to the provisions of the Privacy Act and the Access to Information Act, R.S.C. 1985, c.A-1. The information will be stored in Personal Information Bank (PIB) TBS PSU 914.
+</p>
+</body>
+</html>
