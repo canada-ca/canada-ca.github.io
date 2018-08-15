@@ -52,7 +52,54 @@ Les utilisateurs passaient trop de temps à chercher les renseignements dont ils
 
 Cette vidéo illustre les observations et les interactions des participants, en lien avec le contenu Web initial de la TPS/TVH et les retenues sur la paie, lors des essais de convivialité de base :
 
-MISSING TRANSCRIPT ****
+
+ {::nomarkdown}
+<figure class="wb-mltmd wb-init video cc_on">
+	<video poster="/images/taxes-impots/payroll-content-video-poster.jpg" title="Payroll webpage content">
+		<source type="video/mp4" src="/images/taxes-impots/payroll-content-fr.mp4" />
+	</video>
+
+<figcaption>
+<details>
+				<summary>Transcript: Payroll webpage content</summary>
+	<p>(Participant)</p>
+	
+<p>(Vidéo où une personne examine la page « Aperçu des retenues sur la paie » à Canada.ca. Le participant fait défiler doucement vers le haut et le bas.)</p>
+<p>Je ne vois pas beaucoup de…</p>
+<p>(Le participant clique pour accéder à la page « RC4110 Employé ou travailleur indépendant? »)</p>
+<p>Ça ne m’aide pas. Ouin, ce n’est pas évident...</p>
+
+ <p>(Modérateur)</p>
+
+<p>En effet</p>
+
+<p>(Participant)</p>
+
+<p>…où trouver l’information.</p>
+
+<p>(Le participant clique sur le bouton « précédent », et retourne à la page « Aperçu des retenues sur la paie ». Il défile vers le haut et le bas, puis il passe la souris sur l’hyperlien intitulé « Les responsabilités de l’employeur – Les étapes de retenues sur la paie ».)</p>
+
+<p>Il devrait se trouver dans les responsabilités de l’employeur… </p>
+
+<p>(Il défile à nouveau vers le bas, puis il défile vers le haut jusqu’à l’hyperlien intitulé « Les responsabilités de l’employeur – Les étapes de retenues sur la paie ».)</p>
+
+<p>…mais, je ne vois pas…</p>
+
+<p>(Il clique sur l’hyperlien intitulé « Les responsabilités de l’employeur – Les étapes de retenues sur la paie », et il se trouve sur cette page. Il commence à lire les étapes sur la page.)</p>
+
+<p>« Déterminer votre statut »…</p>
+
+<p>(Il défile vers le bas, puis vers le haut. Il passe la souris sur le mot « employeur » sous le titre « Étape 1 : Déterminer votre statut ».)</p>
+
+<p>Évidemment, vous n’êtes pas un employeur, mais j’ai besoin de plus amples renseignements.</p>
+
+<p>(Il clique sur le mot « employeur », puis la page qui s’ouvre s’intitule « Êtes-vous un employeur? » Il défile doucement vers le bas jusqu’à la fin de la page.)</p>
+
+<p>Alors, ce n’est pas très utile.</p>
+
+</details>
+</figcaption>
+ {:/nomarkdown}
 
 ## Comment corrigeons-nous le tir : leçons apprises ##
 
