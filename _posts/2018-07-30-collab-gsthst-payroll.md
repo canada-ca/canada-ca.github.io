@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "CRA and TBS collaborate to optimize GST/HST and Payroll webpage content"
-pubdate: "July 30, 2018"
+pubdate: "August 16, 2018"
 ref: collab-taxfiling
-date:   2018-07-30
-datemodified: "Date modified: July 30, 2018"
+date:   2018-08-16
+datemodified: "Date modified: August 16, 2018"
 published: true
 lang: en
 alt: Missing
@@ -60,41 +60,41 @@ This video notes the observations and interactions with the initial GST/HST and 
 
 <figcaption>
 <details>
-				<summary>Transcript: **video title**</summary>
+				<summary>Transcript: Payroll webpage content</summary>
 	<p>(Participant)</p>
 	
-(Video showing someone looking at the “Payroll overview” page on Canada.ca. Participant scrolls up and down slightly)
-I don’t see very…
-(Participant click into a page called “RC4110 Employee or self-employed?”)
-That’s not helpful. Yeah it’s not obvious from here...
+<p>(Video showing someone looking at the “Payroll overview” page on Canada.ca. Participant scrolls up and down slightly)</p>
+<p>I don’t see very…</p>
+<p>(Participant click into a page called “RC4110 Employee or self-employed?”)</p>
+<p>That’s not helpful. Yeah it’s not obvious from here...</p>
 
- (Moderator) 
+ <p>(Moderator) </p>
 
-Right
+<p>Right</p>
 
-(Participant)
+<p>(Participant)</p>
 
-…where to find the information
+<p>…where to find the information</p>
 
-(Participant clicks the “back” button and is back on the “Payroll overview” page. They scroll up and down the page then hover mouse over a link titled “Employer responsibilities- the payroll steps”)
+<p>(Participant clicks the “back” button and is back on the “Payroll overview” page. They scroll up and down the page then hover mouse over a link titled “Employer responsibilities- the payroll steps”)</p>
 
-It should be in employer responsibilities… 
+<p>It should be in employer responsibilities… </p>
 
-(Scrolls down the page again and then scrolls back up to the link titled “Employer responsibilities- the payroll steps”)
+<p>(Scrolls down the page again and then scrolls back up to the link titled “Employer responsibilities- the payroll steps”)</p>
 
-…but I don’t really see
+<p>…but I don’t really see</p>
 
-(Clicks on the link titled “Employer responsibilities- the payroll steps” and ends up on that page. Starts to read out steps on the page)
+<p>(Clicks on the link titled “Employer responsibilities- the payroll steps” and ends up on that page. Starts to read out steps on the page)</p>
 
-“Determine your status”…
+<p>“Determine your status”…</p>
 
-(Scrolls down the page and back up. Hovers over the word “employeer” under the first step which is called “Step 1: Determining your status)
+<p>(Scrolls down the page and back up. Hovers over the word “employeer” under the first step which is called “Step 1: Determining your status)</p>
 
-Obviously you’re an employer but I need more information
+<p>Obviously you’re an employer but I need more information</p>
 
-(Clicks on the word “employeer” which is a link to another page called “Are you an employer?”. Scrolls down the page slowly until they get to the bottom)
+<p>(Clicks on the word “employeer” which is a link to another page called “Are you an employer?”. Scrolls down the page slowly until they get to the bottom)</p>
 
-Alright well that’s not very useful
+<p>Alright well that’s not very useful</p>
 
 </details>
 </figcaption>
