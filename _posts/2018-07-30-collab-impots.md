@@ -54,7 +54,7 @@ Cette vidéo illustre les observations et les interactions des participants, en 
 
 
  {::nomarkdown}
-<figure class="wb-mltmd wb-init video cc_on">
+<figure class="wb-mltmd wb-init video">
 	<video poster="/images/taxes-impots/payroll-content-video-poster-fr.jpg" title="contenu de la page Web des retenues sur la paie">
 		<source type="video/mp4" src="/images/taxes-impots/payroll-content-fr.mp4" />
 	</video>
