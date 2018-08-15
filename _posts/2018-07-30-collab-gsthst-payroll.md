@@ -7,7 +7,7 @@ date:   2018-08-16
 datemodified: "Date modified: August 16, 2018"
 published: true
 lang: en
-alt: A before and after screenshot of a GST/HST page side by side.
+alt: A before and after screenshot of the GST/HST page showing the differences.
 draft: true
 description: The web, communications, and program teams at the Canada Revenue Agency (CRA) have been working closely with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) to make tax information on Canada.ca easier for small business owners to find, understand and use.
 ---
@@ -123,7 +123,7 @@ Here’s an example of what the main Payroll and GST/HST pages looked like in ba
 
 
 <figure>
-<img class="img-responsive" alt="MISSING" src="/images/taxes-impots/payroll-before-after-en.png">
+<img class="img-responsive" alt="Before screenshot of old Payroll page, which is a typical Canada.ca topic page. After screenshot now says steps for payroll with 6 simple steps." src="/images/taxes-impots/payroll-before-after-en.png">
 </figure>
 
 Before optimization, baseline results indicated that the initial Payroll topic page caused confusion because people had trouble choosing which link to follow. 
@@ -131,7 +131,7 @@ Before optimization, baseline results indicated that the initial Payroll topic p
 After validation, we organized topics into a new template. We laid them out in sequence to provide context. We found that adding steps to topics made it easier for people to determine the correct navigation path. Findability increased by situating people in a sequence.
 
 <figure>
-<img class="img-responsive" alt="MISSING" src="/images/taxes-impots/gsthst-before-after-en.png">
+<img class="img-responsive" alt="Before screenshot of old GST/HST page, which is a typical Canada.ca topic page. After screenshot now says Collect, file and pay(remit) the GST/HST with 5 simple steps." src="/images/taxes-impots/gsthst-before-after-en.png">
 </figure>
 
 Also, before optimization, people didn’t know what to click on, as the labels were not descriptive enough. For example “Charge the GST/HST”, “GST/HST returns” and “GST/HST payments all seemed very similar.
