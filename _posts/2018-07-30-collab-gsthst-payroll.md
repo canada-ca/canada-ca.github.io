@@ -58,29 +58,43 @@ This video notes the observations and interactions with the initial GST/HST and 
 	</video>
 
 <figcaption>
-<details id="inline-captions">
-				<summary>Transcript: People looking at older content</summary>
-  <p class="wet-boew-vd">(Participant 1)</p>
-				<p class="wet-boew-vd">(Video showing someone looking at a Canada.ca search results page. Text appears pointing to a result for "Vaccination and pregnancy", which has a date of "June 20, 2015".)</p>
-				<span class="wb-tmtxt" data-begin="6.02s" data-dur="6.84s">And, so this is from 2015 so I'll just scroll down a little bit to see if maybe...</span>
-				<p class="wet-boew-vd">(The picture zooms into filter controls on the side of the page. The mouse moves over "By date: Past year" and clicks the link.)</p>
-				<span class="wb-tmtxt" data-begin="14.12s" data-dur="4.84s">...maybe from the past year - I'll filter my results...</span>
-				<p class="wet-boew-vd">(The search results reload and the Vaccination and pregnancy page is gone.)</p>
-				<span class="wb-tmtxt" data-begin="17.12s" data-dur="4.84s">...in case there's something more current.</span>
-				<p class="wet-boew-vd">(Text appears saying that "The filter hid the best result".)</p>
-				<p class="wet-boew-vd">(Participant 2)</p>
-				<p class="wet-boew-vd">(Someone is looking at a Canada.ca search results page on a mobile phone.)</p>
-				<span class="wb-tmtxt" data-begin="26.12s" data-dur="3.84s">This information goes back to 2015.</span>
-				<p class="wet-boew-vd">(They tap the first result and see the Vaccination and pregnancy page. They begin scrolling down.)</p>
-				<span class="wb-tmtxt" data-begin="29.00s" data-dur="4.84s">I wonder if there's anything that's newer than that.</span>
-				<span class="wb-tmtxt" data-begin="32.00s" data-dur="3.84s">Although that's still pretty current...</span>
-				<span class="wb-tmtxt" data-begin="36.41s" data-dur="3.84s">...I'd feel better if there was something a little newer.</span>			
-				<p class="wet-boew-vd">(Participant 3)</p>
-				<p class="wet-boew-vd">(Another person on a different mobile phone is looking at Canada.ca search results. They scroll down and look at the first result.)</p>
-				<span class="wb-tmtxt" data-begin="48.72s" data-dur="2.84s">Vaccination and pregnancy ok...</span>
-				<p class="wet-boew-vd">(They seem ready to tap the link to the page, but hesitate.)</p>
-				<span class="wb-tmtxt" data-begin="52.42s" data-dur="3.84s">...but that's like from 2015</span>
-				<span class="wb-tmtxt" data-begin="55.12s" data-dur="3.84s">Where's the latest information from it?</span>
+<details>
+				<summary>Transcript: **video title**</summary>
+(Participant)
+	
+(Video showing someone looking at the “Payroll overview” page on Canada.ca. Participant scrolls up and down slightly)
+I don’t see very…
+(Participant click into a page called “RC4110 Employee or self-employed?”)
+That’s not helpful. Yeah it’s not obvious from here...
+
+ (Moderator) 
+
+Right
+
+(Participant)
+
+…where to find the information
+
+(Participant clicks the “back” button and is back on the “Payroll overview” page. They scroll up and down the page then hover mouse over a link titled “Employer responsibilities- the payroll steps”)
+
+It should be in employer responsibilities… 
+
+(Scrolls down the page again and then scrolls back up to the link titled “Employer responsibilities- the payroll steps”)
+
+…but I don’t really see
+
+(Clicks on the link titled “Employer responsibilities- the payroll steps” and ends up on that page. Starts to read out steps on the page)
+
+“Determine your status”…
+
+(Scrolls down the page and back up. Hovers over the word “employeer” under the first step which is called “Step 1: Determining your status)
+
+Obviously you’re an employer but I need more information
+
+(Clicks on the word “employeer” which is a link to another page called “Are you an employer?”. Scrolls down the page slowly until they get to the bottom)
+
+Alright well that’s not very useful
+
 </details>
 </figcaption>
 
