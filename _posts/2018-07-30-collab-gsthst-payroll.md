@@ -7,7 +7,7 @@ date:   2018-08-16
 datemodified: "Date modified: August 16, 2018"
 published: true
 lang: en
-alt: Missing
+alt: A before and after screenshot of a GST/HST page side by side.
 draft: true
 description: The web, communications, and program teams at the Canada Revenue Agency (CRA) have been working closely with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) to make tax information on Canada.ca easier for small business owners to find, understand and use.
 ---
@@ -53,9 +53,9 @@ This video notes the observations and interactions with the initial GST/HST and 
 
  {::nomarkdown}
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/dates-matter/old-content-video-poster.jpg" title="Thinking information is out of date">
-		<source type="video/mp4" src="/images/dates-matter/trust-of-old-content-en.mp4" />
-		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
+	<video poster="/images/taxes-impots/payroll-content-video-poster.jpg" title="Payroll webpage content">
+		<source type="video/mp4" src="/images/taxes-impots/payroll-content-en.mp4" />
+	<!--	<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" /> -->
 	</video>
 
 <figcaption>
