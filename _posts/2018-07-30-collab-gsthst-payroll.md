@@ -52,7 +52,7 @@ People were spending too much time looking for the information they needed. They
 This video notes the observations and interactions with the initial GST/HST and Payroll web content from usability participants during baseline testing:
 
  {::nomarkdown}
-<figure class="wb-mltmd wb-init video cc_on">
+<figure class="wb-mltmd wb-init video">
 	<video poster="/images/taxes-impots/payroll-content-video-poster.jpg" title="Payroll webpage content">
 		<source type="video/mp4" src="/images/taxes-impots/payroll-content-en.mp4" />
 	<!--	<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" /> -->
