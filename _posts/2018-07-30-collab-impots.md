@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "L’ARC et le SCT collaborent afin d’optimiser le contenu de la page Web consacrée à la TPS/TVH et aux retenues sur la paie"
-pubdate: "30 juillet 2018"
+pubdate: "16 août 2018"
 ref: collab-taxfiling
-date:   2018-07-30
-datemodified: "Date de modification : le 30 juillet 2018"
+date:   2018-08-16
+datemodified: "Date de modification : le 16 août 2018"
 published: true
 draft: true
 lang: fr
