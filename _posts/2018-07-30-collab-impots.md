@@ -9,7 +9,7 @@ published: true
 draft: true
 lang: fr
 alt: MISSING.
-description: MISSING.
+description: Les équipes Web, de communications et de programmes de l’Agence du revenu du Canada (ARC) travaillent en étroite collaboration avec le Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor du Canada (SCT) afin de faciliter l’accès, la compréhension et l’utilisation par les propriétaires de petites entreprises des renseignements fiscaux disponibles sur Canada.ca.
 ---
 
 <b>Billet de blogue de nos partenaires d’optimisation de l’Agence du revenu du Canada</b>
