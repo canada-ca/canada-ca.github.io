@@ -51,6 +51,7 @@ People were spending too much time looking for the information they needed. They
 
 This video notes the observations and interactions with the initial GST/HST and Payroll web content from usability participants during baseline testing:
 
+ {::nomarkdown}
 <figure class="wb-mltmd wb-init video cc_on">
 	<video poster="/images/dates-matter/old-content-video-poster.jpg" title="Thinking information is out of date">
 		<source type="video/mp4" src="/images/dates-matter/trust-of-old-content-en.mp4" />
@@ -60,7 +61,7 @@ This video notes the observations and interactions with the initial GST/HST and 
 <figcaption>
 <details>
 				<summary>Transcript: **video title**</summary>
-(Participant)
+	<p>(Participant)</p>
 	
 (Video showing someone looking at the “Payroll overview” page on Canada.ca. Participant scrolls up and down slightly)
 I don’t see very…
@@ -97,7 +98,8 @@ Alright well that’s not very useful
 
 </details>
 </figcaption>
-
+ {:/nomarkdown}
+ 
 ## How we’re fixing it: lessons learned ##
 
 As we developed and tested prototypes, we learned that some basic changes to our content and navigation would have big impacts on task success.
