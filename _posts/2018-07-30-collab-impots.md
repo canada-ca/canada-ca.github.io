@@ -8,7 +8,7 @@ datemodified: "Date de modification : le 16 août 2018"
 published: true
 draft: true
 lang: fr
-alt: MISSING.
+alt: Capture d'écran montrant la page TPS / TVH avant et après et indiquant les différences.
 description: Les équipes Web, de communications et de programmes de l’Agence du revenu du Canada (ARC) travaillent en étroite collaboration avec le Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor du Canada (SCT) afin de faciliter l’accès, la compréhension et l’utilisation par les propriétaires de petites entreprises des renseignements fiscaux disponibles sur Canada.ca.
 ---
 
@@ -55,13 +55,13 @@ Cette vidéo illustre les observations et les interactions des participants, en 
 
  {::nomarkdown}
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/taxes-impots/payroll-content-video-poster.jpg" title="Payroll webpage content">
+	<video poster="/images/taxes-impots/payroll-content-video-poster-fr.jpg" title="contenu de la page Web des retenues sur la paie">
 		<source type="video/mp4" src="/images/taxes-impots/payroll-content-fr.mp4" />
 	</video>
 
 <figcaption>
 <details>
-				<summary>Transcript: Payroll webpage content</summary>
+				<summary>Transcription: contenu de la page Web des retenues sur la paie</summary>
 	<p>(Participant)</p>
 	
 <p>(Vidéo où une personne examine la page « Aperçu des retenues sur la paie » à Canada.ca. Le participant fait défiler doucement vers le haut et le bas.)</p>
@@ -121,7 +121,7 @@ Nous avons également appris que les listes de liens posaient un problème de tr
 Voici un exemple de ce à quoi ressemblaient les pages principales liées aux retenues sur la paie et à la TPS/TVH, lors des essais de convivialité de base et après leur optimisation dans le cadre des essais de validation :
 
 <figure>
-<img class="img-responsive" alt="MISSING." src="/images/taxes-impots/payroll-before-after-fr.png">
+<img class="img-responsive" alt="Capture d'écran montrant la page Retenues sur la pei avant et après et indiquant les différences." src="/images/taxes-impots/payroll-before-after-fr.png">
 </figure>
 
 Avant l’optimisation, les résultats des essais de convivialité de base indiquaient que la première page dédiée aux retenues sur la paie entraînait de la confusion parce que les utilisateurs éprouvaient de la difficulté à choisir le lien à suivre. 
@@ -129,7 +129,7 @@ Avant l’optimisation, les résultats des essais de convivialité de base indiq
 Après la validation, nous avons organisé les sujets suivant un nouveau modèle. Nous les avons disposés par séquence afin de fournir un contexte. Nous avons constaté que la structuration étape par étape des sujets aidait les utilisateurs à déterminer plus facilement le chemin de navigation approprié. La trouvabilité s’est améliorée grâce à la structuration des recherches des utilisateurs par séquence.
 
 <figure>
-<img class="img-responsive" alt="MISSING." src="/images/taxes-impots/gsthst-before-after-fr.png">
+<img class="img-responsive" alt="Capture d'écran montrant la page TPS / TVH avant et après et indiquant les différences." src="/images/taxes-impots/gsthst-before-after-fr.png">
 </figure>
 
 De plus, avant l’optimisation, les utilisateurs ne savaient pas sur quels éléments cliquer, car les étiquettes n’étaient pas suffisamment descriptives. Par exemple, les options « Facturer la TPS/TVH », « Déclarations de TPS/TVH » et « Perception de la TPS/TVH » semblaient toutes très similaires.
