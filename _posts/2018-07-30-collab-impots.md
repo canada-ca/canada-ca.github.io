@@ -65,9 +65,9 @@ Cette vidéo illustre les observations et les interactions des participants, en 
 	<p>(Participant)</p>
 	
 <p>(Vidéo où une personne examine la page « Aperçu des retenues sur la paie » à Canada.ca. Le participant fait défiler doucement vers le haut et le bas.)</p>
-<p>Je ne vois pas beaucoup de…</p>
+<p>Je ne vois pas vraiment…</p>
 <p>(Le participant clique pour accéder à la page « RC4110 Employé ou travailleur indépendant? »)</p>
-<p>Ça ne m’aide pas. Ouin, ce n’est pas évident...</p>
+<p>Ça ne m’aide pas à trouver. Non, ce n’est pas très évident d'ici...</p>
 
  <p>(Modérateur)</p>
 
@@ -75,15 +75,15 @@ Cette vidéo illustre les observations et les interactions des participants, en 
 
 <p>(Participant)</p>
 
-<p>…où trouver l’information.</p>
+<p>…de trouver ces renseignments.</p>
 
 <p>(Le participant clique sur le bouton « précédent », et retourne à la page « Aperçu des retenues sur la paie ». Il défile vers le haut et le bas, puis il passe la souris sur l’hyperlien intitulé « Les responsabilités de l’employeur – Les étapes de retenues sur la paie ».)</p>
 
-<p>Il devrait se trouver dans les responsabilités de l’employeur… </p>
+<p>Ce devrait être dans les responsabilités de l’employeur… </p>
 
 <p>(Il défile à nouveau vers le bas, puis il défile vers le haut jusqu’à l’hyperlien intitulé « Les responsabilités de l’employeur – Les étapes de retenues sur la paie ».)</p>
 
-<p>…mais, je ne vois pas…</p>
+<p>…mais, je ne trouve pas vraiment…</p>
 
 <p>(Il clique sur l’hyperlien intitulé « Les responsabilités de l’employeur – Les étapes de retenues sur la paie », et il se trouve sur cette page. Il commence à lire les étapes sur la page.)</p>
 
@@ -91,11 +91,11 @@ Cette vidéo illustre les observations et les interactions des participants, en 
 
 <p>(Il défile vers le bas, puis vers le haut. Il passe la souris sur le mot « employeur » sous le titre « Étape 1 : Déterminer votre statut ».)</p>
 
-<p>Évidemment, vous n’êtes pas un employeur, mais j’ai besoin de plus amples renseignements.</p>
+<p>Vous êtes manifestement un employeur, mais j'ai besoin de plus de renseignmentss.</p>
 
 <p>(Il clique sur le mot « employeur », puis la page qui s’ouvre s’intitule « Êtes-vous un employeur? » Il défile doucement vers le bas jusqu’à la fin de la page.)</p>
 
-<p>Alors, ce n’est pas très utile.</p>
+<p>Bon, bien, ce n’est pas très utile.</p>
 
 </details>
 </figcaption>
