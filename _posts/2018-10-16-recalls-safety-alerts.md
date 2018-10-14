@@ -54,10 +54,10 @@ The new search solution:
 * improved the layout, search result headings and short description of the results
 * presented results in chronological order
 * changed the main categories to: 
- * Food and allergies
- * Vehicles
- * Health
- * Products
+  * Food and allergies
+  * Vehicles
+  * Health
+  * Products
 
 
 The new content pages:
