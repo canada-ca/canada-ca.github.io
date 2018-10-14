@@ -5,7 +5,8 @@ pubdate: "October 16, 2018"
 ref: recalls
 date:   2018-10-16
 datemodified: "Date modified: October 16, 2018"
-published: false
+published: true
+draft: true
 lang: en
 alt: A before and after screenshot of an EpiPen Jr page showing the differences.
 description: Of the top 100 tasks on Canada.ca, getting recalls and safety alerts is #8. It gets nearly 7 million annual visits, 71% of which are via mobile. For food-related alerts, that jumps to a whopping 84%.
@@ -53,10 +54,10 @@ The new search solution:
 * improved the layout, search result headings and short description of the results
 * presented results in chronological order
 * changed the main categories to: 
-** Food and allergies
-** Vehicles
-** Health
-** Products
+ * Food and allergies
+ * Vehicles
+ * Health
+ * Products
 
 
 The new content pages:
