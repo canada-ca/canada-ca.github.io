@@ -9,7 +9,7 @@ published: true
 draft: true
 lang: en
 alt: A before and after screenshot of an EpiPen Jr page showing the differences.
-description: Of the top 100 tasks on Canada.ca, getting recalls and safety alerts is 8. It gets nearly 7 million annual visits, 71% of which are via mobile. For food-related alerts, that jumps to a whopping 84%.
+description: Of the top 100 tasks on Canada.ca, getting recalls and safety alerts is :hash: 8. It gets nearly 7 million annual visits, 71% of which are via mobile. For food-related alerts, that jumps to a whopping 84%.
 ---
 
 [Of the top 100 tasks on Canada.ca](https://www.canada.ca/en/government/about/top-tasks-for-canada-ca.html), getting recalls and safety alerts is #8. It gets nearly 7 million annual visits, 71% of which are via mobile. For food-related alerts, that jumps to a whopping 84%.
