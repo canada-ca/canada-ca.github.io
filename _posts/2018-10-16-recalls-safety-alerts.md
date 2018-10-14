@@ -1,154 +1,87 @@
 ---
 layout: post
-title:  "CRA and TBS collaborate to optimize GST/HST and Payroll webpage content"
-pubdate: "August 16, 2018"
+title:  "Recalls and safety alerts: An optimization project to better protect Canadians"
+pubdate: "October 16, 2018"
 ref: recalls
-date:   2018-08-16
-datemodified: "Date modified: August 16, 2018"
+date:   2018-10-16
+datemodified: "Date modified: October 16, 2018"
 published: false
 lang: en
-alt: A before and after screenshot of the GST/HST page showing the differences.
-description: The web, communications, and program teams at the Canada Revenue Agency (CRA) have been working closely with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) to make tax information on Canada.ca easier for small business owners to find, understand and use.
+alt: A before and after screenshot of an EpiPen Jr page showing the differences.
+description: Of the top 100 tasks on Canada.ca, getting recalls and safety alerts is #8. It gets nearly 7 million annual visits, 71% of which are via mobile. For food-related alerts, that jumps to a whopping 84%.
 ---
 
-<b>Guest post by our optimization partners from the Canada Revenue Agency</b>
+[Of the top 100 tasks on Canada.ca](https://www.canada.ca/en/government/about/top-tasks-for-canada-ca.html), getting recalls and safety alerts is #8. It gets nearly 7 million annual visits, 71% of which are via mobile. For food-related alerts, that jumps to a whopping 84%.
 
-The web, communications, and program teams at the Canada Revenue Agency (CRA) have been working closely with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) to make tax information on Canada.ca easier for small business owners to find, understand and use.
+In the existing system, Canadians can search for recalls and safety information in four categories:
 
-We’ve been working on web content for the following core tasks that Canadians must accomplish when setting up a new business:
+* Consumer products
+* Vehicles
+* Food
+* Health products
 
-* Determining if it’s necessary to charge GST
-* Setting up a GST account
-* Determining if a payroll account is required
-* Setting  up a payroll account
+The content is currently managed and populated by three partner departments:
 
-Following our first round of baseline usability testing, we realized just how complex our web content was. Sometimes, people found what they were looking for, but couldn't understand the information. This meant that ultimately, they couldn't complete the task they were trying to accomplish.
+* [Health Canada](https://www.canada.ca/en/health-canada.html)
+* [Transport Canada](https://www.tc.gc.ca/eng/menu.htm)
+* [Canadian Food Inspection Agency](http://www.inspection.gc.ca/eng/1297964599443/1297965645317)
 
-We set out to optimize these top tasks with the DTO and key CRA program areas:
 
-* Public Affairs Branch 
-* Assessment and Benefit Services Branch 
-* Legislative Policy and Regulatory Affairs 
+## If 7 million people are using the system, we better make sure it works ##
 
-The aim was to improve findability, clarity of the language used, success rates, and completion time of top tasks for payroll and GST/HST topics.
+The unfortunate reality is that the existing system for recalls and safety alerts is old and unreliable. The database and technical infrastructure is a patchwork of servers that often fails and needs constant maintenance. This is a serious problem for Canadians who rely on it for timely and accurate safety information.
 
-## The challenge ##
+In June of 2018, the web team at Health Canada, along with representatives from Transport Canada and Canadian Food Inspection Agency, began working with the Digital Transformation Office from the Treasury Board Secretariat to optimize recalls and safety alerts.
 
-Our process included discovery, research and baseline usability testing that we conducted with the DTO on the existing Canada.ca web content. Through this, we were able to identify top GST/HST and payroll-related tasks that we needed to improve. 
+On top of the infrastructure challenges, discovery research and usability testing found that Canadians face several problems when using the system:
 
-Our baseline testing revealed several usability issues that resulted in task failure, such as: 
+* design, content and writing style were not responsive or mobile-friendly 
+* search issues and lack of filters caused many task failures
+* overall sense of uncertainty – people weren’t getting clear answers for what to do
 
-* complicated or technical jargon and wording 
-* long, complex, difficult to understand pages that slowed people down, or prevented them from finding important details
-complex headings and content sequencing issues
-* unclear navigation paths which led to task failure
-* long, unstructured lists of links
-* unclear calls to action
-* missing key terms in labels and descriptions
+With those issues in mind, the Digital Transformation Office and the project team designed new prototypes for a search solution and content pages. The goal was to increase task findability and completion rates by 20% for each.
 
-People were spending too much time looking for the information they needed. They weren’t able to complete their tasks because the content was difficult to understand once they found it… if they found it! Often links were not descriptive enough and people had to read over content 2-3 times to understand it. Many people clicked on incorrect links and wasted valuable time — time they could be using to grow their businesses.
-
-This video notes the observations and interactions with the initial GST/HST and Payroll web content from usability participants during baseline testing:
-
- {::nomarkdown}
-<figure class="wb-mltmd wb-init video">
-	<video poster="/images/taxes-impots/payroll-content-video-poster.jpg" title="Payroll webpage content">
-		<source type="video/mp4" src="/images/taxes-impots/payroll-content-en.mp4" />
-	<!--	<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" /> -->
-	</video>
-
-<figcaption>
-<details>
-				<summary>Transcript: Payroll webpage content</summary>
-	<p>(Participant)</p>
-	
-<p>(Video showing someone looking at the “Payroll overview” page on Canada.ca. Participant scrolls up and down slightly)</p>
-<p>I don’t see very…</p>
-<p>(Participant click into a page called “RC4110 Employee or self-employed?”)</p>
-<p>That’s not helpful. Yeah it’s not obvious from here...</p>
-
- <p>(Moderator) </p>
-
-<p>Right</p>
-
-<p>(Participant)</p>
-
-<p>…where to find the information</p>
-
-<p>(Participant clicks the “back” button and is back on the “Payroll overview” page. They scroll up and down the page then hover mouse over a link titled “Employer responsibilities- the payroll steps”)</p>
-
-<p>It should be in employer responsibilities… </p>
-
-<p>(Scrolls down the page again and then scrolls back up to the link titled “Employer responsibilities- the payroll steps”)</p>
-
-<p>…but I don’t really see</p>
-
-<p>(Clicks on the link titled “Employer responsibilities- the payroll steps” and ends up on that page. Starts to read out steps on the page)</p>
-
-<p>“Determine your status”…</p>
-
-<p>(Scrolls down the page and back up. Hovers over the word “employeer” under the first step which is called “Step 1: Determining your status)</p>
-
-<p>Obviously you’re an employer but I need more information</p>
-
-<p>(Clicks on the word “employeer” which is a link to another page called “Are you an employer?”. Scrolls down the page slowly until they get to the bottom)</p>
-
-<p>Alright well that’s not very useful</p>
-
-</details>
-</figcaption>
- {:/nomarkdown}
  
-## How we’re fixing it: lessons learned ##
+## New prototypes ##
 
-As we developed and tested prototypes, we learned that some basic changes to our content and navigation would have big impacts on task success.
-
-In our prototypes we worked to: 
-
-* provide clear calls to action 
-* rework links, labels and navigation text to be comprehensive and include keywords near the start of the text
-* label topics using a task-based structure, rather than CRA organizational structure
-* use plain language that closely matches commonly used terms to reduce ambiguity
-* reorganize certain pages into a step-by-step structure to help provide context to the content
-* group long and complex pages into tabs to improve navigation and scanning 
-
-We also learned that lists of links were a findability issue in some tasks. To help decrease ambiguity and improve findability, we grouped long lists of links were into categories. Finally, we found that shorter keyword phrases showed significant advantages over full sentences on navigation pages. They made the key information easier to find.
-
-
-## Results: Before and after ##
-
-Here’s an example of what the main Payroll and GST/HST pages looked like in baseline usability testing, and after optimization in validation testing:
+Considering 71% of people are coming to the system via mobile, designing for mobile first was the obvious focus for the new prototypes.
+ 
+The new search solution:
+ 
+* adopted the Canada.ca search engine
+* added auto-complete to the search field and filters
+* improved the layout, search result headings and short description of the results
+* presented results in chronological order
+* changed the main categories to: 
+** Food and allergies
+** Vehicles
+** Health
+** Products
 
 
+The new content pages:
+ 
+* clarified page titles: “product, issue, status”
+* added summaries at the top of pages with a clear “what to do”
+* used clear headings, font and spacing to make pages easier to scan
+* simplified language throughout
+* applied responsive design to make pages and lists easier to use
+* added links to product brand and category
+* grouped together similar products affected by a recall so users don’t need to leave the page to find out if their product is affected
+ 
+After a second round of validation testing with Canadians on the new prototypes, the results were impressive. Task findability increased from 51% to 75% (up 24% points), and task completion increased from 54% to 87% (up 34% points).
 
-<figure>
-<img class="img-responsive" alt="A before and after screenshot of the Payroll page showing the differences." src="/images/taxes-impots/payroll-before-after-en.png">
-</figure>
 
-Before optimization, baseline results indicated that the initial Payroll topic page caused confusion because people had trouble choosing which link to follow. 
+## Next steps ##
 
-After validation, we organized topics into a new template. We laid them out in sequence to provide context. We found that adding steps to topics made it easier for people to determine the correct navigation path. Findability increased by situating people in a sequence.
+Now that we know how to present recalls and safety alerts so that Canadians can easily find and understand them, we’re moving on to the operational side of the project.
 
-<figure>
-<img class="img-responsive" alt="A before and after screenshot of the GST/HST page showing the differences." src="/images/taxes-impots/gsthst-before-after-en.png">
-</figure>
-
-Also, before optimization, people didn’t know what to click on, as the labels were not descriptive enough. For example “Charge the GST/HST”, “GST/HST returns” and “GST/HST payments all seemed very similar.
-
-After optimization, the topic page was much more successful, because we had clear, descriptive links that helped people find the right page.
-
-## What’s next ##
-
-Our most recent round of validation usability testing resulted in a 28 percentage point improvement in task findability to an average of 90%. Overall task success improved by 27 percentage points to an average of 76%! We are now working to integrate the successful aspects of the prototypes into production. 
-
-We will continue to work closely with the program areas, namely Information Programs Division (Assessment and Benefit Services Branch) and Policy and Legislative Research Section (Collections and Verification Branch), to ensure that optimized content has been reviewed for technical accuracy, welcoming any suggestions for modifications to improve the accuracy of the information that relates to the three identified tasks. 
-
-Stay tuned for the new content to go live on Canada.ca very soon!
+Health Canada, Transport Canada and Canadian Food Inspection Agency are working together to define our technical and operational needs, and build a system that will be reliable for Canadians for years to come. The goal is to release incremental improvements quickly based on what we learned, with a final recalls and safety alerts system rolled out by summer of 2019.
 
 ## We want to hear from you ##
 Let us know what you think about task management. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
 
 ## Learn more
 
-* [Project summary: Tax filing](https://canada-ca.github.io/research-recherche/taxfiling-research-summary.html)
+* [Project summary: Recalls and safety alerts](https://canada-ca.github.io/research-recherche/recalls-research-summary.html)
 
