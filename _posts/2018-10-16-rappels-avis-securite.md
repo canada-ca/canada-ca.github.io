@@ -8,8 +8,8 @@ datemodified: "Date de modification : le 16 octobre 2018"
 published: true
 draft:true
 lang: fr
-alt: **NEED FR**.
-Parmi les 100 principales tâches sur Canada.ca, le nombre de rappels et d’alertes de sécurité apparaît en huitième place. Le site reçoit près de 7 millions de visites annuelles, dont 71 % par téléphone mobile. Pour ce qui est des alertes concernant les aliments, le pourcentage grimpe à 84 %.
+alt: NEED FR
+description: Parmi les 100 principales tâches sur Canada.ca, le nombre de rappels et d’alertes de sécurité apparaît en huitième place. Le site reçoit près de 7 millions de visites annuelles, dont 71 % par téléphone mobile. Pour ce qui est des alertes concernant les aliments, le pourcentage grimpe à 84 %.
 ---
 
 
