@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Recalls and safety alerts: An optimization project to better protect Canadians"
-pubdate: "October 16, 2018"
+pubdate: "October 18, 2018"
 ref: recalls
-date:   2018-10-16
-datemodified: "Date modified: October 16, 2018"
+date:   2018-10-18
+datemodified: "Date modified: October 18, 2018"
 published: true
 draft: true
 lang: en
