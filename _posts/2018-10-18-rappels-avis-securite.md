@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Rappels et avis de sécurité : Un projet d’optimisation pour mieux protéger les Canadiens"
-pubdate: "16 octobre 2018"
+pubdate: "18 octobre 2018"
 ref: recalls
-date:   2018-10-16
-datemodified: "Date de modification : le 16 octobre 2018"
+date:   2018-10-18
+datemodified: "Date de modification : le 18 octobre 2018"
 published: true
 draft: true
 lang: fr
