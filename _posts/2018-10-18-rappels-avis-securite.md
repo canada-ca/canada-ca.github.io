@@ -72,6 +72,7 @@ Caractéristiques des nouvelles pages de contenu :
 
 Après une deuxième série d’essais de validation avec les Canadiens sur les nouveaux prototypes, les résultats ont été impressionnants. La repérabilité des tâches est passée de 51 % à 75 % (en hausse de 24 points), et l’achèvement des tâches est passé de 54 % à 87 % (en hausse de 34 points).
 
+<br>
 <figure>
 <img class="img-responsive" alt="Image of two phones showing EpiPen information update page, labelled 'Before' and 'After'."
  src="/images/recalls-rappels/beforeafter-epipen-FR.jpg"/>
