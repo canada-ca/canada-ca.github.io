@@ -72,7 +72,26 @@ Caractéristiques des nouvelles pages de contenu :
 
 Après une deuxième série d’essais de validation avec les Canadiens sur les nouveaux prototypes, les résultats ont été impressionnants. La repérabilité des tâches est passée de 51 % à 75 % (en hausse de 24 points), et l’achèvement des tâches est passé de 54 % à 87 % (en hausse de 34 points).
 
+<figure>
+<img class="img-responsive" alt="Image of two phones showing EpiPen information update page, labelled 'Before' and 'After'."
+ src="./images/recalls-rappels/beforeafter-epipen.jpg"/>
+<br>
+<figcaption><small>EpiPen shortage information update at baseline and after redesign for validation </small></figcaption>
+<br>
+</figure>
 
+<details>
+<summary>
+Detailed description
+</summary>
+<br>
+<p>Image of two phones, labelled "Before" and "After".</p>
+
+<p>The first phone shows how dense and crowded the original safety alert looked on mobile. An arrow points to the text with the annotation "Pinch and zoom - Canadians use phones for recalls".</p>
+
+<p>The second phone shows how the redesigned prototype text is much shorter and has more white space. You can see that 3 bullets immediately tell you the product, the issue and what to do. An arrow points to the text with the annotation "Answers not information - Highlight what to do".</p>
+
+</details>
 
 ## Prochaines étapes ##
 
