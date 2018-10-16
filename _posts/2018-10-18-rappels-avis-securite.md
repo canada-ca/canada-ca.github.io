@@ -74,7 +74,7 @@ Après une deuxième série d’essais de validation avec les Canadiens sur les 
 
 <figure>
 <img class="img-responsive" alt="Image of two phones showing EpiPen information update page, labelled 'Before' and 'After'."
- src="./images/recalls-rappels/beforeafter-epipen.jpg"/>
+ src="/images/recalls-rappels/beforeafter-epipen-FR.jpg"/>
 <br>
 <figcaption><small>EpiPen shortage information update at baseline and after redesign for validation </small></figcaption>
 <br>
