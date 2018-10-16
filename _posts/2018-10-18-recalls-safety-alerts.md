@@ -73,7 +73,7 @@ The new content pages:
 After a second round of validation testing with Canadians on the new prototypes, the results were impressive. Task findability increased from 51% to 75% (up 24% points), and task completion increased from 54% to 87% (up 34% points).
 
 
- 
+ <br>
 <figure>
 <img class="img-responsive" alt="Image of two phones showing EpiPen information update page, labelled 'Before' and 'After'."
  src="/images/recalls-rappels/beforeafter-epipen.jpg"/>
