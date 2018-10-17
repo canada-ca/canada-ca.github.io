@@ -74,23 +74,21 @@ Après une deuxième série d’essais de validation avec les Canadiens sur les 
 
 <br>
 <figure>
-<img class="img-responsive" alt="Image of two phones showing EpiPen information update page, labelled 'Before' and 'After'."
- src="/images/recalls-rappels/beforeafter-epipen-FR.jpg"/>
+<img class="img-responsive" alt="Images figurant sur deux téléphones, étiquetés « Avant » et « Après »" src="/images/recalls-rappels/beforeafter-epipen-FR.jpg"/>
 <br>
-<figcaption><small>EpiPen shortage information update at baseline and after redesign for validation </small></figcaption>
 <br>
 </figure>
 
 <details>
 <summary>
-Detailed description
+Description détaillée
 </summary>
 <br>
-<p>Image of two phones, labelled "Before" and "After".</p>
+<p>Images figurant sur deux téléphones, étiquetés « Avant » et « Après »</p>
 
-<p>The first phone shows how dense and crowded the original safety alert looked on mobile. An arrow points to the text with the annotation "Pinch and zoom - Canadians use phones for recalls".</p>
+<p>Le premier téléphone montre à quel point l’alerte à la sécurité initiale était dense et encombrée sur l’appareil mobile. Une flèche indique le texte, avec la note « Pincer et zoomer - Les Canadiens ustilisent un téléphone pour recevoir des rappels ».</p>
 
-<p>The second phone shows how the redesigned prototype text is much shorter and has more white space. You can see that 3 bullets immediately tell you the product, the issue and what to do. An arrow points to the text with the annotation "Answers not information - Highlight what to do".</p>
+<p>Le deuxième téléphone montre que le texte du prototype de nouvelle conception est beaucoup plus court et qu’il contient plus d’espaces blancs. On peut voir que trois points vignettes indiquent d’embée le produit, le problème et ce qu’il faut faire. Une flèche indique le texte, avec la note « Réponses et non renseignements – souligner quoi faire ».</p>
 
 </details>
 
