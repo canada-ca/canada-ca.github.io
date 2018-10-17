@@ -6,7 +6,6 @@ ref: recalls
 date:   2018-10-18
 datemodified: "Date de modification : le 18 octobre 2018"
 published: true
-draft: true
 lang: fr
 alt: Photo illustrant l’élaboration d’histoires liées à des emplois. 
 description: Parmi les 100 principales tâches sur Canada.ca, le nombre de rappels et d’alertes de sécurité apparaît en huitième place. Le site reçoit près de 7 millions de visites annuelles, dont 71 % par téléphone mobile. Pour ce qui est des alertes concernant les aliments, le pourcentage grimpe à 84 %.
