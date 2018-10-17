@@ -74,7 +74,7 @@ Après une deuxième série d’essais de validation avec les Canadiens sur les 
 
 <br>
 <figure>
-<img class="img-responsive" alt="Images figurant sur deux téléphones, étiquetés « Avant » et « Après »"/>
+<img class="img-responsive" alt="Images figurant sur deux téléphones, étiquetés « Avant » et « Après »" src="/images/recalls-rappels/beforeafter-epipen-FR.jpg"/>
 <br>
 <br>
 </figure>
