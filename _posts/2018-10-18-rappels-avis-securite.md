@@ -84,7 +84,7 @@ Après une deuxième série d’essais de validation avec les Canadiens sur les 
 Description détaillée
 </summary>
 <br>
-<p>Images figurant sur deux téléphones, étiquetés « Avant » et « Après »</p>
+<p>Images figurant sur deux téléphones, étiquetés « Avant » et « Après ».</p>
 
 <p>Le premier téléphone montre à quel point l’alerte à la sécurité initiale était dense et encombrée sur l’appareil mobile. Une flèche indique le texte, avec la note « Pincer et zoomer - Les Canadiens ustilisent un téléphone pour recevoir des rappels ».</p>
 
