@@ -8,7 +8,7 @@ datemodified: "Date modified: October 18, 2018"
 published: true
 draft: true
 lang: en
-alt: A photo of job stories being developed. 
+alt: Photo of job stories being developed. 
 description: Of the top 100 tasks on Canada.ca, getting recalls and safety alerts is &#35;8. It gets nearly 7 million annual visits, 71% of which are via mobile. For food-related alerts, that jumps to a whopping 84%.
 ---
 
