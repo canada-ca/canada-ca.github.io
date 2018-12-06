@@ -8,8 +8,8 @@
 </ul><header role="banner">
 <div id="wb-bnr" class="container">
 <section id="wb-lng" class="visible-md visible-lg text-right">
-	
-	
+
+
 <h2 class="wb-inv">{{ site.LanguageSelection[page.lang] }}</h2>
 <div class="row">
 <div class="col-md-12">
@@ -20,7 +20,7 @@
     {% if my_post.lang != page.lang %}
       <li><a lang="{{ my_post.lang }}" hreflang="{{ my_post.lang }}" href="{{ my_post.url | prepend: post.baseurl }}">{{ site.language[my_post.lang] }}</a></li>
     {% endif %}
-  {% endfor %}  
+  {% endfor %}
 
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% for my_page in pages %}
@@ -28,13 +28,13 @@
       <li><a lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.language[my_page.lang] }}</a></li>
     {% endif %}
   {% endfor %}
-  
+
 
 </ul>
 </div>
 </div>
 </section>
-	
+
 
 <div class="row">
 <div class="brand col-xs-8 col-sm-9 col-md-6">
@@ -49,7 +49,7 @@
 </section>
 <section id="wb-srch" class="col-xs-6 text-right visible-md visible-lg">
 <h2>Search</h2>
-<form action="#" method="post" name="cse-search-box" role="search" class="form-inline">
+<form action="https://www.canada.ca/en/sr/srb.html" method="post" name="cse-search-box" role="search" class="form-inline">
 <div class="form-group">
 <label for="wb-srch-q" class="wb-inv">{{ site.SearchWebsite[page.lang] }}</label>
 <input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="27" maxlength="150" placeholder="{{ site.SearchCanadaCa[page.lang] }}">
@@ -82,8 +82,8 @@
 </div>
 </div>
 </nav>
-	
-	
+
+
 <nav role="navigation" id="wb-bc" property="breadcrumb">
 <h2>{{ site.YouAreHere[page.lang] }}:</h2>
 <div class="container">
@@ -99,7 +99,7 @@
 </div>
 </div>
 </nav>
-</header> 
+</header>
 
 
 <!-- <aside class="gray">
@@ -108,15 +108,15 @@
                             <figure>
 
                                 <img class="img-responsive" src="./images/1170x200.png" alt="">
-										
-										<h3 class="blog hidden-xs"> Canada.ca blog <p class="blog hidden-xs">Evidence and insights from the Canada.ca team</p> 
+
+										<h3 class="blog hidden-xs"> Canada.ca blog <p class="blog hidden-xs">Evidence and insights from the Canada.ca team</p>
 										</h3>
 										<h4 class="blog hidden-lg hidden-md hidden-sm">Canada.ca blog</h4>
-								
+
                             </figure>
                         </a>
-                    
-            
+
+
            </div>
         </div>
     </aside> -->
