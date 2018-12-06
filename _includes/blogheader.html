@@ -49,10 +49,15 @@
 </section>
 <section id="wb-srch" class="col-xs-6 text-right visible-md visible-lg">
 <h2>Search</h2>
-<form action="https://recherche-search.gc.ca/rGs/s_r" method="post" name="cse-search-box" role="search" class="form-inline">
+<form action="https://recherche-search.gc.ca/rGs/s_r?#wb-land" method="get" role="search" class="form-inline">
 <div class="form-group">
 <label for="wb-srch-q" class="wb-inv">{{ site.SearchWebsite[page.lang] }}</label>
 <input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="27" maxlength="150" placeholder="{{ site.SearchCanadaCa[page.lang] }}">
+<input name="st" value="s" type="hidden"/>
+<input name="num" value="10" type="hidden"/>
+<input name="langs" value="eng" type="hidden"/>
+<input name="st1rt" value="0" type="hidden">
+<input name="s5bm3ts21rch" value="x" type="hidden"/>
 <datalist id="wb-srch-q-ac">
 <!--[if lte IE 9]><select><![endif]-->
 <!--[if lte IE 9]></select><![endif]-->
