@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="fr" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="fr" dir="ltr"><!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+		<title>Résumé de projet : Renseignements météorologiques</title>
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<!-- Meta data-->
+		<!-- Load closure template scripts -->
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/compiled/soyutils.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/compiled/wet-fr.js"></script>
+
+		<!-- Write closure template -->
+		<script type="text/javascript">
+			document.write(wet.builder.refTop({
+			}));
+		</script>
+		<!-- Analytics -->
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-105628416-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+	</head>
+	<body vocab="http://schema.org/" typeof="WebPage">
+		<div id="def-top">
+		</div>
+		<!-- Write closure template -->
+		<script type="text/javascript">
+			var defTop = document.getElementById("def-top");
+			defTop.outerHTML = wet.builder.top({
+				lngLinks: [{
+					lang: "en",
+					href: "weather-research-summary.html",
+					text: "English"
+				}],
+				breadcrumbs: [{
+							title: "Accueil",
+							href: "https://www.canada.ca/fr.html"
+						},{
+							title: "...",
+						},
+						{
+							title: "Améliorer le contenu sur Canada.ca",
+							href: "https://canada-ca.github.io/pages/apercu-projet.html"
+						}],
+				search: true,
+				siteMenu: true,
+				showPreContent: false
+			});
+</script>
+
+<script src="https://use.typekit.net/bkt6ydm.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<link rel="stylesheet" href="../css/blog.css">
+
+
+<main role="main" property="mainContentOfPage" class="container">
+
+
+    <style>
+
+.blogholder {
+
+	display: inline-block !important;
+	position: relative;
+	width: 52em;
+
+}
+
+.border
+	{
+
+	border: 2px solid #ccc;
+
+}
+
+
+
+
+</style>
+
+<div class="blogholder img-responsive">
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" id="wb-cont" itemprop="name headline">Résumé de projet : Renseignements météorologiques</h1>
+    <p class="post-meta"><time itemprop="datePublished">23 juillet 2018</time></p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+
+    <p>Le projet d’optimisation météorologique a débuté en juillet 2017. Le bureau météorologique d’Environnement et Changement climatique Canada a réuni une équipe des Communications électroniques et du Service météorologique du Canada. En collaboration avec les concepteurs et les chercheurs du Bureau de la transformation numérique, nous avons entrepris de faire en sorte qu’il soit plus facile pour les Canadiens de comprendre les avis concernant les conditions météorologiques dangereuses.</p>
+
+<h2>Découverte</h2>
+
+<p>Nous avons commencé par une phase de découverte afin de comprendre la situation actuelle, les besoins des utilisateurs en ce qui concerne le contenu actuel et les problèmes qu’ils peuvent rencontrer. Les sources étaient notamment l’examen des études antérieures sur la convivialité, l’analyse des habitudes de transmission du site Web et des comportements de recherche, et l’examen des demandes téléphoniques et de soutien technique. Cela nous a donné suffisamment d’indications pour déterminer les publics cibles, nous avons ensuite utilisé ces indications lors de nos discussions avec les personnes touchées par le contenu actuel. Nous avons également effectué des recherches sur les applications météorologiques et comment elles sont utilisées.</p>
+
+<p>Nous avons également constaté que la plupart des utilisateurs accédaient au contenu au moyen d’appareils mobiles. Les utilisateurs vérifiaient les prévisions météorologiques quotidiennes, les prévisions à long terme ou les avertissements météorologiques extrêmes sur leur téléphone intelligent.</p>
+
+<p>A partir de ces découvertes, l'équipe a généré 7 scénarios de tâches :</p>
+
+<ul>
+ <li><strong>Tâche : </strong>Quel temps fera-t-il dans votre région d’ici la fin de la journée?</li>
+  <li><strong>Tâche : </strong>Vous êtes venu au travail en vélo. Y a-t-il plus que la moitié (50/50) des chances (oui/non) que vous attraperez la pluie sur votre vélo en retournant à la maison à 17 h?</li>
+  <li><strong>Tâche : </strong>C’est dimanche matin et vous devez vous rendre à Kingston en auto pour une réunion lundi midi. Devriez-vous partir ce soir ou demain matin?</li>
+  <li><strong>Tâche : </strong>Vous faites du camping et vous entendez dire qu’il est possible qu’il grêle. La grêle ferait des trous dans votre tente, et vous avez payé cher pour celle-ci. Devriez-vous vous hâter à plier bagage ce matin ou prendre votre temps ce soir?</li>
+  <li><strong>Tâche : </strong>Vous voulez faire faire une courte promenade au chien avant la pluie. Y a-t-il des endroits dans la région d’Ottawa où la pluie a déjà commencé (oui/non)?</li>
+  <li><strong>Tâche : </strong>Vous dirigez la partie de soccer des enfants ce soir. Vous devez annuler l’activité si l’humidex dépasse 40 degrés. Vous l’annulez ou non?</li>
+  <li><strong>Tâche : </strong>Vous êtes le gestionnaire du terrain de golf – le ciel est sombre. Déterminez (oui/non) si vous devriez évacuer le terrain en raison d’éclairs potentiels dans les 10 à 20 minutes.</li>
+<!--  <li><strong>Tâche : </strong>Vous avez réservé une ronde de golf cet après-midi. Le terrain est à Arnprior, qui se trouve à environ 40 minutes de route à l’ouest d’Ottawa. Est-il nécessaire d’apporter un imperméable?</li> -->
+</ul>
+
+<p>Nous avons utilisé ces scénarios de tâche pour tester le site Web auprès de personnes de nos publics cibles.</p>
+
+<figure>
+<img class="img-responsive" alt="Des feuillets autoadhésifs manuscrits apposés au haut de la page indiquent des suggestions de conception pour améliorer les icônes. Il y a des points autoadhésifs sur le feuillet." src="../images/weather-meteo/design-suggestions.jpg" width="800px"/>
+<figcaption><small>Suggestions de conception avec points de vote (en anglais)</small></figcaption>
+<br>
+</figure>
+<details>
+<summary>
+Description détaillée
+</summary>
+<p>Solutions faisant l’objet d’un vote, lesquelles figurent sur une feuille imprimée.</p>
+
+<p>Comment pourrions-nous assurer une meilleure correspondance aux attentes concernant les icônes? (Les gens les ont beaucoup touchés!) </p>
+<p>Tâche 2 et tâche 3 : 24 heures. Task 6: Tâche 6 : Facteur humidex nuit-jour.</p>
+
+
+<p>Les papillons adhésifs sont placés sur le dessus de l’imprimé; les papillons adhésifs sur lesquels figurent des idées semblables sont regroupés.</p>
+
+<p>Regroupement de papillons adhésifs 1:  </p>
+<p>Il y a 14 points de vote dans ce groupe. </p>
+<ul>
+	<li>rendre l’icône de prévision/le texte d’aujourd’hui ou de ce soir cliquables  </li>
+	<li>texte de ce soir cliquable, format horaire </li>
+	<li>Cliquer sur le bloc, et non sur un mot</li>
+	<li>icônes/sections de blocs cliquables </li>
+	<li>icône cliquable </li>
+	<li>icônes cliquables sur (illisible) à la page d’essai de 24 heures/comment traiter l’accessibilité  </li>
+	<li>faites en sorte que la case des conditions actuelles soit cliquable afin de pouvoir afficher les détails des conditions -> cela ferait monter les prévisions </li>
+</ul>
+
+
+<p>Regroupement de papillons adhésifs 2:  </p>
+<p>Il y a deux points de vote dans ce groupe.</p>
+<ul>
+<li>les icônes sont une représentation très simpliste de la météo</li>
+<li>faire en sorte que l’icône actuelle soit animée</li>
+
+</details>
+
+<br>
+
+
+<h2>Établissement d’une référence</h2>
+
+<p>Avant d’apporter des modifications, nous avons établi un score de référence grâce à la mise à l’essai modérée de la convivialité. Seize participants ont assisté aux séances de recherche tenues à Toronto, à Gatineau, à Montréal et à Ottawa avec leur téléphone intelligent en anglais ou en français. Des essais à distance ont été menés auprès de quatre autres participants utilisant leur ordinateur de bureau. Le recrutement était axé sur les utilisateurs qui occupaient un emploi ou des travailleurs autonomes à temps plein à l’extérieur de leur domicile. On a demandé aux participants de réaliser les sept scénarios de tâches sur le site Web Canada.ca. </p>
+
+<p>Nous avons regardé ensemble des vidéos des séances d’essais. Ces vidéos ont aidé toute l’équipe à comprendre les problèmes rencontrés par les utilisateurs lorsqu’ils essayaient d’accomplir les tâches. Nous pourrions observer et quantifier les comportements et les problèmes de convivialité qui ont causé  l'échec de l'exécution de la tâche. Nous avons saisi ces observations sous la forme d’un parcours de clics (pour comprendre comment les gens se sont déplacés sur le site) et décrit les problèmes en détail afin que nous puissions les aborder pendant la phase de conception.</p>
+
+
+<h2>Restructuration visant à améliorer le taux de réussite des tâches</h2>
+
+<p>En ce qui concerne l’essai de référence, le taux global de repérabilité était de 35 %, et le taux global de réussite était de 33 % pour les sept tâches et les 140 essais de tâches.
+</p>
+
+<p>Pour résoudre la longue liste de problèmes que nous avons répertoriés, l’équipe a créé un prototype fonctionnel à l’appui d’une nouvelle conception sur le site de partage de codes Github. Nous avons organisé plusieurs ateliers afin de travailler intensivement sur les problèmes rencontrés par les participants. </p>
+
+<p>Tout au long du processus de conception, nous avons mis à l’essai le contenu auprès des utilisateurs au moyen de petites séances « guérilla » informelles. Ces essais ont révélé des problèmes de conception que nous avons pu régler avant la deuxième mise à l’essai modérée de la convivialité à grande échelle.</p>
+
+
+<h3>Conception d’alertes avant et après la nouvelle conception mobile aux fins de validation</h3>
+<div class="mwsmediaplayer section">
+
+
+    <figure class="wb-mltmd"><video poster="../images/weather-meteo/weather_phones_anim-alert-FR.jpg" title="Conception d’alertes avant et après la nouvelle conception mobile aux fins de validation">
+ <source src="../images/weather-meteo/weather_phones_anim-alert-FR.mp4" type="video/mp4" />
+
+</video></figure>
+
+
+
+</div>
+
+
+<details>
+<summary>
+Description vidéo
+</summary>
+<br>
+<p>
+Deux téléphones intelligents affichent deux versions différentes d’une page Web. L’une est intitulée « Version de base », l’autre « Nouvelle version ».</p>
+
+<p>À la page « Version de base  », le titre est « Ottawa (Kanata-Orléans), ON », suivi d’une boîte d’alerte météo en jaune avec le texte « Veille d’orages violents ». Une flèche pointe vers la boîte d’alerte avec l’annotation « Version de base : Peu de gens se rendaient compte qu’ils pouvaient cliquer sur l’avertissement pour voir les détails de la tempête. »</p>
+<p>
+	À la page « Nouvelle version », la boîte d’alerte météo en jaune a été modifiée; il y a maintenant une petite icône d’avertissement, le texte est souligné pour montrer qu’il est possible de cliquer sur celui-ci, et il y a un chevron à droite. Cette image est animée, et l’écran du téléphone défile lentement vers le haut et vers le bas pour montrer que l’alerte apparaît aussi sous les prévisions, qui se trouvent plus bas sur la page. Une flèche pointe vers le texte d’alerte avec l’annotation « Nouvelle version : Tout le monde a remarqué l’avertissement et a cliqué sur celui-ci en haut ou en bas des prévisions. »
+</p>
+
+
+
+
+</details>
+
+</figure>
+<h3>Conception de la page de la ville avant et après la nouvelle conception mobile aux fins de validation</h3>
+<div class="mwsmediaplayer section">
+
+
+    <figure class="wb-mltmd"><video poster="../images/weather-meteo/weather_phones_anim-FR.jpg" title="Conception de la page de la ville avant et après la nouvelle conception mobile aux fins de validation">
+ <source src="../images/weather-meteo/weather_phones_anim-FR.mp4" type="video/mp4" />
+
+</video></figure>
+
+
+
+</div>
+
+<details>
+<summary>
+Description vidéo
+</summary>
+<br>
+<p>
+Deux téléphones intelligents affichent deux versions différentes d’une page Web. L’une est intitulée « Version de base », l’autre « Nouvelle version ».</p>
+
+<p>La page « Version de base » est animée et défile vers le bas, en dessous des sections « Conditions actuelles », « Prévisions » et « Moyennes et extrêmes », entre autres. La page est très longue et les liens couramment utilisés se trouvent à la fin. Une flèche pointe vers la liste de liens avec l’annotation « Version de base : Une longue page à faire défiler. Les participants n’ont trouvé les liens importants qu’au bas de la page. ».</p>
+
+<p>
+La page « Nouvelle version » est également animée et défile jusqu’à la fin de la section « Conditions actuelles ». Cette partie de la page a été modifiée pour que le contenu soit présenté en deux colonnes, et les liens sont maintenant faciles à trouver. Une flèche pointe vers la liste de liens avec l’annotation « Nouvelle version : Le contenu a été simplifié. La page est courte. Tous les participants ont trouvé les liens importants à côté des prévisions. »
+</p>
+</details>
+
+</figure>
+
+<h2 id="measuring-success-rates-on-the-redesigned-prototype">Mesure des taux de réussite du prototype restructuré</h2>
+
+<p>Lorsque la conception révisée a été prête, 20 nouveaux participants ont été recrutés pour accomplir les sept mêmes tâches. Notre objectif était soit d’atteindre un taux de succès de 80 % soit d’obtenir une amélioration d’au moins 20 points par rapport au score de base. Les taux de repérage ont augmenté de 35 % à 82 % en raison de la révision du contenu et de la conception. La réussite globale des tâches est passée de 33 % à 72 %.</p>
+
+<p>Ce graphique montre les taux de réussite de l’exécution de la tâche dans l’ensemble de la référence et de la mise à l’essai de validation remanié du prototype pour l’ensemble des 40 participants :</p>
+
+</div>
+</div>
+<div class="col-md-12">
+
+<img class="img-responsive hidden-sm hidden-xs" src="../images/weather-meteo/Baseline_vs_Validation_Success_resultats.jpg" alt="Graphique qui illustre les résultats de la base de référence et de la restructuration." />
+</div>
+<div class="row col-md-9">
+			 <details>
+			 <summary>
+			 Taux de réussite des tâches – tableau
+			 </summary>
+				 <p>Mesure de base au début du projet, validation sur prototype restructuré par l'équipe de projet.</p>
+				 <div class="table-bravo">
+							 <table class="table table-bordered">
+
+				<thead><tr><th scope="col">Tâche</th>
+				<th scope="col">Base</th>
+				<th scope="col">Validation</th>
+
+			</tr></thead><tbody><tr><td>1. Naviguer jusqu’aux prévisions météorologiques locales</td>
+				<td  >87 %</td>
+				<td>100 %</td>
+			</tr><tr><td>2. Comprendre et trouver la probabilité de précipitation</td>
+				<td  >19 %</td>
+				<td>94 %</td>
+			</tr><tr><td>3. Avis d’averses de neige : conduite</td>
+				<td>25 %</td>
+				<td>75 %</td>
+			</tr><tr><td>4. Avertissement : veille d’orages et de grêle</td>
+				<td  >6 %</td>
+				<td>63 %</td>
+			</tr><tr><td>5. Radar : décision basée sur les précipitations actuelles</td>
+				<td  >0 %</td>
+				<td>31 %</td>
+			</tr><tr><td>6. Humidex : annuler le match de soccer</td>
+				<td  >88 %</td>
+				<td>81 %</td>
+			</tr><tr><td>7. Carte du risque de foudre : évacuer le terrain de golf </td>
+				<td  >6 %</td>
+				<td>63 %</td>
+
+			</tbody></table>
+			 </p>
+			 </details>
+
+
+<h2>Facteurs clés de succès</h2>
+
+ <p>L’équipe a créé une liste de six principes de conception qui semblent avoir eu la plus grande incidence sur l’augmentation des taux de réussite : </p>
+<ul>
+
+<li>Conception mobile en premier lieu : moins de texte, plus d’espace et d’interaction</li>
+
+<li>Diminution du nombre de paliers : regroupement des tâches et des sous-tâches afin d’améliorer la repérabilité : diminution du nombre de paliers</li>
+
+<li>Raccourcissement de la piste de navigation : augmentation de la visibilité des détails météorologiques importants</li>
+
+<li>Maximisation de la surface occupée : les modifications apportées au style d’alerte ont aidé les Canadiens à trouver les détails des alertes météorologiques</li>
+
+<li>Affichage prioritaire des tâches principales : ne pas diluer le contenu avec des tâches minuscules</li>
+
+<li>Affichage des réponses et non des renseignements : formuler des réponses pour les tâches principales</li>
+</ul>
+
+<h2>Demander les résultats de recherche </h2>
+
+<p>Communiquez avec nous à l’adresse <a href="mailto:dto-btn@tbs-sct.gc.ca">dto-btn@tbs-sct.gc.ca</a> si vous avez des questions ou si vous souhaitez en savoir plus sur cette recherche.</p>
+
+<h2>Qu’en pensez-vous? </h2>
+
+<p>Donnez-nous votre avis sur notre projet – envoyez un « gazouillis » au moyen du mot-clic #Canadapointca.</p>
+
+<h2>Pour en savoir plus </h2>
+
+<ul>
+
+	<li><a href="https://meteo.gc.ca/canada_f.html">Consultez les nouvelles pages météo</a>, conçues en se basant sur les résultats du projet</li>
+<li><a href="https://canada-ca.github.io/pages/apercu-projet.html">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
+
+</ul>
+
+
+</div>
+
+  </div>
+
+</article>
+</div>
+
+<div id="def-preFooter">
+</div>
+<!-- Write closure template -->
+<script type="text/javascript">
+	var defPreFooter = document.getElementById("def-preFooter");
+	defPreFooter.outerHTML = wet.builder.preFooter({
+		dateModified: "le juillet 23 2018",
+		showPostContent: true,
+		showFeedback: true,
+		showShare: true
+	});
+</script>
+		</main>
+		<div id="def-footer">
+
+		</div>
+		<!-- Write closure template -->
+		<script type="text/javascript">
+			var defFooter = document.getElementById("def-footer");
+			defFooter.outerHTML = wet.builder.footer({
+				showFooter: true,
+				showFeatures: false
+			});
+		</script>
+		<!-- Write closure template -->
+		<script type="text/javascript">
+			document.write(wet.builder.refFooter({
+			}));
+		</script>
+	</body>
+</html>
