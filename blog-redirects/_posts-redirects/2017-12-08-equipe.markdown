@@ -1,0 +1,5 @@
+---
+title: À propos du Bureau de la transformation numérique
+redirect_to:
+  - https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html
+---
