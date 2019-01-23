@@ -1,4 +1,8 @@
 # canada-ca.github.io
-Github pages for Canada-ca
+Github pages: content to redirect to new blog space(s)
 
 [Alpha Blog](https://canada-ca.github.io/) current content relating to User research and testing around Canada.ca.
+
+Content moving to:
+https://github.com/canada-ca/blog-dto (EN) blog.canada.ca
+https://github.com/canada-ca/blogue-btn (FR) blogue.canada.ca
