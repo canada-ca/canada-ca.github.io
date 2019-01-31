@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "CRA and TBS collaborate to make business registration easier for Canadian business
-owners"
-pubdate: "February 5, 2018"
+title:  "CRA and TBS collaborate to make business registration easier for Canadian business owners"
+pubdate: "February 5, 2019"
 langpage: "https://blogue.canada.ca/2018/03/05/comptes-entreprises.html"
 date:   2018-02-05
 published: true
 draft: true
 lang: en
-alt: missing.
+alt: "Before and after screenshot of the Business Registration Online pages."
 description: "The Canada Revenue Agency (CRA) and the Treasury Board of Canada Secretariat (TBS) collaborated to simplify tasks for small businesses on Canada.ca. These tasks were chosen based on call volume data that let us to identify some of the most common reasons that people call to get help."
 ---
 
@@ -34,7 +33,7 @@ There were so many questions we needed to answer. Why were they not taking the (
 Everyone, including the users, agreed that registering for a Canada Revenue Agency program account shouldn’t be this hard.
 
 
-## Benefits of the project for our taxpayers##
+## Benefits of the project for our taxpayers ##
 
 Together, CRA and TBS redesigned the way information can be found on certain small business webpages. The changes increased the overall task success rate by 39 percentage points!
 
