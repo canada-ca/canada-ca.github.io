@@ -67,7 +67,7 @@ Voici un exemple de la façon dont nous avons réorganisé l’information :
 <br>
 <figure>
 <img class="img-responsive border" alt="Inscription en direct des entreprises."
-src="/images/business-account/apres-BRO.jpg"/>
+src="/images/comptes-entreprises/apres-BRO.jpg"/>
 <br>
 <figcaption><small>Comme l’information a été divisée en petites sections faciles à gérer, les utilisateurs pouvaient facilement parcourir l’information sur chaque page et trouver ce qu’ils cherchaient.</small></figcaption>
 <br>
