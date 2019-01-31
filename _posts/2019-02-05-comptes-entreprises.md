@@ -54,7 +54,7 @@ Voici un exemple de la façon dont nous avons réorganisé l’information :
 
  <br>
 <figure>
-<img class="img-responsive border" alt="Inscription en direct des entreprises."
+<img class="img-responsive border" alt="Avant : Inscription en direct des entreprises."
  src="/images/comptes-entreprises/avant-BRO.jpg"/>
 <br>
 <figcaption><small>Tous les renseignements relatifs au programme d’inscription en direct des entreprises se trouvaient sur une seule page. Il y avait des liens d’ancrage au haut de la page, mais les utilisateurs perdaient le fil lorsqu’ils commençaient à défiler.</small></figcaption>
@@ -66,7 +66,7 @@ Voici un exemple de la façon dont nous avons réorganisé l’information :
 
 <br>
 <figure>
-<img class="img-responsive border" alt="Inscription en direct des entreprises."
+<img class="img-responsive border" alt="Après : Inscription en direct des entreprises."
 src="/images/comptes-entreprises/apres-BRO.jpg"/>
 <br>
 <figcaption><small>Comme l’information a été divisée en petites sections faciles à gérer, les utilisateurs pouvaient facilement parcourir l’information sur chaque page et trouver ce qu’ils cherchaient.</small></figcaption>
