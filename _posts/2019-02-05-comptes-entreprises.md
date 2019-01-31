@@ -7,7 +7,7 @@ date:   2018-02-05
 published: true
 draft: true
 lang: fr
-alt: "missing"
+alt: "Capture d'écran montrant la page « Inscription en direct des entreprises » avant et après."
 description: "L’Agence du revenu du Canada (ARC) et le Secrétariat du Conseil du Trésor du Canada (SCT) ont collaboré pour faciliter les tâches des petites entreprises sur Canada.ca. Ces tâches ont été choisies en fonction des données sur le volume d’appels qui nous ont permis de cerner certaines des raisons les plus courantes pour lesquelles les gens appellent pour obtenir de l’aide."
 ---
 
@@ -54,7 +54,7 @@ Voici un exemple de la façon dont nous avons réorganisé l’information :
 
  <br>
 <figure>
-<img class="img-responsive border" alt="Inscription en direct des entreprises avant."
+<img class="img-responsive border" alt="Inscription en direct des entreprises."
  src="/images/comptes-entreprises/avant-BRO.jpg"/>
 <br>
 <figcaption><small>Tous les renseignements relatifs au programme d’inscription en direct des entreprises se trouvaient sur une seule page. Il y avait des liens d’ancrage au haut de la page, mais les utilisateurs perdaient le fil lorsqu’ils commençaient à défiler.</small></figcaption>
@@ -66,7 +66,7 @@ Voici un exemple de la façon dont nous avons réorganisé l’information :
 
 <br>
 <figure>
-<img class="img-responsive border" alt="Inscription en direct des entreprises après."
+<img class="img-responsive border" alt="Inscription en direct des entreprises."
 src="/images/business-account/apres-BRO.jpg"/>
 <br>
 <figcaption><small>Comme l’information a été divisée en petites sections faciles à gérer, les utilisateurs pouvaient facilement parcourir l’information sur chaque page et trouver ce qu’ils cherchaient.</small></figcaption>
