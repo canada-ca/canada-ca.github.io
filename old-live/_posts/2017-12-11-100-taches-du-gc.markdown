@@ -1,0 +1,122 @@
+---
+layout: post
+title:  "De quelle façon déterminons-nous les principales tâches pour Canada.ca"
+pubdate: "le 11 déc, 2017"
+gradelevel: 7.8
+ref: toptasks
+date:   2017-12-11 09:48:44 +0100
+datemodified: "Date de modification : le 11 déc, 2017"
+published: true
+lang: fr
+description: Les tâches – simples et complexes – en lien avec le gouvernement du Canada (GC) se comptent par milliers. Comment nous y prenons-nous pour prioriser?
+alt: Diagramme à secteurs des tâches principales. 1. Obtenir les prévisions météorologiques locales 28 % 2. Obtenir un visa de visiteur 9 % 3. Faire une demande d’immigration au Canada 7 % 4. Obtenir les conditions maritimes 6 % 5. Obtenir une AVE 6%. Le reste du diagramme est divisé en plus petites sections.
+---
+
+Les gens utilisent nos canaux numériques pour réaliser une grande variété de tâches. Nous disons qu’ils veulent de l’« information » ou des « services ». Ils ne font pas cette distinction – ils consultent Canada.ca avec une idée précise en tête et une tâche à accomplir. S’ils sont en mesure d’accomplir leur tâche, leur besoin est comblé. Dans le cas contraire, nous avons du travail à faire.
+
+## Tâches principales
+
+Les tâches – simples et complexes – en lien avec le gouvernement du Canada (GC) se comptent par milliers. Comment nous y prenons-nous pour prioriser? En cernant celles qui sont les plus importantes et les plus utilisées. Nous les appelons les « tâches principales » du GC. Nous nous concentrons sur les 100 tâches principales du gouvernement du Canada. Nous avons commencé à améliorer le contenu de ces tâches principales afin d’accroître le taux de succès des utilisateurs.
+
+<figure style="margin-top: 50px;" >
+
+<div class="col-md-6">
+<div class="center-block">
+<img class="img-responsive center-block"  style="margin-bottom: 50px;" src="/images/top100piechart.png" alt="Diagramme à secteurs montrant un segment occupant un quart du diagramme, les quatre segments suivants couvrant environ la moitié du diagramme et les autres segments devenant plus petits jusqu'à ce qu'ils se fondent l'un dans l'autre à la fin. Les données viennent de la liste des tâches principales pour Canada.ca">
+</div>
+</div>
+
+<div class="col-md-6">
+<figcaption class="center-block" style="margin-top: 50px;">
+<p><b>Les cinq tâches principales comptent pour plus de 50 % des visites des pages de départ des 100 tâches principales.</b></p>
+<ol>
+<li>Obtenir les prévisions météorologiques locales</li>
+<li>Obtenir un visa de visiteur</li>
+<li>Faire une demande d’immigration au Canada</li>
+<li>Obtenir les conditions maritimes</li>
+<li>Obtenir une AVE (autorisation de voyage électronique)</li>
+</ol>
+</figcaption>
+</div>
+</figure>
+
+<div class="clearfix"></div>
+
+[Voir les 100 tâches principales de Canada.ca](https://canada-ca.github.io/pages/taches-principales-canada-ca.html)
+
+## Les tâches principales sont le fondement de la conception de Canada.ca
+
+La gestion des tâches principales n’est pas nouvelle au gouvernement du Canada. En 2013, nous en avons dressé la première liste pour l’ensemble du gouvernement, en préparation de la conception de Canada.ca. Auparavant, certains ministères ont exploré la gestion des tâches principales sur leur site Web.
+
+Depuis, notre liste a été retravaillée trois fois. Chaque fois, la collecte de données et de tâches comparables est améliorée.
+
+## De quelle façon avons-nous dressé la liste
+
+Une méthode en trois étapes sert à dresser la liste des tâches principales de Canada.ca.
+
+### 1. La collecte de données sur les tâches principales
+
+Nous commençons par les organismes dont le contenu sur Canada.ca est le plus populaire. Voici certaines des sources :
+
+* Analytique Web et registres de recherche
+* Plans ministériels
+* Lettres de mandat (du premier ministre aux ministres du cabinet)
+* Rétroaction ou rapports des centres d’appels
+* Contribution des personnes qui gèrent des programmes
+* Contribution des employés qui travaillent auprès du public
+* Études ou enquêtes préalables
+
+#### Les défis de la collecte de données de diverses sources
+
+* <b>Comparabilité de l’analytique :</b>
+    * De nombreux outils sont utilisés, mais leur efficacité varie.
+    * Certains logiciels d’analytique gratuits utilisent seulement un échantillonnage des données des visites au lieu de tout consigner.
+    * D’autres font un suivi efficace, mais produisent de piètres rapports.
+* <b>Différence entre les visites et les pages consultées : </b>
+    * L’accomplissement d’une tâche par une personne réelle est mieux représenté par les visites que par les consultations de pages.	 
+    * Si une tâche requiert la consultation de plusieurs pages, les données sur la consultation de page finissent par gonfler chiffres.
+* <b>Différence entre les pages de départ et toutes les pages : </b>
+    * Des tâches requièrent la consultation de plusieurs pages, alors que d’autres, un seule.  
+    * Le trafic combiné de plusieurs pages nuit à la comparabilité.
+    * Il est donc important de définir une page de départ par tâche et d’en faire le suivi.
+
+### 2. L’analyse des tâches pour l’ensemble des ministères et le rang attribué à celles-ci
+
+Pour l’ensemble du gouvernement, les tâches fondamentales sont séparées des sous-tâches associées.
+
+Par exemple, « obtenir un passeport » est une tâche populaire. Cependant, pour atteindre l’objectif d’obtenir un passeport, il faut passer par nombre d’étapes. Ces étapes sont les « sous-tâches », par exemple :
+
+* Voir si vous êtes admissible à l’obtention d’un passeport.
+* Vérifier les exigences relatives aux photos de passeport.
+* Télécharger le formulaire de demande de passeport.
+
+Si vous étiez concepteur de contenu relatif aux passeports à un ministère ou un organisme, il vous faudrait faire le suivi de toutes ces sous-tâches. Mais, pour ce qui est de la liste des tâches principales, « Obtenir un passeport » comporte assez de détails pour gérer la tâche pour l’ensemble du gouvernement.
+
+La tâche aurait pu être « Passeports canadiens », mais elle n’aurait pas été une réponse adéquate à la question « Pourquoi visite-t-on le site? » Chaque tâche est formulée à partir d’un verbe, afin de rendre clairement ce que cherchent les personnes qui consultent le site.
+
+Une fois la liste des tâches fondamentales dressée, elles sont placées en ordre selon le nombre de visites de la page de départ. Ce classement nous donne une bonne idée de la fréquence réelle d’utilisation des tâches et continue de nous aider à déterminer où l’amélioration des tâches ferait le plus d’effet.
+
+### 3. La validation des tâches principales auprès des visiteurs du site Web
+
+Une fois les tâches déterminées, analysées et classées, elles sont validées auprès des visiteurs du site Web. Le motif de leur visite est demandé. Les visiteurs peuvent choisir une des tâches de la liste ou inscrire leur propre motif de consulter Canada.ca. Cette démarche est utile pour combler les lacunes et aide à confirmer que les tâches de la liste sont bien celles recherchées par les visiteurs.
+
+Au cours de la prochaine année, nous prévoyons peaufiner avec les ministères et les organismes ces sondages sur les tâches principales et optimiser notre approche en la matière.
+
+## Un point de mire sur les tâches principales peut contribuer à améliorer la prestation de service
+
+Beaucoup de personnes vont sur Canada.ca pour accomplir des tâches que nous pouvons soutenir en veillant à ce que notre contenu soit organisé, présenté et rédigé d’une façon qui convient pour les canaux numériques. Cela semble facile, mais il faut tenir compte de beaucoup d’éléments. Voir le Guide de rédaction et les Spécifications du contenu et l'architecture de l'information pour Canada.ca pour plus d’information.
+
+* [Spécifications sur le contenu et l'architecture de l'information du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html)
+* [Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
+
+Toutefois, dans certains cas, soutenir les tâches en ligne est beaucoup plus complexe, car cela nécessite de la technologie habilitante et une mise à jour de la loi. Quel que soit ce qui est nécessaire, déterminer vos tâches principales et évaluer la capacité des usagers de les accomplir est un bon moyen d’améliorer votre capacité à satisfaire aux besoins des Canadiens sur Canada.ca.
+
+## Nous voulons connaître votre opinion
+
+Dites-nous ce que vous pensez de la gestion des tâches principales, par courriel à l’adresse <information@tbs-sct.gc.ca> ou par Twitter en utilisant le mot-clic [#CanadaPointCA](https://twitter.com/search?q=%23CanadaPointCA).
+
+## Apprenez-en davantage sur les tâches principales
+
+* [100 tâches principales du gouvernement du Canada](https://canada-ca.github.io/pages/taches-principales-canada-ca.html).
+* [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) (en anglais ) de Gerry McGovern, décrit la valeur des tâches principales et la méthode de vote par sondage pour les valider.
+* [How to conduct a top task analysis](https://measuringu.com/top-tasks/) (en anglais) de Jeff Sauro, explore dans le détail l’analyse des données relatives aux tâches principales tirées de sondages, ainsi que les statistiques associées.

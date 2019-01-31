@@ -1,5 +1,0 @@
----
-title: "De quelle façon déterminons-nous les principales tâches pour Canada.ca"
-redirect_to:
-  - https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html
----
