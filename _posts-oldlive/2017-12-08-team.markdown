@@ -1,5 +1,0 @@
----
-title: About the Digital Transformation Office
-redirect_to:
-  - https://www.canada.ca/en/government/about/about-digital-transformation-office.html
----
