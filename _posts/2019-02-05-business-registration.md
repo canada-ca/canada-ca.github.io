@@ -11,7 +11,7 @@ alt: "Before and after screenshot of the Business Registration Online pages."
 description: "The Canada Revenue Agency (CRA) and the Treasury Board of Canada Secretariat (TBS) collaborated to simplify tasks for small businesses on Canada.ca. These tasks were chosen based on call volume data that let us to identify some of the most common reasons that people call to get help."
 ---
 
-**By Michelle McConnell, <abbr="Canada Revenue Agency">CRA</abbr>**
+**By Michelle McConnell, <abbr title="Canada Revenue Agency">CRA</abbr>**
 
 The Canada Revenue Agency (CRA) and the Treasury Board of Canada Secretariat (TBS) collaborated to simplify tasks for small businesses on Canada.ca.
 
@@ -24,7 +24,7 @@ We worked on:
 * Navigating the Business Registration Online (BRO) system
 
 
-These tasks were chosen based on call volume data that let us to identify some of the most common reasons that people call to get help. We were also interested in why small businesses called the <abbr="Canada Revenue Agency">CRA</abbr> instead of using Canada.ca, especially when all the information they need is available to them… or so we thought.
+These tasks were chosen based on call volume data that let us to identify some of the most common reasons that people call to get help. We were also interested in why small businesses called the <abbr title="Canada Revenue Agency">CRA</abbr> instead of using Canada.ca, especially when all the information they need is available to them… or so we thought.
 
 When we did usability testing on our webpages, we realized there was room for improvement. The architecture, the placement of words and links, the complex language, everything was derailing the user! We learned that the information wasn’t always easy to find.
 
@@ -35,7 +35,7 @@ Everyone, including the users, agreed that registering for a Canada Revenue Agen
 
 ## Benefits of the project for our taxpayers ##
 
-Together, <abbr="Canada Revenue Agency">CRA</abbr> and <abbr="Treasury Board of Canada Secretariat">TBS</abbr> redesigned the way information can be found on certain small business webpages. The changes increased the overall task success rate by 39 percentage points!
+Together, <abbr title="Canada Revenue Agency">CRA</abbr> and <abbr title="Treasury Board of Canada Secretariat">TBS</abbr> redesigned the way information can be found on certain small business webpages. The changes increased the overall task success rate by 39 percentage points!
 
 We did this by:
 
@@ -88,7 +88,7 @@ I find it ultimately always comes back to: how can we ensure we are meeting the 
 
 ## Lessons learned ##
 
-Working with TBS and the other teams in <abbr="Canada Revenue Agency">CRA</abbr> was an invaluable experience. As a program officer, I learned about the complexities of the web and how every little thing <abbr="Canada Revenue Agency">CRA</abbr> does is connected to a larger piece. I learned that small changes make a big difference. Everything we put on the web, how we write it, where we put it, what words we use, what tabs we use, how we link from page to page, all of it, affects the service we provide to Canadians. I know that <abbr="Canada Revenue Agency">CRA</abbr> is committed to ensuring the best taxpayer experience, and the joint content optimization project helped us do just that.
+Working with TBS and the other teams in <abbr title="Canada Revenue Agency">CRA</abbr> was an invaluable experience. As a program officer, I learned about the complexities of the web and how every little thing <abbr title="Canada Revenue Agency">CRA</abbr> does is connected to a larger piece. I learned that small changes make a big difference. Everything we put on the web, how we write it, where we put it, what words we use, what tabs we use, how we link from page to page, all of it, affects the service we provide to Canadians. I know that <abbr title="Canada Revenue Agency">CRA</abbr> is committed to ensuring the best taxpayer experience, and the joint content optimization project helped us do just that.
 
 
 ## We want to hear from you ##
