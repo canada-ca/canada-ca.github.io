@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Collaboration entre l’ARC et le SCT pour faciliter l’inscription des entreprises canadiennes"
+title:  "Collaboration pour faciliter l’inscription des entreprises canadiennes"
 pubdate: "5 février 2019"
 langpage: "https://blog.canada.ca/2018/03/05/business-registration.html"
 date:   2019-02-05

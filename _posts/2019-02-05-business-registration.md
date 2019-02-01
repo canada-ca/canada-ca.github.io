@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CRA and TBS collaborate to make business registration easier for Canadian business owners"
+title:  "Collaborating to make business registration easier for Canadian business owners"
 pubdate: "February 5, 2019"
 langpage: "https://blogue.canada.ca/2018/03/05/comptes-entreprises.html"
 date:   2019-02-05
