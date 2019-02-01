@@ -74,7 +74,7 @@ src="/images/comptes-entreprises/apres-BRO.jpg"/>
 </figure>
 
 
-## Incidence de ces changements sur mon travail d’agente de programme de l’<abbr title="Agence du revenu du Canada">ARC</abbr> ##
+## Incidence de ces changements sur mon travail d’agente de programme de l’ARC ##
 
 Tout au long de ce projet, il est devenu évident que les petits changements font une grande différence.
 
