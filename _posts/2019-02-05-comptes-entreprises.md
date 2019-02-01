@@ -11,7 +11,7 @@ alt: "Capture d'écran montrant la page « Inscription en direct des entreprises
 description: "L’Agence du revenu du Canada (ARC) et le Secrétariat du Conseil du Trésor du Canada (SCT) ont collaboré pour faciliter les tâches des petites entreprises sur Canada.ca. Ces tâches ont été choisies en fonction des données sur le volume d’appels qui nous ont permis de cerner certaines des raisons les plus courantes pour lesquelles les gens appellent pour obtenir de l’aide."
 ---
 
-**Par Michelle McConnell, ARC**
+**Par Michelle McConnell, <abbr title="Agence du revenu du Canada">ARC</abbr>**
 
 L’Agence du revenu du Canada (ARC) et le Secrétariat du Conseil du Trésor du Canada (SCT) ont collaboré pour faciliter les tâches des petites entreprises sur Canada.ca.
 
