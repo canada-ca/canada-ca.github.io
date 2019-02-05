@@ -24,7 +24,7 @@ We worked on:
 * Navigating the Business Registration Online (BRO) system
 
 
-These tasks were chosen based on call volume data that let us to identify some of the most common reasons that people call to get help. We were also interested in why small businesses called the <abbr title="Canada Revenue Agency">CRA</abbr> instead of using Canada.ca, especially when all the information they need is available to them… or so we thought.
+These tasks were chosen based on call volume data that led us to identify some of the most common reasons that people call to get help. We were also interested in why small businesses called the <abbr title="Canada Revenue Agency">CRA</abbr> instead of using Canada.ca, especially when all the information they need is available to them… or so we thought.
 
 When we did usability testing on our webpages, we realized there was room for improvement. The architecture, the placement of words and links, the complex language, everything was derailing the user! We learned that the information wasn’t always easy to find.
 
@@ -76,7 +76,7 @@ src="/images/business-account/after-BRO.jpg"/>
 
 Throughout this project it became clear that little changes make a big difference.
 
-Every time I write, I now asking myself:
+Every time I write, I now ask myself:
 
 * Who is the audience I’m writing this for?
 * What keywords should I use?
