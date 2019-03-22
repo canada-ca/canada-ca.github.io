@@ -49,12 +49,12 @@ This design update sets the stage for more frequent iterative improvements to Ca
 These include:
 
 * monitoring and evaluating performance, making further improvements where needed
-* working with several institutions to pilot application of the Canada.ca design to sites that are not on the MWS
+* working with several institutions to pilot application of the Canada.ca design to sites that are not on the <abbr title="Managed Web Service"> MWS</abbr>
 * updating specific patterns and templates in the <a href="https://www.canada.ca/en/government/about/design-system.html">Canada.ca design system</a>, based on what was learned from redesigning the home page
 
 In the coming months, we plan to:
 
-* establish targets and instructions for departments and agencies to apply the Canada.ca design across the GC web presence
+* establish targets and instructions for departments and agencies to apply the Canada.ca design across the <abbr title="Government of Canada">GC</abbr> web presence
 * develop design solutions for specialized situations beyond the scope of this update, such as quasi-judicial organizations, marketing and promotional campaigns, and transactional services
 * ensure continuous improvement of Canada.ca based on research and evidence, such as ideas generated from ongoing <a href="https://blog.canada.ca/pages/project-overview.html"content improvement projects</a>
 

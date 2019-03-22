@@ -1,106 +1,61 @@
 ---
 layout: post
-title:  "Collaboration pour faciliter l’inscription des entreprises canadiennes"
-pubdate: "5 février 2019"
-langpage: "https://blog.canada.ca/2018/03/05/business-registration.html"
-date:   2019-02-05
+title:  "Au sujet de la mise à jour de la conception de Canada.ca"
+pubdate: "22 mars 2019"
+langpage: "https://blog.canada.ca/2019/03/22/design-update.html"
+date:   2019-03-22
 published: true
 draft: true
 lang: fr
-alt: "Capture d'écran montrant la page « Inscription en direct des entreprises » avant et après."
-description: "L’Agence du revenu du Canada (ARC) et le Secrétariat du Conseil du Trésor du Canada (SCT) ont collaboré pour faciliter les tâches des petites entreprises sur Canada.ca. Ces tâches ont été choisies en fonction des données sur le volume d’appels qui nous ont permis de cerner certaines des raisons les plus courantes pour lesquelles les gens appellent pour obtenir de l’aide."
+alt: "Capture d'écran montrant la page « Accueil » avant et après."
+description: "Canada.ca n’avait pas fait l’objet d’une mise à jour importante depuis plus de cinq ans. En 2019, le Bureau de la transformation numérique a mené un exercice de modernisation et de simplification de la marque numérique de confiance, fondé sur des données probantes et des tests auprès de plus de 4 000 personnes."
 ---
+Nous avons récemment lancé une mise à jour du site Canada.ca. Nous souhaitons vous expliquer pourquoi nous avons effectué cette mise à jour et comment nous sommes arrivés où nous en sommes maintenant.
 
-**Par Michelle McConnell, <abbr title="Agence du revenu du Canada">ARC</abbr>**
+Canada.ca a été lancé en décembre 2013 en tant que site Web phare du gouvernement du Canada. Il sert de guichet unique pour les services et l’information provenant de l’ensemble de l’environnement fédéral. Il s’agit de la marque numérique de confiance du gouvernement pour les Canadiens et d’autres personnes à travers le monde.
 
-L’Agence du revenu du Canada (ARC) et le Secrétariat du Conseil du Trésor du Canada (SCT) ont collaboré pour faciliter les tâches des petites entreprises sur Canada.ca.
+Canada.ca n’avait pas fait l’objet d’une mise à jour importante depuis plus de cinq ans. En 2019, le Bureau de la transformation numérique a mené un exercice de modernisation et de simplification de la marque numérique de confiance, fondé sur des données probantes et des tests auprès de plus de 4 000 personnes.
 
-Nos travaux ont porté sur ce qui suit :
+## Nos priorités ##
 
-* l’obtention d’un numéro d’entreprise pour votre entreprise
-* l’inscription de votre entreprise auprès du gouvernement fédéral
-* l’obtention d’un compte de programme de l’<abbr title="Agence du revenu du Canada">ARC</abbr>
-* l’apport de changements à votre entreprise
-* la navigation dans le système d’inscription en direct des entreprises
+La mise à jour de la conception était axée sur le modèle standard de Canada.ca, soit des pages Web accessibles au public où l’on peut retrouver les services et l’information qu’offre le gouvernement du Canada. Ce site présente les éléments suivants :
 
+* un menu remanié qui met en évidence les sujets et les liens les plus demandés pour les 15 principales catégories du site;
+* une nouvelle page d’accueil qui sert de plaque tournante pour les tâches des utilisateurs à l’échelle du site Canada.ca;
+* nouvelle typographie et nouveaux caractères pour améliorer la lisibilité;
+* couleurs mises à jour avec un contraste amélioré;
 
-Ces tâches ont été choisies en fonction des données sur le volume d’appels qui nous ont permis de cerner certaines des raisons les plus courantes pour lesquelles les gens appellent pour obtenir de l’aide. Nous nous sommes également demandé pourquoi les petites entreprises communiquaient avec l’<abbr title="Agence du revenu du Canada">ARC</abbr> au lieu d’utiliser Canada.ca, surtout lorsque tous les renseignements dont elles ont besoin leur sont accessibles, du moins le pensions-nous.
+## Une conception fondée sur des données ##
 
-Lorsque nous avons fait des tests de convivialité sur nos pages Web, nous nous sommes rendu compte qu’on pouvait faire mieux. L’architecture, l’emplacement des mots et des liens, les formulations complexes, tout faisait en sorte de mêler l’utilisateur! Nous nous sommes rendu compte que l’information n’était pas toujours facile à trouver.
+Le <abbr title="Bureau de la transformation numérique">BTN</abbr> a interviewé 10 équipes de divers établissements pour comprendre les défis qu’elles doivent relever dans le cadre de conception de Canada.ca. Nous avons également dirigé des ateliers de conception auxquels ont participé des intervenants de 9 établissements. L’équipe de conception principale était composée de concepteurs talentueux de l’<abbr title="Agence du revenu du Canada">ARC</abbr>, d’<abbr title="Affaires mondiales Canada">AMC</abbr>, d’<abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr>, et de <abbr title="Services partagés Canada">SPC</abbr>, et la recherche et les tests étaient dirigés par le personnel du <abbr title="Bureau de la transformation numérique">BTN</abbr>. Nous avons fréquemment consulté les principaux intervenants tout au long du projet. En novembre 2018, nous avons consulté toute la communauté Web du <abbr title="gouvernement du Canada">GC</abbr> au sujet des prototypes de conception finale.
 
-Il y avait tellement de questions auxquelles nous devions répondre. Pourquoi les utilisateurs n’utilisaient-ils pas la voie évidente (à notre avis) pour trouver les renseignements? Pourquoi ont-ils cliqué là? Pourquoi n’ont-ils pas remarqué l’information dans le bloc de texte? Les gens ne comprenaient-ils pas les termes fiscaux précis ou le texte était-il trop complexe?
+Nous avons procédé à des tests et à des évaluations poussés de multiples itérations de la conception mise à jour :
 
-Tous, y compris les utilisateurs, étaient d’accord pour dire que l’inscription à un compte de programme de l’<abbr title="Agence du revenu du Canada">ARC</abbr> ne devrait pas être si difficile.
+* 80 tests de convivialité en ligne
+* 3 000 tests du premier clic
+* 1 400 tests d’impression et de perception
+* sept tests de suivi des yeux
 
+Dans l’ensemble, nous avons constaté que les participants étaient à l’aise d’utiliser la nouvelle page d’accueil et le nouveau menu. Ils percevaient la conception finale comme étant moderne, ouverte, utile et fiable. Comme nous l’avions prévu, lors de la navigation dans le prototype, la plupart des gens n'avaient aucun problème à cliquer sur les liens de la page. Ils ont seulement eu recours aux menus ou à la fonction de recherche s’ils ne trouvaient pas immédiatement ce qu’ils cherchaient.
 
+## Mise en œuvre et prochaines étapes ##
 
-## Avantages du projet pour nos contribuables ##
+Nous avons collaboré avec nos partenaires de mise en œuvre à Service Canada pour lancer la mise à jour de la conception de toutes les pages du Service Web géré (SWG), le 31 janvier 2019. Parmi ces partenaires se trouvaient notamment 18 organisations représentant environ 70 % de la demande de contenu Web à l’échelle du gouvernement du Canada.
 
-Ensemble, l’<abbr title="Agence du revenu du Canada">ARC</abbr> et le <abbr title="Secrétariat du Conseil du Trésor du Canada">SCT</abbr> ont remanié la façon de trouver l’information sur certaines pages Web de petites entreprises. Les changements ont augmenté le taux global de réussite des tâches de 39 points de pourcentage!
+Cette mise à jour de la conception ouvre la voie à des améliorations itératives plus fréquentes du site Canada.ca, en fonction de données concrètes. Maintenant que la conception mise à jour est en ligne, nous avons déjà amorcé les activités de suivi.
 
-Nous y sommes arrivés :
+Les voici :
 
-* en améliorant les pistes d’information par l’ajout de mots clés en termes simples dans les étiquettes
-* en regroupant l’information en pages « étape par étape » plus courtes, en fonction des tâches que les gens essaient d’exécuter
-* en réduisant et en simplifiant le texte
-* en créant un assistant simple pour donner aux utilisateurs une réponse précise sur l’endroit où envoyer leurs documents fiscaux par la poste
+* suivi et évaluation du rendement, incluant d'autres améliorations au besoin;
+* collaboration avec plusieurs établissements pour mettre à l’essai l’application du site Canada.ca relativement à des sites qui ne font pas partie de <abbr title="Service Web géré">SWG</abbr>;
+* mise à jour de modèles et configurations particuliers dans le <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"système de conception de Canada.ca</a> en fonction des leçons tirées de la refonte de la page d’accueil.
 
+Au cours des prochains mois, nous prévoyons :
 
-Voici un exemple de la façon dont nous avons réorganisé l’information :
-
-
-### Avant ###
-
-
- <br>
-<figure>
-<img class="img-responsive border" alt="Avant : Inscription en direct des entreprises."
- src="/images/comptes-entreprises/avant-BRO.jpg"/>
-<br>
-<figcaption><small>Tous les renseignements relatifs au programme d’inscription en direct des entreprises se trouvaient sur une seule page. Il y avait des liens d’ancrage au haut de la page, mais les utilisateurs perdaient le fil lorsqu’ils commençaient à défiler.</small></figcaption>
-<br>
-</figure>
-
-
-### Après ###
-
-<br>
-<figure>
-<img class="img-responsive border" alt="Après : Inscription en direct des entreprises."
-src="/images/comptes-entreprises/apres-BRO.jpg"/>
-<br>
-<figcaption><small>Comme l’information a été divisée en petites sections faciles à gérer, les utilisateurs pouvaient facilement parcourir l’information sur chaque page et trouver ce qu’ils cherchaient.</small></figcaption>
-<br>
-</figure>
-
-
-## Incidence de ces changements sur mon travail d’agente de programme de l’ARC ##
-
-Tout au long de ce projet, il est devenu évident que les petits changements font une grande différence.
-
-* Chaque fois que j’écris quelque chose, je me demande :
-* Pour qui suis-je en train d’écrire?
-* Quels mots clés dois-je utiliser?
-* Quels renseignements sont redondants, désuets ou insignifiants?
-* Comment le contribuable poserait-il cette question?
-* Cette information répond-elle aux besoins des contribuables dans l’exécution de leurs tâches?
-
-Au bout du compte, il faut toujours se demander comment nous pouvons nous assurer de respecter les normes les plus élevées possible pour la population canadienne.
-
-
-## Leçons retenues ##
-
-Travailler avec le SCT et les autres équipes de l’<abbr title="Agence du revenu du Canada">ARC</abbr> a été une expérience inestimable. En tant qu’agente de programme, j’ai appris les complexités du Web et la façon dont chaque petite chose que fait l’<abbr title="Agence du revenu du Canada">ARC</abbr> est liée à quelque chose de plus important. J’ai appris que les petits changements font toute la différence. Tout ce que nous affichons sur le Web, la façon dont nous l’écrivons, l’endroit où nous l’écrivons, les mots que nous utilisons, les onglets que nous utilisons, la façon dont nous établissons des liens d’une page à l’autre, tout cela a une incidence sur le service que nous offrons aux Canadiens et aux Canadiennes.
-Je sais que l’<abbr title="Agence du revenu du Canada">ARC</abbr> s’est engagée à offrir la meilleure expérience aux contribuables, et le projet commun d’optimisation du contenu nous a justement aidés à y arriver.
+* établir des objectifs et des instructions pour que les ministères et les organismes appliquent la conception de Canada.ca dans l’ensemble de la présence Web du <abbr title="gouvernement du Canada">GC</abbr>;
+* élaborer des solutions de conception pour des situations spécialisées dépassant la portée de la présente mise à jour, comme des organisations quasi judiciaires, des campagnes de marketing et de promotion et des services transactionnels;
+* assurer l’amélioration continue du site Canada.ca en fonction de la recherche et des données probantes, comme les idées générées par les <a href="https://blog.canada.ca/pages/project-overview.html">projets d’amélioration continue du contenu</a>
 
 
 ## Nous voulons connaître votre opinion ##
 Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courriel à l’adresse [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) ou sur Twitter en utilisant le mot-clic #Canadapointca.
-
-## Pour en savoir plus ##
-
-* [Résumé de projet : Inscription des entreprises et tenue des comptes – ARC ](https://blogue.canada.ca/resumes-recherche/comptes-entreprises-resume-recherche.html)
-
-## À propos de l’auteure ##
-
-Michelle McConnell est agente principale de programme par intérim à la Section des renseignements aux entreprises de l'Agence du revenu du Canada. Elle a occupé divers postes au sein de l’agence et se trouve maintenant à la Division des programmes de renseignements.
