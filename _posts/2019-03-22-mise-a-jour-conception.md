@@ -48,7 +48,7 @@ Les voici :
 
 * suivi et évaluation du rendement, incluant d'autres améliorations au besoin;
 * collaboration avec plusieurs établissements pour mettre à l’essai l’application du site Canada.ca relativement à des sites qui ne font pas partie de <abbr title="Service Web géré">SWG</abbr>;
-* mise à jour de modèles et configurations particuliers dans le <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"système de conception de Canada.ca</a> en fonction des leçons tirées de la refonte de la page d’accueil.
+* mise à jour de modèles et configurations particuliers dans le <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html">système de conception de Canada.ca</a> en fonction des leçons tirées de la refonte de la page d’accueil.
 
 Au cours des prochains mois, nous prévoyons :
 
