@@ -18,7 +18,7 @@ Canada.ca n’avait pas fait l’objet d’une mise à jour importante depuis pl
 
 ## Nos priorités ##
 
-La mise à jour de la conception était axée sur le modèle standard de Canada.ca, soit des pages Web accessibles au public où l’on peut retrouver les services et l’information qu’offre le gouvernement du Canada. Ce site présente les éléments suivants :
+La mise à jour de la conception était axée sur le modèle standard de Canada.ca, soit des pages Web accessibles au public où l’on retrouver les services et l’information. Ce site présente les éléments suivants :
 
 * un menu remanié qui met en évidence les sujets et les liens les plus demandés pour les 15 principales catégories du site;
 * une nouvelle page d’accueil qui sert de plaque tournante pour les tâches des utilisateurs à l’échelle du site Canada.ca;
@@ -27,7 +27,7 @@ La mise à jour de la conception était axée sur le modèle standard de Canada.
 
 ## Une conception fondée sur des données ##
 
-Le <abbr title="Bureau de la transformation numérique">BTN</abbr> a interviewé 10 équipes de divers établissements pour comprendre les défis qu’elles doivent relever dans le cadre de conception de Canada.ca. Nous avons également dirigé des ateliers de conception auxquels ont participé des intervenants de 9 établissements. L’équipe de conception principale était composée de concepteurs talentueux de l’<abbr title="Agence du revenu du Canada">ARC</abbr>, d’<abbr title="Affaires mondiales Canada">AMC</abbr>, d’<abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr>, et de <abbr title="Services partagés Canada">SPC</abbr>, et la recherche et les tests étaient dirigés par le personnel du <abbr title="Bureau de la transformation numérique">BTN</abbr>. Nous avons fréquemment consulté les principaux intervenants tout au long du projet. En novembre 2018, nous avons consulté toute la communauté Web du <abbr title="gouvernement du Canada">GC</abbr> au sujet des prototypes de conception finale.
+Le <abbr title="Bureau de la transformation numérique">BTN</abbr> a interviewé 10 équipes de divers établissements pour comprendre les défis qu’elles doivent relever dans le cadre de conception de Canada.ca. Nous avons également dirigé des ateliers de conception auxquels ont participé des intervenants de 9 établissements. L’équipe de conception principale comprenait des concepteurs talentueux de l’<abbr title="Agence du revenu du Canada">ARC</abbr>, d’<abbr title="Affaires mondiales Canada">AMC</abbr>, d’<abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr>, et de <abbr title="Services partagés Canada">SPC</abbr>, et la recherche et les tests étaient dirigés par le personnel du <abbr title="Bureau de la transformation numérique">BTN</abbr>. Nous avons fréquemment consulté les principaux intervenants tout au long du projet. En novembre 2018, nous avons consulté toute la communauté Web du <abbr title="gouvernement du Canada">GC</abbr> au sujet des prototypes de conception finale.
 
 Nous avons procédé à des tests et à des évaluations poussés de multiples itérations de la conception mise à jour :
 
