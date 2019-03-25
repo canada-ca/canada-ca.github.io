@@ -56,7 +56,7 @@ In the coming months, we plan to:
 
 * establish targets and instructions for departments and agencies to apply the Canada.ca design across the <abbr title="Government of Canada">GC</abbr> web presence
 * develop design solutions for specialized situations beyond the scope of this update, such as quasi-judicial organizations, marketing and promotional campaigns, and transactional services
-* ensure continuous improvement of Canada.ca based on research and evidence, such as ideas generated from ongoing <a href="https://blog.canada.ca/pages/project-overview.html"content improvement projects</a>
+* ensure continuous improvement of Canada.ca based on research and evidence, such as ideas generated from ongoing <a href="https://blog.canada.ca/pages/project-overview.html">content improvement projects</a>
 
 
 ## We want to hear from you ##
