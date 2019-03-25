@@ -19,7 +19,7 @@ Canada.ca hadn’t had a significant update to its design in over five years. In
 
 ## What we focused on ##
 
-The design update focused on the standard Canada.ca template — public-facing web pages that provide services and information from the Government of Canada. As such, it included the following elements:
+The design update focused on the standard Canada.ca template for public-facing web pages that provide services and information. As such, it included the following elements:
 
 * a reworked menu that highlights topics and most requested links for all 15 of the main site categories
 * a new home page that acts as a hub for user tasks across Canada.ca
@@ -29,7 +29,7 @@ The design update focused on the standard Canada.ca template — public-facing w
 
 ## Designing based on evidence ##
 
-The <abbr title="Digital Transformation Office">DTO</abbr> interviewed 10 teams from various institutions to understand their challenges working within the Canada.ca design framework. We also led design workshops involving stakeholders from 9 institutions. The core design team was comprised of talented designers from <abbr title="Canada Revenue Agency">CRA</abbr>, <abbr title="Global Affairs Canada">GAC</abbr>, <abbr title="Innovation, Science and Economic Development Canada">ISED</abbr> and <abbr title="Shared Services Canada">SSC</abbr>, with research and testing led by <abbr title="Digital Transformation Office">DTO</abbr> staff. We engaged key stakeholders frequently throughout the project. In November 2018, we consulted the entire <abbr title="Government of Canada">GC</abbr> web community on the final design prototypes.
+The <abbr title="Digital Transformation Office">DTO</abbr> interviewed 10 teams from various institutions to understand their challenges working within the Canada.ca design framework. We also led design workshops involving stakeholders from 9 institutions. The core design team included talented designers from <abbr title="Canada Revenue Agency">CRA</abbr>, <abbr title="Global Affairs Canada">GAC</abbr>, <abbr title="Innovation, Science and Economic Development Canada">ISED</abbr> and <abbr title="Shared Services Canada">SSC</abbr>, with research and testing led by <abbr title="Digital Transformation Office">DTO</abbr> staff. We engaged key stakeholders frequently throughout the project. In November 2018, we consulted the entire <abbr title="Government of Canada">GC</abbr> web community on the final design prototypes.
 
 We did extensive testing and evaluation of multiple iterations of the updated design:
 
@@ -50,7 +50,7 @@ These include:
 
 * monitoring and evaluating performance, making further improvements where needed
 * working with several institutions to pilot application of the Canada.ca design to sites that are not on the <abbr title="Managed Web Service"> MWS</abbr>
-* updating specific patterns and templates in the <a href="https://www.canada.ca/en/government/about/design-system.html">Canada.ca design system</a>, based on what was learned from redesigning the home page
+* updating specific patterns and templates in the <a href="https://www.canada.ca/en/government/about/design-system.html">Canada.ca design system</a>, based on what what we learned from redesigning the home page
 
 In the coming months, we plan to:
 
