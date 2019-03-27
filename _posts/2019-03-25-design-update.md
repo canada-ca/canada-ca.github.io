@@ -22,7 +22,7 @@ Canada.ca hadn’t had a significant update to its design in over five years. In
 src="/images/design-refresh/before-after-refresh.jpg"/>
 <br>
 <figcaption><small>A comparison of the old Canada.ca design (left) and the updated design (right).</small></figcaption>
-<br>
+
 </figure>
 
 ## What we focused on ##
