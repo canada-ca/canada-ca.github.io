@@ -18,7 +18,7 @@ Canada.ca n’avait pas fait l’objet d’une mise à jour importante depuis pl
 
 <figure>
 <img class="img-responsive border" alt="Image avant et après de la page d'accueil de Canada.ca"
-src="/images/design-refresh/avant-apres-conception.jpg"/>
+src="/images/mise-a-jour-conception/avant-apres-conception.jpg"/>
 
 <figcaption><small>Une comparaison de l'ancien modèle de Canada.ca (à gauche) et du nouveau modèle (à droite).</small></figcaption>
 
