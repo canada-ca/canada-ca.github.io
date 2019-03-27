@@ -20,7 +20,7 @@ Canada.ca hadn’t had a significant update to its design in over five years. In
 <figure>
 <img class="img-responsive border" alt="Before and after image of the Canada.ca homepage"
 src="/images/design-refresh/before-after-refresh.jpg"/>
-<br>
+
 <figcaption><small>A comparison of the old Canada.ca design (left) and the updated design (right).</small></figcaption>
 
 </figure>
