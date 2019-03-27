@@ -17,6 +17,9 @@ Canada.ca launched in December 2013 as the flagship website of the Government of
 
 Canada.ca hadn’t had a significant update to its design in over five years. In 2019, the Digital Transformation Office led an exercise to modernize and simplify the trusted digital brand, based on evidence and testing with over 4000 people.
 
+<img class="img-responsive border" alt="Before and after image of the Canada.ca homepage"
+src="/images/design-refresh/before-after-refresh.jpg"/>
+
 ## What we focused on ##
 
 The design update focused on the standard Canada.ca template for public-facing web pages that provide services and information. As such, it included the following elements:
