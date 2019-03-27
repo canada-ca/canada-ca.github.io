@@ -16,6 +16,14 @@ Canada.ca a été lancé en décembre 2013 en tant que site Web phare du gouvern
 
 Canada.ca n’avait pas fait l’objet d’une mise à jour importante depuis plus de cinq ans. En 2019, le Bureau de la transformation numérique a mené un exercice de modernisation et de simplification de la marque numérique de confiance, fondé sur des données probantes et des tests auprès de plus de 4 000 personnes.
 
+<figure>
+<img class="img-responsive border" alt="Image avant et après de la page d'accueil de Canada.ca"
+src="/images/design-refresh/before-after-refresh.jpg"/>
+
+<figcaption><small>Une comparaison de l'ancien modèle de Canada.ca (à gauche) et du nouveau modèle (à droite).</small></figcaption>
+
+</figure>
+
 ## Nos priorités ##
 
 La mise à jour de la conception était axée sur le modèle standard de Canada.ca, soit des pages Web accessibles au public où l’on retrouver les services et l’information. Ce site présente les éléments suivants :
