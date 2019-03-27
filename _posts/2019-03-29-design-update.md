@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "About the Canada.ca design update"
-pubdate: "March 25, 2019"
-langpage: "https://blogue.canada.ca/2019/03/25/mise-a-jour-conception.html"
-date:   2019-03-25
+pubdate: "March 29, 2019"
+langpage: "https://blogue.canada.ca/2019/03/29/mise-a-jour-conception.html"
+date:   2019-03-29
 published: true
 draft: true
 lang: en

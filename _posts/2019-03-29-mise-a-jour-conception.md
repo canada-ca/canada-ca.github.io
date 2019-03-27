@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Au sujet de la mise à jour de la conception de Canada.ca"
-pubdate: "25 mars 2019"
-langpage: "https://blog.canada.ca/2019/03/25/design-update.html"
-date:   2019-03-25
+pubdate: "29 mars 2019"
+langpage: "https://blog.canada.ca/2019/03/29/design-update.html"
+date:   2019-03-29
 published: true
 draft: true
 lang: fr
