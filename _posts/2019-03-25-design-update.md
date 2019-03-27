@@ -10,13 +10,6 @@ lang: en
 alt: "Before and after screenshot of the Canada.ca home page."
 description: "Canada.ca hadn’t had a significant update to its design in over five years. In 2019, the Digital Transformation Office led an exercise to modernize and simplify the trusted digital brand, based on evidence and testing with over 4000 people."
 ---
-<figure>
-<img class="img-responsive border" alt="Before and after image of the Canada.ca homepage"
-src="/images/design-refresh/before-after-refresh.jpg"/>
-
-<figcaption><small>A comparison of the old Canada.ca design (left) and the updated design (right).</small></figcaption>
-
-</figure>
 
 We recently launched an updated design for Canada.ca. We wanted to tell you a bit about why we made this update and what led to what you see now.
 
@@ -24,6 +17,13 @@ Canada.ca launched in December 2013 as the flagship website of the Government of
 
 Canada.ca hadn’t had a significant update to its design in over five years. In 2019, the Digital Transformation Office led an exercise to modernize and simplify the trusted digital brand, based on evidence and testing with over 4000 people.
 
+<figure>
+<img class="img-responsive border" alt="Before and after image of the Canada.ca homepage"
+src="/images/design-refresh/before-after-refresh.jpg"/>
+
+<figcaption><small>A comparison of the old Canada.ca design (left) and the updated design (right).</small></figcaption>
+
+</figure>
 
 ## What we focused on ##
 
