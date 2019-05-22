@@ -7,7 +7,7 @@ date:   2019-05-23
 published: true
 draft: true
 lang: fr
-alt: "Capture d'écran montrant la page « Accueil » avant et après."
+alt: "Capture d'écran montrant la page « Emplois au gouvernement du Canada » avant et après."
 description: "La Commission de la fonction publique a travaillé avec le Bureau de la transformation numérique (BTN) et d’autres partenaires au cours de l’été pour optimiser la tâche de trouver un emploi au gouvernement sur le site Web Canada.ca."
 ---
 
