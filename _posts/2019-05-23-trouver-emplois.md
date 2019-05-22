@@ -60,4 +60,4 @@ Faites-nous savoir ce que vous pensez de la gestion des tâches. Écrivez-nous p
 
 ## À propos de l’auteure
 
-Karen Nimblett est chef des services Web à la Commission de la fonction publique. Elle a commencé sa carrière au gouvernement comme conceptrice Web et dirige les travaux d’optimisation et d’amélioration de l’expérience utilisateur de son organisation. Elle aime la musique, la danse, le soccer et tout ce qui touche au numérique!
+<b>Karen Nimblett</b> est chef des services Web à la Commission de la fonction publique. Elle a commencé sa carrière au gouvernement comme conceptrice Web et dirige les travaux d’optimisation et d’amélioration de l’expérience utilisateur de son organisation. Elle aime la musique, la danse, le soccer et tout ce qui touche au numérique!
