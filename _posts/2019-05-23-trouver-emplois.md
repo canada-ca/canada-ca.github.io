@@ -38,12 +38,12 @@ La Commission de la fonction publique nous a tous aidés à comprendre le foncti
 Ensemble, nous avons examiné les changements qui pourraient être apportés aux pages thématiques « Emplois au gouvernement du Canada»  et « Emplois GC ».
 
 Comment mettre tout cela ensemble?
-* le consensus est que nous devrions supprimer le lien Guichet emplois du menu Emplois pour éviter toute confusion
-* nous avons révisé les liens d’accueil et les descriptions sur la page thématique « Trouver un emploi » et nous avons supprimé certains liens et descriptions qui ne fonctionnaient pas bien selon les analyses effectuées
-* nous avons révisé les liens d’accueil et les descriptions sur la page thématique « Emploi pour jeunes et étudiants » et nous avons supprimé certains liens et descriptions qui ne fonctionnaient pas bien d’après les analyses effectuées
-* nous avons supprimé la page thématique de GC Emplois et déplacé les liens d’accueil nécessaires vers la page thématique « Emplois au gouvernement du Canada », ce qui a permis d’éliminer quelques clics
-* des essais ont été effectués avec les codes de la CNP pour améliorer le repérage des emplois du gouvernement du Canada dans le Guichet emplois
-* des versions réaménagées de nos pages de recrutement ont été mises à l’essai
+* Le consensus est que nous devrions supprimer le lien Guichet emplois du menu Emplois pour éviter toute confusion.
+* Nous avons révisé les liens d’accueil et les descriptions sur la page thématique « Trouver un emploi » et nous avons supprimé certains liens et descriptions qui ne fonctionnaient pas bien selon les analyses effectuées.
+* Nous avons révisé les liens d’accueil et les descriptions sur la page thématique « Emploi pour jeunes et étudiants » et nous avons supprimé certains liens et descriptions qui ne fonctionnaient pas bien d’après les analyses effectuées.
+* Nous avons supprimé la page thématique de GC Emplois et déplacé les liens d’accueil nécessaires vers la page thématique « Emplois au gouvernement du Canada », ce qui a permis d’éliminer quelques clics.
+* Des essais ont été effectués avec les codes de la CNP pour améliorer le repérage des emplois du gouvernement du Canada dans le Guichet emplois.
+* Des versions réaménagées de nos pages de recrutement ont été mises à l’essai.
 
 ## Prochaines étapes
 
