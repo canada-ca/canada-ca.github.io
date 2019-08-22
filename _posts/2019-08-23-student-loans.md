@@ -144,5 +144,5 @@ Optimization projects are about connecting the lived experience of our users to 
 Let us know what you think. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
 
 ## Learn more
-* [Project summary: Student loans](https://blog.canada.ca/research-summaries/student-loans-research-summary.html)
-* [Project summary: EI Maternity/Parental](#)
+* [Research summary: Student loans](https://blog.canada.ca/research-summaries/student-loans-research-summary.html)
+* [Research summary: EI Maternity/Parental](#)
