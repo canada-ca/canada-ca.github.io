@@ -10,6 +10,15 @@ lang: en
 alt: "missing"
 description: "In the fall of 2018, the Digital Transformation Office (DTO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits."
 ---
+
+<style>
+figcaption {
+  font-size: 17px !important;
+  line-height: 1.5;
+  max-width: 80ch;
+}
+
+</style>
 In the fall of 2018, the Digital Transformation Office (DTO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits. Both projects involve top tasks that millions of Canadians seek to complete on Canada.ca regularly. Both projects produced evidence of simple content design principles that can greatly improve user success.
 
 ## 1. Remove layers, help people get answers faster
@@ -28,7 +37,7 @@ Getting a clearer understanding of the mental model your users have can help you
 <figure>
 <img class="img-responsive border" alt="needed."
  src="/images/student-loans/student-aid-grants.jpg"/>
-<figcaption><small>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</small></figcaption>
+<figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
 </figure>
 
 <details class="col-md-8">
@@ -65,7 +74,7 @@ The project team attacked this problem on two fronts. First, we made an estimato
 <figure>
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/ei-benefits-before.jpg"/>
-<figcaption><small>"People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</small></figcaption>
+<figcaption>People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</figcaption>
 </figure>
 
 <details class="col-md-8">
@@ -80,7 +89,7 @@ Detailed description
 <figure>
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
-<figcaption><small>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</small></figcaption>
+<figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
 </figure>
 
 <details class="col-md-8">
@@ -106,7 +115,7 @@ Simplifying content doesn’t only apply to the words on a page. If people are l
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/numbers.jpg"/>
 <br>
-<figcaption><small>Clear, simple statements of facts are far more successful</small></figcaption>
+<figcaption>Clear, simple statements of facts are far more successful</figcaption>
 <br>
 </figure>
 
