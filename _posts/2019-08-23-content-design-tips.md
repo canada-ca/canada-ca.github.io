@@ -38,7 +38,7 @@ One of the challenges of the Student loans project was the way content for grant
 Getting a clearer understanding of the mental model your users have can help you group content appropriately. Challenge internal departmental silos. While these help divide the work of managing specific programs, they often complicate the user journey. Service design requires us to talk to colleagues beyond our own teams and to walk in our users’ shoes so we can design elegant user journeys that simply make sense.
 
 <figure>
-<img class="img-responsive border" alt="needed."
+<img class="img-responsive border" alt="Before and after web page for student loans."
  src="/images/student-loans/student-aid-grants.jpg"/>
 <figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
 </figure>
@@ -75,13 +75,13 @@ The project team attacked this problem on two fronts. First, we made an estimato
 ### People don't math
 
 <figure>
-<img class="img-responsive border" alt="Before page for the number of weeks"
+<img class="img-responsive border" alt="Before page for the number of benefit weeks"
  src="/images/ei-mat-benefits/ei-benefits-before.jpg"/>
 <figcaption>People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</figcaption>
 </figure>
 
 <figure>
-<img class="img-responsive border" alt="After page for the number of weeks"
+<img class="img-responsive border" alt="After page for the number of benefit weeks"
  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
 <figcaption>Showing a formula people can use and relate to helps them do the math.</figcaption>
 </figure>
@@ -105,7 +105,7 @@ Simplifying content doesn’t only apply to the words on a page. If people are l
 ### Too many numbers equals overload
 
 <figure>
-<img class="img-responsive border" alt="needed."
+<img class="img-responsive border" alt="Before and after benefits page"
  src="/images/ei-mat-benefits/numbers.jpg"/>
 
 <figcaption>Clear, simple statements of facts are far more successful</figcaption>
