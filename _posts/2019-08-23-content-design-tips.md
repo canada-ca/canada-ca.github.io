@@ -2,7 +2,7 @@
 layout: post
 title:  "Six content design tips from our Student loans and Parental benefits optimization projects"
 pubdate: "August 23, 2019"
-langpage: "https://blogue.canada.ca/2019/05/23/trouver-emploi.html"
+langpage: "https://blogue.canada.ca/2019/08/23/astuces-conception-contentu.html"
 date:   2019-08-23
 published: true
 draft: true
@@ -97,7 +97,7 @@ Detailed description
 
 <br>
 
-## Use numbers sparingly
+## 5. Use numbers sparingly
 People find numbers on websites hard to digest. On this project we found many content pages peppered with numbers. Numbers of weeks, benefit rates, qualifying periods, dollar amounts, and numbered footnotes. On one important answer page we counted 30 different numbers in just 3 paragraphs of text.
 
 Simplifying content doesn’t only apply to the words on a page. If people are looking for the answer to a “how much” question, they gravitate to the first or the biggest number they see. If content is riddled with numbers, task success is very inconsistent. Too many numbers confuse people. Be very careful how you use them. Clear, simple statements of facts with minimal numbers make for more consistent success rates.
