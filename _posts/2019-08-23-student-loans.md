@@ -89,7 +89,8 @@ Detailed description
 
 </details>
 
-<figure class="mrgn-tp-lg">
+<p><br></p>
+<figure>
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
 <figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
