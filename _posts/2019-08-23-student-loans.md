@@ -29,14 +29,12 @@ Getting a clearer understanding of the mental model your users have can help you
 <img class="img-responsive border" alt="needed."
  src="/images/student-loans/student-aid-grants.jpg"/>
 <figcaption><small>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</small></figcaption>
-<br>
 </figure>
 
-<details>
+<details class="col-md-8">
 <summary>
 Detailed description
 </summary>
-<br>
 
 <p>There are images of the original Student loans page and the Student grants from the baseline round of testing. A green arrow points from them to the prototype version of the same content. The prototype version is called Student aid. At the top of the page is the subheading: Student grants and loans. Below this are 3 linked options:</p>
 
@@ -47,6 +45,7 @@ Detailed description
 </ol>
 
 </details>
+<br>
 
 ## 3. Use evidence to design language
 
@@ -67,14 +66,12 @@ The project team attacked this problem on two fronts. First, we made an estimato
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/ei-benefits-before.jpg"/>
 <figcaption><small>"People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</small></figcaption>
-<br>
 </figure>
 
 <details class="col-md-8">
 <summary>
 Detailed description
 </summary>
-<br>
 
 <p>The baseline image shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of EI maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks. </p>
 
@@ -84,7 +81,6 @@ Detailed description
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
 <figcaption><small>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</small></figcaption>
-<br>
 </figure>
 
 <details class="col-md-8">
@@ -96,6 +92,8 @@ Detailed description
 <p>The validation image from the prototype version of the same content. There is green highlighting around a simple math equation. The equation shows 15 weeks maternity plus 61 weeks of extended parental equals 76 weeks total for Janelle. </p>
 
 </details>
+
+<br>
 
 ## Use numbers sparingly
 People find numbers on websites hard to digest. On this project we found many content pages peppered with numbers. Numbers of weeks, benefit rates, qualifying periods, dollar amounts, and numbered footnotes. On one important answer page we counted 30 different numbers in just 3 paragraphs of text.
