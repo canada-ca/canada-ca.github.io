@@ -92,9 +92,8 @@ The project team attacked this problem on two fronts. First, we made an estimato
 <summary>
 Detailed description
 </summary>
-<p>The baseline image shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of EI maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks.</p>
-
-<p>The validation image from the prototype version of the same content. There is green highlighting around a simple math equation. The equation shows 15 weeks maternity plus 61 weeks of extended parental equals 76 weeks total for Janelle. </p>
+<p>It first shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of EI maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks.</p>
+<p>Below this is a second image from the prototype version of the same content. There is green highlighting around a simple math equation. The equation shows 15 weeks maternity plus 61 weeks of extended parental equals 76 weeks total for Janelle. </p>
 
 </details>
 
