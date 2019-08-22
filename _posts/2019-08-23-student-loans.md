@@ -86,6 +86,7 @@ Detailed description
 
 </details>
 
+<br>
 <figure>
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
