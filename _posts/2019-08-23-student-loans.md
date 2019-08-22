@@ -80,8 +80,6 @@ The project team attacked this problem on two fronts. First, we made an estimato
 <figcaption>People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</figcaption>
 </figure>
 
-
-<p><br></p>
 <figure>
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
