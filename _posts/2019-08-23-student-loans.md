@@ -114,21 +114,20 @@ Simplifying content doesn’t only apply to the words on a page. If people are l
 <figure>
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/numbers.jpg"/>
-<br>
+
 <figcaption>Clear, simple statements of facts are far more successful</figcaption>
-<br>
 </figure>
 
 <details class="col-md-8">
 <summary>
 Detailed description
 </summary>
-<br>
 
 <p>On the left is a screenshot of three dense paragraphs of text from the original content. There are red boxes drawn around each of 30 numbers included in the text. A green arrow points to two screenshots on the right of the redesigned content in the prototype. Under the heading "Special circumstances" is a small paragraph of text in an expand/collapse field. A green box highlights a simple sentence with a link to EI sickness benefits. Below this is a second heading: Eligibility. This has a similar expand/collapse field with a similar small paragraph of text. Again, a green box indicates the same information with a link to EI sickness benefits. Below everything is a green box indicating that these changes improved results 58 percentage points.</p>
 
 </details>
 
+<br>
 ## 6. Put answers where people look for them
 
 This is advice we repeat in almost every optimization project. It seems so simple, but it’s not always obvious. Our own deep understanding of our subject matter can get in the way. What’s obvious to us doesn’t always match how our users think and navigate. In the EI parental benefits project, one of our tasks asked whether a mother has to use her maternity leave if she becomes ill and must stop working before her baby is born. The answer is no, she can apply for EI sickness benefits. In our baseline testing this task had only a 22% success rate. We saw what we call “pogo-sticking.” People bounced from one page to another, trying to figure out where to find the answer. None of the page titles provided a clear scent of information for this scenario.
