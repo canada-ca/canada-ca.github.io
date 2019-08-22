@@ -7,8 +7,8 @@ date:   2019-08-23
 published: true
 draft: true
 lang: en
-alt: "Before and after screenshot of Government of Canada jobs page"
-description: "The Public Service Commission worked with the Digital Transformation Office (DTO) and other partners over the summer to optimize the task of finding a government job on the Canada.ca website."
+alt: "missing"
+description: "In the fall of 2018, the Digital Transformation Office (DTO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits."
 ---
 In the fall of 2018, the Digital Transformation Office (DTO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits. Both projects involve top tasks that millions of Canadians seek to complete on Canada.ca regularly. Both projects produced evidence of simple content design principles that can greatly improve user success.
 
