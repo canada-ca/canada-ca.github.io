@@ -21,6 +21,7 @@ figcaption {
 }
 
 </style>
+
 In the fall of 2018, the Digital Transformation Office (DTO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits. Both projects involve top tasks that millions of Canadians seek to complete on Canada.ca regularly. Both projects produced evidence of simple content design principles that can greatly improve user success.
 
 ## 1. Remove layers, help people get answers faster
@@ -88,8 +89,7 @@ Detailed description
 
 </details>
 
-<br>
-<figure>
+<figure class="mrgn-tp-lg">
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
 <figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
