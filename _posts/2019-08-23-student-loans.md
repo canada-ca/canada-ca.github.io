@@ -70,7 +70,7 @@ The project team attacked this problem on two fronts. First, we made an estimato
 <br>
 </figure>
 
-<details>
+<details class="col-md-8">
 <summary>
 Detailed description
 </summary>
@@ -87,7 +87,7 @@ Detailed description
 <br>
 </figure>
 
-<details>
+<details class="col-md-8">
 <summary>
 Detailed description
 </summary>
@@ -112,7 +112,7 @@ Simplifying content doesn’t only apply to the words on a page. If people are l
 <br>
 </figure>
 
-<details>
+<details class="col-md-8">
 <summary>
 Detailed description
 </summary>
