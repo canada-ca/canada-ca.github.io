@@ -16,6 +16,7 @@ figcaption {
   font-size: 17px !important;
   line-height: 1.5;
   max-width: 80ch;
+  padding-bottom: 10px;
 }
 
 </style>
