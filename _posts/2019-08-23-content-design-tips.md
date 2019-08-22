@@ -75,15 +75,15 @@ The project team attacked this problem on two fronts. First, we made an estimato
 ### People don't math
 
 <figure>
-<img class="img-responsive border" alt="needed."
+<img class="img-responsive border" alt="Before page for the number of weeks"
  src="/images/ei-mat-benefits/ei-benefits-before.jpg"/>
 <figcaption>People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</figcaption>
 </figure>
 
 <figure>
-<img class="img-responsive border" alt="needed."
+<img class="img-responsive border" alt="After page for the number of weeks"
  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
-<figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
+<figcaption>Showing a formula people can use and relate to helps them do the math.</figcaption>
 </figure>
 
 <details class="col-md-8">
