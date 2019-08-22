@@ -80,14 +80,6 @@ The project team attacked this problem on two fronts. First, we made an estimato
 <figcaption>People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</figcaption>
 </figure>
 
-<details class="col-md-8">
-<summary>
-Detailed description
-</summary>
-
-<p>The baseline image shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of EI maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks. </p>
-
-</details>
 
 <p><br></p>
 <figure>
@@ -100,7 +92,7 @@ Detailed description
 <summary>
 Detailed description
 </summary>
-<br>
+<p>The baseline image shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of EI maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks.</p>
 
 <p>The validation image from the prototype version of the same content. There is green highlighting around a simple math equation. The equation shows 15 weeks maternity plus 61 weeks of extended parental equals 76 weeks total for Janelle. </p>
 
