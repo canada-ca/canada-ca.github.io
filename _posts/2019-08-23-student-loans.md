@@ -59,7 +59,7 @@ We often forget that people beyond our own teams don’t work with our lingo on 
 
 In the first round of our EI maternity project, only 5% of participants were able to correctly calculate the maximum amount of paid leave a mother could take after giving birth. The content had all the numbers you needed, but people struggled with how to put them together. A note pad, pencil and arithmetic skills were required to figure out the basic question every parent is asking: “How long can I stay home with my baby?”
 
-The project team attacked this problem on two fronts. First, we made an estimator using an interactive wizard pattern. This let people enter some basic data and get an estimate of the number of weeks and the amount of money they could expect. For those who prefer to see an overview of the options, we took the numbers out of paragraphs and created a simple table. That let people see at a glance the weeks, benefit rates and related dollar amounts for each benefit option. Below the table, we included 2 examples that illustrated how to do the addition. Showing people how to do the math and giving them a tool to help them do it increased task success for this question by 74 percentage points. (psst…5% + 74 points = 79% success).
+The project team attacked this problem on two fronts. First, we made an estimator using an [interactive wizard pattern](https://design.canada.ca/common-design-patterns/interactive-questions.html). This let people enter some basic data and get an estimate of the number of weeks and the amount of money they could expect. For those who prefer to see an overview of the options, we took the numbers out of paragraphs and created a simple table. That let people see at a glance the weeks, benefit rates and related dollar amounts for each benefit option. Below the table, we included 2 examples that illustrated how to do the addition. Showing people how to do the math and giving them a tool to help them do it increased task success for this question by 74 percentage points. (psst…5% + 74 points = 79% success).
 
 
 ### People don't math
@@ -131,10 +131,8 @@ This is advice we repeat in almost every optimization project. It seems so simpl
 
 In the prototype, the project team introduced a page called “Special circumstances” and moved the answer to this new page. The majority of participants in the validation round went to this page to solve the task. It fit their mental model. We also looked at our baseline data to understand where else people might look. We saw that the eligibility page had been the most popular. So we also put the answer there in our prototype. With these two changes, success for this task soared to 80% in our validation round.
 
-
 ## Final word
 Optimization projects are about connecting the lived experience of our users to how we design our content. Having a deeper understanding of how people navigate and consume our content gives us important insights. When applied to content design, these insights help us provide better services to Canadians.
-
 
 ## We want to hear from you
 Let us know what you think. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
