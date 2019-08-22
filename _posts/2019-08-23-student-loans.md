@@ -28,7 +28,6 @@ Getting a clearer understanding of the mental model your users have can help you
 <figure>
 <img class="img-responsive border" alt="needed."
  src="/images/student-loans/student-aid-grants.jpg"/>
-<br>
 <figcaption><small>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</small></figcaption>
 <br>
 </figure>
@@ -67,7 +66,6 @@ The project team attacked this problem on two fronts. First, we made an estimato
 <figure>
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/ei-benefits-before.jpg"/>
-<br>
 <figcaption><small>"People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</small></figcaption>
 <br>
 </figure>
@@ -85,7 +83,6 @@ Detailed description
 <figure>
 <img class="img-responsive border" alt="needed."
  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
-<br>
 <figcaption><small>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</small></figcaption>
 <br>
 </figure>
