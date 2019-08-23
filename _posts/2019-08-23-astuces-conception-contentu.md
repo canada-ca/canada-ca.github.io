@@ -143,4 +143,4 @@ Dites-nous ce que vous en pensez. Communiquez avec nous par courriel à <span cl
 
 ## Pour en apprendre davantage
 * [Résumé de projet : Prêts étudiants](https://blogue.canada.ca/resumes-recherche/prets-etudiants-resume-recherche.html)
-* [Résumé de projet : Prestations parentales et de maternité de l’AE](#)
+* [Résumé de projet : Prestations parentales et de maternité de l’AE](https://blogue.canada.ca/resumes-recherche/maternite-parentales-resume-recherche.html)
