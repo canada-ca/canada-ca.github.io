@@ -107,7 +107,7 @@ Description détaillée
 
 Les gens ont de la difficulté à assimiler les chiffres sur les sites Web. On a trouvé dans le cadre de ce projet beaucoup de pages de contenu semées de chiffres. Nombre de semaines, taux de prestation, périodes d’admissibilité, montants en dollars et notes de bas de page numérotées. Tout particulièrement, nous avons compté 30 nombres différents dans seulement 3 paragraphes de texte, dans l’une des pages de réponse.
 
-La simplification du contenu ne se l’imite pas aux mots d’une page. Lorsque les gens cherchent des réponses pour une question commençant par « combien », ils ont tendance à porter leur attention au premier ou au plus gros nombre qu’ils voient. Lorsque le contenu est parsemé de nombres, le taux de réussite devient très inconstant. Les gens deviennent perplexes devant un grand nombre de chiffres. Faites très attention à la façon dont vous les utilisez. Des énoncés de fait simples et clairs comportant un minimum de chiffres entraîneront des taux de réussite plus constants.
+La simplification du contenu ne se limite pas aux mots d’une page. Lorsque les gens cherchent des réponses pour une question commençant par « combien », ils ont tendance à porter leur attention au premier ou au plus gros nombre qu’ils voient. Lorsque le contenu est parsemé de nombres, le taux de réussite devient très inconstant. Les gens deviennent perplexes devant un grand nombre de chiffres. Faites très attention à la façon dont vous les utilisez. Des énoncés de fait simples et clairs comportant un minimum de chiffres entraîneront des taux de réussite plus constants.
 
 
 ### Trop de chiffres entraînent la surcharge
