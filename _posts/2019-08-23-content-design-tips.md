@@ -75,13 +75,13 @@ The project team attacked this problem on two fronts. First, we made an estimato
 ### People don't math
 
 <figure>
-<img class="img-responsive border" alt="Before page for the number of benefit weeks"
+<img class="img-responsive border" alt="Before page for the number of benefit weeks."
  src="/images/ei-mat-benefits/ei-benefits-before.jpg"/>
 <figcaption>People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</figcaption>
 </figure>
 
 <figure>
-<img class="img-responsive border" alt="After page for the number of benefit weeks"
+<img class="img-responsive border" alt="After page for the number of benefit weeks."
  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
 <figcaption>Showing a formula people can use and relate to helps them do the math.</figcaption>
 </figure>
@@ -105,7 +105,7 @@ Simplifying content doesn’t only apply to the words on a page. If people are l
 ### Too many numbers equals overload
 
 <figure>
-<img class="img-responsive border" alt="Before and after benefits page"
+<img class="img-responsive border" alt="Before and after benefits page."
  src="/images/ei-mat-benefits/numbers.jpg"/>
 
 <figcaption>Clear, simple statements of facts are far more successful</figcaption>
