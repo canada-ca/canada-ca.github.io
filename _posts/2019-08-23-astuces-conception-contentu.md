@@ -32,12 +32,12 @@ En automne 2018, le Bureau de la transformation numérique a collaboré avec des
 
 Bien que le gouvernement du Canada soit responsable de financer les prêts étudiants, ce sont les provinces et les territoires qui les gèrent. Les étudiants utilisent les sites provinciaux pour y présenter leurs demandes. Ils ont seulement besoin d’interagir avec le gouvernement fédéral lorsque vient le temps de rembourser ces prêts. Le site Canada.ca avait plusieurs pages servant à décrire les différents programmes de financement. L’équipe de projet a épuré ces pages en vue de créer des parcours clairs vers le contenu pertinent se trouvant sur les sites provinciaux et le site du Centre de service national de prêts aux étudiants. L’élimination des pages non nécessaires a permis d’écourter les parcours menant aux réponses. En moyenne, les participants ont eu à effectuer trois cliques de moins pour arriver au contenu de destination de notre prototype restructuré.
 
-La répétition de renseignements gérés par d’autres organisations peut entraîner la surcharge du contenu. Il devient alors plus difficile pour les utilisateurs de trouver ce qu’ils cherchent. La création de « portes de sortie » explicites, lorsque possible, et la réduction du désordre et du bruit entraînent une augmentation du taux de réussite des utilisateurs.
+La répétition de renseignements gérés par d’autres organisations peut entraîner la surcharge du contenu. Il devient alors plus difficile pour les utilisateurs de trouver ce qu’ils cherchent. La création de <span class="nobreak">« portes de sortie »</span> explicites, lorsque possible, et la réduction du désordre et du bruit entraînent une augmentation du taux de réussite des utilisateurs.
 
 
 ## 2. Regrouper le contenu en fonction des tâches et non en fonction de l’équipe responsable de le gérer
 
-L’une des difficultés liées au projet sur les prêts étudiants découlait de la façon dont le contenu était divisé pour les subventions et les prêts. Comme différentes équipes de programme géraient ce contenu, l’information était répartie sur différentes pages du site. Cette division n’avait cependant aucun sens aux yeux des étudiants. Ceux-ci demandent leurs prêts et bourses au moyen d’un seul formulaire. Dans le prototype restructuré, l’équipe de projet a combiné les prêts et les bourses en une seule page de sujet. Le parcours et le processus s’en sont retrouvés beaucoup plus simples.
+L’une des difficultés liées au projet sur les prêts étudiants découlait de la façon dont le contenu était divisé pour les bourses et les prêts. Comme différentes équipes de programme géraient ce contenu, l’information était répartie sur différentes pages du site. Cette division n’avait cependant aucun sens aux yeux des étudiants. Ceux-ci demandent leurs prêts et bourses au moyen d’un seul formulaire. Dans le prototype restructuré, l’équipe de projet a combiné les prêts et les bourses en une seule page de sujet. Le parcours et le processus s’en sont retrouvés beaucoup plus simples.
 
 
 Obtenir une compréhension plus éclairée du modèle mental de vos utilisateurs vous aidera à regrouper le contenu de façon plus appropriée. Brisez les silos internes ministériels. Même si ces silos facilitent la division du travail dans la gestion de certains programmes, ils ne font que rendre le parcours de l’utilisateur plus compliqué. La conception de services exige que nous discutons avec des collègues au-delà de nos propres équipes et se mettre à la place des utilisateurs, afin de concevoir un parcours de l’utilisateur élégant et sensé.
@@ -46,7 +46,7 @@ Obtenir une compréhension plus éclairée du modèle mental de vos utilisateurs
 <figure>
 <img class="img-responsive border" alt="La page Web pour les prêts étudiants avant et après."
  src="/images/prets-etudiants/pret-subvention-etudiants.jpg"/>
-<figcaption>Le regroupement des prêts et des subventions a permis de rendre le parcours beaucoup plus clair. Résultat : une charge cognitive moins importante et un plus grand taux de réussite pour les utilisateurs.</figcaption>
+<figcaption>Le regroupement des prêts et des bourses a permis de rendre le parcours beaucoup plus clair. Résultat : une charge cognitive moins importante et un plus grand taux de réussite pour les utilisateurs.</figcaption>
 </figure>
 
 <details class="col-md-8">
@@ -54,10 +54,10 @@ Obtenir une compréhension plus éclairée du modèle mental de vos utilisateurs
 Description détaillée
 </summary>
 
-<p>Il y a des captures d’écran de la page originale Prêts aux étudiants et Subventions aux étudiants, prises lors de la ronde de référence. Une flèche verte pointe vers le contenu équivalent de la version prototype. La version prototype est intitulée Aide aux étudiants. On trouve au haut de la page le sous-titre « Subventions et prêts aux étudiants ». Le sous-titre est suivi de trois liens :</p>
+<p>Il y a des captures d’écran de la page originale Prêts aux étudiants et Subventions aux étudiants, prises lors de la ronde de référence. Une flèche verte pointe vers le contenu équivalent de la version prototype. La version prototype est intitulée Aide aux étudiants. On trouve au haut de la page le sous-titre « Bourses et prêts aux étudiants ». Le sous-titre est suivi de trois liens :</p>
 
 <ol>
-<li>Faire une demande de subventions et de prêts d’études</li>
+<li>Faire une demande de bourses et de prêts d’études</li>
 <li>Gérer votre prêt au CSNPE</li>
 <li>Rembourser votre prêt d’études</li>
 </ol>
