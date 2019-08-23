@@ -21,7 +21,7 @@ figcaption {
 }
 
 .nobreak {
-  white-space: no-wrap;
+  white-space: no-wrap !important;
 }
 </style>
 

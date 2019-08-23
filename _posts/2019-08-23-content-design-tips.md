@@ -67,7 +67,7 @@ We often forget that people beyond our own teams don’t work with our lingo on 
 
 ## 4. Don’t make people do math
 
-In the first round of our EI maternity project, only 5% of participants were able to correctly calculate the maximum amount of paid leave a mother could take after giving birth. The content had all the numbers you needed, but people struggled with how to put them together. A note pad, pencil and arithmetic skills were required to figure out the basic question every parent is asking: “How long can I stay home with my baby?”
+In the first round of our <abbr title="Employment Insurance">EI</abbr> maternity project, only 5% of participants were able to correctly calculate the maximum amount of paid leave a mother could take after giving birth. The content had all the numbers you needed, but people struggled with how to put them together. A note pad, pencil and arithmetic skills were required to figure out the basic question every parent is asking: “How long can I stay home with my baby?”
 
 The project team attacked this problem on two fronts. First, we made an estimator using an [interactive wizard pattern](https://design.canada.ca/common-design-patterns/interactive-questions.html). This let people enter some basic data and get an estimate of the number of weeks and the amount of money they could expect. For those who prefer to see an overview of the options, we took the numbers out of paragraphs and created a simple table. That let people see at a glance the weeks, benefit rates and related dollar amounts for each benefit option. Below the table, we included 2 examples that illustrated how to do the addition. Showing people how to do the math and giving them a tool to help them do it increased task success for this question by 74 percentage points. (psst…5% + 74 points = 79% success).
 
@@ -90,7 +90,7 @@ The project team attacked this problem on two fronts. First, we made an estimato
 <summary>
 Detailed description
 </summary>
-<p>It first shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of EI maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks.</p>
+<p>It first shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of <abbr title="Employment Insurance">EI</abbr> maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks.</p>
 <p>Below this is a second image from the prototype version of the same content. There is green highlighting around a simple math equation. The equation shows 15 weeks maternity plus 61 weeks of extended parental equals 76 weeks total for Janelle. </p>
 
 </details>
@@ -116,14 +116,14 @@ Simplifying content doesn’t only apply to the words on a page. If people are l
 Detailed description
 </summary>
 
-<p>On the left is a screenshot of three dense paragraphs of text from the original content. There are red boxes drawn around each of 30 numbers included in the text. A green arrow points to two screenshots on the right of the redesigned content in the prototype. Under the heading "Special circumstances" is a small paragraph of text in an expand/collapse field. A green box highlights a simple sentence with a link to EI sickness benefits. Below this is a second heading: Eligibility. This has a similar expand/collapse field with a similar small paragraph of text. Again, a green box indicates the same information with a link to EI sickness benefits. Below everything is a green box indicating that these changes improved results 58 percentage points.</p>
+<p>On the left is a screenshot of three dense paragraphs of text from the original content. There are red boxes drawn around each of 30 numbers included in the text. A green arrow points to two screenshots on the right of the redesigned content in the prototype. Under the heading "Special circumstances" is a small paragraph of text in an expand/collapse field. A green box highlights a simple sentence with a link to <abbr title="Employment Insurance">EI</abbr> sickness benefits. Below this is a second heading: Eligibility. This has a similar expand/collapse field with a similar small paragraph of text. Again, a green box indicates the same information with a link to <abbr title="Employment Insurance">EI</abbr> sickness benefits. Below everything is a green box indicating that these changes improved results 58 percentage points.</p>
 
 </details>
 
 <br>
 ## 6. Put answers where people look for them
 
-This is advice we repeat in almost every optimization project. It seems so simple, but it’s not always obvious. Our own deep understanding of our subject matter can get in the way. What’s obvious to us doesn’t always match how our users think and navigate. In the EI parental benefits project, one of our tasks asked whether a mother has to use her maternity leave if she becomes ill and must stop working before her baby is born. The answer is no, she can apply for EI sickness benefits. In our baseline testing this task had only a 22% success rate. We saw what we call “pogo-sticking.” People bounced from one page to another, trying to figure out where to find the answer. None of the page titles provided a clear scent of information for this scenario.
+This is advice we repeat in almost every optimization project. It seems so simple, but it’s not always obvious. Our own deep understanding of our subject matter can get in the way. What’s obvious to us doesn’t always match how our users think and navigate. In the <abbr title="Employment Insurance">EI</abbr> parental benefits project, one of our tasks asked whether a mother has to use her maternity leave if she becomes ill and must stop working before her baby is born. The answer is no, she can apply for <abbr title="Employment Insurance">EI</abbr> sickness benefits. In our baseline testing this task had only a 22% success rate. We saw what we call “pogo-sticking.” People bounced from one page to another, trying to figure out where to find the answer. None of the page titles provided a clear scent of information for this scenario.
 
 In the prototype, the project team introduced a page called “Special circumstances” and moved the answer to this new page. The majority of participants in the validation round went to this page to solve the task. It fit their mental model. We also looked at our baseline data to understand where else people might look. We saw that the eligibility page had been the most popular. So we also put the answer there in our prototype. With these two changes, success for this task soared to 80% in our validation round.
 
