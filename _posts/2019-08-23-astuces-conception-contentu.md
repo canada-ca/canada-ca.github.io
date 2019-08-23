@@ -21,7 +21,7 @@ figcaption {
 }
 
 .nobreak {
-  white-space: no-wrap !important;
+  white-space: nowrap !important;
 }
 </style>
 
@@ -81,13 +81,13 @@ L’équipe de projet a abordé le problème par deux angles. Nous avons d’abo
 ### Les gens ne font pas de maths
 
 <figure>
-<img class="img-responsive border" alt="Before page for the number of benefit weeks"
+<img class="img-responsive border" alt="Before page for the number of benefit weeks."
  src="/images/prestations-mat-ae/prestations-mat-avant.jpg"/>
 <figcaption>Les gens ne tenaient même pas compte des prestations utilisées en combinaison. Ils n’accordaient leur attention qu’au nombre le plus élevé, pensant qu’il s’agissait du total.</figcaption>
 </figure>
 
 <figure>
-<img class="img-responsive border" alt="After page for the number of benefit weeks"
+<img class="img-responsive border" alt="After page for the number of benefit weeks."
  src="/images/prestations-mat-ae/prestations-mat-apres.jpg"/>
 <figcaption>Montrer une formule pratique que les gens pourront comprendre, afin de les aider à effectuer le calcul.</figcaption>
 </figure>
@@ -113,7 +113,7 @@ La simplification du contenu ne se l’imite pas aux mots d’une page. Lorsque 
 ### Trop de chiffres entraînent la surcharge
 
 <figure>
-<img class="img-responsive border" alt="Before and after benefits page"
+<img class="img-responsive border" alt="Before and after benefits page."
  src="/images/prestations-mat-ae/chiffres.jpg"/>
 
 <figcaption>Clear, simple statements of facts are far more successful</figcaption>
