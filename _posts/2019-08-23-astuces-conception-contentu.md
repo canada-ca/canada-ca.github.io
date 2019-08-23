@@ -20,6 +20,9 @@ figcaption {
   padding-top: 5px;
 }
 
+.nobreak {
+  white-space: no-wrap;
+}
 </style>
 
 En automne 2018, le Bureau de la transformation numérique a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation : un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi. Les deux visent des tâches importantes que des millions de Canadiens et Canadiennes cherchent à effectuer régulièrement sur le site Canada.ca. Dans les deux cas, les constatations suggèrent l’usage de principes de conception de contenu simples pouvant grandement améliorer le taux de réussite des utilisateurs.
@@ -93,7 +96,7 @@ L’équipe de projet a abordé le problème par deux angles. Nous avons d’abo
 <summary>
 Description détaillée
 </summary>
-<p>On y montre d’abord une section du contenu de la page original. On y encadre en rouge un énoncé indiquant qu’il y a un maximum de 15 semaines pour les prestations de maternité de l’AE. Un autre énoncé est encadré en rouge, indiquant un maximum de 61 semaines pour les prestations parentales.</p>
+<p>On y montre d’abord une section du contenu de la page original. On y encadre en rouge un énoncé indiquant qu’il y a un maximum de 15 semaines pour les prestations de maternité de l’<abbr title="Emploi et Développement social Canada">AE</abbr>. Un autre énoncé est encadré en rouge, indiquant un maximum de 61 semaines pour les prestations parentales.</p>
 <p>Sous cette capture d’écran s’en trouve une autre, celle de la version équivalente tirée du prototype. Une simple équation mathématique est encadrée de vert. L’équation montre 15 semaines de prestations de maternité plus 61 semaines de prestations parentales prolongées est égal à un total de 76 semaines pour Janelle. </p>
 
 </details>
@@ -121,14 +124,14 @@ La simplification du contenu ne se l’imite pas aux mots d’une page. Lorsque 
 Description détaillée
 </summary>
 
-<p>On trouve à gauche une capture d’écran contenant trois paragraphes de texte dense tirés du contenu original. Des encadrés rouges indiquent les 30 chiffres mentionnés dans ce segment de texte. Une flèche verte pointe vers les deux captures d’écran à la droite, qui montrent l’équivalent pour le prototype restructuré. Sous l’en-tête « Circonstances spéciales » se trouve un court paragraphe de texte dans un champ que l’on peut agrandir ou réduire. Un encadré vert souligne une phrase simple contenant un lien vers la page pour les prestations de maladie de l’AE. On trouve sous celui-ci un autre en-tête, « Admissibilité ». Le court paragraphe qui l’accompagne est également dans un champ que l’on peut agrandir ou réduire. Encore une fois, un encadré vert indique les mêmes renseignements, avec un lien vers la page pour les prestations de maladie de l’AE. On trouve au bas de l’image une boîte verte indiquant que ces changements ont entraîné une augmentation de 58 points de pourcentage.</p>
+<p>On trouve à gauche une capture d’écran contenant trois paragraphes de texte dense tirés du contenu original. Des encadrés rouges indiquent les 30 chiffres mentionnés dans ce segment de texte. Une flèche verte pointe vers les deux captures d’écran à la droite, qui montrent l’équivalent pour le prototype restructuré. Sous l’en-tête « Circonstances spéciales » se trouve un court paragraphe de texte dans un champ que l’on peut agrandir ou réduire. Un encadré vert souligne une phrase simple contenant un lien vers la page pour les prestations de maladie de l’<abbr title="Emploi et Développement social Canada">AE</abbr>. On trouve sous celui-ci un autre en-tête, « Admissibilité ». Le court paragraphe qui l’accompagne est également dans un champ que l’on peut agrandir ou réduire. Encore une fois, un encadré vert indique les mêmes renseignements, avec un lien vers la page pour les prestations de maladie de l’<abbr title="Emploi et Développement social Canada">AE</abbr>. On trouve au bas de l’image une boîte verte indiquant que ces changements ont entraîné une augmentation de 58 points de pourcentage.</p>
 
 </details>
 
 <br>
 ## 6. Mettre des réponses là où les gens les cherchent
 
-Il s’agit ici d’un conseil que nous répétons dans presque tous les projets d’optimisation. Il semble simple, mais ce n’est pas toujours évident. Notre propre compréhension approfondie du sujet en question peut devenir un obstacle. Ce qui est évident pour nous ne concorde pas toujours avec la façon dont les utilisateurs naviguent et réfléchissent. Dans le projet sur les prestations parentales de l’AE, il y avait une tâche demandant si une mère devait utiliser son congé de maternité lorsqu’elle tombe malade et doit arrêter de travailler avant la naissance de son bébé. La réponse est non; elle peut demander des prestations de maladie d’AE. Dans nos tests de référence, cette tâche n’était réussie que dans 22 % des cas. Nous avons constaté un phénomène que nous surnommons « du rebondissage ». Les gens sautent d’une page à l’autre, en cherchant où trouver les réponses. Aucun titre de page ne donnait de piste claire permettant de trouver l’information, dans ce scénario.
+Il s’agit ici d’un conseil que nous répétons dans presque tous les projets d’optimisation. Il semble simple, mais ce n’est pas toujours évident. Notre propre compréhension approfondie du sujet en question peut devenir un obstacle. Ce qui est évident pour nous ne concorde pas toujours avec la façon dont les utilisateurs naviguent et réfléchissent. Dans le projet sur les prestations parentales de l’<abbr title="Emploi et Développement social Canada">AE</abbr>, il y avait une tâche demandant si une mère devait utiliser son congé de maternité lorsqu’elle tombe malade et doit arrêter de travailler avant la naissance de son bébé. La réponse est non; elle peut demander des prestations de maladie d’<abbr title="Emploi et Développement social Canada">AE</abbr>. Dans nos tests de référence, cette tâche n’était réussie que dans 22 % des cas. Nous avons constaté un phénomène que nous surnommons « du rebondissage ». Les gens sautent d’une page à l’autre, en cherchant où trouver les réponses. Aucun titre de page ne donnait de piste claire permettant de trouver l’information, dans ce scénario.
 
 Dans le prototype, l’équipe de projet a créé une nouvelle page intitulée « Circonstances spéciales », où elle a inscrit la réponse. Durant la ronde de validation, la majorité des participants se sont rendus sur cette page pour accomplir la tâche. Elle concordait avec leur modèle mental. Nous avons également examiné nos données de référence afin de déterminer à quels autres endroits les gens pourraient chercher. Nous avons constaté que la page sur l’admissibilité était la plus populaire. Nous avons donc également intégré la réponse à cette page, dans le prototype. Avec ces deux changements, le taux de réussite de cette tâche a grimpé à 80 %, lors de la ronde de validation.
 
@@ -136,7 +139,7 @@ Dans le prototype, l’équipe de projet a créé une nouvelle page intitulée �
 Les projets d’optimisation ont pour but de connecter l’expérience vécue de nos utilisateurs avec la façon dont nous concevons le contenu. Une compréhension plus approfondie de la façon dont les gens naviguent et consomment notre contenu nous donne des perspectives importantes. Lorsque ces perspectives sont appliquées à la conception de contenu, elles peuvent nous aider à offrir de meilleurs services aux Canadiens.
 
 ## Nous voulons vos commentaires
-Dites-nous ce que vous en pensez. Communiquez avec nous par courriel à [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca), ou publiez un gazouillis avec le mot-clic #Canadapointca.
+Dites-nous ce que vous en pensez. Communiquez avec nous par courriel à <span class="nobreak">[dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca)</span>, ou publiez un gazouillis avec le mot-clic #Canadapointca.
 
 ## Pour en apprendre davantage
 * [Résumé de projet : Prêts étudiants](https://blogue.canada.ca/resumes-recherche/prets-etudiants-resume-recherche.html)
