@@ -7,7 +7,7 @@ date:   2019-08-23
 published: true
 draft: true
 lang: fr
-alt: "missing"
+alt: "Six astuces sur la conception du contenu."
 description: "En automne 2018, le Bureau de la transformation numérique a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation : un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi."
 ---
 

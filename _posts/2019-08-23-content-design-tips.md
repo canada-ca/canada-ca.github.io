@@ -7,7 +7,7 @@ date:   2019-08-23
 published: true
 draft: true
 lang: en
-alt: "missing"
+alt: "Six content design tips."
 description: "In the fall of 2018, the Digital Transformation Office (DTO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits."
 ---
 
