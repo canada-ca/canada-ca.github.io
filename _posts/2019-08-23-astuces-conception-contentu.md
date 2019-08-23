@@ -44,7 +44,7 @@ Obtenir une compréhension plus éclairée du modèle mental de vos utilisateurs
 
 
 <figure>
-<img class="img-responsive border" alt="Before and after web page for student loans."
+<img class="img-responsive border" alt="La page Web pour les prêts étudiants avant et après."
  src="/images/prets-etudiants/pret-subvention-etudiants.jpg"/>
 <figcaption>Le regroupement des prêts et des subventions a permis de rendre le parcours beaucoup plus clair. Résultat : une charge cognitive moins importante et un plus grand taux de réussite pour les utilisateurs.</figcaption>
 </figure>
@@ -81,13 +81,13 @@ L’équipe de projet a abordé le problème par deux angles. Nous avons d’abo
 ### Les gens ne font pas de maths
 
 <figure>
-<img class="img-responsive border" alt="Before page for the number of benefit weeks."
+<img class="img-responsive border" alt="La page Web pour le nombre de semaines de prestations avant."
  src="/images/prestations-mat-ae/prestations-mat-avant.jpg"/>
 <figcaption>Les gens ne tenaient même pas compte des prestations utilisées en combinaison. Ils n’accordaient leur attention qu’au nombre le plus élevé, pensant qu’il s’agissait du total.</figcaption>
 </figure>
 
 <figure>
-<img class="img-responsive border" alt="After page for the number of benefit weeks."
+<img class="img-responsive border" alt="La page Web pour le nombre de semaines de prestations après."
  src="/images/prestations-mat-ae/prestations-mat-apres.jpg"/>
 <figcaption>Montrer une formule pratique que les gens pourront comprendre, afin de les aider à effectuer le calcul.</figcaption>
 </figure>
@@ -113,7 +113,7 @@ La simplification du contenu ne se l’imite pas aux mots d’une page. Lorsque 
 ### Trop de chiffres entraînent la surcharge
 
 <figure>
-<img class="img-responsive border" alt="Before and after benefits page."
+<img class="img-responsive border" alt="La page Web des prestations avant et après."
  src="/images/prestations-mat-ae/chiffres.jpg"/>
 
 <figcaption>Clear, simple statements of facts are far more successful</figcaption>
