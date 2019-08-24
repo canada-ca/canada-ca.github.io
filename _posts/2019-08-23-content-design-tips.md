@@ -135,4 +135,4 @@ Let us know what you think. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@t
 
 ## Learn more
 * [Research summary: Student loans](https://blog.canada.ca/research-summaries/student-loans-research-summary.html)
-* [Research summary: EI Maternity/Parental](https://blog.canada.ca/research-summaries/maternity-parental-research-summary.html)
+* [Research summary: Employment insurance maternity and parental benefits](https://blog.canada.ca/research-summaries/maternity-parental-research-summary.html)
