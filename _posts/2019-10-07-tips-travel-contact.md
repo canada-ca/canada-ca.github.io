@@ -67,8 +67,8 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 <br>
 <br>
 <figure>
-<img class="img-responsive" alt="Before and after web page for student loans."
- src="/images/tips-travel-contact/grouping-grants-and-loans.png"/>
+<img class="img-responsive" alt="Before and after web page for travel risks."
+ src="/images/tips-travel-contact/travel-risks.png"/>
 
 
 <details class="col-md-8">
@@ -76,7 +76,7 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 Detailed description
 </summary>
 
-<p>Trouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</p>
+<p>Screen captures from the original content and the prototype show how the design evolved. Both are displayed in a mobile view. The original shows each of the "tabs" as expand/collapse fields. The Natural Disasters "tab" is expanded showing the text with the warning about hurricane season. A cut-away shows the text that appeared in the first "tab" - the Risk levels tab. It indicates: Cayman Islands - take normal security precautions. To the left is an image of the redesigned page. The main heading is Cayman Islands - Overall, below which is the statement, "Exercise normal security precautions." Immediately below is the Important points heading. The first bullet says, "Hurricanes usually occur from mid-May to the end of November and can pose serious safety risks" with a link called Hurricane season.</p>
 
 <ol>
 <li>Apply for student grants and loans</li>
