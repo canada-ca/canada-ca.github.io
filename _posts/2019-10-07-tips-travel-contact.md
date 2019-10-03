@@ -35,7 +35,11 @@ In the prototype we made changes to the navigation layer pages. This included ad
 
 As our reality becomes increasingly digital, it’s important to remember to design for your medium. A great printed resource can’t simply be posted on your website. It needs to be reimagined and adapted to be truly effective for your online audience.
 
-(INSERT VISUAL)
+<figure>
+<img class="img-responsive border" alt="Before and after web page for student loans."
+ src="/images/tips-travel-contact/image1.png"/>
+<figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
+</figure>
 
 ## 2. Create a clear scent of information
 
