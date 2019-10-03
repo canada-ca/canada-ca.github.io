@@ -27,7 +27,7 @@ In the winter of 2019, the Digital Transformation Office (DTO) worked with teams
 ## 1. Put answers in web content, not publications
 
 
-Travelling abroad carries risks. Global Affairs has a great checklist of things you should do before you travel. It includes reminders to check for travel advisories, look into vaccinations, and research how to travel safely with medication. This checklist was originally developed as a small flyer to be handed out at travel agencies or the airport. The information is valuable, so they added it to their website. To increase awareness of this resource they advertised it in the top banner on the Travel and tourism page. They also listed it at the bottom of the page as a publication. We tested whether people could find this list of recommendations for Canadians travelling abroad. 
+Travelling abroad carries risks. Global Affairs has a great checklist of things you should do before you travel. It includes reminders to check for travel advisories, look into vaccinations, and research how to travel safely with medication. This checklist was originally developed as a small flyer to be handed out at travel agencies or the airport. The information is valuable, so they added it to their website. To increase awareness of this resource they advertised it in the top banner on the Travel and tourism page. They also listed it at the bottom of the page as a publication. We tested whether people could find this list of recommendations for Canadians travelling abroad.
 
 All participants in the baseline round of testing navigated to the page where it was advertised. 89% failed the task. Why? Participants weren’t looking for a publication. They were on a website, so they were looking for web content.
 
@@ -48,7 +48,7 @@ Hurricanes usually occur from mid-May to the end of November and can pose seriou
 
 “Hurricanes usually occur” is in the position most likely to attract attention. Success rates for these two tasks increased dramatically on the prototype.
 
-Users don’t dig deeper if there is no clue that they need to. If they think they’ve found what they need, they stop. However, if you give them a nudge to let them know there is more, they will keep going. Gaining an understanding of when they need that nudge, and putting “nudge text” where it’s most likely to be noticed, can help you restructure a page to create the required “scent of information” that will lead to success. 
+Users don’t dig deeper if there is no clue that they need to. If they think they’ve found what they need, they stop. However, if you give them a nudge to let them know there is more, they will keep going. Gaining an understanding of when they need that nudge, and putting “nudge text” where it’s most likely to be noticed, can help you restructure a page to create the required “scent of information” that will lead to success.
 
 Canada.ca content style guide - Start with the most important information
 
@@ -84,11 +84,11 @@ We often forget that people beyond our own teams don’t work with our lingo on 
 
 CRA is responsible for web content related to several top tasks for Canadians. These include filing your taxes and accessing the Canada Child Benefit. Many of these tasks require you to contact the CRA or send them a form. CRA call centers receive millions of calls each year. Often people contact the call centres because they can’t figure out what office to call for their specific request or because they can’t find which address to send their form to when the address isn’t printed on the form. Imagine how much more quickly people could receive service for complex questions, if the answers to these simple questions were easy to find online.
 
-In 2018, during the CRA business registration and account maintenance optimization project, the team built a simple wizard to help people find the right tax service office or tax centre. (Forms must be sent to different CRA addresses based on where the person or business is located.) The wizard helped 61% of test participants successfully complete their task. This year we looked at the wizard again as part of the Contact the CRA project. We realized that it was still complex and only covered some of the most popular forms. There was room to improve the design. 
+In 2018, during the CRA business registration and account maintenance optimization project, the team built a simple wizard to help people find the right tax service office or tax centre. (Forms must be sent to different CRA addresses based on where the person or business is located.) The wizard helped 61% of test participants successfully complete their task. This year we looked at the wizard again as part of the Contact the CRA project. We realized that it was still complex and only covered some of the most popular forms. There was room to improve the design.
 
 The team simplified the process further. Instead of using postal codes in the lookup, we used the form number and province. This way the lookup works for all forms. Success rates climbed to 94% when we tested the prototype of the new wizard.  
 
-Improving user success is an ongoing and iterative process. It’s a bit like peeling an onion. Improving the first layer of challenges, often reveals further layers you can tackle. Building on work you’ve done in the past can result in significant progress going forward. 
+Improving user success is an ongoing and iterative process. It’s a bit like peeling an onion. Improving the first layer of challenges, often reveals further layers you can tackle. Building on work you’ve done in the past can result in significant progress going forward.
 
 
 
@@ -96,7 +96,7 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
 
 <figure>
 <img class="img-responsive border" alt="Before page for the number of benefit weeks."
- src="/images/ei-mat-benefits/ei-benefits-before.jpg"/>
+ src="/images/tips-travel-contact/image1.png"/>
 <figcaption>People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ Detailed description
 <br>
 
 ## Final word
-In our optimization projects we seek to find and understand the pain points for Canadians using Canada.ca. We want to continuously improve the design of the site and our content. Continuous usability testing allows us to better understand where the gaps exist, and develop empathy for our users. We’re working every day to refine the site and make it more effective for all Canadians. 
+In our optimization projects we seek to find and understand the pain points for Canadians using Canada.ca. We want to continuously improve the design of the site and our content. Continuous usability testing allows us to better understand where the gaps exist, and develop empathy for our users. We’re working every day to refine the site and make it more effective for all Canadians.
 
 ## We want to hear from you
 Let us know what you think. Email us at dto.btn@tbs-sct.gc.ca or tweet using the hashtag #Canadadotca.
