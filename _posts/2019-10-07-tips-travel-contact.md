@@ -58,7 +58,7 @@ Canada.ca content style guide - Start with the most important information
 
 <figure>
 <img class="img-responsive border" alt="Before and after web page for student loans."
- src="/images/tips-travel-contact/image2.jpg"/>
+ src="/images/tips-travel-contact/image2.png"/>
 <figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
 </figure>
 
@@ -78,11 +78,20 @@ Detailed description
 </details>
 <br>
 
-## 3. Use evidence to design language
+## 3. Help users make choices
 
-The team wanted to understand how students were searching for information. They looked at Reddit posts, search data from within Canada.ca and Google search queries and trends. While one of the main topic pages was called “Student financial assistance,” the research showed that students search for “Student aid.” So we changed the name of the page. We also learned that the term “lump-sum payment” was better understood and more accurate than “one-time payment.” So we updated that terminology in the prototype.
+In many service tasks, Canadians make a choice about the channel they want to use: online self-service, phone or mail. Showing all of the details for each of those options on service pages can be overwhelming. Even worse, the phone and mail options may have further choices to make within that option. For example, there may be different phone numbers and addresses for different provinces.
 
-We often forget that people beyond our own teams don’t work with our lingo on a daily basis. Testing assumptions around terminology, and doing our research ensures that our audience will better understand our message.
+As part of the Contact the CRA project, the team worked to simplify the layout of a contact page to make it easier to find and understand the options.
+
+We used expand/collapse fields to highlight the channels (by phone, in person, by mail). This forced users to choose the channel first. Only then did they see the details for that choice. It meant that they didn’t have to look at details that didn’t pertain to their choice. For example, if they wanted a phone number they didn’t have to sift through mailing addresses to find it. Success rates increased by over 30 points for several of the tasks we tested with this new design prototype.
+
+The design simplifies the layout of the page and reduces cognitive load. It makes it clear that there are several, distinct ways to perform the task. It also encourages self-serve behaviour by listing the online option first.  
+
+CRA isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the <a href="https://www.canada.ca/en/government/about/design-system/pattern-library.html">Template and pattern</a> library in the Canada.ca design system.    
+
+Check out the alpha version of the Contact block pattern.
+
 
 ## 4. Build on previous experiments and learning
 
@@ -96,7 +105,7 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
 
 
 
-### People don't math
+### Image title
 
 <figure>
 <img class="img-responsive border" alt="Before page for the number of benefit weeks."
@@ -153,11 +162,6 @@ Detailed description
 </details>
 
 <br>
-## 6. Put answers where people look for them
-
-This is advice we repeat in almost every optimization project. It seems so simple, but it’s not always obvious. Our own deep understanding of our subject matter can get in the way. What’s obvious to us doesn’t always match how our users think and navigate. In the <abbr title="Employment Insurance">EI</abbr> parental benefits project, one of our tasks asked whether a mother has to use her maternity leave if she becomes ill and must stop working before her baby is born. The answer is no, she can apply for <abbr title="Employment Insurance">EI</abbr> sickness benefits. In our baseline testing this task had only a 22% success rate. We saw what we call “pogo-sticking.” People bounced from one page to another, trying to figure out where to find the answer. None of the page titles provided a clear scent of information for this scenario.
-
-In the prototype, the project team introduced a page called “Special circumstances” and moved the answer to this new page. The majority of participants in the validation round went to this page to solve the task. It fit their mental model. We also looked at our baseline data to understand where else people might look. We saw that the eligibility page had been the most popular. So we also put the answer there in our prototype. With these two changes, success for this task soared to 80% in our validation round.
 
 ## Final word
 Optimization projects are about connecting the lived experience of our users to how we design our content. Having a deeper understanding of how people navigate and consume our content gives us important insights. When applied to content design, these insights help us provide better services to Canadians.
