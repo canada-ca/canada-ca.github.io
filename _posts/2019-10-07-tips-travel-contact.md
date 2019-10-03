@@ -69,6 +69,7 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 <figure>
 <img class="img-responsive" alt="Before and after web page for travel risks."
  src="/images/tips-travel-contact/travel-risks.png"/>
+</figure>
 
 
 <details class="col-md-8">
@@ -77,13 +78,6 @@ Detailed description
 </summary>
 
 <p>Screen captures from the original content and the prototype show how the design evolved. Both are displayed in a mobile view. The original shows each of the "tabs" as expand/collapse fields. The Natural Disasters "tab" is expanded showing the text with the warning about hurricane season. A cut-away shows the text that appeared in the first "tab" - the Risk levels tab. It indicates: Cayman Islands - take normal security precautions. To the left is an image of the redesigned page. The main heading is Cayman Islands - Overall, below which is the statement, "Exercise normal security precautions." Immediately below is the Important points heading. The first bullet says, "Hurricanes usually occur from mid-May to the end of November and can pose serious safety risks" with a link called Hurricane season.</p>
-
-<ol>
-<li>Apply for student grants and loans</li>
-<li>Manage your loan at the NSLSC</li>
-<li>Repay your student loan</li>
-</ol>
-
 </details>
 <br>
 
@@ -100,6 +94,20 @@ The design simplifies the layout of the page and reduces cognitive load. It make
 CRA isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the [Template and pattern](https://www.canada.ca/en/government/about/design-system/pattern-library.html) library in the Canada.ca design system.    
 
 Check out the [alpha version of the Contact block pattern.](https://canada-ca.github.io/design-system-systeme-conception/common-design-patterns/contact-block.html)
+
+<figure>
+<img class="img-responsive" alt="A screenshot of a simplified contact page."
+ src="/images/tips-travel-contact/contact-pattern.png"/>
+</figure>
+
+
+<details class="col-md-8">
+<summary>
+Detailed description
+</summary>
+This is a screenshot of the prototyped Contact page pattern. The top section of the page lists the types of payments you can sign up to receive by direct deposit. The online channel is the featured method for setting up or changing direct deposit and bank details. A large green button labelled Sign in to My Account is the primary call-to-action button. Next are other options: a link to Register and a link to MyCRA mobile application. Then a heading indicates Other ways to set up direct deposit or change bank details. There are 3 options: By phone, In person, By mail. Each is an expand/collapse field that defaults to the closed position so that the user must select one method to open the field and display additional details.</p>
+</details>
+<br>
 
 
 ## 4. Build on previous experiments and learning
