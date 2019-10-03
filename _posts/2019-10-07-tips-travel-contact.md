@@ -68,16 +68,15 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 <br>
 <figure>
 <img class="img-responsive" alt="Before and after web page for student loans."
- src="/images/tips-travel-contact/image2.png"/>
-<figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
-</figure>
+ src="/images/tips-travel-contact/grouping-grants-and-loans.png"/>
+
 
 <details class="col-md-8">
 <summary>
 Detailed description
 </summary>
 
-<p>There are images of the original Student loans page and the Student grants from the baseline round of testing. A green arrow points from them to the prototype version of the same content. The prototype version is called Student aid. At the top of the page is the subheading: Student grants and loans. Below this are 3 linked options:</p>
+<p>Trouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</p>
 
 <ol>
 <li>Apply for student grants and loans</li>
