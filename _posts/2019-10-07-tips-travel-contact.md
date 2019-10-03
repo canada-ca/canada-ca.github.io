@@ -133,7 +133,7 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
 <summary>
 Detailed description
 </summary>
-Screen captures of 3 versions of content supporting the task of finding a mailing address for a CRA form. The first is the original content. The label indicates that users were successful 18% of the time with this design. The second is an image of the simple wizard built in the Business registration project. Radio buttons allow you to select the type of form you want to mail. The label indicates a 61% success rate with this design. The final image shows the revised wizard from the most recent Contact the CRA project. Users can enter the form number in an open text field and can select the location of their home, business or property from a drop-down menu. The label indicates a 94% success rate with this design.</p>
+Screen captures of 3 versions of content supporting the task of finding a mailing address for a CRA form. The first is the original content. The label indicates that users were successful 18% of the time with this design. The second is an image of the simple wizard built in the Business registration project. Radio buttons allow you to select the type of form you want to mail. The label indicates a 61% success rate with this design. The final image shows the revised wizard from the most recent Contact the CRA project. Users can enter the form number in an open text field and can select the location of their home, business or property from a drop-down menu. The label indicates a 94% success rate with this design.
 </details>
 <br>
 
