@@ -61,7 +61,7 @@ Hurricanes usually occur from mid-May to the end of November and can pose seriou
 
 Users don’t dig deeper if there is no clue that they need to. If they think they’ve found what they need, they stop. However, if you give them a nudge to let them know there is more, they will keep going. Gaining an understanding of when they need that nudge, and putting “nudge text” where it’s most likely to be noticed, can help you restructure a page to create the required “scent of information” that will lead to success.
 
-Canada.ca content style guide - Start with the most important information
+[Canada.ca content style guide - Start with the most important information] (https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc9)
 
 <figure>
 <img class="img-responsive border" alt="Before and after web page for student loans."
