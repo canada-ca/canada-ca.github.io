@@ -44,8 +44,7 @@ As our reality becomes increasingly digital, it’s important to remember to des
 <summary>
 Detailed description
 </summary>
-<p>A screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text "Planning your trip". A cut-away of the Planning your trip page has the link text, "Before you go." A cut-away of the Before you go page shows the checklist content.<br>
-<br></p>
+<p>A screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text "Planning your trip". A cut-away of the Planning your trip page has the link text, "Before you go." A cut-away of the Before you go page shows the checklist content.</p>
 </details>
 <br>
 <br>
@@ -64,7 +63,7 @@ Hurricanes usually occur from mid-May to the end of November and can pose seriou
 
 Users don’t dig deeper if there is no clue that they need to. If they think they’ve found what they need, they stop. However, if you give them a nudge to let them know there is more, they will keep going. Gaining an understanding of when they need that nudge, and putting “nudge text” where it’s most likely to be noticed, can help you restructure a page to create the required “scent of information” that will lead to success.
 
-[Canada.ca content style guide - Start with the most important information] (https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc9)
+[Canada.ca content style guide - Start with the most important information](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc9)
 
 <figure>
 <img class="img-responsive border" alt="Before and after web page for student loans."
