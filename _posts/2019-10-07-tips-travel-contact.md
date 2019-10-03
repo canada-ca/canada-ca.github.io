@@ -36,10 +36,18 @@ In the prototype we made changes to the navigation layer pages. This included ad
 As our reality becomes increasingly digital, it’s important to remember to design for your medium. A great printed resource can’t simply be posted on your website. It needs to be reimagined and adapted to be truly effective for your online audience.
 
 <figure>
-<img class="img-responsive border" alt="Before and after web page for student loans."
+<img class="img-responsive" alt="Before and after web page for student loans."
  src="/images/tips-travel-contact/image1.png"/>
-<figcaption>A screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text "Planning your trip". A cut-away of the Planning your trip page has the link text, "Before you go." A cut-away of the Before you go page shows the checklist content.</figcaption>
 </figure>
+
+<details class="col-md-8">
+<summary>
+Detailed description
+</summary>
+<p>IA screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text "Planning your trip". A cut-away of the Planning your trip page has the link text, "Before you go." A cut-away of the Before you go page shows the checklist content.</p>
+
+</details>
+
 
 ## 2. Create a clear scent of information
 
@@ -88,9 +96,9 @@ We used expand/collapse fields to highlight the channels (by phone, in person, b
 
 The design simplifies the layout of the page and reduces cognitive load. It makes it clear that there are several, distinct ways to perform the task. It also encourages self-serve behaviour by listing the online option first.  
 
-CRA isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the <a href="https://www.canada.ca/en/government/about/design-system/pattern-library.html">Template and pattern</a> library in the Canada.ca design system.    
+CRA isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the [Template and pattern](https://www.canada.ca/en/government/about/design-system/pattern-library.html) library in the Canada.ca design system.    
 
-Check out the alpha version of the Contact block pattern.
+Check out the [alpha version of the Contact block pattern.](https://canada-ca.github.io/design-system-systeme-conception/common-design-patterns/contact-block.html)
 
 
 ## 4. Build on previous experiments and learning
@@ -146,7 +154,7 @@ Research summary: [CRA: Contact us]
 ### Too many numbers equals overload
 
 <figure>
-<img class="img-responsive border" alt="Before and after benefits page."
+<img class="img-responsive" alt="Before and after benefits page."
  src="/images/ei-mat-benefits/numbers.jpg"/>
 
 <figcaption>Clear, simple statements of facts are far more successful</figcaption>
