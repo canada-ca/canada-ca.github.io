@@ -67,7 +67,7 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 <br>
 <br>
 <figure>
-<img class="img-responsive border" alt="Before and after web page for student loans."
+<img class="img-responsive" alt="Before and after web page for student loans."
  src="/images/tips-travel-contact/image2.png"/>
 <figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
 </figure>
