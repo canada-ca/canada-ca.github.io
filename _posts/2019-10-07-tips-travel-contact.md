@@ -73,8 +73,6 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 <br>
 <br>
 
-
-
 <details class="col-md-8">
 <summary>
 Detailed description
