@@ -79,6 +79,8 @@ Detailed description
 
 <p>Screen captures from the original content and the prototype show how the design evolved. Both are displayed in a mobile view. The original shows each of the "tabs" as expand/collapse fields. The Natural Disasters "tab" is expanded showing the text with the warning about hurricane season. A cut-away shows the text that appeared in the first "tab" - the Risk levels tab. It indicates: Cayman Islands - take normal security precautions. To the left is an image of the redesigned page. The main heading is Cayman Islands - Overall, below which is the statement, "Exercise normal security precautions." Immediately below is the Important points heading. The first bullet says, "Hurricanes usually occur from mid-May to the end of November and can pose serious safety risks" with a link called Hurricane season.</p>
 </details>
+<br>
+<br>
 &nbsp;
 &nbsp;
 
