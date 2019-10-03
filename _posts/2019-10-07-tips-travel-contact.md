@@ -82,6 +82,7 @@ Detailed description
 <br>
 <br>
 
+
 ## 3. Help users make choices
 
 
@@ -98,7 +99,7 @@ CRA isn’t the only department with tasks that require users to find contact in
 Check out the [alpha version of the Contact block pattern.](https://canada-ca.github.io/design-system-systeme-conception/common-design-patterns/contact-block.html)
 
 <figure>
-<img class="img-responsive" alt="A screenshot of a simplified contact page."
+<img class="img-responsive border" alt="A screenshot of a simplified contact page."
  src="/images/tips-travel-contact/contact-pattern.png"/>
 </figure>
 
