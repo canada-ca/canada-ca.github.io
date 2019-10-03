@@ -38,7 +38,7 @@ As our reality becomes increasingly digital, it’s important to remember to des
 <figure>
 <img class="img-responsive border" alt="Before and after web page for student loans."
  src="/images/tips-travel-contact/image1.png"/>
-<figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
+<figcaption>A screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text "Planning your trip". A cut-away of the Planning your trip page has the link text, "Before you go." A cut-away of the Before you go page shows the checklist content.</figcaption>
 </figure>
 
 ## 2. Create a clear scent of information
