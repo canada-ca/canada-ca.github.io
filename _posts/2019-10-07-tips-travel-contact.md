@@ -70,6 +70,10 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 <img class="img-responsive" alt="Before and after web page for travel risks."
  src="/images/tips-travel-contact/travel-risks.png"/>
 </figure>
+<br>
+<br>
+&nbsp;
+&nbsp;
 
 
 <details class="col-md-8">
