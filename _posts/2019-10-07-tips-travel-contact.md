@@ -58,7 +58,7 @@ Canada.ca content style guide - Start with the most important information
 
 <figure>
 <img class="img-responsive border" alt="Before and after web page for student loans."
- src="/images/student-loans/student-aid-grants.jpg"/>
+ src="/images/tips-travel-contact/image2.jpg"/>
 <figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
 </figure>
 
