@@ -52,6 +52,7 @@ Detailed description
 
 ## 2. Create a clear scent of information
 
+
 One of the most important tasks for Canadians travelling abroad is to understand the safety risks affecting their intended destination. In our travel project, we looked at how people interacted with the design of destination-specific advice pages. The original design of these pages had information divided into tabbed sections. This kept the pages short and scannable. It seemed like a good, efficient design.
 
 However, when we tested, we found that more than half of our participants only checked the first two tabs when looking for major safety warnings: Risk levels, and Safety and security. With nothing written in the first two tabs, they assumed a September wedding in the Caymans would be fine. They didn’t think to check the Natural disasters tab, where there was a warning about hurricane season. They also thought they could bring arthritis medication with codeine into Indonesia. They missed the warning in the Laws and cultures tab that “penalties for possession...of illegal drugs are very severe and include the death penalty.”
@@ -64,8 +65,7 @@ Hurricanes usually occur from mid-May to the end of November and can pose seriou
 Users don’t dig deeper if there is no clue that they need to. If they think they’ve found what they need, they stop. However, if you give them a nudge to let them know there is more, they will keep going. Gaining an understanding of when they need that nudge, and putting “nudge text” where it’s most likely to be noticed, can help you restructure a page to create the required “scent of information” that will lead to success.
 
 [Canada.ca content style guide - Start with the most important information](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc9)
-<br>
-<br>
+
 <figure>
 <img class="img-responsive" alt="Before and after web page for travel risks."
  src="/images/tips-travel-contact/travel-risks.png"/>
@@ -79,9 +79,10 @@ Detailed description
 
 <p>Screen captures from the original content and the prototype show how the design evolved. Both are displayed in a mobile view. The original shows each of the "tabs" as expand/collapse fields. The Natural Disasters "tab" is expanded showing the text with the warning about hurricane season. A cut-away shows the text that appeared in the first "tab" - the Risk levels tab. It indicates: Cayman Islands - take normal security precautions. To the left is an image of the redesigned page. The main heading is Cayman Islands - Overall, below which is the statement, "Exercise normal security precautions." Immediately below is the Important points heading. The first bullet says, "Hurricanes usually occur from mid-May to the end of November and can pose serious safety risks" with a link called Hurricane season.</p>
 </details>
-<br>
+
 
 ## 3. Help users make choices
+
 
 In many service tasks, Canadians make a choice about the channel they want to use: online self-service, phone or mail. Showing all of the details for each of those options on service pages can be overwhelming. Even worse, the phone and mail options may have further choices to make within that option. For example, there may be different phone numbers and addresses for different provinces.
 
@@ -112,38 +113,29 @@ This is a screenshot of the prototyped Contact page pattern. The top section of 
 
 ## 4. Build on previous experiments and learning
 
+
 CRA is responsible for web content related to several top tasks for Canadians. These include filing your taxes and accessing the Canada Child Benefit. Many of these tasks require you to contact the CRA or send them a form. CRA call centers receive millions of calls each year. Often people contact the call centres because they can’t figure out what office to call for their specific request or because they can’t find which address to send their form to when the address isn’t printed on the form. Imagine how much more quickly people could receive service for complex questions, if the answers to these simple questions were easy to find online.
 
-In 2018, during the CRA business registration and account maintenance optimization project, the team built a simple wizard to help people find the right tax service office or tax centre. (Forms must be sent to different CRA addresses based on where the person or business is located.) The wizard helped 61% of test participants successfully complete their task. This year we looked at the wizard again as part of the Contact the CRA project. We realized that it was still complex and only covered some of the most popular forms. There was room to improve the design.
+In 2018, during the [CRA business registration and account maintenance optimization project](https://blog.canada.ca/research-summaries/business-account-research-summary.html), the team built a simple wizard to help people find the right tax service office or tax centre. (Forms must be sent to different CRA addresses based on where the person or business is located.) The wizard helped 61% of test participants successfully complete their task. This year we looked at the wizard again as part of the Contact the CRA project. We realized that it was still complex and only covered some of the most popular forms. There was room to improve the design.
 
 The team simplified the process further. Instead of using postal codes in the lookup, we used the form number and province. This way the lookup works for all forms. Success rates climbed to 94% when we tested the prototype of the new wizard.  
 
 Improving user success is an ongoing and iterative process. It’s a bit like peeling an onion. Improving the first layer of challenges, often reveals further layers you can tackle. Building on work you’ve done in the past can result in significant progress going forward.
 
 
-
-### Image title
-
 <figure>
-<img class="img-responsive border" alt="Before page for the number of benefit weeks."
- src="/images/tips-travel-contact/image1.png"/>
-<figcaption>People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</figcaption>
+<img class="img-responsive" alt="CRA mialing address wizard success."
+ src="/images/tips-travel-contact/mailing-success.png"/>
 </figure>
 
-'<figure>
-<img class="img-responsive border" alt="After page for the number of benefit weeks."
- src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
-<figcaption>Showing a formula people can use and relate to helps them do the math.</figcaption>
-</figure>'
 
 <details class="col-md-8">
 <summary>
 Detailed description
 </summary>
-<p>It first shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of <abbr title="Employment Insurance">EI</abbr> maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks.</p>
-<p>Below this is a second image from the prototype version of the same content. There is green highlighting around a simple math equation. The equation shows 15 weeks maternity plus 61 weeks of extended parental equals 76 weeks total for Janelle. </p>
-
+Screen captures of 3 versions of content supporting the task of finding a mailing address for a CRA form. The first is the original content. The label indicates that users were successful 18% of the time with this design. The second is an image of the simple wizard built in the Business registration project. Radio buttons allow you to select the type of form you want to mail. The label indicates a 61% success rate with this design. The final image shows the revised wizard from the most recent Contact the CRA project. Users can enter the form number in an open text field and can select the location of their home, business or property from a drop-down menu. The label indicates a 94% success rate with this design.</p>
 </details>
+<br>
 
 <br>
 
