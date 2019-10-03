@@ -143,41 +143,11 @@ Screen captures of 3 versions of content supporting the task of finding a mailin
 In our optimization projects we seek to find and understand the pain points for Canadians using Canada.ca. We want to continuously improve the design of the site and our content. Continuous usability testing allows us to better understand where the gaps exist, and develop empathy for our users. We’re working every day to refine the site and make it more effective for all Canadians.
 
 ## We want to hear from you
-Let us know what you think. Email us at dto.btn@tbs-sct.gc.ca or tweet using the hashtag #Canadadotca.
-
+Let us know what you think. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
 
 ## Learn more
 Research summary: [Travel advice and advisories]
 Research summary: [CRA: Contact us]
 
 
-
-### Too many numbers equals overload
-
-<figure>
-<img class="img-responsive" alt="Before and after benefits page."
- src="/images/ei-mat-benefits/numbers.jpg"/>
-
-<figcaption>Clear, simple statements of facts are far more successful</figcaption>
-</figure>
-
-<details class="col-md-8">
-<summary>
-Detailed description
-</summary>
-
-<p>On the left is a screenshot of three dense paragraphs of text from the original content. There are red boxes drawn around each of 30 numbers included in the text. A green arrow points to two screenshots on the right of the redesigned content in the prototype. Under the heading "Special circumstances" is a small paragraph of text in an expand/collapse field. A green box highlights a simple sentence with a link to <abbr title="Employment Insurance">EI</abbr> sickness benefits. Below this is a second heading: Eligibility. This has a similar expand/collapse field with a similar small paragraph of text. Again, a green box indicates the same information with a link to <abbr title="Employment Insurance">EI</abbr> sickness benefits. Below everything is a green box indicating that these changes improved results 58 percentage points.</p>
-
-</details>
-
 <br>
-
-## Final word
-Optimization projects are about connecting the lived experience of our users to how we design our content. Having a deeper understanding of how people navigate and consume our content gives us important insights. When applied to content design, these insights help us provide better services to Canadians.
-
-## We want to hear from you
-Let us know what you think. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
-
-## Learn more
-* [Research summary: Student loans](https://blog.canada.ca/research-summaries/student-loans-research-summary.html)
-* [Research summary: Employment insurance maternity and parental benefits](https://blog.canada.ca/research-summaries/maternity-parental-research-summary.html)
