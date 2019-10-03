@@ -36,17 +36,19 @@ In the prototype we made changes to the navigation layer pages. This included ad
 As our reality becomes increasingly digital, it’s important to remember to design for your medium. A great printed resource can’t simply be posted on your website. It needs to be reimagined and adapted to be truly effective for your online audience.
 
 <figure>
-<img class="img-responsive" alt="Before and after web page for student loans."
- src="/images/tips-travel-contact/image1.png"/>
+<img class="img-responsive" alt="brochure-to-checklists."
+ src="/images/tips-travel-contact/brochure-to-checklist.png"/>
 </figure>
 
 <details class="col-md-8">
 <summary>
 Detailed description
 </summary>
-<p>IA screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text "Planning your trip". A cut-away of the Planning your trip page has the link text, "Before you go." A cut-away of the Before you go page shows the checklist content.</p>
+<p>A screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text "Planning your trip". A cut-away of the Planning your trip page has the link text, "Before you go." A cut-away of the Before you go page shows the checklist content.</p>
 </details>
 <br>
+<br>
+
 
 ## 2. Create a clear scent of information
 
@@ -120,11 +122,11 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
 <figcaption>People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</figcaption>
 </figure>
 
-<figure>
+'<figure>
 <img class="img-responsive border" alt="After page for the number of benefit weeks."
  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
 <figcaption>Showing a formula people can use and relate to helps them do the math.</figcaption>
-</figure>
+</figure>'
 
 <details class="col-md-8">
 <summary>
