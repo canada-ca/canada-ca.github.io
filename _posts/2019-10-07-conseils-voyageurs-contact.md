@@ -20,6 +20,10 @@ figcaption {
   padding-top: 5px;
 }
 
+.success {
+  color: green;
+}
+
 </style>
 
 À l’hiver 2019, le Bureau de la transformation numérique (BTN) a travaillé de concert avec des équipes d’Affaires mondiales Canada (AMC) et de l’Agence du revenu du Canada (ARC) sur deux différents projets d’optimisation du contenu&nbsp;: «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;». Les deux projets concernaient des tâches que des millions de Canadiens cherchent à accomplir sur Canada.ca chaque année. Dans le cadre de ces projets, nous avons relevé quatre leçons permettant d’améliorer la conception du contenu sur Canada.ca et d’accroître les taux de réussite des utilisateurs.
