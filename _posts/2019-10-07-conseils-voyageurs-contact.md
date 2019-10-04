@@ -85,12 +85,12 @@ Detailed description
 </details>
 <br>
 <br>
-nbsp;
+&nbsp;
 
 ## 3. Aider les utilisateurs à faire des choix
 
 
-IDans le cadre de nombreuses tâches touchant les services, les Canadiens doivent choisir la voie qu’ils souhaitent utiliser : libre-service en ligne, téléphone ou courriel. Afficher tous les détails sur chacune de ces options sur les pages concernant les services peut s’avérer accablant pour les utilisateurs. Qui plus est, les options de communication par téléphone ou par courriel contiennent parfois des choix supplémentaires à faire en fonction de l’option choisie – par exemple, des numéros et des adresses courriel différents en fonction des provinces.
+Dans le cadre de nombreuses tâches touchant les services, les Canadiens doivent choisir la voie qu’ils souhaitent utiliser : libre-service en ligne, téléphone ou courriel. Afficher tous les détails sur chacune de ces options sur les pages concernant les services peut s’avérer accablant pour les utilisateurs. Qui plus est, les options de communication par téléphone ou par courriel contiennent parfois des choix supplémentaires à faire en fonction de l’option choisie – par exemple, des numéros et des adresses courriel différents en fonction des provinces.
 
 Dans le cadre du projet Communiquer avec l’ARC, l’équipe a cherché à simplifier la configuration de la page de coordonnées pour rendre les options plus simples à trouver et à comprendre.
 
@@ -140,7 +140,7 @@ L’amélioration du taux de réussite des utilisateurs est un processus continu
 <summary>
 Detailed description
 </summary>
-Screen captures of 3 versions of content supporting the task of finding a mailing address for a CRA form. The first is the original content. The label indicates that users were successful 18% of the time with this design. The second is an image of the simple wizard built in the Business registration project. Radio buttons allow you to select the type of form you want to mail. The label indicates a 61% success rate with this design. The final image shows the revised wizard from the most recent Contact the CRA project. Users can enter the form number in an open text field and can select the location of their home, business or property from a drop-down menu. The label indicates a 94% success rate with this design.
+La capture d’écran affiche 3 versions du contenu visant à aider les utilisateurs à trouver l’adresse postale où un formulaire de l’ARC doit être envoyé. À gauche se trouve le contenu original. Une étiquette indique que les utilisateurs ont réussi la tâche 18 % du temps en utilisant ce modèle. Au milieu se trouve une image de l’assistant simple élaboré dans le cadre du projet d’inscription des entreprises. Des boutons radio permettent à l’utilisateur de choisir le type de formulaire qu’il souhaite envoyer avant de faire une recherche par code postal. Une étiquette indique que les utilisateurs ont réussi la tâche 61 % du temps en utilisant l’assistant. La dernière image affiche l’assistant modifié dans le cadre du récent projet « Communiquer avec l’ARC ». Les utilisateurs peuvent saisir le numéro du formulaire qu’ils souhaitent envoyer dans un champ de texte et choisir le lieu de leur maison, entreprise ou propriété à partir d’un menu déroulant. Une étiquette indique que les utilisateurs ont réussi la tâche 94 % du temps en utilisant ce modèle.
 </details>
 <br>
 
