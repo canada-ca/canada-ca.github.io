@@ -125,15 +125,17 @@ The team simplified the process further. Instead of using postal codes in the lo
 
 Improving user success is an ongoing and iterative process. It’s a bit like peeling an onion. Improving the first layer of challenges, often reveals further layers you can tackle. Building on work you’ve done in the past can result in significant progress going forward.
 
-
+# 1 - 18% success
 <figure>
 <img class="img-responsive" alt="CRA mailing address wizard success."
  src="/images/tips-travel-contact/mailing-success-1.png"/>
 </figure>
+# 2 - 61% success
 <figure>
 <img class="img-responsive" alt="CRA mailing address wizard success."
  src="/images/tips-travel-contact/mailing-success-2.png"/>
 </figure>
+# 3 - 94% success
 <figure>
 <img class="img-responsive" alt="CRA mailing address wizard success."
  src="/images/tips-travel-contact/mailing-success-3.png"/>
