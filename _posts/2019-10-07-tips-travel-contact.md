@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "XXXXX."
-description: "XXXXXX"
+description: "In the winter of 2019, the Digital Transformation Office (DTO) worked with teams from Global Affairs Canada (GAC) and the Canada Revenue Agency (CRA) on two separate optimization projects: Travel advice and advisories and Contact the CRA. Both involved top tasks that millions of Canadians seek to complete on Canada.ca each year."
 ---
 
 <style>
@@ -19,6 +19,7 @@ figcaption {
   padding-bottom: 10px;
   padding-top: 5px;
 }
+
 
 </style>
 
@@ -36,7 +37,7 @@ In the prototype we made changes to the navigation layer pages. This included ad
 As our reality becomes increasingly digital, it’s important to remember to design for your medium. A great printed resource can’t simply be posted on your website. It needs to be reimagined and adapted to be truly effective for your online audience.
 
 <figure>
-<img class="img-responsive" alt="brochure-to-checklists."
+<img class="img-responsive" alt="Brochure publications redesigned as web content."
  src="/images/tips-travel-contact/brochure-to-checklist.png"/>
 </figure>
 
@@ -72,6 +73,8 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 </figure>
 <br>
 <br>
+
+<figcaption><small>Adding an Important points section allows users to avoid bouncing through several pages, and encouraged participants to look further for information.</small></figcaption>
 
 <details class="col-md-8">
 <summary>
@@ -126,7 +129,7 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
 
 
 <figure>
-<img class="img-responsive" alt="CRA mialing address wizard success."
+<img class="img-responsive" alt="CRA mailing address wizard success."
  src="/images/tips-travel-contact/mailing-success.png"/>
 </figure>
 <br>

@@ -1,4 +1,4 @@
-«&nbsp;---
+---
 layout: post
 title:  Conseils de conception de contenu tirés de nos projets d’optimisation du contenu «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;»
 pubdate: "October 7, 2019"
@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "XXXXX."
-description: "XXXXXX"
+description: "À l’hiver 2019, le Bureau de la transformation numérique (BTN) a travaillé de concert avec des équipes d’Affaires mondiales Canada (AMC) et de l’Agence du revenu du Canada (ARC) sur deux différents projets d’optimisation du contenu&nbsp;: «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;»."
 ---
 
 <style>
@@ -22,7 +22,7 @@ figcaption {
 
 </style>
 
-À l’hiver 2019, le Bureau de la transformation numérique (BTN) a travaillé de concert avec des équipes d’Affaires mondiales Canada (AMC) et de l’Agence du revenu du Canada (ARC) sur deux différents projets d’optimisation du contenu : «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;». Les deux projets concernaient des tâches que des millions de Canadiens cherchent à accomplir sur Canada.ca chaque année. Dans le cadre de ces projets, nous avons relevé quatre leçons permettant d’améliorer la conception du contenu sur Canada.ca et d’accroître les taux de réussite des utilisateurs.
+À l’hiver 2019, le Bureau de la transformation numérique (BTN) a travaillé de concert avec des équipes d’Affaires mondiales Canada (AMC) et de l’Agence du revenu du Canada (ARC) sur deux différents projets d’optimisation du contenu&nbsp;: «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;». Les deux projets concernaient des tâches que des millions de Canadiens cherchent à accomplir sur Canada.ca chaque année. Dans le cadre de ces projets, nous avons relevé quatre leçons permettant d’améliorer la conception du contenu sur Canada.ca et d’accroître les taux de réussite des utilisateurs.
 
 ## 1. Fournir les réponses dans le contenu Web plutôt que dans les publications
 
@@ -38,7 +38,7 @@ Dans un environnement de plus en plus axé sur le numérique, il ne faut pas né
 
 
 <figure>
-<img class="img-responsive" alt="brochure to checklists."
+<img class="img-responsive" alt="Brochure publications redesigned as web content."
  src="/images/tips-travel-contact/brochure-to-checklist.png"/>
 </figure>
 
