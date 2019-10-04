@@ -139,14 +139,14 @@ L’amélioration du taux de réussite des utilisateurs est un processus continu
     </figure>
   </div>
   <div class="col-md-4">
-    <h3>1st design: wizard</h3> <p class="success"61% success</p>
+    <h3>1st design: wizard</h3><p class="success">61% success</p>
     <figure>
     <img class="img-responsive border" alt="CRA mailing address wizard success."
      src="/images/tips-travel-contact/mailing-success-2.png"/>
     </figure>
   </div>
   <div class="col-md-4">
-    <h3>2nd design: lookup</h3><p class=94% success</p>
+    <h3>2nd design: lookup</h3><p class="success">94% success</p>
     <figure>
     <img class="img-responsive border" alt="CRA mailing lookup success."
      src="/images/tips-travel-contact/mailing-success-3.png"/>
