@@ -20,6 +20,9 @@ figcaption {
   padding-top: 5px;
 }
 
+.success {
+  color: green;
+}
 
 </style>
 
@@ -126,7 +129,7 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
 
 <div class="col-md-12 mrgn-bttm-lg row">
   <div class="col-md-4">
-    1 - 18% success
+    <h3>1</h3> <p class="success">- 18% success</p>
     <figure>
     <img class="img-responsive border" alt="CRA mailing address text only success."
      src="/images/tips-travel-contact/mailing-success-1.png"/>
