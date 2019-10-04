@@ -125,7 +125,7 @@ The team simplified the process further. Instead of using postal codes in the lo
 
 Improving user success is an ongoing and iterative process. It’s a bit like peeling an onion. Improving the first layer of challenges, often reveals further layers you can tackle. Building on work you’ve done in the past can result in significant progress going forward.
 
-<div class="col-md-12">
+<div class="col-md-12 mrgn-bttm-lg">
   <div class="col-md-4">
     1 - 18% success
     <figure>
