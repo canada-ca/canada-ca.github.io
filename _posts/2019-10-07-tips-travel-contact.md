@@ -70,9 +70,9 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 <figure>
 <img class="img-responsive" alt="Before and after web page for travel risks."
  src="/images/tips-travel-contact/travel-risks.png"/>
+<figcaption><small>Adding an Important points section allows users to avoid bouncing through several pages, and encouraged participants to look further for information.</small></figcaption>
 </figure>
 
-<figcaption><small>Adding an Important points section allows users to avoid bouncing through several pages, and encouraged participants to look further for information.</small></figcaption>
 
 <details class="col-md-8">
 <summary>
