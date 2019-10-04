@@ -125,21 +125,29 @@ The team simplified the process further. Instead of using postal codes in the lo
 
 Improving user success is an ongoing and iterative process. It’s a bit like peeling an onion. Improving the first layer of challenges, often reveals further layers you can tackle. Building on work you’ve done in the past can result in significant progress going forward.
 
-# 1 - 18% success
-<figure>
-<img class="img-responsive" alt="CRA mailing address wizard success."
- src="/images/tips-travel-contact/mailing-success-1.png"/>
-</figure>
-# 2 - 61% success
-<figure>
-<img class="img-responsive" alt="CRA mailing address wizard success."
- src="/images/tips-travel-contact/mailing-success-2.png"/>
-</figure>
-# 3 - 94% success
-<figure>
-<img class="img-responsive" alt="CRA mailing address wizard success."
- src="/images/tips-travel-contact/mailing-success-3.png"/>
-</figure>
+<div class="col-md-12">
+  <div class="col-md-4">
+    1 - 18% success
+    <figure>
+    <img class="img-responsive border" alt="CRA mailing address text only success."
+     src="/images/tips-travel-contact/mailing-success-1.png"/>
+    </figure>
+  </div>
+  <div class="col-md-4">
+    2 - 61% success
+    <figure>
+    <img class="img-responsive border" alt="CRA mailing address wizard success."
+     src="/images/tips-travel-contact/mailing-success-2.png"/>
+    </figure>
+  </div>
+  <div class="col-md-4">
+    3 - 94% success
+    <figure>
+    <img class="img-responsive border" alt="CRA mailing lookup success."
+     src="/images/tips-travel-contact/mailing-success-3.png"/>
+    </figure>
+  </div>
+</div>
 <br>
 
 <details class="col-md-8">
@@ -148,7 +156,6 @@ Detailed description
 </summary>
 Screen captures of 3 versions of content supporting the task of finding a mailing address for a CRA form. The first is the original content. The label indicates that users were successful 18% of the time with this design. The second is an image of the simple wizard built in the Business registration project. Radio buttons allow you to select the type of form you want to mail. The label indicates a 61% success rate with this design. The final image shows the revised wizard from the most recent Contact the CRA project. Users can enter the form number in an open text field and can select the location of their home, business or property from a drop-down menu. The label indicates a 94% success rate with this design.
 </details>
-<br>
 <br>
 
 ## Final word
