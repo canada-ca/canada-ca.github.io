@@ -48,7 +48,6 @@ Detailed description
 <p>A screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text "Planning your trip". A cut-away of the Planning your trip page has the link text, "Before you go." A cut-away of the Before you go page shows the checklist content.</p>
 </details>
 <br>
-<br>
 
 
 ## 2. Create a clear scent of information
@@ -125,7 +124,7 @@ The team simplified the process further. Instead of using postal codes in the lo
 
 Improving user success is an ongoing and iterative process. It’s a bit like peeling an onion. Improving the first layer of challenges, often reveals further layers you can tackle. Building on work you’ve done in the past can result in significant progress going forward.
 
-<div class="col-md-12 mrgn-bttm-lg">
+<div class="col-md-12 mrgn-bttm-lg row">
   <div class="col-md-4">
     1 - 18% success
     <figure>
