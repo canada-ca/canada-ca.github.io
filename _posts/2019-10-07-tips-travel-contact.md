@@ -128,7 +128,15 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
 
 <figure>
 <img class="img-responsive" alt="CRA mailing address wizard success."
- src="/images/tips-travel-contact/mailing-success.png"/>
+ src="/images/tips-travel-contact/mailing-success-1.png"/>
+</figure>
+<figure>
+<img class="img-responsive" alt="CRA mailing address wizard success."
+ src="/images/tips-travel-contact/mailing-success-2.png"/>
+</figure>
+<figure>
+<img class="img-responsive" alt="CRA mailing address wizard success."
+ src="/images/tips-travel-contact/mailing-success-3.png"/>
 </figure>
 <br>
 
