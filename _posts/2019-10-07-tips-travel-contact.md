@@ -71,8 +71,6 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 <img class="img-responsive" alt="Before and after web page for travel risks."
  src="/images/tips-travel-contact/travel-risks.png"/>
 </figure>
-<br>
-<br>
 
 <figcaption><small>Adding an Important points section allows users to avoid bouncing through several pages, and encouraged participants to look further for information.</small></figcaption>
 
