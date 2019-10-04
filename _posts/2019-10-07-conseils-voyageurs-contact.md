@@ -82,13 +82,13 @@ Description détaillée
 </summary>
 
 <p>Deux captures d’écran côte à côte – une affichant la version originale et une autre affichant le prototype – afin de mettre en relief l’évolution de la présentation. Les deux pages sont affichées en format pour les dispositifs mobiles. Dans la version originale, chaque section est un onglet que l’on peut agrandir ou réduire. L’onglet « Catastrophes naturelles et climat » est agrandi, affichant un avertissement sur la saison des ouragans. Une autre capture d’écran superposée par-dessus la première affiche le texte dans le premier onglet – « Niveau(x) de risque ». On y lit ce qui suit : « Îles Caïmans – Prenez des mesures de sécurité normales ». À droite de la version originale se trouve une image de la page prototype modifiée. Le premier en-tête lit « Ïles Caïmans – Vue d’ensemble », suivie du texte « Prenez des mesures de sécurité normales ». Cette section est suivie immédiatement de l’en-tête « Points importants ». À la première puce, on peut lire le texte « Les ouragans ont typiquement lieu entre la mi-mai et la fin de novembre, et peuvent présenter des risques sévères pour la sécurité » et trouver un lien intitulé « Saison des ouragans ».</p>
+
+<br>
 </details>
-<br>
-<br>
-&nbsp;
+
+
 
 ## 3. Aider les utilisateurs à faire des choix
-
 
 Dans le cadre de nombreuses tâches touchant les services, les Canadiens doivent choisir la voie qu’ils souhaitent utiliser : libre-service en ligne, téléphone ou courriel. Afficher tous les détails sur chacune de ces options sur les pages concernant les services peut s’avérer accablant pour les utilisateurs. Qui plus est, les options de communication par téléphone ou par courriel contiennent parfois des choix supplémentaires à faire en fonction de l’option choisie – par exemple, des numéros et des adresses courriel différents en fonction des provinces.
 
@@ -155,5 +155,5 @@ LDites-nous ce que vous en pensez – envoyez-nous un courriel à l’adresse [d
 
 
 ## Pour en savoir plus
-●   Résumé de la recherche : [Conseils aux voyageurs et avertissements] <br>
-●   Résumé de la recherche : [Communiquer avec l’ARC]
+* Résumé de la recherche : [Conseils aux voyageurs et avertissements] <br>
+* Résumé de la recherche : [Communiquer avec l’ARC]
