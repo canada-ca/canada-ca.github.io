@@ -44,7 +44,7 @@ Dans un environnement de plus en plus axé sur le numérique, il ne faut pas né
 
 <details class="col-md-8">
 <summary>
-Detailed description
+Description détaillée
 </summary>
 <p>A screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text "Planning your trip". A cut-away of the Planning your trip page has the link text, "Before you go." A cut-away of the Before you go page shows the checklist content.</p>
 </details>
@@ -78,7 +78,7 @@ Les utilisateurs ne creusent pas en profondeur si l’on ne leur indique pas qu�
 
 <details class="col-md-8">
 <summary>
-Detailed description
+Description détaillée
 </summary>
 
 <p>Deux captures d’écran côte à côte – une affichant la version originale et une autre affichant le prototype – afin de mettre en relief l’évolution de la présentation. Les deux pages sont affichées en format pour les dispositifs mobiles. Dans la version originale, chaque section est un onglet que l’on peut agrandir ou réduire. L’onglet « Catastrophes naturelles et climat » est agrandi, affichant un avertissement sur la saison des ouragans. Une autre capture d’écran superposée par-dessus la première affiche le texte dans le premier onglet – « Niveau(x) de risque ». On y lit ce qui suit : « Îles Caïmans – Prenez des mesures de sécurité normales ». À droite de la version originale se trouve une image de la page prototype modifiée. Le premier en-tête lit « Ïles Caïmans – Vue d’ensemble », suivie du texte « Prenez des mesures de sécurité normales ». Cette section est suivie immédiatement de l’en-tête « Points importants ». À la première puce, on peut lire le texte « Les ouragans ont typiquement lieu entre la mi-mai et la fin de novembre, et peuvent présenter des risques sévères pour la sécurité » et trouver un lien intitulé « Saison des ouragans ».</p>
@@ -111,7 +111,7 @@ Jetez un coup d’œil à la [version alpha de la configuration du bloc de coord
 
 <details class="col-md-8">
 <summary>
-Detailed description
+Description détaillée
 </summary>
 Il s’agit d’une capture d’écran de la page de coordonnées du prototype. Au sommet de la page, une section énumère les types de paiements que l’on peut recevoir par dépôt direct en s’inscrivant. La méthode en ligne d’inscription au dépôt direct et de changement des renseignements bancaires est mise en exergue. Un grand bouton vert marqué des mots « Me connecter à mon compte » est le principal bouton d’appel à l’action. D’autres options suivent : un lien pour s’inscrire et un autre lien vers l’application mobile MonARC. Puis, un en-tête lisant « Autres moyens de s’inscrire au dépôt direct ou de changer vos renseignements bancaires ». Il y a trois options dans cette catégorie : « Par téléphone », « En personne » et « Par courriel ». Chacune de ces options comporte un champ masqué par défaut afin que l’utilisateur doive choisir un champ avant de voir s’afficher les renseignements pour ce champ particulier.</p>
 </details>
@@ -138,7 +138,7 @@ L’amélioration du taux de réussite des utilisateurs est un processus continu
 
 <details class="col-md-8">
 <summary>
-Detailed description
+Description détaillée
 </summary>
 La capture d’écran affiche 3 versions du contenu visant à aider les utilisateurs à trouver l’adresse postale où un formulaire de l’ARC doit être envoyé. À gauche se trouve le contenu original. Une étiquette indique que les utilisateurs ont réussi la tâche 18 % du temps en utilisant ce modèle. Au milieu se trouve une image de l’assistant simple élaboré dans le cadre du projet d’inscription des entreprises. Des boutons radio permettent à l’utilisateur de choisir le type de formulaire qu’il souhaite envoyer avant de faire une recherche par code postal. Une étiquette indique que les utilisateurs ont réussi la tâche 61 % du temps en utilisant l’assistant. La dernière image affiche l’assistant modifié dans le cadre du récent projet « Communiquer avec l’ARC ». Les utilisateurs peuvent saisir le numéro du formulaire qu’ils souhaitent envoyer dans un champ de texte et choisir le lieu de leur maison, entreprise ou propriété à partir d’un menu déroulant. Une étiquette indique que les utilisateurs ont réussi la tâche 94 % du temps en utilisant ce modèle.
 </details>
@@ -155,5 +155,5 @@ LDites-nous ce que vous en pensez – envoyez-nous un courriel à l’adresse [d
 
 
 ## Pour en savoir plus
-●   Résumé de la recherche : [Conseils aux voyageurs et avertissements]
+●   Résumé de la recherche : [Conseils aux voyageurs et avertissements] <br>
 ●   Résumé de la recherche : [Communiquer avec l’ARC]
