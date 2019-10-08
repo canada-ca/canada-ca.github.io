@@ -110,7 +110,7 @@ Jetez un coup d’œil à la [version alpha de la configuration du bloc de coord
 
 
 <figure>
-<img class="img-responsive" alt="Une capture d'écran d'une page de coordonnées simplifiée."
+<img class="img-responsive border" alt="Une capture d'écran d'une page de coordonnées simplifiée."
  src="/images/conseils-voyageurs-contact/coordonnees-modèle-conception.png"/>
 </figure>
 
