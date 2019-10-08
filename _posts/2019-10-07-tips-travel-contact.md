@@ -41,7 +41,7 @@ As our reality becomes increasingly digital, it’s important to remember to des
 
 <figure>
 <img class="img-responsive" alt="Brochure publications redesigned as web content."
- src="/images/tips-travel-contact/brochure-to-checklist.png"/>
+ src="/images/tips-travel-contact/brochure-to-web-content.png"/>
 </figure>
 
 <details class="col-md-8">
@@ -145,7 +145,7 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
   <div class="col-md-4">
     <h3>2nd design: lookup</h3><p class="success">94% success</p>
     <figure>
-    <img class="img-responsive border" alt="CRA mailing lookup success."
+    <img class="img-responsive border" alt="CRA postal code lookup success."
      src="/images/tips-travel-contact/mailing-success-3.png"/>
     </figure>
   </div>

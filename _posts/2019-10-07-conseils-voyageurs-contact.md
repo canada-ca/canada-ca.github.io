@@ -42,8 +42,8 @@ Dans un environnement de plus en plus axé sur le numérique, il ne faut pas né
 
 
 <figure>
-<img class="img-responsive" alt="Brochure publications redesigned as web content."
- src="/images/tips-travel-contact/brochure-to-checklist.png"/>
+<img class="img-responsive" alt="Refonte du dépliant sous forme de contenu Web."
+ src="/images/tips-travel-contact/depliant-au-contenu-web.png"/>
 </figure>
 
 <details class="col-md-8">
@@ -75,9 +75,10 @@ Les utilisateurs ne creusent pas en profondeur si l’on ne leur indique pas qu�
 
 
 <figure>
-<img class="img-responsive" alt="Before and after web page for travel risks."
- src="/images/tips-travel-contact/travel-risks.png"/>
-</figure>
+<img class="img-responsive" alt="La page Web pour les risques de voyage avant et après la refont."
+ src="/images/tips-travel-contact/risques-voyage.png"/>
+ <figcaption><small>L'ajout d'une section Points importants permet aux utilisateurs d'éviter de sauter d'une page à l'autre et encourage les participants à chercher davantage d'informations.</small></figcaption>
+ </figure>
 
 
 <details class="col-md-8">
@@ -108,8 +109,8 @@ Jetez un coup d’œil à la [version alpha de la configuration du bloc de coord
 
 
 <figure>
-<img class="img-responsive" alt="A screenshot of a simplified contact page."
- src="/images/tips-travel-contact/contact-pattern.png"/>
+<img class="img-responsive" alt="Une capture d'écran d'une page de coordonnées simplifiée."
+ src="/images/tips-travel-contact/coordonnees-modèle-conception.png"/>
 </figure>
 
 
@@ -136,24 +137,24 @@ L’amélioration du taux de réussite des utilisateurs est un processus continu
 
 <div class="col-md-12 mrgn-bttm-lg row">
   <div class="col-md-4">
-    <h3>Original content</h3> <p class="success">18% success</p>
+    <h3>Version originale</h3> <p class="success">18 % de réussite</p>
     <figure>
-    <img class="img-responsive border" alt="CRA mailing address original content."
-     src="/images/tips-travel-contact/mailing-success-1.png"/>
+    <img class="img-responsive border" alt="Version originale de l'adresse postale de l'ARC."
+     src="/images/tips-travel-contact/adresses-postales-reussite-1.png"/>
     </figure>
   </div>
   <div class="col-md-4">
-    <h3>1st design: wizard</h3><p class="success">61% success</p>
+    <h3>1ère conception : L'assistant</h3><p class="success">61 % de réussite</p>
     <figure>
-    <img class="img-responsive border" alt="CRA mailing address wizard success."
-     src="/images/tips-travel-contact/mailing-success-2.png"/>
+    <img class="img-responsive border" alt="Réussite de l'assistant d'adresse postale de l'ARC."
+     src="/images/tips-travel-contact/adresses-postales-reussite-2.png"/>
     </figure>
   </div>
   <div class="col-md-4">
-    <h3>2nd design: lookup</h3><p class="success">94% success</p>
+    <h3>2ème conception : Recherche par code postale</h3><p class="success">94 % de  réussite</p>
     <figure>
-    <img class="img-responsive border" alt="CRA mailing lookup success."
-     src="/images/tips-travel-contact/mailing-success-3.png"/>
+    <img class="img-responsive border" alt="Réussite de recherches par code postales de l'ARC."
+     src="/images/tips-travel-contact/adresses-postales-reussite-3.png"/>
     </figure>
   </div>
 </div>
