@@ -179,6 +179,6 @@ IDans le cadre de nos projets d’optimisation, nous cherchons à trouver et à 
 LDites-nous ce que vous en pensez – envoyez-nous un courriel à l’adresse [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) ou publiez un gazouillis accompagné du mot-clic #Canadapointca.
 
 
-## Pour en savoir plus TEST
+## Pour en savoir plus
 * [Résumé de la recherche : Conseils aux voyageurs et avertissements](https://blogue.canada.ca/resumes-recherche/conseils-voyageurs-resume-recherche.html)
 * [Résumé de la recherche : Communiquer avec l’ARC](https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html)
