@@ -92,6 +92,7 @@ Description détaillée
 </details>
 
 
+<br>
 
 ## 3. Aider les utilisateurs à faire des choix
 
