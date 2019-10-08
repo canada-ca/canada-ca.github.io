@@ -180,5 +180,5 @@ LDites-nous ce que vous en pensez – envoyez-nous un courriel à l’adresse [d
 
 
 ## Pour en savoir plus
-* Résumé de la recherche : [Conseils aux voyageurs et avertissements] <br>
-* Résumé de la recherche : [Communiquer avec l’ARC]
+* [Résumé de la recherche : Conseils aux voyageurs et avertissements](https://blogue.canada.ca/resumes-recherche/conseils-voyageurs-resume-recherche.html)
+* [Résumé de la recherche : Communiquer avec l’ARC](https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html)

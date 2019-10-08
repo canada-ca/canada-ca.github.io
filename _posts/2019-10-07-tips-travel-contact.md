@@ -167,5 +167,5 @@ In our optimization projects we seek to find and understand the pain points for 
 Let us know what you think. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
 
 ## Learn more
-* Research summary: [Travel advice and advisories]
-* Research summary: [CRA: Contact us]
+* [Research summary: Travel advice and advisories](https://blog.canada.ca/research-summaries/travel-advice-research-summary.html)
+* [Research summary: CRA: Contact us](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
