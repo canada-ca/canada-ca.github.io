@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  Conseils de conception de contenu tirés de nos projets d’optimisation du contenu «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;»
-pubdate: "October 7, 2019"
+pubdate: "October 23, 2019"
 langpage: "https://blogue.canada.ca/2019/10/07/astuces-conception-contentu.html"
-date:   2019-10-07
+date:   2019-23-07
 published: true
 draft: true
 lang: en
-alt: "XXXXX."
+alt: "Quatre leçons permettant d’améliorer la conception du contenu."
 description: "À l’hiver 2019, le Bureau de la transformation numérique (BTN) a travaillé de concert avec des équipes d’Affaires mondiales Canada (AMC) et de l’Agence du revenu du Canada (ARC) sur deux différents projets d’optimisation du contenu&nbsp;: «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;»."
 ---
 
@@ -39,7 +39,7 @@ Dans le prototype, nous avons apporté des changements aux systèmes de navigati
 
 Dans un environnement de plus en plus axé sur le numérique, il ne faut pas négliger de concevoir le matériel pour le bon support. Malheureusement, ce n’est pas suffisant d’afficher une excellente ressource imprimée sur un site Web – il faut l’adapter pour la rendre réellement efficace auprès d’un auditoire d’utilisateurs en ligne.
 
-
+<abbr title="Employment Insurance">EI</abbr>
 
 <figure>
 <img class="img-responsive" alt="Refonte du dépliant sous forme de contenu Web."
