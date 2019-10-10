@@ -3,7 +3,7 @@ layout: post
 title:  "Content design tips from our Travel advice and advisories and Contact the CRA optimization projects"
 pubdate: "October 23, 2019"
 langpage: "https://blogue.canada.ca/2019/10/07/astuces-conception-contentu.html"
-date:   2019-23-07
+date:   2019-10-23
 published: true
 draft: true
 lang: en
