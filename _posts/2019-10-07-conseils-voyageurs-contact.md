@@ -92,6 +92,7 @@ Description détaillée
 </details>
 
 
+<br>
 
 ## 3. Aider les utilisateurs à faire des choix
 
@@ -109,7 +110,7 @@ Jetez un coup d’œil à la [version alpha de la configuration du bloc de coord
 
 
 <figure>
-<img class="img-responsive" alt="Une capture d'écran d'une page de coordonnées simplifiée."
+<img class="img-responsive border" alt="Une capture d'écran d'une page de coordonnées simplifiée."
  src="/images/conseils-voyageurs-contact/coordonnees-modèle-conception.png"/>
 </figure>
 
@@ -180,5 +181,5 @@ LDites-nous ce que vous en pensez – envoyez-nous un courriel à l’adresse [d
 
 
 ## Pour en savoir plus
-* Résumé de la recherche : [Conseils aux voyageurs et avertissements] <br>
-* Résumé de la recherche : [Communiquer avec l’ARC]
+* [Résumé de la recherche : Conseils aux voyageurs et avertissements](https://blogue.canada.ca/resumes-recherche/conseils-voyageurs-resume-recherche.html)
+* [Résumé de la recherche : Communiquer avec l’ARC](https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html)
