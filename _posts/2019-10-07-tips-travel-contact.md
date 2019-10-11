@@ -26,7 +26,7 @@ figcaption {
 
 </style>
 
-In the winter of 2019, the Digital Transformation Office (DTO) worked with teams from Global Affairs Canada (GAC) and the Canada Revenue Agency (CRA) on two separate optimization projects: Travel advice and advisories and Contact the CRA. Both involved top tasks that millions of Canadians seek to complete on Canada.ca each year. During these projects we identified four tips to help improve content design on Canada.ca and increase user success.
+In the winter of 2019, the Digital Transformation Office (DTO) worked with teams from Global Affairs Canada (GAC) and the Canada Revenue Agency (CRA) on two separate optimization projects: Travel advice and advisories and Contact the <abbr title="Canada Revenue Agency">CRA</abbr>. Both involved top tasks that millions of Canadians seek to complete on Canada.ca each year. During these projects we identified four tips to help improve content design on Canada.ca and increase user success.
 
 ## 1. Put answers in web content, not publications
 
@@ -91,13 +91,13 @@ Detailed description
 
 In many service tasks, Canadians make a choice about the channel they want to use: online self-service, phone or mail. Showing all of the details for each of those options on service pages can be overwhelming. Even worse, the phone and mail options may have further choices to make within that option. For example, there may be different phone numbers and addresses for different provinces.
 
-As part of the Contact the CRA project, the team worked to simplify the layout of a contact page to make it easier to find and understand the options.
+As part of the Contact the <abbr title="Canada Revenue Agency">CRA</abbr> project, the team worked to simplify the layout of a contact page to make it easier to find and understand the options.
 
 We used expand/collapse fields to highlight the channels (by phone, in person, by mail). This forced users to choose the channel first. Only then did they see the details for that choice. It meant that they didn’t have to look at details that didn’t pertain to their choice. For example, if they wanted a phone number they didn’t have to sift through mailing addresses to find it. Success rates increased by over 30 points for several of the tasks we tested with this new design prototype.
 
 The design simplifies the layout of the page and reduces cognitive load. It makes it clear that there are several, distinct ways to perform the task. It also encourages self-serve behaviour by listing the online option first.  
 
-CRA isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the [Template and pattern](https://www.canada.ca/en/government/about/design-system/pattern-library.html) library in the Canada.ca design system.    
+<abbr title="Canada Revenue Agency">CRA</abbr> isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the [Template and pattern](https://www.canada.ca/en/government/about/design-system/pattern-library.html) library in the Canada.ca design system.    
 
 Check out the [alpha version of the Contact block pattern.](https://canada-ca.github.io/design-system-systeme-conception/common-design-patterns/contact-block.html)
 
@@ -111,7 +111,7 @@ Check out the [alpha version of the Contact block pattern.](https://canada-ca.gi
 <summary>
 Detailed description
 </summary>
-This is a screenshot of the prototyped Contact page pattern. The top section of the page lists the types of payments you can sign up to receive by direct deposit. The online channel is the featured method for setting up or changing direct deposit and bank details. A large green button labelled Sign in to My Account is the primary call-to-action button. Next are other options: a link to Register and a link to MyCRA mobile application. Then a heading indicates Other ways to set up direct deposit or change bank details. There are 3 options: By phone, In person, By mail. Each is an expand/collapse field that defaults to the closed position so that the user must select one method to open the field and display additional details.</p>
+This is a screenshot of the prototyped Contact page pattern. The top section of the page lists the types of payments you can sign up to receive by direct deposit. The online channel is the featured method for setting up or changing direct deposit and bank details. A large green button labelled Sign in to My Account is the primary call-to-action button. Next are other options: a link to Register and a link to My<abbr title="Canada Revenue Agency">CRA</abbr> mobile application. Then a heading indicates Other ways to set up direct deposit or change bank details. There are 3 options: By phone, In person, By mail. Each is an expand/collapse field that defaults to the closed position so that the user must select one method to open the field and display additional details.</p>
 </details>
 <br>
 
@@ -119,9 +119,9 @@ This is a screenshot of the prototyped Contact page pattern. The top section of 
 ## 4. Build on previous experiments and learning
 
 
-CRA is responsible for web content related to several top tasks for Canadians. These include filing your taxes and accessing the Canada Child Benefit. Many of these tasks require you to contact the CRA or send them a form. CRA call centers receive millions of calls each year. Often people contact the call centres because they can’t figure out what office to call for their specific request or because they can’t find which address to send their form to when the address isn’t printed on the form. Imagine how much more quickly people could receive service for complex questions, if the answers to these simple questions were easy to find online.
+<abbr title="Canada Revenue Agency">CRA</abbr> is responsible for web content related to several top tasks for Canadians. These include filing your taxes and accessing the Canada Child Benefit. Many of these tasks require you to contact the <abbr title="Canada Revenue Agency">CRA</abbr> or send them a form. <abbr title="Canada Revenue Agency">CRA</abbr> call centers receive millions of calls each year. Often people contact the call centres because they can’t figure out what office to call for their specific request or because they can’t find which address to send their form to when the address isn’t printed on the form. Imagine how much more quickly people could receive service for complex questions, if the answers to these simple questions were easy to find online.
 
-In 2018, during the [CRA business registration and account maintenance optimization project](https://blog.canada.ca/research-summaries/business-account-research-summary.html), the team built a simple wizard to help people find the right tax service office or tax centre. (Forms must be sent to different CRA addresses based on where the person or business is located.) The wizard helped 61% of test participants successfully complete their task. This year we looked at the wizard again as part of the Contact the CRA project. We realized that it was still complex and only covered some of the most popular forms. There was room to improve the design.
+In 2018, during the [<abbr title="Canada Revenue Agency">CRA</abbr> business registration and account maintenance optimization project](https://blog.canada.ca/research-summaries/business-account-research-summary.html), the team built a simple wizard to help people find the right tax service office or tax centre. (Forms must be sent to different <abbr title="Canada Revenue Agency">CRA</abbr> addresses based on where the person or business is located.) The wizard helped 61% of test participants successfully complete their task. This year we looked at the wizard again as part of the Contact the <abbr title="Canada Revenue Agency">CRA</abbr> project. We realized that it was still complex and only covered some of the most popular forms. There was room to improve the design.
 
 The team simplified the process further. Instead of using postal codes in the lookup, we used the form number and province. This way the lookup works for all forms. Success rates climbed to 94% when we tested the prototype of the new wizard.  
 
@@ -156,7 +156,7 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
 <summary>
 Detailed description
 </summary>
-Screen captures of 3 versions of content supporting the task of finding a mailing address for a CRA form. The first is the original content. The label indicates that users were successful 18% of the time with this design. The second is an image of the simple wizard built in the Business registration project. Radio buttons allow you to select the type of form you want to mail. The label indicates a 61% success rate with this design. The final image shows the revised wizard from the most recent Contact the CRA project. Users can enter the form number in an open text field and can select the location of their home, business or property from a drop-down menu. The label indicates a 94% success rate with this design.
+Screen captures of 3 versions of content supporting the task of finding a mailing address for a <abbr title="Canada Revenue Agency">CRA</abbr> form. The first is the original content. The label indicates that users were successful 18% of the time with this design. The second is an image of the simple wizard built in the Business registration project. Radio buttons allow you to select the type of form you want to mail. The label indicates a 61% success rate with this design. The final image shows the revised wizard from the most recent Contact the <abbr title="Canada Revenue Agency">CRA</abbr> project. Users can enter the form number in an open text field and can select the location of their home, business or property from a drop-down menu. The label indicates a 94% success rate with this design.
 </details>
 <br>
 
@@ -168,4 +168,4 @@ Let us know what you think. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@t
 
 ## Learn more
 * [Research summary: Travel advice and advisories](https://blog.canada.ca/research-summaries/travel-advice-research-summary.html)
-* [Research summary: CRA: Contact us](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
+* [Research summary: <abbr title="Canada Revenue Agency">CRA</abbr>: Contact us](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)

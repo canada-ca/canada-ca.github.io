@@ -39,7 +39,6 @@ Dans le prototype, nous avons apporté des changements aux systèmes de navigati
 
 Dans un environnement de plus en plus axé sur le numérique, il ne faut pas négliger de concevoir le matériel pour le bon support. Malheureusement, ce n’est pas suffisant d’afficher une excellente ressource imprimée sur un site Web – il faut l’adapter pour la rendre réellement efficace auprès d’un auditoire d’utilisateurs en ligne.
 
-<abbr title="Employment Insurance">EI</abbr>
 
 <figure>
 <img class="img-responsive" alt="Refonte du dépliant sous forme de contenu Web."
@@ -119,7 +118,7 @@ Jetez un coup d’œil à la [version alpha de la configuration du bloc de coord
 <summary>
 Description détaillée
 </summary>
-Il s’agit d’une capture d’écran de la page de coordonnées du prototype. Au sommet de la page, une section énumère les types de paiements que l’on peut recevoir par dépôt direct en s’inscrivant. La méthode en ligne d’inscription au dépôt direct et de changement des renseignements bancaires est mise en exergue. Un grand bouton vert marqué des mots «&nbsp;Me connecter à mon compte&nbsp;» est le principal bouton d’appel à l’action. D’autres options suivent : un lien pour s’inscrire et un autre lien vers l’application mobile MonARC. Puis, un en-tête lisant «&nbsp;Autres moyens de s’inscrire au dépôt direct ou de changer vos renseignements bancaires&nbsp;». Il y a trois options dans cette catégorie : «&nbsp;Par téléphone&nbsp;», «&nbsp;En personne&nbsp;» et «&nbsp;Par courriel&nbsp;». Chacune de ces options comporte un champ masqué par défaut afin que l’utilisateur doive choisir un champ avant de voir s’afficher les renseignements pour ce champ particulier.</p>
+Il s’agit d’une capture d’écran de la page de coordonnées du prototype. Au sommet de la page, une section énumère les types de paiements que l’on peut recevoir par dépôt direct en s’inscrivant. La méthode en ligne d’inscription au dépôt direct et de changement des renseignements bancaires est mise en exergue. Un grand bouton vert marqué des mots «&nbsp;Me connecter à mon compte&nbsp;» est le principal bouton d’appel à l’action. D’autres options suivent : un lien pour s’inscrire et un autre lien vers l’application mobile Mon<abbr title="Agence du revenu du Canada">ARC</abbr>. Puis, un en-tête lisant «&nbsp;Autres moyens de s’inscrire au dépôt direct ou de changer vos renseignements bancaires&nbsp;». Il y a trois options dans cette catégorie : «&nbsp;Par téléphone&nbsp;», «&nbsp;En personne&nbsp;» et «&nbsp;Par courriel&nbsp;». Chacune de ces options comporte un champ masqué par défaut afin que l’utilisateur doive choisir un champ avant de voir s’afficher les renseignements pour ce champ particulier.</p>
 </details>
 <br>
 
@@ -140,21 +139,21 @@ L’amélioration du taux de réussite des utilisateurs est un processus continu
   <div class="col-md-4">
     <h3>Version originale</h3> <p class="success">18 % de réussite</p>
     <figure>
-    <img class="img-responsive border" alt="Version originale de l'adresse postale de l'<abbr title="Agence du revenu du Canada">ARC</abbr>."
+    <img class="img-responsive border" alt="Version originale de l'adresse postale de l'ARC."
      src="/images/conseils-voyageurs-contact/adresses-postales-reussite-1.png"/>
     </figure>
   </div>
   <div class="col-md-4">
     <h3>1ère conception : L'assistant</h3><p class="success">61 % de réussite</p>
     <figure>
-    <img class="img-responsive border" alt="Réussite de l'assistant d'adresse postale de l'<abbr title="Agence du revenu du Canada">ARC</abbr>."
+    <img class="img-responsive border" alt="Réussite de l'assistant d'adresse postale de l'ARC."
      src="/images/conseils-voyageurs-contact/adresses-postales-reussite-2.png"/>
     </figure>
   </div>
   <div class="col-md-4">
     <h3>2ème conception : Recherche par code postale</h3><p class="success">94 % de  réussite</p>
     <figure>
-    <img class="img-responsive border" alt="Réussite de recherches par code postales de l'<abbr title="Agence du revenu du Canada">ARC</abbr>."
+    <img class="img-responsive border" alt="Réussite de recherches par code postales de l'ARC."
      src="/images/conseils-voyageurs-contact/adresses-postales-reussite-3.png"/>
     </figure>
   </div>
