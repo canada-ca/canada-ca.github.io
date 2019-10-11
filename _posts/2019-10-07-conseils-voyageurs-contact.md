@@ -49,7 +49,7 @@ Dans un environnement de plus en plus axé sur le numérique, il ne faut pas né
 <summary>
 Description détaillée
 </summary>
-<p>A screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text "Planning your trip". A cut-away of the Planning your trip page has the link text, "Before you go." A cut-away of the Before you go page shows the checklist content.</p>
+<p>Une capture d’écran illustre la bannière publicitaire pour un dépliant imprimé intitulé « Aide-mémoire du voyageur », au haut de la page « Voyages et tourisme » originale. À la gauche, une série de 3 captures d’écran affiche des extraits de 3 pages du prototype avec leurs liens qui amènent éventuellement à l’aide-mémoire. À la première page, le lien est intitulé « Planifier votre voyage ». La deuxième capture d’écran, superposée par-dessus celle-ci, affiche la page en question, contenant un lien intitulé « Avant de partir ». Enfin, la troisième capture d’écran superpose par-dessus la deuxième affiche la page « Avant de partir » avec le contenu de l’aide-mémoire.</p>
 </details>
 <br>
 <br>
@@ -172,11 +172,11 @@ La capture d’écran affiche 3 versions du contenu visant à aider les utilisat
 <br>
 
 ## Mot de la fin
-IDans le cadre de nos projets d’optimisation, nous cherchons à trouver et à comprendre les irritants pour les Canadiens utilisant Canada.ca. Nous cherchons constamment à améliorer la présentation de notre site ainsi que son contenu. En menant continuellement des essais de convivialité, nous apprenons où les lacunes sont situées et nous développons de l’empathie envers les utilisateurs. Nous travaillons chaque jour dans le but d’améliorer le site pour accroître son efficacité pour tous les Canadiens.
+Dans le cadre de nos projets d’optimisation, nous cherchons à trouver et à comprendre les irritants pour les Canadiens utilisant Canada.ca. Nous cherchons constamment à améliorer la présentation de notre site ainsi que son contenu. En menant continuellement des essais de convivialité, nous apprenons où les lacunes sont situées et nous développons de l’empathie envers les utilisateurs. Nous travaillons chaque jour dans le but d’améliorer le site pour accroître son efficacité pour tous les Canadiens.
 
 
 ## Nous aimerions connaître votre opinion
-LDites-nous ce que vous en pensez – envoyez-nous un courriel à l’adresse [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) ou publiez un gazouillis accompagné du mot-clic #Canadapointca.
+Dites-nous ce que vous en pensez – envoyez-nous un courriel à l’adresse [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) ou publiez un gazouillis accompagné du mot-clic #Canadapointca.
 
 
 ## Pour en savoir plus
