@@ -31,7 +31,7 @@ figcaption {
 ## 1. Fournir les réponses dans le contenu Web plutôt que dans les publications
 
 
-Le travail à l’étranger comporte des risques. Affaires mondiales Canada offre un excellent aide‑mémoire énumérant les principales choses à faire avant de voyager. Entre autres, il rappelle aux voyageurs de consulter les avertissements aux voyageurs, de vérifier les vaccins à se faire administrer, et d’apprendre à voyager en toute sécurité avec des médicaments. Initialement, cet aide-mémoire a été conçu pour être distribué par les agences de voyages ou à l’aéroport sous forme de petit dépliant. Cependant, ces renseignements étant très utiles, <abbr title="Affaires mondiales Canada">AMC</abbr> a décidé d’ajouter l’aide-mémoire à son site Web. Afin d’accroître la sensibilisation par rapport à cette ressource, AMC en a fait la promotion dans la bannière au haut de la page «&nbsp;Voyage et tourisme&nbsp;». Elle fait également partie de la liste de publications au bas de cette même page. Nous avons décidé de vérifier si les utilisateurs du site Web réussissaient à trouver cette liste de recommandations pour les Canadiens voyageant à l’étranger.
+Le travail à l’étranger comporte des risques. Affaires mondiales Canada offre un excellent aide‑mémoire énumérant les principales choses à faire avant de voyager. Entre autres, il rappelle aux voyageurs de consulter les avertissements aux voyageurs, de vérifier les vaccins à se faire administrer, et d’apprendre à voyager en toute sécurité avec des médicaments. Initialement, cet aide-mémoire a été conçu pour être distribué par les agences de voyages ou à l’aéroport sous forme de petit dépliant. Cependant, ces renseignements étant très utiles, <abbr title="Affaires mondiales Canada">AMC</abbr> a décidé d’ajouter l’aide-mémoire à son site Web. Afin d’accroître la sensibilisation par rapport à cette ressource, <abbr title="Affaires mondiales Canada">AMC</abbr> en a fait la promotion dans la bannière au haut de la page «&nbsp;Voyage et tourisme&nbsp;». Elle fait également partie de la liste de publications au bas de cette même page. Nous avons décidé de vérifier si les utilisateurs du site Web réussissaient à trouver cette liste de recommandations pour les Canadiens voyageant à l’étranger.
 
 Tous les participants à la série de tests de référence ont navigué à la page contenant l’annonce de la publication. Pourtant, 89 % d’entre eux ont échoué la tâche. Pourquoi? Parce que les participants ne cherchaient pas une publication – étant sur un site Web, ils cherchaient du contenu Web.
 
@@ -98,7 +98,7 @@ Description détaillée
 
 Dans le cadre de nombreuses tâches touchant les services, les Canadiens doivent choisir la voie qu’ils souhaitent utiliser : libre-service en ligne, téléphone ou courriel. Afficher tous les détails sur chacune de ces options sur les pages concernant les services peut s’avérer accablant pour les utilisateurs. Qui plus est, les options de communication par téléphone ou par courriel contiennent parfois des choix supplémentaires à faire en fonction de l’option choisie – par exemple, des numéros et des adresses courriel différents en fonction des provinces.
 
-Dans le cadre du projet Communiquer avec l’ARC, l’équipe a cherché à simplifier la configuration de la page de coordonnées pour rendre les options plus simples à trouver et à comprendre.
+Dans le cadre du projet Communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>, l’équipe a cherché à simplifier la configuration de la page de coordonnées pour rendre les options plus simples à trouver et à comprendre.
 
 Nous avons utilisé le modèle «&nbsp;afficher-masquer&nbsp;» pour séparer les voies (téléphone, libre‑service, courriel). Ainsi, les utilisateurs avaient à choisir une voie avant que les détails pour cette voie soient affichés. Ils n’avaient plus à parcourir des détails sans rapport avec leurs choix – par exemple, ceux qui cherchaient un numéro de téléphone n’avaient plus à parcourir plusieurs adresses courriel avant de le trouver. Les taux de réussite ont augmenté de plus de 30 points pour plusieurs tâches lors des essais du nouveau prototype.
 
@@ -127,9 +127,9 @@ Il s’agit d’une capture d’écran de la page de coordonnées du prototype. 
 ## 4. Mettre à profit les anciennes expériences et les leçons apprises par le passé
 
 
-L’ARC est responsable d’élaborer le contenu Web connexe à plusieurs des tâches les plus importantes pour les Canadiens, dont la préparation de la déclaration de revenus et l’accès à l’Allocation canadienne pour enfants. Dans le cadre de nombreuses tâches, il faut communiquer avec l’ARC ou y envoyer un formulaire. Les centres d’appels de l’ARC reçoivent des millions d’appels par année – bon nombre de ceux-ci proviennent d’utilisateurs qui n’arrivent pas à comprendre quel bureau doit traiter leur demande ou à quelle adresse envoyer un formulaire lorsque l’adresse ne figure pas sur celui-ci. Si seulement les réponses à ces questions simples étaient faciles à trouver en ligne, les personnes ayant des questions complexes à poser au centre d’appels pourraient recevoir leur réponse bien plus rapidement.
+L’<abbr title="Agence du revenu du Canada">ARC</abbr> est responsable d’élaborer le contenu Web connexe à plusieurs des tâches les plus importantes pour les Canadiens, dont la préparation de la déclaration de revenus et l’accès à l’Allocation canadienne pour enfants. Dans le cadre de nombreuses tâches, il faut communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr> ou y envoyer un formulaire. Les centres d’appels de l’<abbr title="Agence du revenu du Canada">ARC</abbr> reçoivent des millions d’appels par année – bon nombre de ceux-ci proviennent d’utilisateurs qui n’arrivent pas à comprendre quel bureau doit traiter leur demande ou à quelle adresse envoyer un formulaire lorsque l’adresse ne figure pas sur celui-ci. Si seulement les réponses à ces questions simples étaient faciles à trouver en ligne, les personnes ayant des questions complexes à poser au centre d’appels pourraient recevoir leur réponse bien plus rapidement.
 
-En 2018, durant le [projet d’optimisation de l’inscription des entreprises et de la tenue des comptes mené avec l’ARC](https://blogue.canada.ca/resumes-recherche/comptes-entreprises-resume-recherche.html), l’équipe a élaboré un assistant simple dans le but d’aider les utilisateurs à trouver le bon bureau de services fiscaux ou centre fiscal (en fonction de l’adresse où se situe la personne ou l’entreprise, les formulaires doivent être envoyés à de différents bureaux de l’ARC). Lors de sa mise à l’essai, l’assistant a aidé 61 % des participants à réaliser leurs tâches avec succès. Cette année, en réexaminant l’assistant dans le cadre du projet «&nbsp;Communiquer avec l’ARC&nbsp;», nous nous sommes rendu compte qu’il était toujours trop complexe et ne comprenait que certains des formulaires les plus populaires. Bref, on pouvait faire mieux.
+En 2018, durant le [projet d’optimisation de l’inscription des entreprises et de la tenue des comptes mené avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>](https://blogue.canada.ca/resumes-recherche/comptes-entreprises-resume-recherche.html), l’équipe a élaboré un assistant simple dans le but d’aider les utilisateurs à trouver le bon bureau de services fiscaux ou centre fiscal (en fonction de l’adresse où se situe la personne ou l’entreprise, les formulaires doivent être envoyés à de différents bureaux de l’<abbr title="Agence du revenu du Canada">ARC</abbr>). Lors de sa mise à l’essai, l’assistant a aidé 61 % des participants à réaliser leurs tâches avec succès. Cette année, en réexaminant l’assistant dans le cadre du projet «&nbsp;Communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>&nbsp;», nous nous sommes rendu compte qu’il était toujours trop complexe et ne comprenait que certains des formulaires les plus populaires. Bref, on pouvait faire mieux.
 
 L’équipe a simplifié le processus encore plus : au lieu d’utiliser le code postal, la recherche se fait maintenant en fonction du numéro du formulaire et de la province. La recherche fonctionne donc maintenant pour tous les types de formulaires. Les taux de réussite ont passé à 94 % lors de la mise à l’essai du prototype.
 
@@ -140,21 +140,21 @@ L’amélioration du taux de réussite des utilisateurs est un processus continu
   <div class="col-md-4">
     <h3>Version originale</h3> <p class="success">18 % de réussite</p>
     <figure>
-    <img class="img-responsive border" alt="Version originale de l'adresse postale de l'ARC."
+    <img class="img-responsive border" alt="Version originale de l'adresse postale de l'<abbr title="Agence du revenu du Canada">ARC</abbr>."
      src="/images/conseils-voyageurs-contact/adresses-postales-reussite-1.png"/>
     </figure>
   </div>
   <div class="col-md-4">
     <h3>1ère conception : L'assistant</h3><p class="success">61 % de réussite</p>
     <figure>
-    <img class="img-responsive border" alt="Réussite de l'assistant d'adresse postale de l'ARC."
+    <img class="img-responsive border" alt="Réussite de l'assistant d'adresse postale de l'<abbr title="Agence du revenu du Canada">ARC</abbr>."
      src="/images/conseils-voyageurs-contact/adresses-postales-reussite-2.png"/>
     </figure>
   </div>
   <div class="col-md-4">
     <h3>2ème conception : Recherche par code postale</h3><p class="success">94 % de  réussite</p>
     <figure>
-    <img class="img-responsive border" alt="Réussite de recherches par code postales de l'ARC."
+    <img class="img-responsive border" alt="Réussite de recherches par code postales de l'<abbr title="Agence du revenu du Canada">ARC</abbr>."
      src="/images/conseils-voyageurs-contact/adresses-postales-reussite-3.png"/>
     </figure>
   </div>
@@ -166,7 +166,7 @@ L’amélioration du taux de réussite des utilisateurs est un processus continu
 <summary>
 Description détaillée
 </summary>
-La capture d’écran affiche 3 versions du contenu visant à aider les utilisateurs à trouver l’adresse postale où un formulaire de l’ARC doit être envoyé. À gauche se trouve le contenu original. Une étiquette indique que les utilisateurs ont réussi la tâche 18 % du temps en utilisant ce modèle. Au milieu se trouve une image de l’assistant simple élaboré dans le cadre du projet d’inscription des entreprises. Des boutons radio permettent à l’utilisateur de choisir le type de formulaire qu’il souhaite envoyer avant de faire une recherche par code postal. Une étiquette indique que les utilisateurs ont réussi la tâche 61 % du temps en utilisant l’assistant. La dernière image affiche l’assistant modifié dans le cadre du récent projet « Communiquer avec l’ARC&nbsp;». Les utilisateurs peuvent saisir le numéro du formulaire qu’ils souhaitent envoyer dans un champ de texte et choisir le lieu de leur maison, entreprise ou propriété à partir d’un menu déroulant. Une étiquette indique que les utilisateurs ont réussi la tâche 94 % du temps en utilisant ce modèle.
+La capture d’écran affiche 3 versions du contenu visant à aider les utilisateurs à trouver l’adresse postale où un formulaire de l’<abbr title="Agence du revenu du Canada">ARC</abbr> doit être envoyé. À gauche se trouve le contenu original. Une étiquette indique que les utilisateurs ont réussi la tâche 18 % du temps en utilisant ce modèle. Au milieu se trouve une image de l’assistant simple élaboré dans le cadre du projet d’inscription des entreprises. Des boutons radio permettent à l’utilisateur de choisir le type de formulaire qu’il souhaite envoyer avant de faire une recherche par code postal. Une étiquette indique que les utilisateurs ont réussi la tâche 61 % du temps en utilisant l’assistant. La dernière image affiche l’assistant modifié dans le cadre du récent projet « Communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>&nbsp;». Les utilisateurs peuvent saisir le numéro du formulaire qu’ils souhaitent envoyer dans un champ de texte et choisir le lieu de leur maison, entreprise ou propriété à partir d’un menu déroulant. Une étiquette indique que les utilisateurs ont réussi la tâche 94 % du temps en utilisant ce modèle.
 </details>
 <br>
 
@@ -182,4 +182,4 @@ LDites-nous ce que vous en pensez – envoyez-nous un courriel à l’adresse [d
 
 ## Pour en savoir plus
 * [Résumé de la recherche : Conseils aux voyageurs et avertissements](https://blogue.canada.ca/resumes-recherche/conseils-voyageurs-resume-recherche.html)
-* [Résumé de la recherche : Communiquer avec l’ARC](https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html)
+* [Résumé de la recherche : Communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>](https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html)
