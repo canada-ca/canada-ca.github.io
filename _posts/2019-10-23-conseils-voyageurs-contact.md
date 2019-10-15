@@ -143,14 +143,14 @@ L’amélioration du taux de réussite des utilisateurs est un processus continu
     </figure>
   </div>
   <div class="col-md-4">
-    <h3>1ère conception : L'assistant</h3><p class="success">61 % de réussite</p>
+    <h3>1re conception : L'assistant</h3><p class="success">61 % de réussite</p>
     <figure>
     <img class="img-responsive border" alt="Réussite de l'assistant d'adresse postale de l'ARC."
      src="/images/conseils-voyageurs-contact/adresses-postales-reussite-2.png"/>
     </figure>
   </div>
   <div class="col-md-4">
-    <h3>2ème conception : Recherche par code postale</h3><p class="success">94 % de  réussite</p>
+    <h3>2e conception : Recherche par code postal</h3><p class="success">94 % de  réussite</p>
     <figure>
     <img class="img-responsive border" alt="Réussite de recherches par code postales de l'ARC."
      src="/images/conseils-voyageurs-contact/adresses-postales-reussite-3.png"/>
