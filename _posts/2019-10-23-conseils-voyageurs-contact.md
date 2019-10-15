@@ -79,7 +79,7 @@ Les utilisateurs ne creusent pas en profondeur si l’on ne leur indique pas qu�
  </figure>
 
 
-<details class="col-md-8">
+
 <summary>
 Description détaillée
 </summary>
@@ -90,7 +90,7 @@ Description détaillée
 </details>
 
 
-<details class="col-md-8 mrgn-bttm-md">
+
 
 ## 3. Aider les utilisateurs à faire des choix
 
@@ -113,7 +113,7 @@ Jetez un coup d’œil à la [version alpha de la configuration du bloc de coord
 </figure>
 
 
-<details class="col-md-8 mrgn-bttm-md">
+
 <summary>
 Description détaillée
 </summary>
@@ -166,7 +166,7 @@ Description détaillée
 </summary>
 La capture d’écran affiche 3 versions du contenu visant à aider les utilisateurs à trouver l’adresse postale où un formulaire de l’<abbr title="Agence du revenu du Canada">ARC</abbr> doit être envoyé. À gauche se trouve le contenu original. Une étiquette indique que les utilisateurs ont réussi la tâche 18 % du temps en utilisant ce modèle. Au milieu se trouve une image de l’assistant simple élaboré dans le cadre du projet d’inscription des entreprises. Des boutons radio permettent à l’utilisateur de choisir le type de formulaire qu’il souhaite envoyer avant de faire une recherche par code postal. Une étiquette indique que les utilisateurs ont réussi la tâche 61 % du temps en utilisant l’assistant. La dernière image affiche l’assistant modifié dans le cadre du récent projet « Communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>&nbsp;». Les utilisateurs peuvent saisir le numéro du formulaire qu’ils souhaitent envoyer dans un champ de texte et choisir le lieu de leur maison, entreprise ou propriété à partir d’un menu déroulant. Une étiquette indique que les utilisateurs ont réussi la tâche 94 % du temps en utilisant ce modèle.
 </details>
-<details class="col-md-8 mrgn-bttm-md">
+
 
 ## Mot de la fin
 Dans le cadre de nos projets d’optimisation, nous cherchons à trouver et à comprendre les irritants pour les Canadiens utilisant Canada.ca. Nous cherchons constamment à améliorer la présentation de notre site ainsi que son contenu. En menant continuellement des essais de convivialité, nous apprenons où les lacunes sont situées et nous développons de l’empathie envers les utilisateurs. Nous travaillons chaque jour dans le but d’améliorer le site pour accroître son efficacité pour tous les Canadiens.
