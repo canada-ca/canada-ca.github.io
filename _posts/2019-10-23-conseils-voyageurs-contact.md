@@ -168,7 +168,6 @@ La capture d’écran affiche 3 versions du contenu visant à aider les utilisat
 </details>
 <br>
 
-<br>
 
 ## Mot de la fin
 Dans le cadre de nos projets d’optimisation, nous cherchons à trouver et à comprendre les irritants pour les Canadiens utilisant Canada.ca. Nous cherchons constamment à améliorer la présentation de notre site ainsi que son contenu. En menant continuellement des essais de convivialité, nous apprenons où les lacunes sont situées et nous développons de l’empathie envers les utilisateurs. Nous travaillons chaque jour dans le but d’améliorer le site pour accroître son efficacité pour tous les Canadiens.
