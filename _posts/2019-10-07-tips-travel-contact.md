@@ -2,7 +2,7 @@
 layout: post
 title:  "Content design tips from our Travel advice and advisories and Contact the CRA optimization projects"
 pubdate: "October 23, 2019"
-langpage: "https://blogue.canada.ca/2019/10/07/astuces-conception-contentu.html"
+langpage: "https://blogue.canada.ca/2019/10/07/conseils-voyageurs-conact.html"
 date:   2019-10-23
 published: true
 draft: true
@@ -61,7 +61,7 @@ One of the most important tasks for Canadians travelling abroad is to understand
 However, when we tested, we found that more than half of our participants only checked the first two tabs when looking for major safety warnings: Risk levels, and Safety and security. With nothing written in the first two tabs, they assumed a September wedding in the Caymans would be fine. They didn’t think to check the Natural disasters tab, where there was a warning about hurricane season. They also thought they could bring arthritis medication with codeine into Indonesia. They missed the warning in the Laws and cultures tab that “penalties for possession...of illegal drugs are very severe and include the death penalty.”
 
 Missing these warnings could have serious consequences. The project team tackled redesigning these advice pages in our prototype. We used headings instead of tabs to break up the content. This way people could scroll through all the content at once if they were looking for something specific. We also added an Important points heading at the top of the page. This section called attention to any major risks and linked down to the pertinent sub-heading where users could get more details. We put the most important words furthest to the left in this section, to take advantage of natural scanning behaviour. For example, the warning about hurricane season was structured like this:
-Hurricanes usually occur from mid-May to the end of November and can pose serious safety risks - Hurricane season
+* Hurricanes usually occur from mid-May to the end of November and can pose serious safety risks - Hurricane season
 
 “Hurricanes usually occur” is in the position most likely to attract attention. Success rates for these two tasks increased dramatically on the prototype.
 
@@ -164,7 +164,7 @@ Screen captures of 3 versions of content supporting the task of finding a mailin
 In our optimization projects we seek to find and understand the pain points for Canadians using Canada.ca. We want to continuously improve the design of the site and our content. Continuous usability testing allows us to better understand where the gaps exist, and develop empathy for our users. We’re working every day to refine the site and make it more effective for all Canadians.
 
 ## We want to hear from you
-Let us know what you think. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
+Let us know what you think. Email us at <span class="nobreak">[dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca)</span> or tweet using the hashtag #Canadadotca.
 
 ## Learn more
 * [Research summary: Travel advice and advisories](https://blog.canada.ca/research-summaries/travel-advice-research-summary.html)
