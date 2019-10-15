@@ -44,7 +44,7 @@ As our reality becomes increasingly digital, it’s important to remember to des
  src="/images/tips-travel-contact/brochure-to-web-content.png"/>
 </figure>
 
-<details class="col-md-8">
+<details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
 <summary>
 Detailed description
 </summary>
@@ -76,7 +76,7 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 </figure>
 
 
-<details class="col-md-8">
+<details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
 <summary>
 Detailed description
 </summary>
@@ -97,7 +97,7 @@ We used expand/collapse fields to highlight the channels (by phone, in person, b
 
 The design simplifies the layout of the page and reduces cognitive load. It makes it clear that there are several, distinct ways to perform the task. It also encourages self-serve behaviour by listing the online option first.  
 
-<abbr title="Canada Revenue Agency">CRA</abbr> isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the [Template and pattern library](https://www.canada.ca/en/government/about/design-system/pattern-library.html) library in the Canada.ca design system.    
+<abbr title="Canada Revenue Agency">CRA</abbr> isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the [Template and pattern library](https://www.canada.ca/en/government/about/design-system/pattern-library.html)in the Canada.ca design system.    
 
 Check out the [alpha version of the Contact block pattern.](https://canada-ca.github.io/design-system-systeme-conception/common-design-patterns/contact-block.html)
 
@@ -107,11 +107,11 @@ Check out the [alpha version of the Contact block pattern.](https://canada-ca.gi
 </figure>
 
 
-<details class="col-md-8">
+<details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
 <summary>
 Detailed description
 </summary>
-This is a screenshot of the prototyped Contact page pattern. The top section of the page lists the types of payments you can sign up to receive by direct deposit. The online channel is the featured method for setting up or changing direct deposit and bank details. A large green button labelled Sign in to My Account is the primary call-to-action button. Next are other options: a link to Register and a link to My<abbr title="Canada Revenue Agency">CRA</abbr> mobile application. Then a heading indicates Other ways to set up direct deposit or change bank details. There are 3 options: By phone, In person, By mail. Each is an expand/collapse field that defaults to the closed position so that the user must select one method to open the field and display additional details.</p>
+This is a screenshot of the prototyped Contact page pattern. The top section of the page lists the types of payments you can sign up to receive by direct deposit. The online channel is the featured method for setting up or changing direct deposit and bank details. A large green button labelled Sign in to My Account is the primary call-to-action button. Next are other options: a link to Register and a link to My<abbr title="Canada Revenue Agency">CRA</abbr> mobile application. Then a heading indicates Other ways to set up direct deposit or change bank details. There are 3 options: By phone, In person, By mail. Each is an expand/collapse field that defaults to the closed position so that the user must select one method to open the field and display additional details.
 </details>
 <br>
 
@@ -152,7 +152,7 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
 </div>
 <br>
 
-<details class="col-md-8">
+<details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
 <summary>
 Detailed description
 </summary>

@@ -62,7 +62,7 @@ Il est primordial pour les Canadiens voyageant à l’étranger de comprendre le
 Cependant, en menant les tests, nous nous sommes rendu compte que plus de la moitié de nos participants ne consultaient que les deux premiers onglets : «&nbsp;Niveau(x) de risque&nbsp;» et «&nbsp;Sécurité&nbsp;». Ils ne s’attendaient pas à ce que les autres onglets puissent contenir des avertissements importants sur la sécurité. Faute de trouver une contre-indication dans ces deux premiers onglets, ils pensaient qu’un mariage dans les îles Caïmans en septembre ne poserait aucun problème. Ils n’avaient pas le réflexe de vérifier l’onglet «&nbsp;Catastrophes naturelles et climat&nbsp;», contenant un avertissement sur la saison des ouragans. Ils ne pensaient également pas rencontrer de problèmes en amenant en Indonésie des médicaments contre l’arthrite contenant de la codéine. Ils ont manqué l’avertissement dans l’onglet «&nbsp;Lois et coutumes&nbsp;» précisant que «&nbsp;la possession, l’usage et le trafic de stupéfiants sont très sévèrement punis, et les infractions graves sont passibles de la peine de mort&nbsp;».
 
 L’omission de ces avertissements peut entraîner de graves conséquences. L’équipe de projets s’est donc attaquée à la création d’un prototype axé sur la transformation de ces pages de conseils. Nous avons utilisé des en-têtes au lieu d’onglets afin que les utilisateurs puissent parcourir tout le contenu sur une seule page au moment de chercher des renseignements précis. Nous avons également ajouté un en-tête «&nbsp;Points importants&nbsp;» au sommet de la page. Cette section attirait l’attention des utilisateurs aux risques importants et comprenait des liens vers les sections pertinentes ci-dessous que les utilisateurs pouvaient consulter pour en savoir plus. Dans cette section, nous avons mis les mots les plus importants au début des phrases, à gauche, afin de naturellement porter l’attention d’un lecteur qui parcourt rapidement le texte sur ces renseignements. Par exemple, l’avertissement sur la saison des ouragans était formulé ainsi :
-* Les ouragans ont typiquement lieu entre la mi-mai et la fin de novembre, et peuvent présenter des risques sévères pour la sécurité – [Saison ses ouragans](https://fr.wikipedia.org/wiki/Saison_cyclonique_2019_dans_l%27oc%C3%A9an_Atlantique_nord)
+* Les ouragans ont typiquement lieu entre la mi-mai et la fin de novembre, et peuvent présenter des risques sévères pour la sécurité – <span class="nobreak">[Saison ses ouragans](https://fr.wikipedia.org/wiki/Saison_cyclonique_2019_dans_l%27oc%C3%A9an_Atlantique_nord)</span>
 
 «&nbsp;Les ouragans ont typiquement lieu…&nbsp;» est placé de manière à attirer l’attention. Les taux de réussite pour ces deux tâches ont augmenté de façon importante durant la mise à l’essai du prototype.
 
@@ -79,7 +79,7 @@ Les utilisateurs ne creusent pas en profondeur si l’on ne leur indique pas qu�
  </figure>
 
 
-<details class="col-md-8">
+<details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
 <summary>
 Description détaillée
 </summary>
@@ -113,7 +113,7 @@ Jetez un coup d’œil à la [version alpha de la configuration du bloc de coord
 </figure>
 
 
-<details class="col-md-8">
+<details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
 <summary>
 Description détaillée
 </summary>
@@ -160,7 +160,7 @@ L’amélioration du taux de réussite des utilisateurs est un processus continu
 <br>
 
 
-<details class="col-md-8">
+<details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
 <summary>
 Description détaillée
 </summary>
