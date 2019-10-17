@@ -2,7 +2,7 @@
 layout: post
 title:  Conseils de conception de contenu tirés de nos projets d’optimisation du contenu «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;»
 pubdate: "Le 23 octobre 2019"
-langpage: "https://blogue.canada.ca/2019/10/07/tips-travel-contact.html"
+langpage: "https://Blogue.canada.ca/2019/10/07/tips-travel-contact.html"
 date:   2019-10-23
 published: true
 draft: true
