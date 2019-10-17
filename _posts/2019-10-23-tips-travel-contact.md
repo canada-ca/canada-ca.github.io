@@ -91,11 +91,11 @@ In many service tasks, Canadians make a choice about the channel they want to us
 
 As part of the Contact the <abbr title="Canada Revenue Agency">CRA</abbr> project, the team worked to simplify the layout of a contact page to make it easier to find and understand the options.
 
-We used expand/collapse fields to highlight the channels (by phone, in person, by mail). This forced users to choose the channel first. Only then did they see the details for that choice. It meant that they didn’t have to look at details that didn’t pertain to their choice. For example, if they wanted a phone number they didn’t have to sift through mailing addresses to find it. Success rates increased by over 30 percentage points for several of the tasks we tested with this new design prototype.
+We used expand/collapse pattern to highlight the channels (by phone, in person, by mail). This forced users to choose the channel first. Only then did they see the details for that choice. It meant that they didn’t have to look at details that didn’t pertain to their choice. For example, if they wanted a phone number they didn’t have to sift through mailing addresses to find it. Success rates increased by over 30 percentage points for several of the tasks we tested with this new design prototype.
 
 The design simplifies the layout of the page and reduces cognitive load. It makes it clear that there are several, distinct ways to perform the task. It also encourages self-serve behaviour by listing the online option first.  
 
-<abbr title="Canada Revenue Agency">CRA</abbr> isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the [Template and pattern library](https://www.canada.ca/en/government/about/design-system/pattern-library.html)in the Canada.ca design system.    
+<abbr title="Canada Revenue Agency">CRA</abbr> isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the [Template and pattern library](https://www.canada.ca/en/government/about/design-system/pattern-library.html) in the Canada.ca design system.    
 
 Check out the [alpha version of the Contact block pattern.](https://canada-ca.github.io/design-system-systeme-conception/common-design-patterns/contact-block.html)
 
@@ -166,4 +166,4 @@ Let us know what you think. Email us at <span class="nobreak">[dto-btn@tbs-sct.g
 
 ## Learn more
 * [Research summary: Travel advice and advisories](https://blog.canada.ca/research-summaries/travel-advice-research-summary.html)
-* [Research summary: <abbr title="Canada Revenue Agency">CRA</abbr>: Contact us](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
+* [Research summary: Contact the <abbr title="Canada Revenue Agency">CRA</abbr>](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
