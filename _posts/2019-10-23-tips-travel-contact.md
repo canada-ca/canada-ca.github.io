@@ -91,7 +91,7 @@ In many service tasks, Canadians make a choice about the channel they want to us
 
 As part of the Contact the <abbr title="Canada Revenue Agency">CRA</abbr> project, the team worked to simplify the layout of a contact page to make it easier to find and understand the options.
 
-We used expand/collapse pattern to highlight the channels (by phone, in person, by mail). This forced users to choose the channel first. Only then did they see the details for that choice. It meant that they didn’t have to look at details that didn’t pertain to their choice. For example, if they wanted a phone number they didn’t have to sift through mailing addresses to find it. Success rates increased by over 30 percentage points for several of the tasks we tested with this new design prototype.
+We used the expand/collapse pattern to highlight the channels (by phone, in person, by mail). This forced users to choose the channel first. Only then did they see the details for that choice. It meant that they didn’t have to look at details that didn’t pertain to their choice. For example, if they wanted a phone number they didn’t have to sift through mailing addresses to find it. Success rates increased by over 30 percentage points for several of the tasks we tested with this new design prototype.
 
 The design simplifies the layout of the page and reduces cognitive load. It makes it clear that there are several, distinct ways to perform the task. It also encourages self-serve behaviour by listing the online option first.  
 
