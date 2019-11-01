@@ -7,7 +7,7 @@ date:   2019-10-23
 published: true
 draft: true
 lang: en
-alt: "Four tips to help improve content design."
+alt: "Content design tips from our Travel advice and advisories and Contact the CRA optimization projects"
 description: "In the winter of 2019, the Digital Transformation Office (DTO) worked with teams from Global Affairs Canada (GAC) and the Canada Revenue Agency (CRA) on two separate optimization projects: Travel advice and advisories and Contact the CRA. Both involved top tasks that millions of Canadians seek to complete on Canada.ca each year."
 ---
 
