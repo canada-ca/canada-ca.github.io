@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Content design tips from our Travel advice and advisories and Contact the <abbr title="Canada Revenue Agency">CRA</abbr> optimization projects"
+title:  "Content design tips from our Travel advice and advisories and Contact the CRA optimization projects"
 pubdate: "October 23, 2019"
 langpage: "https://Blogue.canada.ca/2019/10/23/conseils-voyageurs-conact.html"
 date:   2019-10-23
