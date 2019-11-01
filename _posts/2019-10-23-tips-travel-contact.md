@@ -26,7 +26,7 @@ figcaption {
 
 </style>
 
-In the winter of 2019, the Digital Transformation Office (DTO) worked with teams from Global Affairs Canada (GAC) and the Canada Revenue Agency (CRA) on two separate optimization projects: Travel advice and advisories and Contact the <abbr title="Canada Revenue Agency">CRA</abbr>. Both involved top tasks that millions of Canadians seek to complete on Canada.ca each year. During these projects we identified four tips to help improve content design on Canada.ca and increase user success.
+In the winter of 2019, the Digital Transformation Office (DTO) worked with teams from Global Affairs Canada (GAC) and the Canada Revenue Agency (CRA) on two separate optimization projects: Travel advice and advisories and Contact the <abbr title="Canada Revenue Agency">CRA</abbr>. Both involved top tasks that millions of Canadians seek to complete on Canada.ca each year. Here are 4 content design lessons that helped increase user success for these projects.
 
 ## 1. Put answers in web content, not publications
 
@@ -35,7 +35,7 @@ Travelling abroad carries risks. Global Affairs has a great checklist of things 
 
 All participants in the baseline round of testing navigated to the page where it was advertised. 89% failed the task. Why? Participants weren’t looking for a publication. They were on a website, so they were looking for web content.
 
-In the prototype we made changes to the navigation layer pages. This included adding a section called Planning your trip. That page led to a web page called Before you go. This web page provided the checklist content along with some links to other helpful online resources, like a printable emergency contact card for your wallet. Clear link and doormat text (text that describes the link) led participants to the answer. We tested this task again using our prototype and a new set of participants. This time, the task had a 100% success rate.  
+In the prototype we made changes to the navigation layer pages and created a web page called Before you go. This web page provided the checklist content along with some links to other helpful online resources, like a printable emergency contact card for your wallet. We tested this task again using our prototype and a new set of participants. Clear link and doormat text (text that describes the link) led participants to the answer. This time, the task had a 100% success rate.  
 
 As our reality becomes increasingly digital, it’s important to remember to design for your medium. A great printed resource can’t simply be posted on your website. It needs to be reimagined and adapted to be truly effective for your online audience.
 
