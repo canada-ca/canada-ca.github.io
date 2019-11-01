@@ -26,7 +26,7 @@ figcaption {
 
 </style>
 
-À l’hiver 2019, le Bureau de la transformation numérique (BTN) a travaillé de concert avec des équipes d’Affaires mondiales Canada (AMC) et de l’Agence du revenu du Canada (ARC) sur deux différents projets d’optimisation du contenu&nbsp;: «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>&nbsp;». Les deux projets concernaient des tâches que des millions de Canadiens cherchent à accomplir sur Canada.ca chaque année. Dans le cadre de ces projets, nous avons relevé quatre leçons permettant d’améliorer la conception du contenu sur Canada.ca et d’accroître les taux de réussite des utilisateurs.
+À l’hiver 2019, le Bureau de la transformation numérique (BTN) a travaillé de concert avec des équipes d’Affaires mondiales Canada (AMC) et de l’Agence du revenu du Canada (ARC) sur deux différents projets d’optimisation du contenu&nbsp;: «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>&nbsp;». Les deux projets concernaient des tâches que des millions de Canadiens cherchent à accomplir sur Canada.ca chaque année. Voici 4 leçons de conception de contenu qui ont contribué à accroître les taux de réussite des utilisateurs durant ces projets.
 
 ## 1. Fournir les réponses dans le contenu Web plutôt que dans les publications
 
@@ -35,7 +35,7 @@ Le travail à l’étranger comporte des risques. Affaires mondiales Canada offr
 
 Tous les participants à la série de tests de référence ont navigué à la page contenant l’annonce de la publication. Pourtant, 89 % d’entre eux ont échoué la tâche. Pourquoi? Parce que les participants ne cherchaient pas une publication – étant sur un site Web, ils cherchaient du contenu Web.
 
-Dans le prototype, nous avons apporté des changements aux systèmes de navigation. Entre autres, on a ajouté une section appelée «&nbsp;Planifier votre voyage&nbsp;». Un des liens sur cette page menait vers une page Web appelée «&nbsp;Avant de partir&nbsp;». Celle-ci contenait l’aide-mémoire, ainsi que des liens vers d’autres ressources utiles offertes en ligne, dont une carte imprimable de format portefeuille des personnes-ressources en cas d’urgence. Le texte du lien et celui du lien d’entrée (description du lien) étaient limpides et conduisaient les participants vers la réponse. Nous avons de nouveau testé cette tâche à l'aide de notre prototype et d'un nouveau groupe de participants. Cette fois-ci, la tâche a eu un taux de réussite de 100 %.  
+Dans le prototype, nous avons apporté des changements aux systèmes de navigation. Entre autres, on a ajouté une page Web appelée «&nbsp;Avant de partir&nbsp;». Celle-ci contenait l’aide-mémoire, ainsi que des liens vers d’autres ressources utiles offertes en ligne, dont une carte imprimable de format portefeuille des personnes-ressources en cas d’urgence. Nous avons de nouveau testé cette tâche à l'aide de notre prototype et d'un nouveau groupe de participants. Le texte des liens et les descriptions des liens étaient limpides et conduisaient les participants vers la réponse. Cette fois-ci, la tâche a eu un taux de réussite de 100 %.  
 
 Dans un environnement de plus en plus axé sur le numérique, il ne faut pas négliger de concevoir le matériel pour le bon support. Malheureusement, ce n’est pas suffisant d’afficher une excellente ressource imprimée sur un site Web – il faut l’adapter pour la rendre réellement efficace auprès d’un auditoire d’utilisateurs en ligne.
 
