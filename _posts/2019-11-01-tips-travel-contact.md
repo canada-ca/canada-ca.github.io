@@ -2,7 +2,7 @@
 layout: post
 title:  "Content design tips from our Travel advice and advisories and Contact the CRA optimization projects"
 pubdate: "November 1st, 2019"
-langpage: "https://Blogue.canada.ca/2019/11/01/conseils-voyageurs-conact.html"
+langpage: "https://blogue.canada.ca/2019/11/01/conseils-voyageurs-contact.html"
 date:   2019-11-1
 published: true
 draft: true
