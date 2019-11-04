@@ -2,7 +2,7 @@
 layout: post
 title:  Conseils de conception de contenu tirés de nos projets d’optimisation du contenu «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>&nbsp;»
 pubdate: "Le 1er novembre 2019"
-langpage: "https://blog.canada.ca/2019/10/23/tips-travel-contact.html"
+langpage: "https://blog.canada.ca/2019/11/01/tips-travel-contact.html"
 date:   2019-11-1
 published: true
 draft: true
