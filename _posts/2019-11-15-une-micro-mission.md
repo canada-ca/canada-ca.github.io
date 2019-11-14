@@ -30,7 +30,7 @@ figcaption {
 Conseillère en communications <br>
 Votre collègue située dans une métropole régionales<br>
 
-Avez-vous vu passer des offres de micro-missions tout en vous demandant si ça valait le coup? Ma réponse&nbsp:&nbspassurément! Explications.
+<p>Avez-vous vu passer des offres de micro-missions tout en vous demandant si ça valait le coup? Ma réponse&nbsp:&nbspassurément! Explications.</p>
 
 
 ## Contexte
