@@ -26,9 +26,9 @@ figcaption {
 
 </style>
 
-<p>By:Sandra Duchesne,</p>
-<p>Communications advisor.</p>
-<p>Your colleague located in a regional metropolis.</p>
+By:Sandra Duchesne,<br>
+Communications advisor.<br>
+Your colleague located in a regional metropolis.<br>
 
 Have you seen micro-mission offers come along and wondered if it was worth it?
 My answer: definitely! Explanations.
@@ -45,6 +45,7 @@ In my position in Montreal, I’m part of the Web team, in Communications at Inn
 
 
 This was how I ended up joining a team from the Treasury Board Secretariat’s Digital Transformation Office (DTO). I worked part-time for three months, from my regular office in Montreal, during a web content improvement project with the Canada Revenue Agency.
+
 My objectives:
 * to learn about the approach taken by the DTO for improving content on Canada.ca
 * to better understand the role of a team that develops guidelines that we have to adhere to
