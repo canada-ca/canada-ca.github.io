@@ -24,6 +24,11 @@ figcaption {
   color: green;
 }
 
+.blockquote {
+  color: #277891;
+}
+
+
 </style>
 
 <b>
