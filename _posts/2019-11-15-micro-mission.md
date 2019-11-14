@@ -20,8 +20,8 @@ figcaption {
   padding-top: 5px;
 }
 
-.blockquote {
-  color: #277891;
+.blockquote p {
+  color: #277891 !important;
 }
 
 
