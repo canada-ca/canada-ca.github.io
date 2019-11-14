@@ -26,9 +26,9 @@ figcaption {
 
 </style>
 
-By:Sandra Duchesne,
-Communications advisor.
-Your colleague located in a regional metropolis.
+<p>By:Sandra Duchesne,</p>
+<p>Communications advisor.</p>
+<p>Your colleague located in a regional metropolis.</p>
 
 Have you seen micro-mission offers come along and wondered if it was worth it?
 My answer: definitely! Explanations.
