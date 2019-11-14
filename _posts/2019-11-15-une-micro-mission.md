@@ -37,7 +37,7 @@ Avez-vous vu passer des offres de micro-missions tout en vous demandant si ça v
 
 C’est connu, les employés de la fonction publique fédérale ont tendance à être divisés ainsi&nbsp;:&nbsp;ceux de la <abbr title="Région de la capitale nationale">RCN</abbr>, et les autres. Je fais partie des autres.  Comme les employés de la <abbr title="Région de la capitale nationale">RCN</abbr>, nous avons le devoir de nous tenir au courant des grands projets communs lancés par les organismes centraux.
 
-Dans mon poste à Montréal, je fais partie de l’équipe Web, en communications à Innovation, Sciences et Développement économique Canada – une spécialisation assez rare dans les régions. Alors, en tant  qu’employée, comment pouvons-nous demeurer à jour, outre par les webdiffusions et les appels conférences? Réponse&nbsp;&nbsp;En trouvant des occasions uniques, comme une micro-mission liée au mandat dans un organisme central.
+Dans mon poste à Montréal, je fais partie de l’équipe Web, en communications à Innovation, Sciences et Développement économique Canada – une spécialisation assez rare dans les régions. Alors, en tant  qu’employée, comment pouvons-nous demeurer à jour, outre par les webdiffusions et les appels conférences? Réponse&nbsp;:&nbsp;En trouvant des occasions uniques, comme une micro-mission liée au mandat dans un organisme central.
 
 
 ## Le BTN
