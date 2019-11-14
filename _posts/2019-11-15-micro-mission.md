@@ -21,7 +21,7 @@ figcaption {
 }
 
 .blockquote p {
-  color: #277891 !important;
+  color: 277891 !important;
 }
 
 
