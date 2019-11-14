@@ -26,7 +26,7 @@ figcaption {
 
 </style>
 
-<b>By:<br>
+<b>
 Sandra Duchesne<br>
 Communications advisor<br>
 Your colleague located in a regional metropolis</b>
