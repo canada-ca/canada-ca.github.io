@@ -21,7 +21,7 @@ figcaption {
 }
 
 .blockquote p {
-  color: #277891 !important;
+
 }
 
 </style>
@@ -59,8 +59,8 @@ J’y ai connu des gens remarquables&nbsp;:&nbsp;professionnels, compétents, di
 
 Je laisse la parole à mon gestionnaire.
 
-<blockquote><p>«&nbsp;Une micro-mission à temps partiel, à partir de son poste d’attache, est une formule gagnante pour tous. Pour nous, c’était l’occasion d’appuyer le développement professionnel d’une coéquipière sans pour autant la perdre de vue. Notre collègue a pu participer à un projet stimulant tout en continuant de travailler sur ses dossiers prioritaires.</p>
-<p>
+<blockquote><p style="color: #277891 !important;">«&nbsp;Une micro-mission à temps partiel, à partir de son poste d’attache, est une formule gagnante pour tous. Pour nous, c’était l’occasion d’appuyer le développement professionnel d’une coéquipière sans pour autant la perdre de vue. Notre collègue a pu participer à un projet stimulant tout en continuant de travailler sur ses dossiers prioritaires.</p>
+<p style="color: #277891 !important;">
 Mais le plus important dans tout ça&nbsp;:&nbsp;l’employée a pu élargir son réseau, approfondir ses connaissances et appliquer son expertise. Elle est revenue pleine d’idées et de projets à mettre en œuvre au sein de notre équipe!&nbsp;» </p>		
 </blockquote>		
 
