@@ -2,13 +2,13 @@
 layout: post
 title:  "A micro-mission, why it’s worth a try"
 pubdate: "November 15, 2019"
-langpage: "https://blogue.canada.ca/2019/11/15/micro-mission.html"
+langpage: "https://blogue.canada.ca/2019/11/15/une-micro-mission.html"
 date:   2019-11-15
 published: true
 draft: true
 lang: en
 alt: "A micro-mission, why it’s worth a try"
-description: "Have you seen micro-mission offers come along and wondered if it was worth it? My answer: definitely! Explanations."
+description: "Have you seen micro-mission offers come along and wondered if it was worth it?"
 ---
 
 <style>
@@ -56,6 +56,10 @@ I met some remarkable people there: competent, available professionals with an e
 ## The manager’s perspective
 
 
+I’ll turn the floor over to my manager.
+
+(Manager)
+
 A part-time micro-mission, from your substantive position, is a winning formula for everyone. For us, it was an opportunity to support the professional development of a teammate without losing sight of her. Our colleague was able to participate in an exciting project while continuing to work on her priority files.
 But most importantly, the employee was able to expand her network, deepen her knowledge and apply her expertise. She came back full of ideas and projects to implement within our team!
 
@@ -76,4 +80,4 @@ If ever the opportunity presents itself to you… seize it!
 
 ## Learn more
 * [Improving content on Canada.ca](https://blog.canada.ca/pages/project-overview.html)
-* [Digitial Transformation Office>](https://www.canada.ca/en/government/about/about-digital-transformation-office.html)
+* [Digitial Transformation Office](https://www.canada.ca/en/government/about/about-digital-transformation-office.html)
