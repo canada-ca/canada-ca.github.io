@@ -6,8 +6,8 @@ langpage: "https://blogue.canada.ca/2019/11/15/micro-mission.html"
 date:   2019-11-15
 published: true
 draft: true
-lang: en
-alt: "Une micro-mission, ça vaut le coup."
+lang: fr
+alt: "Micro-missions"
 description: "Avez-vous vu passer des offres de micro-missions tout en vous demandant si ça valait le coup?"
 ---
 
