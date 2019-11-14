@@ -26,12 +26,13 @@ figcaption {
 
 </style>
 
-By:Sandra Duchesne,<br>
+By: Sandra Duchesne,<br>
 Communications advisor.<br>
 Your colleague located in a regional metropolis.<br>
 
-Have you seen micro-mission offers come along and wondered if it was worth it?
-My answer: definitely! Explanations.
+Have you seen micro-mission offers come along and wondered if it was worth it?<br>
+My answer: definitely!<br>
+Explanations.
 
 ## Background
 
