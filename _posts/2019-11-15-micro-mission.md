@@ -61,8 +61,8 @@ I met some remarkable people there: competent, available professionals with an e
 I’ll turn the floor over to my manager.
 
 
-<blockquote><p style="color: #277891 !important;">“A part-time micro-mission, from your substantive position, is a winning formula for everyone. For us, it was an opportunity to support the professional development of a teammate without losing sight of her. Our colleague was able to participate in an exciting project while continuing to work on her priority files.</p>
-<p style="color: #277891 !important;">
+<blockquote><p style="color: #1E5D71 !important;">“A part-time micro-mission, from your substantive position, is a winning formula for everyone. For us, it was an opportunity to support the professional development of a teammate without losing sight of her. Our colleague was able to participate in an exciting project while continuing to work on her priority files.</p>
+<p style="color: #1E5D71 !important;">
 But most importantly, the employee was able to expand her network, deepen her knowledge and apply her expertise. She came back full of ideas and projects to implement within our team!” </p>		
 </blockquote>		
 
