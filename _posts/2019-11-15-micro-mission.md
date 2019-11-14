@@ -2,7 +2,7 @@
 layout: post
 title:  "A micro-mission, why it’s worth a try"
 pubdate: "November 15, 2019"
-langpage: "https://blogue.canada.ca/2019/11/01/micro-mission.html"
+langpage: "https://blogue.canada.ca/2019/11/15/micro-mission.html"
 date:   2019-11-15
 published: true
 draft: true
