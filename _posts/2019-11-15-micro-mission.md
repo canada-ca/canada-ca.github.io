@@ -26,8 +26,8 @@ figcaption {
 
 </style>
 
-<b>By: Sandra Duchesne,</b><br>
-Communications advisor.<br>
+<b>By: Sandra Duchesne, Communications advisor.</b><br>
+
 Your colleague located in a regional metropolis.<br>
 
 Have you seen micro-mission offers come along and wondered if it was worth it?<br>

@@ -26,8 +26,8 @@ figcaption {
 
 </style>
 
-<b>Par :  Sandra Duchesne,</b> <br>
-Conseillère en communications.<br>
+<b>Par :  Sandra Duchesne, Conseillère en communications.</b> <br>
+
 Votre collègue située dans une métropole régionale. <br>
 
 Avez-vous vu passer des offres de micro-missions tout en vous demandant si ça valait le coup? <br>
