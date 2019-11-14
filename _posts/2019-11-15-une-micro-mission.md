@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Une micro-mission, ça vaut le coup
-pubdate: "November 15, 2019"
-langpage: "https://blogue.canada.ca/2019/11/15/micro-mission.html"
-date:   2019-11-15
+pubdate: "14 novembre 2019"
+langpage: "https://blogue.canada.ca/2019/11/14/micro-mission.html"
+date:   2019-11-14
 published: true
 draft: true
 lang: fr
