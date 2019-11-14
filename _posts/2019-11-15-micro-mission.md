@@ -20,10 +20,6 @@ figcaption {
   padding-top: 5px;
 }
 
-.success {
-  color: green;
-}
-
 .blockquote {
   color: #277891;
 }
@@ -46,9 +42,7 @@ It’s well known that federal public service employees tend to be divided as fo
 In my position in Montreal, I’m part of the Web team, in Communications at Innovation, Science and Economic Development Canada – a specialization that is rather rare in the regions. So as an employee, how do we stay up to date, other than through webcasts and conference calls? Answer: by finding unique opportunities, such as a mandate-related micro-mission in a central agency.
 
 
-
 ## The DTO
-
 
 This was how I ended up joining a team from the Treasury Board Secretariat’s Digital Transformation Office (DTO). I worked part-time for three months, from my regular office in Montreal, during a web content improvement project with the Canada Revenue Agency.
 
@@ -69,7 +63,7 @@ I’ll turn the floor over to my manager.
 
 <blockquote><p>“A part-time micro-mission, from your substantive position, is a winning formula for everyone. For us, it was an opportunity to support the professional development of a teammate without losing sight of her. Our colleague was able to participate in an exciting project while continuing to work on her priority files.</p>
 <p>
-But most importantly, the employee was able to expand her network, deepen her knowledge and apply her expertise. She came back full of ideas and projects to implement within our team!” </p><p>- Manager</p>		
+But most importantly, the employee was able to expand her network, deepen her knowledge and apply her expertise. She came back full of ideas and projects to implement within our team!” </p>		
 </blockquote>		
 
 

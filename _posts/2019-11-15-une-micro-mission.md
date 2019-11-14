@@ -35,19 +35,17 @@ Votre collègue située dans une métropole régionales<br>
 
 ## Contexte
 
+C’est connu, les employés de la fonction publique fédérale ont tendance à être divisés ainsi : ceux de la <abbr title="Région de la capitale nationale">RCN</abbr>, et les autres. Je fais partie des autres.  Comme les employés de la <abbr title="Région de la capitale nationale">RCN</abbr>, nous avons le devoir de nous tenir au courant des grands projets communs lancés par les organismes centraux.
 
-C’est connu, les employés de la fonction publique fédérale ont tendance à être divisés ainsi : ceux de la RCN, et les autres. Je fais partie des autres.  Comme les employés de la RCN, nous avons le devoir de nous tenir au courant des grands projets communs lancés par les organismes centraux.
 Dans mon poste à Montréal, je fais partie de l’équipe Web, en communications à Innovation, Sciences et Développement économique Canada – une spécialisation assez rare dans les régions. Alors, en tant  qu’employée, comment pouvons-nous demeurer à jour, outre par les webdiffusions et les appels conférences? Réponse : En trouvant des occasions uniques, comme une micro-mission liée au mandat dans un organisme central.
-
 
 
 ## Le BTN
 
-
-C’est ainsi que je me suis retrouvée à suivre une équipe du Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor. J’y étais à temps partiel pendant trois mois, à partir de mon bureau habituel à Montréal, lors d’un projet d’amélioration de contenu Web en collaboration avec l’Agence du revenu du Canada.
+C’est ainsi que je me suis retrouvée à joindre une équipe du Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor. J’y étais à temps partiel pendant trois mois, à partir de mon bureau habituel à Montréal, lors d’un projet d’amélioration de contenu Web en collaboration avec l’Agence du revenu du Canada.
 
 Mes objectifs :
-* apprendre la démarche empruntée par le BTN pour améliorer le contenu sur Canada.ca
+* apprendre la démarche empruntée par le <abbr title="Bureau de la transformation numérique ">BTN</abbr> pour améliorer le contenu sur Canada.ca
 * mieux comprendre le rôle d’une équipe qui élabore des directives auxquelles nous devons nous conformer
 * contribuer au projet au mieux de mes capacités
 
@@ -61,12 +59,10 @@ J’y ai connu des gens remarquables : professionnels, compétents, disponibles,
 
 Je laisse la parole à mon gestionnaire.
 
-(Gestionnaire)
-
-Une micro-mission à temps partiel, à partir de son poste d’attache, est une formule gagnante pour tous. Pour nous, c’était l’occasion d’appuyer le développement professionnel d’une coéquipière sans pour autant la perdre de vue. Notre collègue a pu participer à un projet stimulant tout en continuant de travailler sur ses dossiers prioritaires.
-Mais le plus important dans tout ça : l’employée a pu élargir son réseau, approfondir ses connaissances et appliquer son expertise. Elle est revenue pleine d’idées et de projets à mettre en œuvre au sein de notre équipe!
-
-
+<blockquote><p>« Une micro-mission à temps partiel, à partir de son poste d’attache, est une formule gagnante pour tous. Pour nous, c’était l’occasion d’appuyer le développement professionnel d’une coéquipière sans pour autant la perdre de vue. Notre collègue a pu participer à un projet stimulant tout en continuant de travailler sur ses dossiers prioritaires.</p>
+<p>
+Mais le plus important dans tout ça : l’employée a pu élargir son réseau, approfondir ses connaissances et appliquer son expertise. Elle est revenue pleine d’idées et de projets à mettre en œuvre au sein de notre équipe! » </p>		
+</blockquote>		
 
 
 ## Une micro-mission est utile
