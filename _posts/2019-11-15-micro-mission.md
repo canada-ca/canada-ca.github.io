@@ -7,8 +7,8 @@ date:   2019-11-15
 published: true
 draft: true
 lang: en
-alt: "A micro-mission, why it’s worth a try."
-description: "Have you seen micro-mission offers come along and wondered if it was worth it?"
+alt: "Micro-missions"
+description: "Have you seen micro-mission offers come along and wondered if it was worth it? My answer: definitely!"
 ---
 
 <style>
@@ -25,10 +25,10 @@ figcaption {
 }
 
 </style>
-s
-<b>By:
-Sandra Duchesne
-Communications advisor
+
+<b>By:<br>
+Sandra Duchesne<br>
+Communications advisor<br>
 Your colleague located in a regional metropolis</b>
 
 Have you seen micro-mission offers come along and wondered if it was worth it? My answer: definitely! Explanations.
@@ -61,12 +61,12 @@ I met some remarkable people there: competent, available professionals with an e
 
 I’ll turn the floor over to my manager.
 
-<aside>		    
-<blockquote class="pquote img-responsive"><p>“A part-time micro-mission, from your substantive position, is a winning formula for everyone. For us, it was an opportunity to support the professional development of a teammate without losing sight of her. Our colleague was able to participate in an exciting project while continuing to work on her priority files.
 
+<blockquote class="pquote img-responsive"><p>“A part-time micro-mission, from your substantive position, is a winning formula for everyone. For us, it was an opportunity to support the professional development of a teammate without losing sight of her. Our colleague was able to participate in an exciting project while continuing to work on her priority files.</p>
+<p>
 But most importantly, the employee was able to expand her network, deepen her knowledge and apply her expertise. She came back full of ideas and projects to implement within our team!” </p><p class="quotesig">Manager</p>		
 </blockquote>		
- </aside>
+
 
 
 ## A micro-mission is useful
