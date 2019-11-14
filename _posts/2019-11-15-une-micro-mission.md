@@ -26,7 +26,7 @@ figcaption {
 
 </style>
 
-Par :  Sandra Duchesne, <br>
+<b>Par :  Sandra Duchesne,</b> <br>
 Conseillère en communications.<br>
 Votre collègue située dans une métropole régionale. <br>
 
