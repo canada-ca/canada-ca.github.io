@@ -7,7 +7,7 @@ date:   2019-11-15
 published: true
 draft: true
 lang: en
-alt: "Une micro-mission, ça vaut le coup"
+alt: "Une micro-mission, ça vaut le coup."
 description: "Avez-vous vu passer des offres de micro-missions tout en vous demandant si ça valait le coup?"
 ---
 
@@ -27,11 +27,12 @@ figcaption {
 </style>
 
 Par :
-Sandra Duchesne
-Conseillère en communications
+Sandra Duchesne,
+Conseillère en communications.
 Votre collègue située dans une métropole régionale
 
-Avez-vous vu passer des offres de micro-missions tout en vous demandant si ça valait le coup? Ma réponse : assurément! Explications.
+Avez-vous vu passer des offres de micro-missions tout en vous demandant si ça valait le coup?
+Ma réponse : assurément! Explications.
 
 
 ## Contexte
