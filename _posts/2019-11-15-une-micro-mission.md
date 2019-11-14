@@ -27,11 +27,9 @@ figcaption {
 </style>
 
 <b>Par :  Sandra Duchesne, Conseillère en communications.</b> <br>
-
 Votre collègue située dans une métropole régionale. <br>
 
-Avez-vous vu passer des offres de micro-missions tout en vous demandant si ça valait le coup? <br>
-Ma réponse : assurément! <br> Explications.
+Avez-vous vu passer des offres de micro-missions tout en vous demandant si ça valait le coup? Ma réponse : assurément! Explications.
 
 
 ## Contexte
@@ -46,10 +44,12 @@ Dans mon poste à Montréal, je fais partie de l’équipe Web, en communication
 
 
 C’est ainsi que je me suis retrouvée à suivre une équipe du Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor. J’y étais à temps partiel pendant trois mois, à partir de mon bureau habituel à Montréal, lors d’un projet d’amélioration de contenu Web en collaboration avec l’Agence du revenu du Canada.
+
 Mes objectifs :
 * apprendre la démarche empruntée par le BTN pour améliorer le contenu sur Canada.ca
 * mieux comprendre le rôle d’une équipe qui élabore des directives auxquelles nous devons nous conformer
 * contribuer au projet au mieux de mes capacités
+
 J’y ai connu des gens remarquables : professionnels, compétents, disponibles, avec une dynamique d’équipe efficace, une structure de travail bien établie et une approche concrète axée sur les solutions. Ce fut un privilège d’avoir accès à cette expérience et j’en tire des apprentissages applicables dans mes fonctions actuelles.
 
 
