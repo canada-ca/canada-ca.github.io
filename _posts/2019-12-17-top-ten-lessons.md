@@ -7,7 +7,7 @@ date:   2019-12-17
 published: true
 draft: true
 lang: en
-alt: "Micro-missions"
+alt: "Top ten lessons"
 description: "Have you seen micro-mission offers come along and wondered if it was worth it? My answer: definitely!"
 ---
 
