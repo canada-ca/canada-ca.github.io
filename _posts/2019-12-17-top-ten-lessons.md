@@ -2,7 +2,7 @@
 layout: post
 title:  "Top ten lessons"
 pubdate: "December 17, 2019"
-langpage: "https://blogue.canada.ca/2019/11/14/une-micro-mission.html"
+langpage: "https://blog.canada.ca/2019/12/17/top-ten-lessons.html"
 date:   2019-12-17
 published: true
 draft: true
