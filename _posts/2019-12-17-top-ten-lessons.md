@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A micro-mission, why it’s worth a try"
+title:  "Top ten lessons"
 pubdate: "November 14, 2019"
 langpage: "https://blogue.canada.ca/2019/11/14/une-micro-mission.html"
 date:   2019-12-17
