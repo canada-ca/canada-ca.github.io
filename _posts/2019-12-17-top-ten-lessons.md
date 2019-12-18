@@ -76,8 +76,7 @@ In January 2019, the [Digital Transformation Office (DTO) team](http://www.canad
 <p style="color: #1E5D71 !important;">When we started testing, we found that 2 of the first 4 people stopped reading after they saw “is required” in the initial message. They never read on for the conditions.</p>
 <p style="color: #1E5D71 !important;">We tried a variation that changed “is” to “may be.”</p>
 <p style="color: #1E5D71 !important;">After that, every single participant clicked the link to get more information!</p>
-<p style="color: #1E5D71 !important;">The first version was correct, but we needed to introduce a little doubt to get people to think more about it. What this illustrates so clearly is that you can’t know how people will respond until you test it. “Is required” is perfectly reasonable. It’s factually correct; it seems clear. But when you test with real people, you see that even when you’re right you might be wrong.”</p>
-</blockquote>	 
+<p style="color: #1E5D71 !important;">The first version was correct, but we needed to introduce a little doubt to get people to think more about it. What this illustrates so clearly is that you can’t know how people will respond until you test it. “Is required” is perfectly reasonable. It’s factually correct; it seems clear. But when you test with real people, you see that even when you’re right you might be wrong.”</p> </blockquote>	 
 
 - Patrick Lajeunesse
 
