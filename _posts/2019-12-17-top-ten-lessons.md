@@ -71,7 +71,7 @@ In January 2019, the [Digital Transformation Office (DTO) team](http://www.canad
 
 ## 7. Always test your content—you can’t predict what will trip people up
 
-“In our task, people needed to figure out whether they needed a yellow fever vaccination to enter Costa Rica. The fact is, you do need a vaccination if you’re coming from countries that have yellow fever outbreaks—with some exceptions. We included a message to alert people to the possibility. Then, they had to click on to see the details.
+<blockquote><p style="color: #1E5D71 !important;">“In our task, people needed to figure out whether they needed a yellow fever vaccination to enter Costa Rica. The fact is, you do need a vaccination if you’re coming from countries that have yellow fever outbreaks—with some exceptions. We included a message to alert people to the possibility. Then, they had to click on to see the details.
 When we started testing, we found that 2 of the first 4 people stopped reading after they saw “is required” in the initial message. They never read on for the conditions.
 We tried a variation that changed “is” to “may be.”
 After that, every single participant clicked the link to get more information!
