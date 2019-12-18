@@ -68,7 +68,7 @@ In January 2019, the [Digital Transformation Office (DTO) team](http://www.canad
  <blockquote><p style="color: #1E5D71 !important;">“Until you see how little people read online, it’s hard to believe. Watching people scan for keywords and ignore everything else has been eye‑opening. Tend your content like a garden. Don’t plant more seeds until you remove the weeds! It’s like what Sarah Richards says, “Focus on a ‘not <b>more</b> content, <b>smarter</b> content’ approach.” Another page of content probably isn’t the solution.” </p>
  </blockquote>	 
 
-<p- Lana Stewart </p>
+<p>- Lana Stewart </p>
 
 ## 7. Always test your content—you can’t predict what will trip people up
 
