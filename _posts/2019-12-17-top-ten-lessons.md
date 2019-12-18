@@ -31,7 +31,8 @@ In January 2019, the [Digital Transformation Office (DTO) team](http://www.canad
 ## 1. Watch people use your content
 
 <blockquote><p style="color: #1E5D71 !important;">“Always be testing. Watching people use your content is critical to ensuring that they are successful using it. Best practices and educated guesses can only get you so far, because how people use content and interact with it will very often surprise you.” </p>
-</blockquote>	 
+</blockquote>
+
 - Jennifer Mealing
 
 ## 2.    Work collaboratively with others
@@ -71,29 +72,29 @@ In January 2019, the [Digital Transformation Office (DTO) team](http://www.canad
 
 ## 7. Always test your content—you can’t predict what will trip people up
 
-<blockquote><p style="color: #1E5D71 !important;">“In our task, people needed to figure out whether they needed a yellow fever vaccination to enter Costa Rica. The fact is, you do need a vaccination if you’re coming from countries that have yellow fever outbreaks—with some exceptions. We included a message to alert people to the possibility. Then, they had to click on to see the details.
-When we started testing, we found that 2 of the first 4 people stopped reading after they saw “is required” in the initial message. They never read on for the conditions.
-We tried a variation that changed “is” to “may be.”
-After that, every single participant clicked the link to get more information!
-The first version was correct, but we needed to introduce a little doubt to get people to think more about it. What this illustrates so clearly is that you can’t know how people will respond until you test it. “Is required” is perfectly reasonable. It’s factually correct; it seems clear. But when you test with real people, you see that even when you’re right you might be wrong.”</p>
+<blockquote><p style="color: #1E5D71 !important;">“In our task, people needed to figure out whether they needed a yellow fever vaccination to enter Costa Rica. The fact is, you do need a vaccination if you’re coming from countries that have yellow fever outbreaks—with some exceptions. We included a message to alert people to the possibility. Then, they had to click on to see the details.<p>
+<p style="color: #1E5D71 !important;">When we started testing, we found that 2 of the first 4 people stopped reading after they saw “is required” in the initial message. They never read on for the conditions.</p>
+<p style="color: #1E5D71 !important;">We tried a variation that changed “is” to “may be.”</p>
+<p style="color: #1E5D71 !important;">After that, every single participant clicked the link to get more information!</p>
+<p style="color: #1E5D71 !important;">The first version was correct, but we needed to introduce a little doubt to get people to think more about it. What this illustrates so clearly is that you can’t know how people will respond until you test it. “Is required” is perfectly reasonable. It’s factually correct; it seems clear. But when you test with real people, you see that even when you’re right you might be wrong.”</p>
 </blockquote>	 
 
 - Patrick Lajeunesse
 
 ## 8. Good service relies on good measurements
 
-<blockquote><p style="color: #1E5D71 !important;">"Successfully improving a service relies on understanding the pain points and empathizing with citizens who are trying to complete a task.
-Making sure you’re tracking the useful metrics is the only way to make sure you can provide good service.
-Don’t measure success with volumetrics. Measure with conversions, rejected applications or form errors. Don’t measure success with the number of calls. Track the change in callers with the same issues after a change in web content. Track the outcome of moving people to online service from paper filing.
-Instrumental to successful task optimization is measuring the performance ahead of time, so that you can start smoothly with your experiment on the small web changes that can make the biggest difference.</p>
+<blockquote><p style="color: #1E5D71 !important;">"Successfully improving a service relies on understanding the pain points and empathizing with citizens who are trying to complete a task.</p>
+<p style="color: #1E5D71 !important;">Making sure you’re tracking the useful metrics is the only way to make sure you can provide good service.</p>
+<p style="color: #1E5D71 !important;">Don’t measure success with volumetrics. Measure with conversions, rejected applications or form errors. Don’t measure success with the number of calls. Track the change in callers with the same issues after a change in web content. Track the outcome of moving people to online service from paper filing.</p>
+<p style="color: #1E5D71 !important;">Instrumental to successful task optimization is measuring the performance ahead of time, so that you can start smoothly with your experiment on the small web changes that can make the biggest difference.</p>
 </blockquote>	 
 
 - Miguel Borges-Porteous
 
 ## 9. Words matter
 
-<blockquote><p style="color: #1E5D71 !important;">“The actual words on the page can make a world of difference. Do your research and use the words that real people actually use. For example, in one of our projects, we found out that people use “student aid,” not “student financial assistance,” which was used everywhere on the site. So, we used “student aid” in our prototype.
-When we are trying to find an answer on a website, we all do the same thing: we scan the page, looking for a hint as to where to go next. We look for an “answer scent.” Front‑load your navigation link with the right keywords, carefully craft your headings using the right words, break down walls of texts, and simplify the language: all of this will help people scan the page and locate where to go next.”</p>
+<blockquote><p style="color: #1E5D71 !important;">“The actual words on the page can make a world of difference. Do your research and use the words that real people actually use. For example, in one of our projects, we found out that people use “student aid,” not “student financial assistance,” which was used everywhere on the site. So, we used “student aid” in our prototype.</p>
+<p style="color: #1E5D71 !important;">When we are trying to find an answer on a website, we all do the same thing: we scan the page, looking for a hint as to where to go next. We look for an “answer scent.” Front‑load your navigation link with the right keywords, carefully craft your headings using the right words, break down walls of texts, and simplify the language: all of this will help people scan the page and locate where to go next.”</p>
 </blockquote>	 
 - David Pepin
 
@@ -117,42 +118,4 @@ Connect with the Digital Transformation Office at TBS:
 * Twitter: #Canadadotca
 
 
-
-
-
-
-<blockquote><p style="color: #1E5D71 !important;">“A part-time micro-mission, from your substantive position, is a winning formula for everyone. For us, it was an opportunity to support the professional development of a teammate without losing sight of her. Our colleague was able to participate in an exciting project while continuing to work on her priority files.</p>
-<p style="color: #1E5D71 !important;">
-But most importantly, the employee was able to expand her network, deepen her knowledge and apply her expertise. She came back full of ideas and projects to implement within our team!” </p>		
-</blockquote>		
-
-<blockquote><p style="color: #1E5D71 !important;">“A part-time micro-mission, from your substantive position, is a winning formula for everyone. For us, it was an opportunity to support the professional development of a teammate without losing sight of her. Our colleague was able to participate in an exciting project while continuing to work on her priority files.</p>
-<p style="color: #1E5D71 !important;">
-But most importantly, the employee was able to expand her network, deepen her knowledge and apply her expertise. She came back full of ideas and projects to implement within our team!” </p>		
-</blockquote>
-
-
-## A micro-mission is useful
-
-In short, a micro-mission can enable the participant to:
-* become familiar with aspects that they don’t have the chance to explore in their usual job
-* get to know other employees, other organizations, other ways of doing things
-* stay connected to their community
-* bring expertise back to their own team
-
-Our employer benefits from it as well.
-
-If ever the opportunity presents itself to you… seize it!
-
-
-We hope you find these lessons helpful too when improving your content.
-
-## Looking forward to 2020
-
-The Digital Transformation Office would like to wish you rest and relaxation over the holiday season. We have big, BIG plans for 2020. We look forward to collaborating with our many colleagues across government as we continue to work as a community to improve both Canada.ca and the GC design system.
-
-## Inspired by what you learned? Share this post with your team.
-
-Connect with the Digital Transformation Office at TBS:
-* Email:[dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca)
 * Twitter: #Canadadotca
