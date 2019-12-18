@@ -83,7 +83,7 @@ In January 2019, the [Digital Transformation Office (DTO) team](http://www.canad
 <blockquote><p style="color: #1E5D71 !important;">"Successfully improving a service relies on understanding the pain points and empathizing with citizens who are trying to complete a task.</p>
 <p style="color: #1E5D71 !important;">Making sure you’re tracking the useful metrics is the only way to make sure you can provide good service.</p>
 <p style="color: #1E5D71 !important;">Don’t measure success with volumetrics. Measure with conversions, rejected applications or form errors. Don’t measure success with the number of calls. Track the change in callers with the same issues after a change in web content. Track the outcome of moving people to online service from paper filing.</p>
-<p style="color: #1E5D71 !important;">Instrumental to successful task optimization is measuring the performance ahead of time, so that you can start smoothly with your experiment on the small web changes that can make the biggest difference.</p>
+<p style="color: #1E5D71 !important;">Instrumental to successful task optimization is measuring the performance ahead of time, so that you can start smoothly with your experiment on the small web changes that can make the biggest difference.”</p>
 </blockquote>	 
 
 - Miguel Borges-Porteous
