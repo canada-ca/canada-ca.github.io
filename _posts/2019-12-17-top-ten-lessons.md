@@ -81,7 +81,7 @@ The first version was correct, but we needed to introduce a little doubt to get 
 </p>
 </blockquote>	 
 
-- Patrick Lajeunesse
+<p>- </p> Patrick Lajeunesse
 
 ## 8. Good service relies on good measurements
 
@@ -91,7 +91,7 @@ The first version was correct, but we needed to introduce a little doubt to get 
 <p style="color: #1E5D71 !important;">Instrumental to successful task optimization is measuring the performance ahead of time, so that you can start smoothly with your experiment on the small web changes that can make the biggest difference.”</p>
 </blockquote>	 
 
-- Miguel Borges-Porteous
+<p>- </p>Miguel Borges-Porteous
 
 ## 9. Words matter
 
@@ -99,7 +99,7 @@ The first version was correct, but we needed to introduce a little doubt to get 
 <p style="color: #1E5D71 !important;">When we are trying to find an answer on a website, we all do the same thing: we scan the page, looking for a hint as to where to go next. We look for an “answer scent.” Front‑load your navigation link with the right keywords, carefully craft your headings using the right words, break down walls of texts, and simplify the language: all of this will help people scan the page and locate where to go next.”</p>
 </blockquote>	 
 
-- David Pepin
+<p>- </p>David Pepin
 
 ## 10. Focus on top tasks
 
