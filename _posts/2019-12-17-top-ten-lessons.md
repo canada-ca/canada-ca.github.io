@@ -33,42 +33,42 @@ In January 2019, the [Digital Transformation Office (DTO) team](http://www.canad
 <blockquote><p style="color: #1E5D71 !important;">“Always be testing. Watching people use your content is critical to ensuring that they are successful using it. Best practices and educated guesses can only get you so far, because how people use content and interact with it will very often surprise you.” </p>
 </blockquote>
 
-- Jennifer Mealing
+<p>- Jennifer Mealing</p>
 
 ## 2.    Work collaboratively with others
 
 <blockquote><p style="color: #1E5D71 !important;">“Including staff from the call centre teams at CRA and PSPC dramatically increased the potential impact of those projects. They brought data and an in‑depth understanding of user pain points and potential solutions to the entire team.” </p>
 </blockquote>	 
 
-- Lisa Fast
+<p>- Lisa Fast </p>
 
 ## 3.    Show up and be open to change
 
 <blockquote><p style="color: #1E5D71 !important;">“The Travel Advice project brought together a committed, engaged, cross-departmental and cross-functional team. They showed up for every workshop and were open to change. They were also inspired by the evidence, and by each other, to challenge long‑standing practices in how travel risks are categorized and conveyed to Canadians.” </p>
 </blockquote>	 
 
-- Jane Stewart
+<p>- Jane Stewart</p>
 
 ## 4.   Guide people with interactive content
 
 <blockquote><p style="color: #1E5D71 !important;">“On both CRA projects (Contact Us and Canada Child Benefit), we used different patterns to help people find the right answer depending on their situation. We used interactive questions and expand/collapse patterns to reveal only what people were actually looking for. When mutually exclusive answers depend on different variables, simply putting all situations and answers on a page (separated by headings) doesn’t cut it. People have a hard time figuring out what applies to them, and often “satisfice” by choosing a wrong answer. Making people choose the situation that applies to them first is very effective. It guides them to the right answer for their situation.”</p>
 </blockquote>	 
 
-- David Pepin
+<p>- David Pepin </p>
 
 ## 5.  People don’t do math
 
 <blockquote><p style="color: #1E5D71 !important;">“People find numbers hard to process online. They find it even harder to figure out how to put numbers together to find the answer they’re looking for. Avoid numbers where you can, and strictly limit how many numbers you present on a single page. People just don’t do math. If math is essential, show the equation so that they can duplicate it. But if you can use simple language or a wizard to help users avoid having to do math altogether, that’s the better option.” </p>
 </blockquote>	 
 
-- Laura Piper
+<p>- Laura Piper </p>
 
 ## 6. Not more content, smarter content
 
  <blockquote><p style="color: #1E5D71 !important;">“Until you see how little people read online, it’s hard to believe. Watching people scan for keywords and ignore everything else has been eye‑opening. Tend your content like a garden. Don’t plant more seeds until you remove the weeds! It’s like what Sarah Richards says, “Focus on a ‘not <b>more</b> content, <b>smarter</b> content’ approach.” Another page of content probably isn’t the solution.” </p>
  </blockquote>	 
 
-- Lana Stewart
+<p- Lana Stewart </p>
 
 ## 7. Always test your content—you can’t predict what will trip people up
 
