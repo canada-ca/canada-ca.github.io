@@ -95,6 +95,7 @@ In January 2019, the [Digital Transformation Office (DTO) team](http://www.canad
 <blockquote><p style="color: #1E5D71 !important;">“The actual words on the page can make a world of difference. Do your research and use the words that real people actually use. For example, in one of our projects, we found out that people use “student aid,” not “student financial assistance,” which was used everywhere on the site. So, we used “student aid” in our prototype.</p>
 <p style="color: #1E5D71 !important;">When we are trying to find an answer on a website, we all do the same thing: we scan the page, looking for a hint as to where to go next. We look for an “answer scent.” Front‑load your navigation link with the right keywords, carefully craft your headings using the right words, break down walls of texts, and simplify the language: all of this will help people scan the page and locate where to go next.”</p>
 </blockquote>	 
+
 - David Pepin
 
 ## 10. Focus on top tasks
