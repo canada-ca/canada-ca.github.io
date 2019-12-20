@@ -1,0 +1,193 @@
+
+layout: post
+title:  "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site canada.ca"
+pubdate: "20 December 2019"
+langpage: "https://blogue.canada.ca/2019/12/20/les-dix-lecons.html"
+date:   2019-12-20
+published: true
+draft: true
+lang: fr
+alt: "les dix lecons"
+description: "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site canada.ca"
+---
+
+<style>
+figcaption {
+  font-size: 17px !important;
+  line-height: 1.5;
+  max-width: 80ch;
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
+
+.blockquote p {
+  color: #277891 !important;
+}
+
+</style>
+
+En janvier 2019, [l’équipe du Bureau de la transformation numérique (BTN)](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) a amorcé la refonte du système de conception du site canada.ca pour moderniser et simplifier la marque numérique de confiance du gouvernement du Canada. Au cours de l’année, l’équipe a continué de collaborer avec les ministères afin d’améliorer l’expérience utilisateur pour l’ensemble des renseignements et des services gouvernementaux. Avant le décompte de l’an 2020, nous souhaitons faire connaître les 10 principales leçons que nous avons apprises cette année en matière de conception de contenu.
+
+
+## 1. Observer les gens qui consultent votre contenu
+
+<blockquote><p style="color: #1E5D71 !important;">“Il faut toujours faire des essais. Il est essentiel d’observer les gens qui consultent votre contenu pour s’assurer que ce dernier donne les résultats attendus. Les pratiques exemplaires et les estimations raisonnées ont leurs limites. En effet, la façon dont les gens utilisent le contenu est souvent surprenante.</p>
+</blockquote>
+<p>- Jennifer Mealing</p>
+
+## 2. Collaborer avec les autres
+
+<blockquote><p style="color: #1E5D71 !important;"> « Le fait d’avoir inclus le personnel des équipes des centres d’appels de l’ARC et de SPAC a vraiment augmenté l’incidence potentielle de ces projets. L’équipe a bénéficié de leur apport en données, de leur compréhension approfondie des problèmes qu’éprouvent les gens et des solutions potentielles envisagées. »</p> </blockquote>
+
+\- Lisa Fast
+
+## 3. Être présent et ouvert au changement
+
+<blockquote><p style="color: #1E5D71 !important;"> « Le projet relatif aux Conseils aux voyageurs a rassemblé une équipe engagée, interministérielle et multifonctionnelle. Les membres de cette équipe étaient ouverts au changement et ont assisté à tous les ateliers. Ils se sont également inspirés les uns des autres ainsi que des éléments de preuves fournis pour remettre en question les pratiques de longue date relatives à la catégorisation et à la communication des risques liés aux voyages auprès des Canadiens. » </p><blockquote>
+
+<p>- Jane Stewart</p>
+
+## 4.  Guider les gens à l’aide de contenu interactif
+
+<blockquote><p style="color: #1E5D71 !important;"> « Dans le cadre des 2 projets de l’ARC (Communiquez avec nous et l’Allocation canadienne pour enfants), nous avons utilisé différents modèles pour aider les gens à trouver la bonne réponse, selon leur situation. Ainsi, nous avons utilisé des questions interactives et le modèle « Afficher/masquer » afin d’afficher uniquement les renseignements que les gens recherchaient. Lorsque des réponses mutuellement exclusives dépendent de variables différentes, le simple fait de mettre toutes les situations et réponses sur une page (séparées par des titres) ne suffit pas. Les gens ont du mal à comprendre ce qui s’applique à eux, et ils se contentent souvent de choisir la première réponse qu'ils trouvent, même si ce n'est pas la bonne réponse. S’assurer d’abord que les gens choisissent correctement la situation qui s’applique à eux s’avère une solution efficace. Cela les guide vers la réponse appropriée à leur situation. » </p></blockquote>
+
+\- David Pepin
+
+## 5. Les gens n’aiment pas calculer
+
+<blockquote><p style="color: #1E5D71 !important;">« Les gens ont du mal avec les chiffres en ligne, surtout quand ils doivent combiner des chiffres pour trouver la réponse qu’ils cherchent. Il faut donc éviter les chiffres lorsque c’est possible, ou alors en limiter le nombre sur une même page, car les gens ne font tout simplement pas de calcul. Si un calcul est essentiel, il est préférable de montrer clairement l’équation pour que les gens puissent la reproduire. La meilleure option est de remplacer les calculs par un langage simple ou un assistant. » </p> </blockquote>
+
+\- Laura Piper
+
+## 6. Il ne faut pas davantage de contenu, mais du contenu plus intelligent
+
+<blockquote><p style="color: #1E5D71 !important;">« C’est difficile de croire à quel point les gens lisent peu en ligne, jusqu’à ce que l’on en ait la preuve. Ce qui a été très révélateur pour nous, c’est quand nous avons observé comment les gens cherchent des mots-clés et ignorent tout le reste du contenu. Il faudrait entretenir son contenu comme on entretient son jardin : ne pas semer d’autres graines avant d’avoir enlevé les mauvaises herbes! Comme le dit si bien Sarah Richards : "Privilégiez une approche qui ne favorise pas davantage de contenu, mais du contenu plus intelligent." La solution ne passe probablement pas par une autre page de contenu.» </p><blockquote>
+
+\- Lana Stewart
+
+## 7. Toujours tester le contenu : on ne peut pas toujours prévoir les embûches
+
+<blockquote><p style="color: #1E5D71 !important;">« Dans le cadre de notre tâche, les participants devaient déterminer s’ils avaient besoin d’un vaccin contre la fièvre jaune pour aller au Costa Rica. En fait, il est nécessaire de recevoir ce vaccin si l’on arrive d’un pays où il existe des foyers de fièvre jaune, à quelques exceptions près. Nous avons donc inclus un message pour informer les gens de cette possibilité. Ensuite, ils devaient cliquer pour lire les détails.
+<p style="color: #1E5D71 !important;">Lorsque nous avons commencé l’essai, nous avons constaté que 2 des 4 premiers participants ont cessé de lire après avoir lu « il est nécessaire » dans le message initial. Ils n’ont pas continué à lire pour savoir dans quelles circonstances le vaccin est nécessaire.</p>
+<blockquote><p style="color: #1E5D71 !important;">Nous avons donc essayé une variante où nous avons remplacé « est » par « peut être », et tous les participants ont alors cliqué sur le lien pour obtenir plus de renseignements!
+<p style="color: #1E5D71 !important;">La première version était exacte, mais nous avons dû introduire un petit doute pour amener les gens à réfléchir davantage. Cet exemple démontre clairement qu’on ne peut pas savoir comment les gens réagiront tant qu’on n’a pas réalisé d’essais. En effet, écrire "est nécessaire" était tout à fait raisonnable, parce que les faits sont exacts et tout semble clair. Mais parfois, en effectuant un essai auprès de vraies personnes, on constate que même si on a raison, on peut quand même avoir tort! »</p></blockquote>
+
+\- Patrick Lajeunesse
+
+## 8. Un bon service repose sur des mesures fiables
+
+« Pour réussir à améliorer un service, il faut comprendre ce qui cause des problèmes et faire preuve d’empathie envers les citoyens qui essaient d’accomplir une tâche.
+La seule façon de s’assurer que l’on peut offrir un bon service, c’est de mesurer les bons paramètres.
+Par exemple, on ne mesure pas le succès à l’aide de données volumétriques. Il faut plutôt mesurer le taux de conversion, ou tenir compte des demandes rejetées ou des erreurs faites lors du remplissage des formulaires. On ne mesure pas le succès au nombre d’appels. Il faut plutôt voir ce qui change chez les interlocuteurs qui ont un problème en commun une fois que l’on a apporté un changement au contenu Web. Il faut voir ce qui se passe après que l’on a demandé aux gens d’abandonner un document papier au profit d’un service en ligne.
+
+En fait, ce qui compte pour réussir l’optimisation des tâches, c’est de mesurer le rendement avant de commencer, de sorte que l’on peut commencer à expérimenter avec les changements qui peuvent faire toute une différence. »
+
+- Miguel Borges-Porteous
+
+## 9. L’importance des mots
+
+« Les mots inscrits sur la page ont une immense portée. Il faut donc veiller à utiliser les mots que les gens utilisent vraiment. Par exemple, dans le cadre d’un de nos projets, nous avons constaté que, en anglais, les gens utilisent « student aid », et non pas « student financial assistance », soit le terme qui figurait partout sur le site. Nous avons donc utilisé « student aid » dans notre version préliminaire.
+Pour trouver une réponse sur un site Web, on procède tous de la même manière : on balaye la page du regard en quête d’un indice pour savoir où aller ensuite. Autrement dit, on cherche une piste de réponse. Il est donc important de rédiger les hyperliens à l’aide des bons mots-clés, de composer soigneusement les titres en utilisant des termes pertinents, de diviser les longs blocs de texte et de simplifier le langage. Cela aidera les gens à trouver rapidement l’information qu’ils cherchent. »
+- David Pepin
+
+## 10. Se concentrer sur les tâches prioritaires
+
+« On ne peut pas tout faire. Il faut donc choisir où concentrer nos efforts. Nous utilisons le concept des tâches prioritaires : les choses les plus importantes qui amènent les gens sur nos sites Web, voilà ce sur quoi nous devrions travailler. Que l’on se base sur des données d’enquête, sur l’analytique Web ou sur des renseignements provenant des centres d’appels, il n’est pas difficile de déterminer ce qui est le plus important pour les citoyens. Une fois que l’on a établi les tâches prioritaires, il faut travailler à les mesurer et à les améliorer. »
+
+- Peter Smith
+
+Nous espérons que vous vous inspirerez de ces leçons pour améliorer votre contenu.
+
+À l’approche de 2020
+
+Au nom de toute l’équipe du Bureau de la transformation numérique, nous vous souhaitons une période des Fêtes agréable et reposante. Nous avons d’ambitieux projets pour 2020 et avons hâte de collaborer avec nos nombreux collègues à l’échelle du gouvernement à l’amélioration de canada.ca et du système de conception du GC.
+
+## 2. Collaborer avec les autres
+
+<blockquote><p style="color: #1E5D71 !important;">“Including staff from the call centre teams at CRA and PSPC dramatically increased the potential impact of those projects. They brought data and an in‑depth understanding of user pain points and potential solutions to the entire team.” </p>
+</blockquote>
+
+<p>- Lisa Fast </p>
+
+## 3. Être présent et ouvert au changement
+
+<blockquote><p style="color: #1E5D71 !important;">“The Travel Advice project brought together a committed, engaged, cross-departmental and cross-functional team. They showed up for every workshop and were open to change. They were also inspired by the evidence, and by each other, to challenge long‑standing practices in how travel risks are categorized and conveyed to Canadians.” </p>
+</blockquote>
+
+<p>- Jane Stewart</p>
+
+## 4.   Guide people with interactive content
+
+<blockquote><p style="color: #1E5D71 !important;">“On both CRA projects (Contact Us and Canada Child Benefit), we used different patterns to help people find the right answer depending on their situation. We used interactive questions and expand/collapse patterns to reveal only what people were actually looking for. When mutually exclusive answers depend on different variables, simply putting all situations and answers on a page (separated by headings) doesn’t cut it. People have a hard time figuring out what applies to them, and often “satisfice” by choosing a wrong answer. Making people choose the situation that applies to them first is very effective. It guides them to the right answer for their situation.”</p>
+</blockquote>
+
+<p>- David Pepin </p>
+
+## 5.  People don’t do math
+
+<blockquote><p style="color: #1E5D71 !important;">“People find numbers hard to process online. They find it even harder to figure out how to put numbers together to find the answer they’re looking for. Avoid numbers where you can, and strictly limit how many numbers you present on a single page. People just don’t do math. If math is essential, show the equation so that they can duplicate it. But if you can use simple language or a wizard to help users avoid having to do math altogether, that’s the better option.” </p>
+</blockquote>
+
+<p>- Laura Piper </p>
+
+## 6. Not more content, smarter content
+
+ <blockquote><p style="color: #1E5D71 !important;">“Until you see how little people read online, it’s hard to believe. Watching people scan for keywords and ignore everything else has been eye‑opening. Tend your content like a garden. Don’t plant more seeds until you remove the weeds! It’s like what Sarah Richards says, “Focus on a ‘not <b>more</b> content, <b>smarter</b> content’ approach.” Another page of content probably isn’t the solution.” </p>
+ </blockquote>
+
+<p>- Lana Stewart </p>
+
+## 7. Always test your content—you can’t predict what will trip people up
+
+<blockquote><p style="color: #1E5D71 !important;">“In our task, people needed to figure out whether they needed a yellow fever vaccination to enter Costa Rica. The fact is, you <b>do</b> need a vaccination if you’re coming from countries that have yellow fever outbreaks—with some exceptions. We included a message to alert people to the possibility. Then, they had to click on to see the details. When we started testing, we found that 2 of the first 4 people stopped reading after they saw “is required” in the initial message. They never read on for the conditions.</p>
+<p style="color: #1E5D71 !important;">
+We tried a variation that changed “is” to “may be.” After that, every single participant clicked the link to get more information!
+</p>
+<p style="color: #1E5D71 !important;">
+The first version was correct, but we needed to introduce a little doubt to get people to think more about it. What this illustrates so clearly is that you can’t know how people will respond until you test it. “Is required” is perfectly reasonable. It’s factually correct; it seems clear. But when you test with real people, you see that even when you’re right you might be wrong.”
+</p>
+</blockquote>
+
+<p>- Patrick Lajeunesse</p>
+
+## 8. Good service relies on good measurements
+
+<blockquote><p style="color: #1E5D71 !important;">"Successfully improving a service relies on understanding the pain points and empathizing with citizens who are trying to complete a task.</p>
+<p style="color: #1E5D71 !important;">Making sure you’re tracking the useful metrics is the only way to make sure you can provide good service.</p>
+<p style="color: #1E5D71 !important;">Don’t measure success with volumetrics. Measure with conversions, rejected applications or form errors. Don’t measure success with the number of calls. Track the change in callers with the same issues after a change in web content. Track the outcome of moving people to online service from paper filing.</p>
+<p style="color: #1E5D71 !important;">Instrumental to successful task optimization is measuring the performance ahead of time, so that you can start smoothly with your experiment on the small web changes that can make the biggest difference.”</p>
+</blockquote>
+
+<p>- Miguel Borges-Porteous</p>
+
+## 9. Words matter
+
+<blockquote><p style="color: #1E5D71 !important;">“The actual words on the page can make a world of difference. Do your research and use the words that real people actually use. For example, in one of our projects, we found out that people use “student aid,” not “student financial assistance,” which was used everywhere on the site. So, we used “student aid” in our prototype.</p>
+<p style="color: #1E5D71 !important;">When we are trying to find an answer on a website, we all do the same thing: we scan the page, looking for a hint as to where to go next. We look for an “answer scent.” Front‑load your navigation link with the right keywords, carefully craft your headings using the right words, break down walls of texts, and simplify the language: all of this will help people scan the page and locate where to go next.”</p>
+</blockquote>
+
+<p>- David Pepin </p>
+
+## 10. Focus on top tasks
+
+<blockquote><p style="color: #1E5D71 !important;">“You can’t work on everything. You need to choose where to focus your efforts. We use the concept of top tasks—the most important things that people come to do on our websites—to determine what we should be working on. Whether it’s from survey data, web analytics or call centre intelligence, understanding the most important things from citizens’ point of view is pretty straightforward. And once you’ve identified your top tasks, then that’s what you need to concentrate on measuring and improving.” </p>
+</blockquote>
+
+<p>- Peter Smith</p>
+
+We hope you find these lessons helpful too when improving your content.
+
+## Looking forward to 2020
+
+The Digital Transformation Office would like to wish you rest and relaxation over the holiday season. We have big, BIG plans for 2020. We look forward to collaborating with our many colleagues across government as we continue to work as a community to improve both Canada.ca and the GC design system.
+
+
+<figure>
+<img class="img-responsive border" alt="A photo of the Digital Transformation Team "
+ src="/images/DOT_team_2019.jpg" width="700">
+</figure>
+
+## Ce que vous venez de lire vous inspire? Partagez ce billet avec votre équipe!
+Le Bureau de la transformation numérique du SCT
+Courriel : dto.btn@tbs-sct.gc.ca
+Twitter : #Canadapointca
