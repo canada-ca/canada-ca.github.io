@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "Top ten lessons"
-description: "Have you seen micro-mission offers come along and wondered if it was worth it? My answer: definitely!"
+description: "Top 10 content design lessons the Canada.ca Design Team learned in 2019"
 ---
 
 <style>
@@ -26,7 +26,7 @@ figcaption {
 
 </style>
 
-In January 2019, the [Digital Transformation Office (DTO) team](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) launched the Canada.ca design update to modernize and simplify the trusted digital brand of the Government of Canada. Throughout the year, we continued to work with departments to improve the user experience across government information and services. As we count down to 2020, we’d like to share the top 10 content design lessons we learned this year.
+In January 2019, the [Digital Transformation Office (DTO) team] (http://www.canada.ca/en/government/about/about-digital-transformation-office.html) launched the [Canada.ca design](http://wwww.canada.ca/en/government/about/design-system.html) update to modernize and simplify the trusted digital brand of the Government of Canada. Throughout the year, we continued to work with departments to improve the user experience across government information and services. As we count down to 2020, we’d like to share the top 10 content design lessons we learned this year.
 
 ## 1. Watch people use your content
 
