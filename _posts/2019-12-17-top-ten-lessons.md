@@ -114,6 +114,12 @@ We hope you find these lessons helpful too when improving your content.
 
 The Digital Transformation Office would like to wish you rest and relaxation over the holiday season. We have big, BIG plans for 2020. We look forward to collaborating with our many colleagues across government as we continue to work as a community to improve both Canada.ca and the GC design system.
 
+
+<figure>
+<img class="img-responsive border" alt="A photo of the Digital Transformation Team "
+ src="/images/DOT_team_2019.jpg" width="700">
+</figure>
+
 ## Inspired by what you learned? Share this post with your team.
 
  Connect with the Digital Transformation Office at TBS:
