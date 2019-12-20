@@ -1,14 +1,14 @@
 
 layout: post
-title:  "Top 10 content design lessons the Canada.ca Design Team learned in 2019"
-pubdate: "December 17, 2019"
-langpage: "https://blog.canada.ca/2019/12/17/top-ten-lessons.html"
-date:   2019-12-17
+title:  "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site canada.ca"
+pubdate: "December 20, 2019"
+langpage: "https://blog.canada.ca/2019/12/20/les-dix-lecons.html"
+date:   2019-12-20
 published: true
 draft: true
-lang: en
-alt: "Top ten lessons"
-description: "Top 10 content design lessons the Canada.ca Design Team learned in 2019"
+lang: fr
+alt: "les dix lecons"
+description: "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site canada.ca"
 ---
 
 <style>
@@ -26,13 +26,14 @@ figcaption {
 
 </style>
 
-In January 2019, the [Digital Transformation Office (DTO) team](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) launched the [Canada.ca design](http://wwww.canada.ca/en/government/about/design-system.html) update to modernize and simplify the trusted digital brand of the Government of Canada. Throughout the year, we continued to work with departments to improve the user experience across government information and services. As we count down to 2020, we’d like to share the top 10 content design lessons we learned this year.
+En janvier 2019, [l’équipe du Bureau de la transformation numérique (BTN)](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) a amorcé la refonte du système de conception du site canada.ca pour moderniser et simplifier la marque numérique de confiance du gouvernement du Canada. Au cours de l’année, l’équipe a continué de collaborer avec les ministères afin d’améliorer l’expérience utilisateur pour l’ensemble des renseignements et des services gouvernementaux. Avant le décompte de l’an 2020, nous souhaitons faire connaître les 10 principales leçons que nous avons apprises cette année en matière de conception de contenu.
 
-## 1. Watch people use your content
 
-<blockquote><p style="color: #1E5D71 !important;">“Always be testing. Watching people use your content is critical to ensuring that they are successful using it. Best practices and educated guesses can only get you so far, because how people use content and interact with it will very often surprise you.” </p>
+## 1. Observer les gens qui consultent votre contenu
+
+
+<blockquote><p style="color: #1E5D71 !important;">“Il faut toujours faire des essais. Il est essentiel d’observer les gens qui consultent votre contenu pour s’assurer que ce dernier donne les résultats attendus. Les pratiques exemplaires et les estimations raisonnées ont leurs limites. En effet, la façon dont les gens utilisent le contenu est souvent surprenante.</p> 
 </blockquote>
-
 <p>- Jennifer Mealing</p>
 
 ## 2.    Work collaboratively with others
