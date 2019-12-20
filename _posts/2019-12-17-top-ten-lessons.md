@@ -117,7 +117,7 @@ The Digital Transformation Office would like to wish you rest and relaxation ove
 
 <figure>
 <img class="img-responsive border" alt="A photo of the Digital Transformation Team "
- src="/images/DOT_team_2019.jpg" width="500" height="600">
+ src="/images/DOT_team_2019.jpg" width="600">
 </figure>
 
 ## Inspired by what you learned? Share this post with your team.
