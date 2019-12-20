@@ -65,14 +65,14 @@ In January 2019, the [Digital Transformation Office (DTO) team](http://www.canad
 
 ## 6. Not more content, smarter content
 
- <blockquote><p style="color: #1E5D71 !important;">“Until you see how little people read online, it’s hard to believe. Watching people scan for keywords and ignore everything else has been eye‑opening. Tend your content like a garden. Don’t plant more seeds until you remove the weeds! It’s like what Sarah Richards says, “Focus on a ‘not <b>more</b> content, <b>smarter</b> content’ approach.” Another page of content probably isn’t the solution.” </p>
+ <blockquote><p style="color: #1E5D71 !important;">“Until you see how little people read online, it’s hard to believe. Watching people scan for keywords and ignore everything else has been eye‑opening. Tend your content like a garden. Don’t plant more seeds until you remove the weeds! It’s like what Sarah Richards says, “Focus on a ‘not more content, smarter content’ approach.” Another page of content probably isn’t the solution.” </p>
  </blockquote>	 
 
 <p>- Lana Stewart </p>
 
 ## 7. Always test your content—you can’t predict what will trip people up
 
-<blockquote><p style="color: #1E5D71 !important;">“In our task, people needed to figure out whether they needed a yellow fever vaccination to enter Costa Rica. The fact is, you <b>do</b> need a vaccination if you’re coming from countries that have yellow fever outbreaks—with some exceptions. We included a message to alert people to the possibility. Then, they had to click on to see the details. When we started testing, we found that 2 of the first 4 people stopped reading after they saw “is required” in the initial message. They never read on for the conditions.</p>
+<blockquote><p style="color: #1E5D71 !important;">“In one of our tasks, people needed to figure out whether they needed a yellow fever vaccination to enter Costa Rica. The fact is, you <b>do</b> need a vaccination if you’re coming from countries that have yellow fever outbreaks—with some exceptions. We included a message to alert people to the possibility. Then, they had to click on to see the details. When we started testing, we found that 2 of the first 4 people stopped reading after they saw “is required” in the initial message. They never read on for the conditions.</p>
 <p style="color: #1E5D71 !important;">
 We tried a variation that changed “is” to “may be.” After that, every single participant clicked the link to get more information!
 </p>
@@ -86,9 +86,9 @@ The first version was correct, but we needed to introduce a little doubt to get 
 ## 8. Good service relies on good measurements
 
 <blockquote><p style="color: #1E5D71 !important;">"Successfully improving a service relies on understanding the pain points and empathizing with citizens who are trying to complete a task.</p>
-<p style="color: #1E5D71 !important;">Making sure you’re tracking the useful metrics is the only way to make sure you can provide good service.</p>
+<p style="color: #1E5D71 !important;">Making sure you’re tracking useful metrics is the only way to make sure you can provide good service.</p>
 <p style="color: #1E5D71 !important;">Don’t measure success with volumetrics. Measure with conversions, rejected applications or form errors. Don’t measure success with the number of calls. Track the change in callers with the same issues after a change in web content. Track the outcome of moving people to online service from paper filing.</p>
-<p style="color: #1E5D71 !important;">Instrumental to successful task optimization is measuring the performance ahead of time, so that you can start smoothly with your experiment on the small web changes that can make the biggest difference.”</p>
+<p style="color: #1E5D71 !important;">Instrumental to successful task optimization is measuring the performance ahead of time, so that you can focus your experiment on the changes that will make the biggest difference.”</p>
 </blockquote>	 
 
 <p>- Miguel Borges-Porteous</p>
