@@ -105,6 +105,6 @@ Au nom de toute l’équipe du Bureau de la transformation numérique, nous vous
 </figure>
 
 ## Ce que vous venez de lire vous inspire? Partagez ce billet avec votre équipe!
-Le Bureau de la transformation numérique du SCT
+Le Bureau de la transformation numérique du SCT   
 Courriel : dto.btn@tbs-sct.gc.ca
 Twitter : #Canadapointca
