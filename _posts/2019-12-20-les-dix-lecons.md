@@ -48,10 +48,9 @@ En janvier 2019, [l’équipe du Bureau de la transformation numérique (BTN)](h
 ## 3. Être présent et ouvert au changement
 
 <blockquote><p style="color: #1E5D71 !important;">« Le projet relatif aux Conseils aux voyageurs a rassemblé une équipe engagée, interministérielle et multifonctionnelle. Les membres de cette équipe étaient ouverts au changement et ont assisté à tous les ateliers. Ils se sont également inspirés les uns des autres ainsi que des éléments de preuves fournis pour remettre en question les pratiques de longue date relatives à la catégorisation et à la communication des risques liés aux voyages auprès des Canadiens. » </p>
-<blockquote>
+</blockquote>
 
 <p>- Jane Stewart</p>
-
 
 
 ## 4.  Guider les gens à l’aide de contenu interactif
