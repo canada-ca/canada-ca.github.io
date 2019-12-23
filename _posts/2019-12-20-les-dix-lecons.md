@@ -82,7 +82,7 @@ Lorsque nous avons commencé l’essai, nous avons constaté que 2 des 4 premier
 <p style="color: #1E5D71 !important;">
 Nous avons donc essayé une variante où nous avons remplacé « est » par « peut être », et tous les participants ont alors cliqué sur le lien pour obtenir plus de renseignements!</p>
 <p style="color: #1E5D71 !important;">
-La première version était exacte, mais nous avons dû introduire un petit doute pour amener les gens à réfléchir davantage. Cet exemple démontre clairement qu’on ne peut pas savoir comment les gens réagiront tant qu’on n’a pas réalisé d’essais. En effet, écrire "est nécessaire" était tout à fait raisonnable, parce que les faits sont exacts et tout semble clair. Mais parfois, en effectuant un essai auprès de vraies personnes, on constate que même si on a raison, on peut quand même avoir tort! »</p>
+La première version était exacte, mais nous avons dû introduire un petit doute pour amener les gens à réfléchir davantage. Cet exemple démontre clairement qu’on ne peut pas savoir comment les gens réagiront tant qu’on n’a pas réalisé d’essais. En effet, écrire "est nécessaire" était tout à fait raisonnable, parce que les faits sont exacts et tout semble clair. Mais parfois, en effectuant un essai auprès de vraies personnes, on constate que même si on a raison, on peut quand même avoir tort! » </p>
 </blockquote>
 <p>- Patrick Lajeunesse</p>
 
@@ -92,7 +92,7 @@ La première version était exacte, mais nous avons dû introduire un petit dout
 La seule façon de s’assurer que l’on peut offrir un bon service, c’est de mesurer les bons paramètres.
 Par exemple, on ne mesure pas le succès à l’aide de données volumétriques. Il faut plutôt mesurer le taux de conversion, ou tenir compte des demandes rejetées ou des erreurs faites lors du remplissage des formulaires. On ne mesure pas le succès au nombre d’appels. Il faut plutôt voir ce qui change chez les interlocuteurs qui ont un problème en commun une fois que l’on a apporté un changement au contenu Web. Il faut voir ce qui se passe après que l’on a demandé aux gens d’abandonner un document papier au profit d’un service en ligne.
 
-En fait, ce qui compte pour réussir l’optimisation des tâches, c’est de mesurer le rendement avant de commencer, de sorte que l’on peut commencer à expérimenter avec les changements qui peuvent faire toute une différence. »
+En fait, ce qui compte pour réussir l’optimisation des tâches, c’est de mesurer le rendement avant de commencer, de sorte que l’on peut commencer à expérimenter avec les changements qui peuvent faire toute une différence. » </p>
 </blockquote>
 
 <p>- Miguel Borges-Porteous</p>
@@ -100,13 +100,13 @@ En fait, ce qui compte pour réussir l’optimisation des tâches, c’est de me
 ## 9. L’importance des mots
 
 <blockquote><p style="color: #1E5D71 !important;">« Les mots inscrits sur la page ont une immense portée. Il faut donc veiller à utiliser les mots que les gens utilisent vraiment. Par exemple, dans le cadre d’un de nos projets, nous avons constaté que, en anglais, les gens utilisent « student aid », et non pas « student financial assistance », soit le terme qui figurait partout sur le site. Nous avons donc utilisé « student aid » dans notre version préliminaire.
-Pour trouver une réponse sur un site Web, on procède tous de la même manière : on balaye la page du regard en quête d’un indice pour savoir où aller ensuite. Autrement dit, on cherche une piste de réponse. Il est donc important de rédiger les hyperliens à l’aide des bons mots-clés, de composer soigneusement les titres en utilisant des termes pertinents, de diviser les longs blocs de texte et de simplifier le langage. Cela aidera les gens à trouver rapidement l’information qu’ils cherchent. »
+Pour trouver une réponse sur un site Web, on procède tous de la même manière : on balaye la page du regard en quête d’un indice pour savoir où aller ensuite. Autrement dit, on cherche une piste de réponse. Il est donc important de rédiger les hyperliens à l’aide des bons mots-clés, de composer soigneusement les titres en utilisant des termes pertinents, de diviser les longs blocs de texte et de simplifier le langage. Cela aidera les gens à trouver rapidement l’information qu’ils cherchent. » </p>
 </blockquote>
 <p>- David Pepin</p>
 
 ## 10. Se concentrer sur les tâches prioritaires
 
-<blockquote><p style="color: #1E5D71 !important;">« On ne peut pas tout faire. Il faut donc choisir où concentrer nos efforts. Nous utilisons le concept des tâches prioritaires : les choses les plus importantes qui amènent les gens sur nos sites Web, voilà ce sur quoi nous devrions travailler. Que l’on se base sur des données d’enquête, sur l’analytique Web ou sur des renseignements provenant des centres d’appels, il n’est pas difficile de déterminer ce qui est le plus important pour les citoyens. Une fois que l’on a établi les tâches prioritaires, il faut travailler à les mesurer et à les améliorer. »
+<blockquote><p style="color: #1E5D71 !important;">« On ne peut pas tout faire. Il faut donc choisir où concentrer nos efforts. Nous utilisons le concept des tâches prioritaires : les choses les plus importantes qui amènent les gens sur nos sites Web, voilà ce sur quoi nous devrions travailler. Que l’on se base sur des données d’enquête, sur l’analytique Web ou sur des renseignements provenant des centres d’appels, il n’est pas difficile de déterminer ce qui est le plus important pour les citoyens. Une fois que l’on a établi les tâches prioritaires, il faut travailler à les mesurer et à les améliorer. » </p>
 </blockquote>
 
 <p>- Peter Smith</p>
