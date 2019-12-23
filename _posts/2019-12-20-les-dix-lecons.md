@@ -26,7 +26,7 @@ figcaption {
 
 </style>
 
-En janvier 2019, [l’équipe du Bureau de la transformation numérique (BTN)](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) a amorcé la refonte du système de conception du site [Canada.ca] (https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html) pour moderniser et simplifier la marque numérique de confiance du gouvernement du Canada. Au cours de l’année, l’équipe a continué de collaborer avec les ministères afin d’améliorer l’expérience utilisateur pour l’ensemble des renseignements et des services gouvernementaux. Avant le décompte de l’an 2020, nous souhaitons faire connaître les 10 principales leçons que nous avons apprises cette année en matière de conception de contenu.
+En janvier 2019, [l’équipe du Bureau de la transformation numérique (BTN)](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) a amorcé la refonte du système de conception du site [Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html) pour moderniser et simplifier la marque numérique de confiance du gouvernement du Canada. Au cours de l’année, l’équipe a continué de collaborer avec les ministères afin d’améliorer l’expérience utilisateur pour l’ensemble des renseignements et des services gouvernementaux. Avant le décompte de l’an 2020, nous souhaitons faire connaître les 10 principales leçons que nous avons apprises cette année en matière de conception de contenu.
 
 
 ## 1. Observer les gens qui consultent votre contenu
