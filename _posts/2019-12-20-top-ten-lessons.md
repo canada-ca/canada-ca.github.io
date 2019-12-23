@@ -2,7 +2,7 @@
 layout: post
 title:  "Top 10 content design lessons the Canada.ca Design Team learned in 2019"
 pubdate: "December 20, 2019"
-langpage: "https://blog.canada.ca/2019/12/20/les-dix-lecons.html"
+langpage: "https://blogue.canada.ca/2019/12/20/les-dix-lecons.html"
 date:   2019-12-20
 published: true
 draft: true
