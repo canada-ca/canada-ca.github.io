@@ -61,10 +61,10 @@ Les données structurées sont ajoutées à une page sous forme de code dans un 
 
 Pour améliorer les résultats de recherche vocale :
 
-* Add [Speakable](https://developers.google.com/search/docs/data-types/speakable) structured data as it indicates what content is best for a voice answer and helps with displayed search results
-* Apply and test [Google’s Rich Results](https://developers.google.com/search/docs/data-types/speakable) and [structured data guidance](https://developers.google.com/search/docs/guides/sd-policies) - it’s not always perfect for governments but there are lots of improvements you can make
-  * Gov.UK has added [HowTo schema](https://gds.blog.gov.uk/2018/08/23/hey-gov-uk-what-are-you-doing-about-voice/) to their step-by-step journey pages
-  * we are working with the Canada Revenue Agency to add rich results to the Canada Child Benefit content
+* Ajoutez des données structurées [pouvant être énoncées (speakable)](https://developers.google.com/search/docs/data-types/speakable?hl=fr) pour indiquer quel est le meilleur contenu pour une réponse vocale et pour améliorer les résultats de recherche affichés
+* Utilisez et testez les [résultats enrichis de Google](https://search.google.com/test/rich-results?hl=fr), et suivez [les conseils sur les données structurées](https://developers.google.com/search/docs/guides/sd-policies?hl=fr). Cette fonction n’est pas toujours parfaite pour les données gouvernementales, mais vous pourrez certainement apporter plusieurs améliorations.
+  * Le site du gouvernement du Royaume-Uni (Gov.UK) comprend désormais [HowTo schema](https://gds.blog.gov.uk/2018/08/23/hey-gov-uk-what-are-you-doing-about-voice/)(en anglais seulement) pour les pages avec des étapes à suivre.
+  * Nous travaillons à l’ajout de « résultats enrichis » au contenu sur l’Allocation canadienne pour enfants de l’Agence du revenu du Canada.
 
 ### 4. Fournir des réponses, et non pas des renseignements
 
