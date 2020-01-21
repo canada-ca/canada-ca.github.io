@@ -43,23 +43,23 @@ Priorisez l’utilisation d’un contenu de qualité et appliquez de bonnes prat
 
 La recherche vocale est nouvelle, mais elle repose sur les mêmes algorithmes que la recherche traditionnelle.
 
-En général, la recherche vocale constitue une simple recherche, mais effectuée oralement. C’est une interaction à tour unique : l’utilisateur demande quelque chose, puis l’appareil répond en fournissant quelque chose qui provient du Web. Les interactions à tour unique sont plus efficaces si elles s’appuient sur la recherche vocale de Google. 
+En général, la recherche vocale constitue une simple recherche, mais effectuée oralement. C’est une interaction à tour unique : l’utilisateur demande quelque chose, puis l’appareil répond en fournissant quelque chose qui provient du Web. Les interactions à tour unique sont plus efficaces si elles s’appuient sur la recherche vocale de Google.
 
-Traditional SEO techniques apply. Focus on optimizing for featured snippets (answers at top of results). Google often uses the featured snippet for voice answers.
+Donc, les techniques traditionnelles de référencement s’appliquent. Misez sur l’optimisation des extraits de texte affichés (aussi appelés « snippets », c’est-à-dire les réponses au-dessus des résultats). Google utilise souvent l’extrait de texte affiché pour fournir ses réponses vocales.  
 
-<b>Top considerations for voice SEO</b>
+<b>Points prioritaires pour le référencement vocal</b>
 
-* Create concise answers (don’t mix details with summaries)
-* Use words Canadians use (look them up on [Google Trends](https://trends.google.com/trends/?geo=CA))
-* Include amounts, times, phone numbers, addresses, etc.
-* Make your headings concise, descriptive answers
-* Use lists
+* Créez des réponses concises (n’amalgamez pas les détails et les résumés)
+* Ciblez des mots qu’emploient les Canadiens (consultez [Google Trends])(https://trends.google.com/trends/?geo=CA)
+* Assurez-vous d’inclure des montants, des numéros de téléphone, des adresses, etc.
+* Misez sur des titres concis et des réponses descriptives
+* Optez pour des listes
 
-### 3. Adding structured data will help with voice search optimization
+### 3. L’ajout de données structurées renforcera l’optimisation de la recherche vocale
 
-Structured data is code that you add to a page in a standardized format to help search engines interpret your content. It allows for more meaningful search results.
+Les données structurées sont ajoutées à une page sous forme de code dans un format standardisé pour aider les moteurs de recherche à interpréter votre contenu. Elles permettent d'obtenir des résultats de recherche plus significatifs.
 
-To improve voice search results:
+Pour améliorer les résultats de recherche vocale :
 
 * Add [Speakable](https://developers.google.com/search/docs/data-types/speakable) structured data as it indicates what content is best for a voice answer and helps with displayed search results
 * Apply and test [Google’s Rich Results](https://developers.google.com/search/docs/data-types/speakable) and [structured data guidance](https://developers.google.com/search/docs/guides/sd-policies) - it’s not always perfect for governments but there are lots of improvements you can make
