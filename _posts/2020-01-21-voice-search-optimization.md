@@ -124,8 +124,8 @@ Next in the series, we’ll talk about building wizards. Sign up for the [DTO ma
 ## Learn more
 
 * [Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
-* [Government of Canada Service Strategy] (https://open.canada.ca/en/content/government-canada-service-strategy)
-* [Government of Canada Digital Standards] (https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
-* [Making GOV.UK more than a website] (https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/)
+* [Government of Canada Service Strategy](https://open.canada.ca/en/content/government-canada-service-strategy)
+* [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
+* [Making GOV.UK more than a website](https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/)
 * [Google Conversation design learning material](https://developers.google.com/assistant/actions/design)
 * [Voice First: The Future of Interaction? (Nielsen Norman Group)](https://www.nngroup.com/articles/voice-first/)
