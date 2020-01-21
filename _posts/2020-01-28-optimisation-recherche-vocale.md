@@ -21,13 +21,13 @@ Au cours de cette série, nous examinerons les raisons qui expliquent ce constat
 
 Commençons par la première étape essentielle : L’optimisation de votre contenu pour la recherche vocale.
 
-## Optimize your content for voice search
+## L’optimisation de votre contenu pour la recherche vocale
 
-The fact is that most voice interactions are still very simple: one question, one answer.
+À vrai dire, la plupart des interactions vocales demeurent très simples : une question, une réponse.
 
-Instead of jumping to building a conversational agent, start by optimizing your content for voice search:
-* <b>first</b> apply good content design practices on all your top tasks
-* <b>then</b> experiment with adding structured data
+Avant de créer un dialogueur, commencez par optimiser votre contenu pour la recherche vocale :
+* <b>premièrement</b>, respectez de bonnes pratiques de conception de contenu pour toutes vos tâches principales
+* <b>deuxièmement</b>, expérimentez en ajoutant des données structurées 
 
 ## Content design practices for voice search success
 
