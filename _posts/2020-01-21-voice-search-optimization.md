@@ -61,14 +61,14 @@ Structured data is code that you add to a page in a standardized format to help 
 
 To improve voice search results:
 
-* Add Speakable structured data as it indicates what content is best for a voice answer and helps with displayed search results
-* Apply and test Google’s Rich Results and structured data guidance - it’s not always perfect for governments but there are lots of improvements you can make
-  * Gov.UK has added HowTo schema to their step-by-step journey pages
+* Add [Speakable](https://developers.google.com/search/docs/data-types/speakable) structured data as it indicates what content is best for a voice answer and helps with displayed search results
+* Apply and test [Google’s Rich Results](https://developers.google.com/search/docs/data-types/speakable) and [structured data guidance](https://developers.google.com/search/docs/guides/sd-policies) - it’s not always perfect for governments but there are lots of improvements you can make
+  * Gov.UK has added [HowTo schema](https://gds.blog.gov.uk/2018/08/23/hey-gov-uk-what-are-you-doing-about-voice/) to their step-by-step journey pages
   * we are working with the Canada Revenue Agency to add rich results to the Canada Child Benefit content
 
 ### 4. Provide answers, not information
 
-Information is what your organization writes for internal program management. Answers are what people are looking for.
+Information is what your organization writes for internal program management. <b>Answers</b> are what people are looking for.
 
 When designing content, use an inverted pyramid. Put the most important information first. Figure out what question most people are trying to answer when they come to your page, and put the answer at the top of the page.
 
