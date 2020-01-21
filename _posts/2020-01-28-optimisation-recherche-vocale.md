@@ -27,11 +27,11 @@ Commençons par la première étape essentielle : L’optimisation de votre cont
 
 Avant de créer un dialogueur, commencez par optimiser votre contenu pour la recherche vocale :
 * <b>premièrement</b>, respectez de bonnes pratiques de conception de contenu pour toutes vos tâches principales
-* <b>deuxièmement</b>, expérimentez en ajoutant des données structurées 
+* <b>deuxièmement</b>, expérimentez en ajoutant des données structurées
 
-## Content design practices for voice search success
+## Pratiques de conception de contenu favorables à une recherche vocale efficace
 
-Here are 6 content design practices that will mean voice search success for your users:
+Voici 6 pratiques de conception de contenu garantes d’une recherche vocale efficace pour vos utilisateurs :  
 
 ### 1. Use traditional content design practices: New technology won’t fix bad content
 
@@ -116,11 +116,10 @@ As we keep moving forward and experimenting with new approaches, we must always 
 
 Next in the series, we’ll talk about building wizards. Sign up for the [DTO mailing list](https://blog.canada.ca/pages/signup.html) to get the post delivered to your inbox.
 
-## Inspired by what you learned? Share this post with your team.
-
- Connect with the Digital Transformation Office at TBS:
-* Email: [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca
+## Ce que vous venez de lire vous inspire? Partagez ce billet avec votre équipe!
+Le Bureau de la transformation numérique du SCT
+* Courriel : dto.btn@tbs-sct.gc.ca
+* Twitter : #Canadapointca
 * Slack: [http://design-GC-conception.slack.com](http://design-GC-conception.slack.com)
 
 ## Learn more
