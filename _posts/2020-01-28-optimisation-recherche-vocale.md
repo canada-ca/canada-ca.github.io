@@ -110,23 +110,25 @@ Nous savons que le clavardage et la fonction vocale sont les technologies de l�
 L’équipe de conception de Canada.ca souhaite toujours améliorer à la fois Canada.ca et les directives que le système de conception du GC fournit aux ministères afin de tirer le meilleur parti des nouvelles technologies.
 
 Au fur et à mesure que nous évoluons et que nous expérimentons de nouvelles approches, nous devons toujours nous demander :
-* <b>useful</b>—does it improve digital self-service? Will Canadians benefit from having it?
-* <b>usable</b>—is it easy to use? Will success rates on Canada.ca improve?
-* <b>sustainable</b>—can it be easily maintained by content teams?
+* Est-ce <b>utile</b>? Le libre-service numérique s’améliore-t-il ainsi? Les Canadiens en profiteront-ils?
+* Est-ce <b>utilisable</b>? Est-ce facile à utiliser? Les taux de réussite sur Canada.ca s’amélioreront-ils?
+* Est-ce <b>durable</b>? Est-ce que les équipes de contenu peuvent maintenir cela facilement?  
 
-Next in the series, we’ll talk about building wizards. Sign up for the [DTO mailing list](https://blog.canada.ca/pages/signup.html) to get the post delivered to your inbox.
+Lors d’un prochain billet, nous aborderons la création de dialogueurs. Abonnez-vous à la [liste d’envoi du BTN](https://blogue.canada.ca/pages/inscrire.html) pour recevoir le billet dans votre boîte de réception.
 
-## Ce que vous venez de lire vous inspire? Partagez ce billet avec votre équipe!
-Le Bureau de la transformation numérique du SCT
+
+## Ce que vous avez appris vous inspire? Partagez ce billet avec votre équipe.
+
+Communiquez avec le Bureau de la transformation numérique du SCT :
 * Courriel : dto.btn@tbs-sct.gc.ca
 * Twitter : #Canadapointca
 * Slack: [http://design-GC-conception.slack.com](http://design-GC-conception.slack.com)
 
-## Learn more
+## Pour en savoir davantage
 
-* [Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
-* [Government of Canada Service Strategy](https://open.canada.ca/en/content/government-canada-service-strategy)
-* [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
-* [Making GOV.UK more than a website](https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/)
-* [Google Conversation design learning material](https://developers.google.com/assistant/actions/design)
-* [Voice First: The Future of Interaction? (Nielsen Norman Group)](https://www.nngroup.com/articles/voice-first/)
+* Résumé de la recherche : Communiquer avec l’ARC
+* Stratégie de service du gouvernement du Canada
+* Normes numériques du gouvernement du Canada
+* Making GOV.UK more than a website (en anglais seulement)
+* Google Conversation design learning material (en anglais seulement)
+* Voice First: The Future of Interaction? (Nielsen Norman Group) (en anglais seulement)
