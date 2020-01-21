@@ -3,29 +3,13 @@ layout: post
 title:  "Six ways to optimize your content for voice search"
 pubdate: "January 21, 2020"
 langpage: "https://blog.canada.ca/2020/01/21/voice-search-optimization.html"
-date:   2020-12-21
+date:   2020-01-21
 published: true
 draft: true
 lang: en
 alt: "Voice search optimization"
 description: "What we learned about improving voice services for Canadians."
 ---
-
-
-<style>
-figcaption {
-  font-size: 17px !important;
-  line-height: 1.5;
-  max-width: 80ch;
-  padding-bottom: 10px;
-  padding-top: 5px;
-}
-
-.blockquote p {
-  color: #277891 !important;
-}
-
-</style>
 
 Millions of people visit Canada.ca daily seeking answers from the government. Voice interaction is a new channel we can use to deliver those answers. To kick off the new year, the [Digital Transformation Office (DTO)](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) is doing a short blog post series dedicated to voice technology. We’ll share what we learned about conversational agents and voice search from our [Contact us optimization project](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html) with the Canada Revenue Agency (CRA).
 
@@ -71,7 +55,7 @@ Traditional SEO techniques apply. Focus on optimizing for featured snippets (ans
 * Make your headings concise, descriptive answers
 * Use lists
 
-# 3. Adding structured data will help with voice search optimization
+## 3. Adding structured data will help with voice search optimization
 
 <b> Use structured data: </b>
 
@@ -80,7 +64,7 @@ Traditional SEO techniques apply. Focus on optimizing for featured snippets (ans
 Gov.UK has added HowTo schema to their step-by-step journey pages
 we are working with the Canada Revenue Agency to add rich results to the Canada Child Benefit content
 
-# 4. Provide answers, not information
+## 4. Provide answers, not information
 
 Information is what your organization writes for internal program management. Answers are what people are looking for.
 
@@ -88,7 +72,7 @@ When designing content, use an inverted pyramid. Put the most important informat
 
 [Canada.ca Content Style Guide : 2.1 Start with the most important information](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-1)
 
-# 5. Use descriptive page titles and effective headings
+## 5. Use descriptive page titles and effective headings
 
 Use page titles that describe the content and the task. What you can do on a page should be evident just by looking at the title.
 
@@ -101,7 +85,7 @@ Don’t turn all of your headings into questions. Search engines aren’t lookin
 
 [Canada.ca Content Style Guide:  5.1 Write useful page titles and headings](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1)
 
-# 6. Make your content readable
+## 6. Make your content readable
 
 Plain language and good readability help both real people and machines understand the content. Voice search algorithms seem to be inclined to use answers written in a “conversational” tone.
 
