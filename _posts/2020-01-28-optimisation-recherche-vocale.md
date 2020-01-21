@@ -10,10 +10,15 @@ lang: fr
 alt: "Recherche vocale"
 description: "Nos apprentissages sur l’amélioration des services vocaux pour les Canadiens."
 
+Chaque jour, des millions de personnes consultent le site Canada.ca pour obtenir des réponses du gouvernement. L’interaction vocale est un nouveau canal dont nous pouvons tirer parti pour fournir ces réponses. Pour entamer la nouvelle année, le [Bureau de la transformation numérique](https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html) (BTN) prépare une courte série de billets sur la technologie vocale. Nous diffuserons ce que nous avons appris sur les agents de dialogue et la recherche vocale dans le cadre de [notre projet d’optimisation « Communiquer avec nous »](https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html) pour l’Agence du revenu du Canada (ARC).
 
-Millions of people visit Canada.ca daily seeking answers from the government. Voice interaction is a new channel we can use to deliver those answers. To kick off the new year, the [Digital Transformation Office (DTO)](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) is doing a short blog post series dedicated to voice technology. We’ll share what we learned about conversational agents and voice search from our [Contact us optimization project](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html) with the Canada Revenue Agency (CRA).
+Naturellement, nous souhaitons tous offrir aux Canadiens des services modernes, efficaces et fiables. Ainsi, l’idée de créer un agent de dialogue (dialogueur) pour aider les utilisateurs à effectuer leurs tâches constitue une occasion d’innover avec efficacité.
 
-We all want to deliver modern, efficient, and reliable services to Canadians. Building a conversational agent to help users solve their tasks seems like a great opportunity to be innovative and effective.
+Cela dit, grâce à notre expérience avec le projet de l’ARC, nous avons constaté que les utilisateurs se montrent prudents à l’égard du dialogueur que nous avons créé. En effet, aucun participant ne l’a essayé de son propre chef. Il a fallu inciter les participants à l’utiliser.
+
+Au cours de cette série, nous examinerons les raisons qui expliquent ce constat. Nous traiterons des mesures pratiques à adopter pour créer des interactions vocales efficaces.   
+
+Commençons par la première étape essentielle : L’optimisation de votre contenu pour la recherche vocale.
 
 However, in our experiment on the CRA project, we found that people were a little cautious of the conversational agent we built. In fact, not one test participant tried it of their own accord. They all had to be prompted to use it.
 
