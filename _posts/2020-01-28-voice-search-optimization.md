@@ -11,7 +11,7 @@ alt: "Voice search optimization"
 description: "What we learned about improving voice services for Canadians."
 ---
 
-Millions of people visit Canada.ca daily seeking answers from the government. Voice interaction is a new channel we can use to deliver those answers. To kick off the new year, the [Digital Transformation Office (DTO)](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) is doing a short blog post series dedicated to voice technology. We’ll share what we learned about conversational agents and voice search from our [Contact us optimization project](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html) with the Canada Revenue Agency (CRA).
+Millions of people visit Canada.ca daily seeking answers from the government. Voice interaction is a new channel we can use to deliver those answers. To kick off the new year, the [Digital Transformation Office](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) (DTO) is doing a short blog post series dedicated to voice technology. We’ll share what we learned about conversational agents and voice search from our [Contact us optimization project](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html) with the Canada Revenue Agency (CRA).
 
 We all want to deliver modern, efficient, and reliable services to Canadians. Building a conversational agent to help users solve their tasks seems like a great opportunity to be innovative and effective.
 
