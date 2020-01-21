@@ -66,40 +66,40 @@ Pour améliorer les résultats de recherche vocale :
   * Gov.UK has added [HowTo schema](https://gds.blog.gov.uk/2018/08/23/hey-gov-uk-what-are-you-doing-about-voice/) to their step-by-step journey pages
   * we are working with the Canada Revenue Agency to add rich results to the Canada Child Benefit content
 
-### 4. Provide answers, not information
+### 4. Fournir des réponses, et non pas des renseignements
 
-Information is what your organization writes for internal program management. <b>Answers</b> are what people are looking for.
+Les renseignements sont les données que votre organisation rédige pour effectuer la gestion interne du programme. Les réponses sont les données que les gens recherchent.
 
-When designing content, use an inverted pyramid. Put the most important information first. Figure out what question most people are trying to answer when they come to your page, and put the answer at the top of the page.
+À l’étape de la conception du contenu, ayez recours au principe de la pyramide inversée. Affichez les renseignements les plus importants en premier. Déterminez la question la plus fréquente que se posent les gens lorsqu’ils consultent votre page, et inscrivez la réponse à cette question en haut de la page.  
 
-[Canada.ca Content Style Guide : 2.1 Start with the most important information](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-1)
+[Guide de rédaction du contenu du site Canada.ca : 2.1 Commencer par les renseignements les plus importants] (https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-1)
 
-### 5. Use descriptive page titles and effective headings
+### 5. Rédiger des titres et des sous-titres de page descriptifs et efficaces
 
-Use page titles that describe the content and the task. What you can do on a page should be evident just by looking at the title.
+Optez pour des titres de page qui décrivent le contenu et la tâche. La fonction d’une page devrait être évidente simplement à la lecture du titre.   
 
-Effective headings:
-* structure the page content
-* provide the necessary information scent for page scanning
-* help search engines figure out what the page is about
+Les sous-titres efficaces :
+* créent un structure dans le contenu de la page
+* fournissent les renseignements pertinents pour créer la piste de l’information qui facilite la survole de la page
+* aident les moteurs de recherche à comprendre l'essentiel de la page
 
-Don’t turn all of your headings into questions. Search engines aren’t looking for questions, they’re looking for answers.
+Ne rédigez pas tous vos sous-titres sous forme de questions. Les moteurs de recherche ne cherchent pas des questions, mais bien des réponses.
 
-[Canada.ca Content Style Guide:  5.1 Write useful page titles and headings](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1)
+[Guide de rédaction du contenu du site Canada.ca :  5.1 Rédiger des titres et sous-titres de page descriptifs ](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-1-1)
 
-### 6. Make your content readable
+### 6. Rendre votre contenu lisible  
 
-Plain language and good readability help both real people and machines understand the content. Voice search algorithms seem to be inclined to use answers written in a “conversational” tone.
+Un langage clair et une bonne lisibilité aident à la fois les utilisateurs et les appareils à comprendre le contenu. Les algorithmes de recherche vocale semblent enclins à utiliser des réponses rédigées sur un ton « conversationnel ».
 
-When writing:
+À la rédaction, pensez à :
 
-* use simple and common words
-* be direct, concise, and clear
-* use verbs
-* avoid jargon
-* use short words and simple sentences
+* utiliser des mots simples et courants
+* être direct, concis et clair
+* privilégier les verbes
+* éviter le jargon
+* opter pour des mots et des phrases simples
 
-[Canada.ca Content Style Guide:  Plain language](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6)
+[Guide de rédaction du contenu du site Canada.ca : Langage clair et simple](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc6)
 
 ## Final Word
 
