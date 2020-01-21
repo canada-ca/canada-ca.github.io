@@ -57,14 +57,14 @@ Traditional SEO techniques apply. Focus on optimizing for featured snippets (ans
 
 ### 3. Adding structured data will help with voice search optimization
 
-Structured data is code that you add to a page in a standardized format to help search engines interpret your content. It allows for more meaningful search results. 
+Structured data is code that you add to a page in a standardized format to help search engines interpret your content. It allows for more meaningful search results.
 
 To improve voice search results:
 
 * Add Speakable structured data as it indicates what content is best for a voice answer and helps with displayed search results
 * Apply and test Google’s Rich Results and structured data guidance - it’s not always perfect for governments but there are lots of improvements you can make
-Gov.UK has added HowTo schema to their step-by-step journey pages
-we are working with the Canada Revenue Agency to add rich results to the Canada Child Benefit content
+  * Gov.UK has added HowTo schema to their step-by-step journey pages
+  * we are working with the Canada Revenue Agency to add rich results to the Canada Child Benefit content
 
 ### 4. Provide answers, not information
 
