@@ -33,17 +33,17 @@ Avant de créer un dialogueur, commencez par optimiser votre contenu pour la rec
 
 Voici 6 pratiques de conception de contenu garantes d’une recherche vocale efficace pour vos utilisateurs :  
 
-### 1. Use traditional content design practices: New technology won’t fix bad content
+### 1. L’utilisation de pratiques de conception de contenu traditionnelles : La nouvelle technologie ne corrige pas la qualité d’un contenu médiocre
 
-Start by using good content and task design practices. Voice search is still search. In most ways, optimizing for voice search is the same as optimizing for any other search. At the end of the day, even if it’s boring, start by improving your content if you want to help people complete the tasks they do online.
+Priorisez l’utilisation d’un contenu de qualité et appliquez de bonnes pratiques de conception des tâches. Au bout du compte, la recherche vocale demeure une forme de recherche. À bien des égards, l’optimisation pour la recherche vocale est identique à l’optimisation de tout autre type de recherche. Pour aider les utilisateurs à accomplir leurs tâches en ligne, améliorez d’abord votre contenu (même si cela peut paraître ennuyeux).
 
-[Canada.ca Content Style Guide: 1.1 Help People complete tasks](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp1-1)
+[Guide de rédaction du contenu du site Canada.ca : 1.1 Aider les gens à accomplir des tâches](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp1-1)
 
-### 2. Start with search engine optimization (SEO)
+### 2. Privilégier l’optimisation des moteurs de recherche (OMR), c’est-à-dire le référencement
 
-Voice search might be new, but it relies on the same algorithms as traditional search.
+La recherche vocale est nouvelle, mais elle repose sur les mêmes algorithmes que la recherche traditionnelle.
 
-Generally speaking, voice search is a simple search query...done by voice. It’s a single-turn interaction: the person asks something, the device responds with something found on the web. Single turn interactions are best handled by Google voice search.
+En général, la recherche vocale constitue une simple recherche, mais effectuée oralement. C’est une interaction à tour unique : l’utilisateur demande quelque chose, puis l’appareil répond en fournissant quelque chose qui provient du Web. Les interactions à tour unique sont plus efficaces si elles s’appuient sur la recherche vocale de Google. 
 
 Traditional SEO techniques apply. Focus on optimizing for featured snippets (answers at top of results). Google often uses the featured snippet for voice answers.
 
