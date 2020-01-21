@@ -27,19 +27,19 @@ The fact is that most voice interactions are still very simple: one question, on
 
 Instead of jumping to building a conversational agent, start by optimizing your content for voice search:
 * <b>first</b> apply good content design practices on all your top tasks
-* <b>then</b> experiment with adding structured metadata
+* <b>then</b> experiment with adding structured data
 
 ## Content design practices for voice search success
 
 Here are 6 content design practices that will mean voice search success for your users:
 
-## 1. Use traditional content design practices: New technology won’t fix bad content
+### 1. Use traditional content design practices: New technology won’t fix bad content
 
 Start by using good content and task design practices. Voice search is still search. In most ways, optimizing for voice search is the same as optimizing for any other search. At the end of the day, even if it’s boring, start by improving your content if you want to help people complete the tasks they do online.
 
 [Canada.ca Content Style Guide: 1.1 Help People complete tasks](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp1-1)
 
-## 2. Start with search engine optimization (SEO)
+### 2. Start with search engine optimization (SEO)
 
 Voice search might be new, but it relies on the same algorithms as traditional search.
 
@@ -55,16 +55,18 @@ Traditional SEO techniques apply. Focus on optimizing for featured snippets (ans
 * Make your headings concise, descriptive answers
 * Use lists
 
-## 3. Adding structured data will help with voice search optimization
+### 3. Adding structured data will help with voice search optimization
 
-<b> Use structured data: </b>
+Structured data is code that you add to a page in a standardized format to help search engines interpret your content. It allows for more meaningful search results. 
+
+To improve voice search results:
 
 * Add Speakable structured data as it indicates what content is best for a voice answer and helps with displayed search results
 * Apply and test Google’s Rich Results and structured data guidance - it’s not always perfect for governments but there are lots of improvements you can make
 Gov.UK has added HowTo schema to their step-by-step journey pages
 we are working with the Canada Revenue Agency to add rich results to the Canada Child Benefit content
 
-## 4. Provide answers, not information
+### 4. Provide answers, not information
 
 Information is what your organization writes for internal program management. Answers are what people are looking for.
 
@@ -72,7 +74,7 @@ When designing content, use an inverted pyramid. Put the most important informat
 
 [Canada.ca Content Style Guide : 2.1 Start with the most important information](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-1)
 
-## 5. Use descriptive page titles and effective headings
+### 5. Use descriptive page titles and effective headings
 
 Use page titles that describe the content and the task. What you can do on a page should be evident just by looking at the title.
 
@@ -85,7 +87,7 @@ Don’t turn all of your headings into questions. Search engines aren’t lookin
 
 [Canada.ca Content Style Guide:  5.1 Write useful page titles and headings](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1)
 
-## 6. Make your content readable
+### 6. Make your content readable
 
 Plain language and good readability help both real people and machines understand the content. Voice search algorithms seem to be inclined to use answers written in a “conversational” tone.
 
