@@ -50,7 +50,7 @@ Donc, les techniques traditionnelles de référencement s’appliquent. Misez su
 <b>Points prioritaires pour le référencement vocal</b>
 
 * Créez des réponses concises (n’amalgamez pas les détails et les résumés)
-* Ciblez des mots qu’emploient les Canadiens (consultez [Google Trends])(https://trends.google.com/trends/?geo=CA)
+* Ciblez des mots qu’emploient les Canadiens (consultez [Google Trends](https://trends.google.com/trends/?geo=CA))
 * Assurez-vous d’inclure des montants, des numéros de téléphone, des adresses, etc.
 * Misez sur des titres concis et des réponses descriptives
 * Optez pour des listes
@@ -72,7 +72,7 @@ Les renseignements sont les données que votre organisation rédige pour effectu
 
 À l’étape de la conception du contenu, ayez recours au principe de la pyramide inversée. Affichez les renseignements les plus importants en premier. Déterminez la question la plus fréquente que se posent les gens lorsqu’ils consultent votre page, et inscrivez la réponse à cette question en haut de la page.  
 
-[Guide de rédaction du contenu du site Canada.ca : 2.1 Commencer par les renseignements les plus importants] (https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-1)
+[Guide de rédaction du contenu du site Canada.ca : 2.1 Commencer par les renseignements les plus importants](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-1)
 
 ### 5. Rédiger des titres et des sous-titres de page descriptifs et efficaces
 
@@ -109,7 +109,7 @@ Nous savons que le clavardage et la fonction vocale sont les technologies de l�
 
 L’équipe de conception de Canada.ca souhaite toujours améliorer à la fois Canada.ca et les directives que le système de conception du GC fournit aux ministères afin de tirer le meilleur parti des nouvelles technologies.
 
-Au fur et à mesure que nous évoluons et que nous expérimentons de nouvelles approches, nous devons toujours nous demander : 
+Au fur et à mesure que nous évoluons et que nous expérimentons de nouvelles approches, nous devons toujours nous demander :
 * <b>useful</b>—does it improve digital self-service? Will Canadians benefit from having it?
 * <b>usable</b>—is it easy to use? Will success rates on Canada.ca improve?
 * <b>sustainable</b>—can it be easily maintained by content teams?
