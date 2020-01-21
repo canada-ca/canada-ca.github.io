@@ -1,4 +1,4 @@
-
+---
 layout: post
 title:  Six façons d’optimiser votre contenu pour la recherche vocale
 pubdate: "28 janvier 2020"
@@ -9,6 +9,7 @@ draft: true
 lang: fr
 alt: "Recherche vocale"
 description: "Nos apprentissages sur l’amélioration des services vocaux pour les Canadiens."
+---
 
 Chaque jour, des millions de personnes consultent le site Canada.ca pour obtenir des réponses du gouvernement. L’interaction vocale est un nouveau canal dont nous pouvons tirer parti pour fournir ces réponses. Pour entamer la nouvelle année, le [Bureau de la transformation numérique](https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html) (BTN) prépare une courte série de billets sur la technologie vocale. Nous diffuserons ce que nous avons appris sur les agents de dialogue et la recherche vocale dans le cadre de [notre projet d’optimisation « Communiquer avec nous »](https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html) pour l’Agence du revenu du Canada (ARC).
 
@@ -19,12 +20,6 @@ Cela dit, grâce à notre expérience avec le projet de l’ARC, nous avons cons
 Au cours de cette série, nous examinerons les raisons qui expliquent ce constat. Nous traiterons des mesures pratiques à adopter pour créer des interactions vocales efficaces.   
 
 Commençons par la première étape essentielle : L’optimisation de votre contenu pour la recherche vocale.
-
-However, in our experiment on the CRA project, we found that people were a little cautious of the conversational agent we built. In fact, not one test participant tried it of their own accord. They all had to be prompted to use it.
-
-Over this series we’ll explore why and what practical steps you can take to set yourself up for creating successful voice interactions.
-
-We’ll start with the essential first step: Optimize your content for voice search.
 
 ## Optimize your content for voice search
 
