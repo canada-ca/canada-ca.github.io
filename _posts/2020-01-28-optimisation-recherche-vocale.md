@@ -101,15 +101,15 @@ Un langage clair et une bonne lisibilité aident à la fois les utilisateurs et 
 
 [Guide de rédaction du contenu du site Canada.ca : Langage clair et simple](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc6)
 
-## Final Word
+## Mot de la fin   
 
-Don’t jump ahead to flashy stuff.
+Ne tentez pas d’en mettre plein la vue en ignorant l’essentiel.
 
-We know that chat and voice are the technologies of the future; and that the future is now. Continuous usability testing allows us to better understand how new technology works and where gaps exist. It helps us develop empathy for our users and ensure we’re building the right tools...the right way.
+Nous savons que le clavardage et la fonction vocale sont les technologies de l’avenir et que cet avenir est maintenant. En testant continuellement la convivialité, nous pouvons mieux comprendre comment fonctionne la nouvelle technologie et quelles sont les lacunes. Notre empathie s'accroît pour nos utilisateurs et nous veillons donc à élaborer les bons outils... de la bonne façon.
 
-The Canada.ca design team wants to continuously improve both Canada.ca and the guidance that the GC design system provides to help departments make the best use of new technologies.
+L’équipe de conception de Canada.ca souhaite toujours améliorer à la fois Canada.ca et les directives que le système de conception du GC fournit aux ministères afin de tirer le meilleur parti des nouvelles technologies.
 
-As we keep moving forward and experimenting with new approaches, we must always ask ourselves, is it:
+Au fur et à mesure que nous évoluons et que nous expérimentons de nouvelles approches, nous devons toujours nous demander : 
 * <b>useful</b>—does it improve digital self-service? Will Canadians benefit from having it?
 * <b>usable</b>—is it easy to use? Will success rates on Canada.ca improve?
 * <b>sustainable</b>—can it be easily maintained by content teams?
