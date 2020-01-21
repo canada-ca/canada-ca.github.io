@@ -129,6 +129,6 @@ Communiquez avec le Bureau de la transformation numérique du SCT :
 * [Résumé de la recherche : Communiquer avec l’ARC](https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html)
 * [Stratégie de service du gouvernement du Canada](https://ouvert.canada.ca/fr/contenu/la-strategie-de-service-du-gouvernement-du-canada)
 * [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
-* [Making GOV.UK more than a website](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)(en anglais seulement)
-* [Google Conversation design learning material](https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/)(en anglais seulement)
+* [Making GOV.UK more than a website](https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/)(en anglais seulement)
+* [Google Conversation design learning material](https://developers.google.com/assistant/actions/design)(en anglais seulement)
 * [Voice First: The Future of Interaction? (Nielsen Norman Group)](https://www.nngroup.com/articles/voice-first/)(en anglais seulement)
