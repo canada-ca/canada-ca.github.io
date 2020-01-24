@@ -114,7 +114,7 @@ Au fur et à mesure que nous évoluons et que nous expérimentons de nouvelles a
 * Est-ce <b>utilisable</b>? Est-ce facile à utiliser? Les taux de réussite sur Canada.ca s’amélioreront-ils?
 * Est-ce <b>durable</b>? Est-ce que les équipes de contenu peuvent maintenir cela facilement?  
 
-Lors d’un prochain billet, nous aborderons la création de dialogueurs. Abonnez-vous à la [liste d’envoi du BTN](https://blogue.canada.ca/pages/inscrire.html) pour recevoir le billet dans votre boîte de réception.
+Lors d’un prochain billet, nous aborderons la création des assistants. Abonnez-vous à la [liste d’envoi du BTN](https://blogue.canada.ca/pages/inscrire.html) pour recevoir le billet dans votre boîte de réception.
 
 
 ## Ce que vous avez appris vous inspire? Partagez ce billet avec votre équipe.
