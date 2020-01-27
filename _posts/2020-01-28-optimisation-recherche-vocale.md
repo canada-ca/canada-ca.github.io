@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Six façons d’optimiser votre contenu pour la recherche vocale
+title:  Optimiser votre contenu pour la recherche vocale
 pubdate: "28 janvier 2020"
 langpage: "https://blog.canada.ca/2020/01/28/voice-search-optimization.html"
 date:   2020-01-28
