@@ -50,7 +50,7 @@ Donc, les techniques traditionnelles de référencement s’appliquent. Misez su
 <b>Points prioritaires pour le référencement vocal</b>
 
 * Créez des réponses concises (n’amalgamez pas les détails et les résumés)
-* Ciblez des mots qu’emploient les Canadiens (consultez [Google Trends](https://trends.google.com/trends/?geo=CA))
+* Ciblez des mots qu’emploient les Canadiens (consultez [Google Trends](https://trends.google.com/trends/?geo=FR))
 * Assurez-vous d’inclure des montants, des numéros de téléphone, des adresses, etc.
 * Misez sur des titres concis et des réponses descriptives
 * Optez pour des listes
@@ -62,7 +62,7 @@ Les données structurées sont ajoutées à une page sous forme de code dans un 
 Pour améliorer les résultats de recherche vocale :
 
 * Ajoutez des données structurées [pouvant être énoncées (speakable)](https://developers.google.com/search/docs/data-types/speakable?hl=fr) pour indiquer quel est le meilleur contenu pour une réponse vocale et pour améliorer les résultats de recherche affichés
-* Utilisez et testez les [résultats enrichis de Google](https://search.google.com/test/rich-results?hl=fr), et suivez [les conseils sur les données structurées](https://developers.google.com/search/docs/guides/sd-policies?hl=fr). Cette fonction n’est pas toujours parfaite pour les données gouvernementales, mais vous pourrez certainement apporter plusieurs améliorations.
+* Utilisez et testez les [résultats enrichis de Google](https://search.google.com/test/rich-results?hl=fr), et suivez [les consignes pour les données structurées](https://developers.google.com/search/docs/guides/sd-policies?hl=fr). Cette fonction n’est pas toujours parfaite pour les données gouvernementales, mais elle peut certainement vous aider à apporter plusieurs améliorations.
   * Le site du gouvernement du Royaume-Uni (Gov.UK) comprend désormais [HowTo schema](https://gds.blog.gov.uk/2018/08/23/hey-gov-uk-what-are-you-doing-about-voice/)(en anglais seulement) pour les pages avec des étapes à suivre.
   * Nous travaillons à l’ajout de « résultats enrichis » au contenu sur l’Allocation canadienne pour enfants de l’Agence du revenu du Canada.
 
