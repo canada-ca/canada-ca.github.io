@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Six ways to optimize your content for voice search"
+title:  "Optimize your content for voice search"
 pubdate: "January 28, 2020"
 langpage: "https://blog.canada.ca/2020/01/28/voice-search-optimization.html"
 date:   2020-01-28
