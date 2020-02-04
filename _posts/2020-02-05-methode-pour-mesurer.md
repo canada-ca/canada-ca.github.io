@@ -30,11 +30,11 @@ L’établissement de rapports sur cet indicateur pousse les institutions du gou
 
 -[Gerry McGovern, February 2018](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
 
-Dans un esprit d’expérimentation et de respect des ressources disponibles, le Bureau de la transformation numérique a proposé trois méthodes pour réaliser ce rapport:
+Dans un esprit d’expérimentation et de respect des ressources disponibles, le Bureau de la transformation numérique a proposé 3 méthodes pour réaliser ce rapport:
 
-* l’essai de convivialité;
-* l’analyse d’entonnoirs de tâches;
-* l’enquête sur l’achèvement des tâches.
+* l’essai de convivialité
+* l’analyse d’entonnoirs de tâches
+* l’enquête sur l’achèvement des tâches
 
 ## Mode de mesure des tâches dans l’ensemble des établissements déclarants
 
@@ -55,7 +55,7 @@ Nous avons compilé les données que chaque établissement a envoyées. Nous avo
 * 15 tâches étaient liées à la recherche d’emplois et de carrières
 * 18 tâches étaient liées au téléchargement, à l’ouverture de session, à l’achat ou au calcul
 
-#### Réussite d’achèvement de la tâche
+#### Réussite des tâches
 
 Nous avons considéré le taux de réussite pour toutes les tâches qui étaient testées avec plus de 20 participants. 101 tâches répondaient à ce critère.
 * Le taux de réussite moyen de ces 101 tâches était de 64 %.
@@ -73,9 +73,9 @@ Les tâches pour lesquelles le taux de réussite était moins élevé comprenaie
 
 Voici ce que nous avons appris au sujet de chaque méthode de production de rapport.
 
-### Essais de convivialité
+### Tests d’utilisabilité
 
-L’essai de convivialité dirigé est une formidable façon de découvrir comment les visiteurs utilisent votre site et de cerner où se trouvent les problèmes. C’est aussi la norme d’excellence pour mesurer la réussite d’une tâche. Toutefois, les essais de convivialité axés sur l’achèvement des tâches sont un peu différents des essais de convivialité standards. La principale différence est que les essais relatifs à l’achèvement des tâches ont tendance à faire appel à un plus grand nombre de participants (au moins 16). Cet essai est axé à la fois sur l’obtention d’une cote de réussite fiable par tâche et sur la découverte du mode d’utilisation du site par les visiteurs.
+Le test d’utilisabilité dirigé est une formidable façon de découvrir comment les visiteurs utilisent votre site et de cerner où se trouvent les problèmes. C’est aussi la norme d’excellence pour mesurer la réussite d’une tâche. Toutefois, les tests d’utilisabilité axés sur l'exécution des tâches sont un peu différents des essais de convivialité standards. La principale différence est que les essais relatifs à l’achèvement des tâches ont tendance à faire appel à un plus grand nombre de participants (au moins 16). Cet essai est axé à la fois sur l’obtention d’une cote de réussite fiable par tâche et sur la découverte du mode d’utilisation du site par les visiteurs.
 
 Les résultats des essais de convivialité dirigés sont difficiles à comparer entre de nombreux établissements. La comparabilité dépend de l’uniformité de la formulation des tâches et des scénarios. De plus, il peut être difficile pour les petits établissements d’assurer le coût, le temps et l’expertise nécessaires pour effectuer et analyser des essais de convivialité rigoureux.
 
@@ -151,7 +151,7 @@ Qu’est-ce qui vous permettrait de produire des rapports sur les tâches princi
 
 Communiquez avec le Bureau de la transformation numérique du SCT :
 * Courriel : dto-btn@tbs-sct.gc.ca
-* Twitter : #Canadadotca
+* Twitter : #Canadadotca // #Canadapointca
 * Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 ## Pour en savoir davantage
