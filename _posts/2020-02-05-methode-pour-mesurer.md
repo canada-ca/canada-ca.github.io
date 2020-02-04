@@ -91,7 +91,7 @@ Cette méthode n’est pas idéale pour les tâches liées à la recherche de r�
 
 Bon nombre des établissements qui ont utilisé cette méthode ont également signalé que la désuétude des plateformes d’analyse et l’incapacité de suivre les utilisateurs dans les zones sécurisées d’un site Web compliquaient l’analyse.   
 
-Nous avons constaté que la qualité des données que nous avons reçues des entonnoirs de tâches était mitigée. Cette méthode était parfois confondue avec une étude sur la répérabilité. On a demandé aux utilisateurs s’ils pouvaient trouver des liens à partir d’une page définie. Il existe de meilleures méthodes pour déterminer la répérabilité, comme [l’essai de l’arborescence ou l’essai des clics](https://www.nngroup.com/articles/navigation-ia-tests/).
+Nous avons constaté que la qualité des données que nous avons reçues des entonnoirs de tâches était mitigée. Cette méthode était parfois confondue avec une étude sur la répérabilité. On a demandé aux utilisateurs s’ils pouvaient trouver des liens à partir d’une page définie. Il existe de meilleures méthodes pour déterminer la répérabilité, comme [l’essai de l’arborescence ou l’essai des clics](https://www.nngroup.com/articles/navigation-ia-tests/)(disponible en anglais seulement).
 
 ### Sondage en ligne
 
