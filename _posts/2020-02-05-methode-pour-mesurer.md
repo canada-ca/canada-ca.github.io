@@ -2,12 +2,12 @@
 layout: post
 title:  "Trouver la bonne méthode pour mesurer la réussite des tâches en ligne"
 pubdate: "February 5, 2020"
-langpage: "https://blog.canada.ca/2020/02/05/CS-02-tasks.html"
+langpage: "https://blog.canada.ca/2020/02/05/method-to-measure.html"
 date:   2020-02-05
 published: true
 draft: true
 lang: fr
-alt: "CS-02 tasks"
+alt: "methode pour mesurer"
 description: "Ce que nous avons appris des rapports de réussite des tâches CS-02 en ligne"
 ---
 
