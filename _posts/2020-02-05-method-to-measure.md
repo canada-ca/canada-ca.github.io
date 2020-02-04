@@ -2,13 +2,13 @@
 layout: post
 title:  "Finding the right method to measure online task success"
 pubdate: "February 5, 2020"
-langpage: "https://blog.canada.ca/2020/02/05/CS-02-tasks.html"
+langpage: "https://blogue.canada.ca/2020/02/05/methode-pour-mesurer.html"
 date:   2020-02-05
 published: true
 draft: true
 lang: en
-alt: "CS-02 tasks"
-description: "What we learned from the CS-02 online task success reports"
+alt: "right method to measure"
+description: "What we learned about exit surveys, usability testing and analytics funnels"
 ---
 
 In 2019, the Digital Transformation Office worked with our colleagues in the Results Division of Treasury Board Secretariat to put in place a new key performance indicator. It evaluates citizens’ ability to complete high-demand tasks on the Government of Canada’s web presence. 37 departments had to report on the new indicator in 2019.
