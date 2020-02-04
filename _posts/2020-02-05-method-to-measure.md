@@ -19,9 +19,7 @@ As we analyzed the results early in 2020, we learned a lot about the different m
 
 ## Background
 
-The official name of the new indicator is “Communications Services - Outcome 2 (CS-O2).” It is part of the internal services indicators under the [Policy on Results](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300).  
-
-Reporting on this indicator pushes Government of Canada institutions to make service delivery a priority. It helps them plan their digital work around improving success for top tasks online. This aligns with the [Government of Canada’s Digital Standard](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) on empowering staff to deliver better services.
+Improving online top tasks aligns with the [Government of Canada’s Digital Standard](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) on empowering staff to deliver better services.
 
 <blockquote><p style="color: #1E5D71 !important;">“Change the key metrics and you will change the organization. Change the organization and you will deliver vastly better digital services.”</p>
 </blockquote>
@@ -39,10 +37,10 @@ In the spirit of experimentation and respect for available resources, the Digita
 We compiled the data that each institution sent. We tagged each task with the collection method, number of participants, time period, and success rate.  Here’s what we found.
 
 <b>Reporting method</b>
-* 9 Surveys
-* 8 Usability tests
-* 7 Task funnels
-* 2 Other methods
+* 9 surveys
+* 8 usability tests
+* 7 task funnels
+* 2 other methods
 
 <b>Types of tasks reported </b>
 * 283 reported tasks
@@ -116,7 +114,7 @@ The first round of reports uncovered challenges in terms of ease of execution an
 
 Offering multiple methods to report on top tasks was meant to remove barriers to data collection. The reality was that it affected our ability to see trends across institutions. The different methods created inconsistent data. It’s hard to compare the results of a task funnel to a usability test!  
 
-## Moving forward: A single reporting method for 2020
+## Moving forward: a single reporting method for 2020
 
 It’s clear that a single reporting method would help us see the big picture of online task delivery across the Government of Canada.
 
@@ -124,9 +122,9 @@ The online survey method provides a standardized data collection method. It is t
 
 The feedback we heard from institutions using this method was positive. It indicated a culture shift to top task management.
 
-* “The survey allows us to prioritize which section on the website should be optimized first, for example our focus/energy should go towards top tasks that are not performing as [well] as the other ones.” - Global Affairs Canada
+* “The survey allows us to prioritize which section on the website should be optimized first, for example our focus/energy should go towards top tasks that are not performing as [well] as the other ones.”
 
-* “Over the course of time, the findings of WES (Web Experience Survey) have played a part in the evolution of the Statistics Canada website.” - Statistics Canada
+* “Over the course of time, the findings of WES (Web Experience Survey) have played a part in the evolution of the Statistics Canada website.” 
 
 For the next task collection request in 2020, we will ask that institutions use an online survey.
 
