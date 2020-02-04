@@ -75,7 +75,7 @@ Voici ce que nous avons appris au sujet de chaque méthode de production de rapp
 
 ### Tests d’utilisabilité
 
-Le test d’utilisabilité dirigé est une formidable façon de découvrir comment les visiteurs utilisent votre site et de cerner où se trouvent les problèmes. C’est aussi la norme d’excellence pour mesurer la réussite d’une tâche. Toutefois, les tests d’utilisabilité axés sur l'exécution des tâches sont un peu différents des essais de convivialité standards. La principale différence est que les essais relatifs à l’achèvement des tâches ont tendance à faire appel à un plus grand nombre de participants (au moins 16). Cet essai est axé à la fois sur l’obtention d’une cote de réussite fiable par tâche et sur la découverte du mode d’utilisation du site par les visiteurs.
+Le test d’utilisabilité dirigé est une formidable façon de découvrir comment les visiteurs utilisent votre site et de cerner où se trouvent les problèmes. C’est aussi la norme d’excellence pour mesurer la réussite d’une tâche. Toutefois, les tests d’utilisabilité axés sur l'exécution de tâches sont un peu différents des essais de convivialité standards. La principale différence est que les essais relatifs à l’achèvement des tâches ont tendance à faire appel à un plus grand nombre de participants (au moins 16). Cet essai est axé à la fois sur l’obtention d’une cote de réussite fiable par tâche et sur la découverte du mode d’utilisation du site par les visiteurs.
 
 Les résultats des essais de convivialité dirigés sont difficiles à comparer entre de nombreux établissements. La comparabilité dépend de l’uniformité de la formulation des tâches et des scénarios. De plus, il peut être difficile pour les petits établissements d’assurer le coût, le temps et l’expertise nécessaires pour effectuer et analyser des essais de convivialité rigoureux.
 
@@ -103,21 +103,21 @@ Les résultats des sondages ont été compilés automatiquement dans des tableau
 
 Le sondage du Bureau de la transformation numérique demandait aux visiteurs de:
 
-* choisir la tâche qu’ils sont venus faire (y compris une option d’édition au cas où leur tâche ne serait pas indiquée);
+* choisir la tâche qu’ils sont venus faire (y compris une option d’édition au cas où leur tâche ne serait pas indiquée)
 * confirmer s’ils ont été en mesure d’accomplir leur tâche
-* choisir la raison pour laquelle ils n’ont pas été en mesure d’accomplir leur tâche (y compris une option d’édition) s’ils n’ont pas pu le faire;
+* choisir la raison pour laquelle ils n’ont pas été en mesure d’accomplir leur tâche (y compris une option d’édition) s’ils n’ont pas pu le faire
 
 Nous avons constaté que cette méthode favorisait le meilleur équilibre entre :
 
 * la normalisation des données
-* La facilité, pour les établissements, de comprendre pourquoi les utilisateurs visitent leurs pages;
-* cerner les parties de l’expérience en ligne qui causent des problèmes de prestation de services;
+* La facilité, pour les établissements, de comprendre pourquoi les utilisateurs visitent leurs pages
+* cerner les parties de l’expérience en ligne qui causent des problèmes de prestation de services
 
 La première série de rapports a mis au jour des défis en termes de facilité d’exécution et de qualité des données. Nous tenons compte de ces constatations dans la planification de l’exercice 2020.
 
 ## Simplification de nos méthodes pour obtenir de meilleurs résultats
 
-Afin d’éliminer les obstacles à la collecte de données, nous avons offert différentes méthodes pour rendre compte des tâches principales. La réalité est que cela a eu une incidence sur notre capacité de voir les tendances entre les établissements. L’utilisation de différentes méthodes a miné l’uniformité des données. Il est difficile de comparer les résultats d’un entonnoir de tâches à un test de convivialité!
+Afin d’éliminer les obstacles à la collecte de données, nous avons offert différentes méthodes pour rendre compte des tâches principales. La réalité est que cela a eu une incidence sur notre capacité de voir les tendances entre les établissements. L’utilisation de différentes méthodes a miné l’uniformité des données. Il est difficile de comparer les résultats d’un entonnoir de tâches à un test d’utilisabilité!
 
 ## Prochaines étapes : une méthode de production de rapports unique pour 2020
 
