@@ -95,7 +95,7 @@ Nous avons constaté que la qualité des données que nous avons reçues des ent
 
 ### Sondage en ligne
 
-Le sondage en ligne était la méthode privilégiée pour recueillir des données sur la réussite des tâches principales. Nous avons constaté qu’il donnait des résultats comparables d’un établissement à l’autre. Pour les établissements qui entreprennent leur parcours à partir de la gestion des tâches principales, la méthode du sondage est la plus facile à mettre en œuvre et à reproduire année après année.
+Le sondage en ligne était la méthode privilégiée pour recueillir des données sur la réussite des tâches principales. Nous avons constaté qu’il donnait des résultats comparables d’un établissement à l’autre. Pour les établissements qui entreprennent leur parcours en gestion de tâches principales, la méthode du sondage est la plus facile à mettre en œuvre et à reproduire année après année.
 
 Le Bureau de la transformation numérique a élaboré un sondage que n’importe quel établissement pourrait utiliser. Les établissements n’avaient qu’à rédiger leurs scénarios de tâches et à accorder suffisamment de temps pour exécuter le sondage. Ce sondage était la seule méthode qui permettait les réponses par écrit. Cette méthode a permis aux établissements de découvrir des tâches nouvelles ou sous-représentées.   
 
