@@ -13,7 +13,7 @@ description: "Ce que nous avons appris des rapports de réussite des tâches CS-
 
 En 2019, le Bureau de la transformation numérique a travaillé avec ses collègues de la Division des résultats du Secrétariat du Conseil du Trésor pour mettre en place un nouvel indicateur de rendement clé. Celui-ci évalue la capacité des citoyens d’accomplir des tâches aux exigences élevées sur le site Web du gouvernement du Canada. Trente-sept ministères ont dû faire rapport sur le nouvel indicateur en 2019.
 
-La mesure de l’achèvement des tâches en ligne nous aide à comprendre comment les améliorations apportées à la conception influent sur la réussite des tâches. Elle aide également les institutions à adopter une approche axée sur les tâches principales pour la gestion de l’information et des services en ligne.
+La mesure de l’exécution de tâches en ligne nous aide à comprendre comment les améliorations apportées à la conception influent sur la réussite des tâches. Elle aide également les institutions à adopter une approche axée sur les tâches principales pour la gestion de l’information et des services en ligne.
 
 En analysant les résultats au début de 2020, nous avons beaucoup appris sur les différentes méthodes de mesure de la réussite des tâches en ligne.
 
@@ -28,9 +28,9 @@ L’établissement de rapports sur cet indicateur pousse les institutions du gou
 </p>
 </blockquote>
 
--[Gerry McGovern, February 2018](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html)
+-[Gerry McGovern, February 2018](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
 
-Dans un esprit d’expérimentation et de respect des ressources disponibles, le Bureau de la transformation numérique a proposé trois méthodes pour réaliser ce rapport :
+Dans un esprit d’expérimentation et de respect des ressources disponibles, le Bureau de la transformation numérique a proposé trois méthodes pour réaliser ce rapport:
 
 * l’essai de convivialité;
 * l’analyse d’entonnoirs de tâches;
@@ -38,7 +38,7 @@ Dans un esprit d’expérimentation et de respect des ressources disponibles, le
 
 ## Mode de mesure des tâches dans l’ensemble des établissements déclarants
 
-Nous avons compilé les données que chaque établissement a envoyées. Nous avons associé à chaque tâche la méthode de collecte, le nombre de participants, la période et le taux de réussite. Voici ce que nous avons constaté :
+Nous avons compilé les données que chaque établissement a envoyées. Nous avons associé à chaque tâche la méthode de collecte, le nombre de participants, la période et le taux de réussite. Voici ce que nous avons constaté:
 
 <b>Méthode de déclaration</b>
 
@@ -63,7 +63,7 @@ Nous avons considéré le taux de réussite pour toutes les tâches qui étaient
 
 Neuf établissements ont connu un franc succès en ce qui concerne une tâche. Il s’agissait surtout de tâches liées à la recherche de réponses. Les sujets abordés comprenaient les temps d’attente à la frontière, les possibilités de carrière et les conseils de santé aux voyageurs.
 
-Lower performing tasks often included applying or registering for things. It’s difficult to pinpoint the cause of the lower success rates. Possible causes include:
+Les tâches pour lesquelles le taux de réussite était moins élevé comprenaient souvent la présentation d’une demande ou l’inscription à quelque chose. Il est difficile de déterminer la cause des taux de réussite plus faibles. Les causes possibles comprennent les suivantes :
 
 * le type de méthode de déclaration (les entonnoirs de tâches étaient souvent utilisés)
 * la nature de la tâche étant plus complexe avec les exigences en ligne et hors ligne combinées
