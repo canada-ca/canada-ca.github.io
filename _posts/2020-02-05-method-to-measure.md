@@ -34,7 +34,7 @@ In the spirit of experimentation and respect for available resources, the Digita
 
 ## How tasks were measured across the reporting institutions
 
-We compiled the data that each institution sent. We tagged each task with the collection method, number of participants, time period, and success rate.  Here’s what we found.
+We compiled the data that each institution sent. We tagged each task with the collection method, number of participants, time period, and success rate.  Here’s what we found:
 
 <b>Reporting method</b>
 * 9 surveys
