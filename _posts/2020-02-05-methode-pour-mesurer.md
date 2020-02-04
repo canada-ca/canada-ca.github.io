@@ -28,7 +28,7 @@ L’établissement de rapports sur cet indicateur pousse les institutions du gou
 </p>
 </blockquote>
 
-<p>-[Gerry McGovern, February 2018](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html)</p>
+-[Gerry McGovern, February 2018](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html)
 
 Dans un esprit d’expérimentation et de respect des ressources disponibles, le Bureau de la transformation numérique a proposé trois méthodes pour réaliser ce rapport :
 
