@@ -119,7 +119,7 @@ La première série de rapports a mis au jour des défis en termes de facilité 
 
 Afin d’éliminer les obstacles à la collecte de données, nous avons offert différentes méthodes pour rendre compte des tâches principales. La réalité est que cela a eu une incidence sur notre capacité de voir les tendances entre les établissements. L’utilisation de différentes méthodes a miné l’uniformité des données. Il est difficile de comparer les résultats d’un entonnoir de tâches à un test de convivialité!
 
-## Prochaines étapes : Une méthode de production de rapports unique pour 2020
+## Prochaines étapes : une méthode de production de rapports unique pour 2020
 
 Il est clair qu’une méthode de production de rapports unique nous aiderait à avoir une vue d’ensemble de l’exécution des tâches en ligne dans l’ensemble du gouvernement du Canada.
 
@@ -127,9 +127,9 @@ La méthode de sondage en ligne offre une méthode de collecte de données norma
 
 Les commentaires que nous avons reçus des établissements utilisant cette méthode étaient positifs. Cela dénote un changement de culture vers la gestion des tâches principales.
 
-* « Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier, par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. » - Affaires mondiales Canada
+* « Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier, par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. »
 
-* « Au fil du temps, les conclusions du SEW (Sondage sur l’expérience Web) ont joué un rôle dans l’évolution du site Web de Statistique Canada. » - Statistique Canada
+* « Au fil du temps, les conclusions du SEW (Sondage sur l’expérience Web) ont joué un rôle dans l’évolution du site Web de Statistique Canada. »
 
 Pour la prochaine demande de collecte de tâches en 2020, nous demanderons aux établissements d’utiliser un sondage en ligne.
 
@@ -157,5 +157,5 @@ Communiquez avec le Bureau de la transformation numérique du SCT :
 ## Pour en savoir davantage
 
 * [Mesurer les résultats pour améliorer les services numériques](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
-* [Voyez De quelle façon déterminons-nous les principales tâches pour Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
-* [Voyez Comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html)
+* Voyez [De quelle façon déterminons-nous les principales tâches pour Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
+* Voyez [Comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html)

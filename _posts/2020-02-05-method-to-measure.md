@@ -24,7 +24,7 @@ Improving online top tasks aligns with the [Government of Canada’s Digital Sta
 <blockquote><p style="color: #1E5D71 !important;">“Change the key metrics and you will change the organization. Change the organization and you will deliver vastly better digital services.”</p>
 </blockquote>
 
-<p>-[Gerry McGovern, February 2018](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html)</p>
+-[Gerry McGovern, February 2018](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html)
 
 In the spirit of experimentation and respect for available resources, the Digital Transformation Office offered 3 methods to complete this report:
 
@@ -124,7 +124,7 @@ The feedback we heard from institutions using this method was positive. It indic
 
 * “The survey allows us to prioritize which section on the website should be optimized first, for example our focus/energy should go towards top tasks that are not performing as [well] as the other ones.”
 
-* “Over the course of time, the findings of WES (Web Experience Survey) have played a part in the evolution of the Statistics Canada website.” 
+* “Over the course of time, the findings of WES (Web Experience Survey) have played a part in the evolution of the Statistics Canada website.”
 
 For the next task collection request in 2020, we will ask that institutions use an online survey.
 
