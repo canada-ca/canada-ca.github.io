@@ -108,7 +108,7 @@ Le sondage du Bureau de la transformation numérique demandait aux visiteurs de:
 Nous avons constaté que cette méthode favorisait le meilleur équilibre entre :
 
 * la normalisation des données
-* La facilité, pour les institutions, de comprendre pourquoi les utilisateurs visitent leurs pages
+* la facilité, pour les institutions, de comprendre pourquoi les utilisateurs visitent leurs pages
 * cerner les parties de l’expérience en ligne qui causent des problèmes de prestation de services
 
 La première série de rapports a révélé des défis en termes de facilité d’exécution et de qualité des données. Nous tenons compte de ces constatations dans la planification de l’exercice 2020.
