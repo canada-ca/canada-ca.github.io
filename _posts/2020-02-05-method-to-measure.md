@@ -116,7 +116,7 @@ Offering multiple methods to report on top tasks was meant to remove barriers to
 
 ## Moving forward: a single reporting method for 2020
 
-It’s clear that a single reporting method would help us see the big picture of online task delivery across the Government of Canada.
+It’s clear that a single top task reporting method would help us see the big picture of online task delivery across the Government of Canada.
 
 The online survey method provides a standardized data collection method. It is technically easy to implement, and provides clear data about top task strengths and weaknesses.
 
@@ -130,7 +130,7 @@ For the next task collection request in 2020, we will ask that institutions use 
 
 ## Final word
 
-In 2020, all institutions subject to the [Policy on Communications and Federal Identity](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30683) (Schedules I, I.1 and II of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/F-11/page-30.html#docCont)) will be asked to report.
+In 2020, all institutions subject to the [Policy on Communications and Federal Identity](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30683) (Schedules I, I.1 and II of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/F-11/page-30.html#docCont)) will be asked to report on their top tasks.
 
 
 ### We want to hear from you
@@ -146,11 +146,11 @@ What would make online top task reporting easier for you to complete?
 
  Connect with the Digital Transformation Office at TBS:
 * Email: [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca
+* Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 ## Learn more
 
 * [Improve digital services by measuring outcomes](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html)
-* [See how we identify top tasks for Canada.ca](https://blog.canada.ca/2017/12/11/top-100-for-gc.html)
-* [See how measuring task success is key for optimizing Canada.ca top tasks](https://blog.canada.ca/2017/12/12/optimization-overview.html)
+* See [how we identify top tasks for Canada.ca](https://blog.canada.ca/2017/12/11/top-100-for-gc.html)
+* See [how measuring task success is key for optimizing Canada.ca top tasks](https://blog.canada.ca/2017/12/12/optimization-overview.html)
