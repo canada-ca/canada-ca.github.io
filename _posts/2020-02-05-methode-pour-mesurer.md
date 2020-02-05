@@ -21,12 +21,9 @@ En analysant les résultats au début de 2020, nous avons beaucoup appris sur le
 
 L’amélioration des tâches principales en ligne s’harmonise avec les [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) afin d’outiller le personnel à offrir de meilleurs services.
 
-<blockquote><p style="color: #1E5D71 !important;">« Changez les paramètres clés et vous changerez l’organisation. Changez l’organisation et vous livrerez des services numériques grandement supérieurs. »»
+<blockquote><p style="color: #1E5D71 !important;">« Changez les paramètres clés et vous changerez l’organisation. Changez l’organisation et vous livrerez des services numériques grandement supérieurs. »»</p>
 
-</p>
-</blockquote>
-
--[Gerry McGovern, février  2018](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
+<footer><a href="https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html">Gerry McGovern, février 2018</a></footer></blockquote>
 
 Dans un esprit d’expérimentation et de respect des ressources disponibles, le Bureau de la transformation numérique a proposé 3 méthodes pour réaliser ce rapport:
 
