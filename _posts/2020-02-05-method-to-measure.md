@@ -45,8 +45,8 @@ We compiled the data that each institution sent. We tagged each task with the co
 * 283 reported tasks
 * Over 200 tasks about looking for answers to questions
 * 23 tasks about applying, renewing, filing, or registering
-* 15 contact us tasks
-* 15 jobs and careers seeking tasks
+* 15 tasks about how to get in contact
+* 15 tasks about seeking jobs and careers
 * 18 tasks about downloading, signing in, purchasing, or calculating
 
 #### Task success
@@ -57,7 +57,7 @@ We looked at the success rate for all tasks that were tested with over 20 partic
 
 9 institutions had high success tasks. These were mostly answer-finding tasks. Topics included border wait times, career opportunities, and travel health notices.
 
-Lower performing tasks often included applying or registering for things. It’s difficult to pinpoint the cause of the lower success rates. Possible causes include:
+Lower performing tasks often included applying or registering for things. It’s difficult to pinpoint the exact cause of the lower success rates. Possible causes include:
 
 * the type of reporting method (task funnels were often used)
 * the nature of the task being more complex with both online and offline requirements
