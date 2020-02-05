@@ -23,7 +23,7 @@ Improving online top tasks aligns with the [Government of Canada’s Digital Sta
 
 <blockquote><p style="color: #1E5D71 !important;">“Change the key metrics and you will change the organization. Change the organization and you will deliver vastly better digital services.”</p>
 
-<footer class="text-right">-&nbsp;<a href="http://blog.canada.ca/2018/02/23/improve-digital-measuring-outcomes.html">Gerry McGovern, February 2018</a></footer></blockquote>
+<footer>-<a href="http://blog.canada.ca/2018/02/23/improve-digital-measuring-outcomes.html">Gerry McGovern, February 2018</a></footer></blockquote>
 
 In the spirit of experimentation and respect for available resources, the Digital Transformation Office offered 3 methods to complete this report:
 
@@ -139,12 +139,12 @@ What would make online top task reporting easier for you to complete?
 ## Inspired by what you learned? Share this post with your team.
 
  Connect with the Digital Transformation Office at TBS:
-* Email: [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca)
+* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 ## Learn more
 
 * [Improve digital services by measuring outcomes](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html)
-* See [how we identify top tasks for Canada.ca](https://blog.canada.ca/2017/12/11/top-100-for-gc.html)
-* See [how measuring task success is key for optimizing Canada.ca top tasks](https://blog.canada.ca/2017/12/12/optimization-overview.html)
+* [How we identify top tasks for Canada.ca](https://blog.canada.ca/2017/12/11/top-100-for-gc.html)
+* [How measuring task success is key for optimizing Canada.ca top tasks](https://blog.canada.ca/2017/12/12/optimization-overview.html)
