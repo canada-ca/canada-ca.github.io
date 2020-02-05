@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trouver la bonne méthode pour mesurer la réussite des tâches en ligne"
-pubdate: "February 5, 2020"
+pubdate: "5 février 2020"
 langpage: "https://blog.canada.ca/2020/02/05/method-to-measure.html"
 date:   2020-02-05
 published: true
