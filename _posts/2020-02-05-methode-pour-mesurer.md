@@ -58,7 +58,7 @@ Nous avons considéré le taux de réussite pour toutes les tâches qui étaient
 
 Neuf (9) institutions ont connu un franc succès en ce qui concerne une tâche. Il s’agissait surtout de tâches liées à la recherche de réponses. Les sujets abordés comprenaient les temps d’attente à la frontière, les possibilités de carrière et les conseils de santé aux voyageurs.
 
-Les tâches pour lesquelles le taux de réussite était moins élevé comprenaient souvent la présentation d’une demande ou l’inscription à quelque chose. Il est difficile de déterminer la cause des taux de réussite plus faibles. Les causes possibles comprennent notamment :
+Les tâches pour lesquelles le taux de réussite était moins élevé comprenaient souvent la présentation d’une demande ou l’inscription à quelque chose. Il est difficile de déterminer la cause exacte des taux de réussite plus faibles. Les causes possibles comprennent notamment:
 
 * le type de méthode de déclaration (les entonnoirs de tâches étaient souvent utilisés)
 * la nature de la tâche étant plus complexe avec les exigences en ligne et hors ligne combinées
@@ -66,7 +66,7 @@ Les tâches pour lesquelles le taux de réussite était moins élevé comprenaie
 
 ## Les avantages et les inconvénients de chaque méthode de déclaration
 
-Voici ce que nous avons appris au sujet de chaque méthode mentionnée dans les rapports.
+Voici ce que nous avons appris au sujet de chaque méthode de production de rapport.
 
 ### Test d’utilisabilité
 
