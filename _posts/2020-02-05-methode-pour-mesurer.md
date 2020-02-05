@@ -145,12 +145,12 @@ Qu’est-ce qui vous permettrait de produire des rapports sur les tâches princi
 ## Ce que vous avez appris vous inspire-t-il? Partagez cette publication avec votre équipe
 
 Communiquez avec le Bureau de la transformation numérique du SCT :
-* Courriel : dto-btn@tbs-sct.gc.ca
+* Courriel : dto.btn@tbs-sct.gc.ca
 * Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
 * Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 ## Pour en savoir davantage
 
 * [Mesurer les résultats pour améliorer les services numériques](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
-* Voyez [de quelle façon nous déterminons les principales tâches pour Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
-* Voyez [comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html)
+* [De quelle façon nous déterminons les principales tâches pour Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
+* [Comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html)
