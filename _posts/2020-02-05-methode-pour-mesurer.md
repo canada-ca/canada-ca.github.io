@@ -125,9 +125,9 @@ La méthode de sondage en ligne offre une méthode de collecte de données norma
 
 Les commentaires que nous avons reçus des institutions utilisant cette méthode étaient positifs. Cela dénote un changement de culture vers la gestion des tâches principales.
 
-* « Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier, par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. »
+<blockquote><p style="color: #1E5D71 !important;">« Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier, par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. » </p> </blockquote>
 
-* « Au fil du temps, les conclusions du Sondage sur l’expérience Web (SEW) ont joué un rôle dans l’évolution du site Web de Statistique Canada. »
+<blockquote><p style="color: #1E5D71 !important;">« Au fil du temps, les conclusions du Sondage sur l’expérience Web (SEW) ont joué un rôle dans l’évolution du site Web de Statistique Canada. »</p></blockquote>
 
 Pour la prochaine demande de collecte de tâches en 2020, nous demanderons aux institutions d’utiliser un sondage en ligne.
 
