@@ -8,42 +8,40 @@ published: true
 draft: true
 lang: fr
 alt: "methode pour mesurer"
-description: "Ce que nous avons appris des rapports de réussite des tâches CS-02 en ligne"
+description: "Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs
+"
 ---
+En 2019, le Bureau de la transformation numérique a travaillé avec ses collègues de la Division des résultats du Secrétariat du Conseil du Trésor pour mettre en place un nouvel indicateur de rendement clé. Celui-ci évalue la capacité des citoyens d’accomplir des tâches aux exigences élevées sur le site Web du gouvernement du Canada. Trente-sept (37) ministères ont dû faire rapport sur le nouvel indicateur en 2019.
 
-En 2019, le Bureau de la transformation numérique a travaillé avec ses collègues de la Division des résultats du Secrétariat du Conseil du Trésor pour mettre en place un nouvel indicateur de rendement clé. Celui-ci évalue la capacité des citoyens d’accomplir des tâches aux exigences élevées sur le site Web du gouvernement du Canada. Trente-sept ministères ont dû faire rapport sur le nouvel indicateur en 2019.
-
-La mesure de l’exécution de tâches en ligne nous aide à comprendre comment les améliorations apportées à la conception influent sur la réussite des tâches. Elle aide également les institutions à adopter une approche axée sur les tâches principales pour la gestion de l’information et des services en ligne.
+La mesure de l’accomplissement de tâches en ligne nous aide à comprendre comment les améliorations apportées à la conception influent sur la réussite des tâches. Elle aide également les institutions à adopter une approche axée sur les tâches principales pour la gestion de l’information et des services en ligne.
 
 En analysant les résultats au début de 2020, nous avons beaucoup appris sur les différentes méthodes de mesure de la réussite des tâches en ligne.
 
 ## Contexte
 
-Le nom officiel du nouvel indicateur est « Services de communication - Résultat 2 (SC-O2) ». Cet indicateur fait partie des indicateurs des services internes en vertu de la  [Politique sur les Résultats](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=31300).  
-
-L’établissement de rapports sur cet indicateur pousse les institutions du gouvernement du Canada à faire de la prestation de services une priorité. Cela les aide à planifier leur travail numérique en vue d’améliorer leur réussite pour les tâches principales en ligne. Cette démarche s’harmonise avec les [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) sur l’habilitation du personnel à offrir de meilleurs services.
+L’amélioration des tâches principales en ligne s’harmonise avec les [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) afin d’outiller le personnel à offrir de meilleurs services.
 
 <blockquote><p style="color: #1E5D71 !important;">« Changez les paramètres clés et vous changerez l’organisation. Changez l’organisation et vous livrerez des services numériques grandement supérieurs. »»
 
 </p>
 </blockquote>
 
--[Gerry McGovern, February 2018](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
+-[Gerry McGovern, février  2018](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
 
 Dans un esprit d’expérimentation et de respect des ressources disponibles, le Bureau de la transformation numérique a proposé 3 méthodes pour réaliser ce rapport:
 
-* l’essai de convivialité
+* le test d’utilisabilité
 * l’analyse d’entonnoirs de tâches
-* l’enquête sur l’achèvement des tâches
+* le sondage sur l’accomplissement de tâches
 
-## Mode de mesure des tâches dans l’ensemble des établissements déclarants
+## Mode de mesure des tâches dans l’ensemble des institutions déclarantes
 
-Nous avons compilé les données que chaque établissement a envoyées. Nous avons associé à chaque tâche la méthode de collecte, le nombre de participants, la période et le taux de réussite. Voici ce que nous avons constaté:
+Nous avons compilé les données que chaque institution a envoyées. Nous avons associé à chaque tâche la méthode de collecte, le nombre de participants, la période et le taux de réussite. Voici ce que nous avons constaté:
 
 <b>Méthode de déclaration</b>
 
 * 9 sondages
-* 8 essais de convivialité
+* 8 tests d’utilisabilité
 * 7 analyses d’entonnoirs de tâches
 * 2 autres méthodes
 
@@ -58,32 +56,32 @@ Nous avons compilé les données que chaque établissement a envoyées. Nous avo
 #### Réussite des tâches
 
 Nous avons considéré le taux de réussite pour toutes les tâches qui étaient testées avec plus de 20 participants. 101 tâches répondaient à ce critère.
-* Le taux de réussite moyen de ces 101 tâches était de 64 %.
+* Le taux de réussite moyen de ces 101 tâches était de 64 %
 * 32 tâches ont obtenu une cote de réussite élevée de plus de 80 %
 
-Neuf établissements ont connu un franc succès en ce qui concerne une tâche. Il s’agissait surtout de tâches liées à la recherche de réponses. Les sujets abordés comprenaient les temps d’attente à la frontière, les possibilités de carrière et les conseils de santé aux voyageurs.
+Neuf (9) institutions ont connu un franc succès en ce qui concerne une tâche. Il s’agissait surtout de tâches liées à la recherche de réponses. Les sujets abordés comprenaient les temps d’attente à la frontière, les possibilités de carrière et les conseils de santé aux voyageurs.
 
-Les tâches pour lesquelles le taux de réussite était moins élevé comprenaient souvent la présentation d’une demande ou l’inscription à quelque chose. Il est difficile de déterminer la cause des taux de réussite plus faibles. Les causes possibles comprennent les suivantes :
+Les tâches pour lesquelles le taux de réussite était moins élevé comprenaient souvent la présentation d’une demande ou l’inscription à quelque chose. Il est difficile de déterminer la cause des taux de réussite plus faibles. Les causes possibles comprennent les notamment :
 
 * le type de méthode de déclaration (les entonnoirs de tâches étaient souvent utilisés)
 * la nature de la tâche étant plus complexe avec les exigences en ligne et hors ligne combinées
-* des problèmes liés à l’expérience réelle en ligne.
+* des problèmes liés à l’expérience réelle en ligne
 
 ## Les avantages et les inconvénients de chaque méthode de déclaration
 
-Voici ce que nous avons appris au sujet de chaque méthode de production de rapport.
+Voici ce que nous avons appris au sujet de chaque méthode mentionnée dans les rapports.
 
-### Tests d’utilisabilité
+### Test d’utilisabilité
 
-Le test d’utilisabilité dirigé est une formidable façon de découvrir comment les visiteurs utilisent votre site et de cerner où se trouvent les problèmes. C’est aussi la norme d’excellence pour mesurer la réussite d’une tâche. Toutefois, les tests d’utilisabilité axés sur l'exécution de tâches sont un peu différents des essais de convivialité standards. La principale différence est que les essais relatifs à l’achèvement des tâches ont tendance à faire appel à un plus grand nombre de participants (au moins 16). Cet essai est axé à la fois sur l’obtention d’une cote de réussite fiable par tâche et sur la découverte du mode d’utilisation du site par les visiteurs.
+Le test d’utilisabilité avec modérateur est une formidable façon de découvrir comment les visiteurs utilisent votre site et de cerner où se trouvent les problèmes. C’est aussi la norme d’excellence pour mesurer la réussite d’une tâche. Toutefois, les tests d’utilisabilité axés l’accomplissement de tâches sont un peu différents des test d’utilisabilité standards. La principale différence est que les tests relatifs à l’accomplissement de tâches ont tendance à faire appel à un plus grand nombre de participants (au moins 16). Ce test est axé à la fois sur l’obtention d’une cote de réussite fiable par tâche et sur la découverte du mode d’utilisation du site par les visiteurs.
 
-Les résultats des essais de convivialité dirigés sont difficiles à comparer entre de nombreux établissements. La comparabilité dépend de l’uniformité de la formulation des tâches et des scénarios. De plus, il peut être difficile pour les petits établissements d’assurer le coût, le temps et l’expertise nécessaires pour effectuer et analyser des essais de convivialité rigoureux.
+Les résultats des tests d’utilisabilité avec modérateur sont difficiles à comparer entre de nombreuses institutions. La comparabilité dépend de l’uniformité de la formulation des tâches et des scénarios. De plus, il peut être difficile pour les petites institutions d’assurer le coût, le temps et l’expertise nécessaires pour effectuer et analyser des des tests d’utilisabilité rigoureux.
 
-Cela dit, rien ne peut remplacer l’observation de personnes en chair et en os qui utilisent votre site. Nous recommandons toujours d’intégrer les essais de convivialité à la trousse d’outils de votre équipe Web.
+Cela dit, rien ne peut remplacer l’observation de personnes en chair et en os qui utilisent votre site. Nous recommandons toujours d’intégrer les tests d’utilisabilité à la trousse d’outils de votre équipe Web.
 
-### Entonnoirs de tâches
+### Entonnoir de tâches
 
-Cette option a permis aux établissements de faire rapport sur une seule tâche. Ils ont utilisé les outils analytiques Web anonymisés pour suivre les parcours des visiteurs depuis le début d’une tâche jusqu’à l’achèvement réussi.
+Cette option a permis aux institutions de faire rapport sur une seule tâche. Ils ont utilisé des outils analytiques Web anonymisés pour suivre les parcours des visiteurs depuis le début d’une tâche jusqu’à l’achèvement réussi.
 
 Les entonnoirs fonctionnent mieux pour suivre les conversions sur plusieurs pages où il y a une seule séquence d’étapes à suivre (comme une caisse de commerce électronique). L’inconvénient est que les visiteurs abandonnent les entonnoirs pour des raisons qui n’ont rien à voir avec l’efficacité de l’expérience.
 
@@ -151,11 +149,11 @@ Qu’est-ce qui vous permettrait de produire des rapports sur les tâches princi
 
 Communiquez avec le Bureau de la transformation numérique du SCT :
 * Courriel : dto-btn@tbs-sct.gc.ca
-* Twitter : #Canadadotca // #Canadapointca
+* Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
 * Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 ## Pour en savoir davantage
 
 * [Mesurer les résultats pour améliorer les services numériques](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
-* Voyez [De quelle façon déterminons-nous les principales tâches pour Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
-* Voyez [Comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html)
+* Voyez [de quelle façon nous déterminons les principales tâches pour Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
+* Voyez [comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html)
