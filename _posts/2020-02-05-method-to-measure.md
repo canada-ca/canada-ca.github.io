@@ -21,9 +21,9 @@ As we analyzed the results early in 2020, we learned a lot about the different m
 
 Improving online top tasks aligns with the [Government of Canada’s Digital Standard](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) on empowering staff to deliver better services.
 
-<blockquote><p style="color: #1E5D71 !important;">“Change the key metrics and you will change the organization. Change the organization and you will deliver vastly better digital services.”
+<blockquote><p style="color: #1E5D71 !important;">“Change the key metrics and you will change the organization. Change the organization and you will deliver vastly better digital services.”</p>
 
--&nbsp;[Gerry McGovern, February 2018](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html) </p>
+<footer>-&nbsp;[Gerry McGovern, February 2018](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html)</footer>
 </blockquote>
 
 In the spirit of experimentation and respect for available resources, the Digital Transformation Office offered 3 methods to complete this report:
