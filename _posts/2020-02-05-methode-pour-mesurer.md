@@ -81,15 +81,15 @@ Cela dit, rien ne peut remplacer l’observation de personnes en chair et en os 
 
 ### Entonnoir de tâches
 
-Cette option a permis aux institutions de faire rapport sur une seule tâche. Ils ont utilisé des outils analytiques Web anonymisés pour suivre les parcours des visiteurs depuis le début d’une tâche jusqu’à l’achèvement réussi.
+Cette option a permis aux institutions de faire rapport sur une seule tâche. Ils ont utilisé des outils analytiques Web pour suivre les parcours des visiteurs de façon anonyme depuis le début d’une tâche jusqu’à sa réussite.
 
-Les entonnoirs fonctionnent mieux pour suivre les conversions sur plusieurs pages où il y a une seule séquence d’étapes à suivre (comme une caisse de commerce électronique). L’inconvénient est que les visiteurs abandonnent les entonnoirs pour des raisons qui n’ont rien à voir avec l’efficacité de l’expérience.
+Cette méthode fonctionne mieux pour suivre les conversions sur plusieurs pages où il y a une seule séquence d’étapes à suivre (comme passer à la caisse lors d’une transaction électronique). L’inconvénient est que les visiteurs abandonnent leur parcours pour des raisons qui n’ont rien à voir avec l’efficacité de l’expérience.
 
-Cette méthode n’est pas idéale pour les tâches liées à la recherche de réponses. Celles-ci aboutissent souvent à des options multiples, de sort qu’il est difficile ou impossible de suivre le cheminement de l’utilisateur.
+Cette méthode n’est pas idéale pour les tâches liées à la recherche de réponses. Celles-ci aboutissent souvent à des options multiples, de sorte qu’il est difficile ou impossible de suivre le cheminement de l’utilisateur.
 
-Bon nombre des établissements qui ont utilisé cette méthode ont également signalé que la désuétude des plateformes d’analyse et l’incapacité de suivre les utilisateurs dans les zones sécurisées d’un site Web compliquaient l’analyse.   
+Bon nombre des institutions qui ont utilisé cette méthode ont également signalé que les plateformes d’analyse désuètes et l’incapacité de suivre les utilisateurs dans les zones sécurisées d’un site Web compliquaient l’analyse.   
 
-Nous avons constaté que la qualité des données que nous avons reçues des entonnoirs de tâches était mitigée. Cette méthode était parfois confondue avec une étude sur la répérabilité. On a demandé aux utilisateurs s’ils pouvaient trouver des liens à partir d’une page définie. Il existe de meilleures méthodes pour déterminer la répérabilité, comme [le test d’arborescence ou le test du premier clic](https://www.nngroup.com/articles/navigation-ia-tests/)(disponible en anglais seulement).
+Nous avons constaté que la qualité des données que nous avons reçues des analyses d’entonnoirs de tâches était mitigée. Cette méthode était parfois confondue avec une étude sur la répérabilité. On a demandé aux utilisateurs s’ils pouvaient trouver des liens à partir d’une page définie. Il existe de meilleures méthodes pour déterminer la répérabilité, comme [le test d’arborescence ou le test du premier clic](https://www.nngroup.com/articles/navigation-ia-tests/)(disponible en anglais seulement).
 
 ### Sondage en ligne
 
