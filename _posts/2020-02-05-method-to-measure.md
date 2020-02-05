@@ -122,12 +122,9 @@ The online survey method provides a standardized data collection method. It is t
 
 The feedback we heard from institutions using this method was positive. It indicated a culture shift to top task management.
 
-<blockquote><p style="color: #1E5D71 !important;">“The survey allows us to prioritize which section on the website should be optimized first, for example our focus/energy should go towards top tasks that are not performing as [well] as the other ones.”</p>
-</blockquote>
+<blockquote><p style="color: #1E5D71 !important;">“The survey allows us to prioritize which section on the website should be optimized first, for example our focus/energy should go towards top tasks that are not performing as [well] as the other ones.”</p> </blockquote>
 
-<blockquote><p style="color: #1E5D71 !important;"> “Over the course of time, the findings of WES (Web Experience Survey) have played a part in the evolution of the website.”</p>
-</blockquote>
-
+<blockquote><p style="color: #1E5D71 !important;"> “Over the course of time, the findings of WES (Web Experience Survey) have played a part in the evolution of the website.”</p> </blockquote>
 
 For the next task reporting request in 2020, we will ask that institutions use an online survey.
 
