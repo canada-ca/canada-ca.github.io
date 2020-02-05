@@ -89,51 +89,51 @@ Cette méthode n’est pas idéale pour les tâches liées à la recherche de r�
 
 Bon nombre des établissements qui ont utilisé cette méthode ont également signalé que la désuétude des plateformes d’analyse et l’incapacité de suivre les utilisateurs dans les zones sécurisées d’un site Web compliquaient l’analyse.   
 
-Nous avons constaté que la qualité des données que nous avons reçues des entonnoirs de tâches était mitigée. Cette méthode était parfois confondue avec une étude sur la répérabilité. On a demandé aux utilisateurs s’ils pouvaient trouver des liens à partir d’une page définie. Il existe de meilleures méthodes pour déterminer la répérabilité, comme [l’essai de l’arborescence ou l’essai des clics](https://www.nngroup.com/articles/navigation-ia-tests/)(disponible en anglais seulement).
+Nous avons constaté que la qualité des données que nous avons reçues des entonnoirs de tâches était mitigée. Cette méthode était parfois confondue avec une étude sur la répérabilité. On a demandé aux utilisateurs s’ils pouvaient trouver des liens à partir d’une page définie. Il existe de meilleures méthodes pour déterminer la répérabilité, comme [le test d’arborescence ou le test du premier clic](https://www.nngroup.com/articles/navigation-ia-tests/)(disponible en anglais seulement).
 
 ### Sondage en ligne
 
-Le sondage en ligne était la méthode privilégiée pour recueillir des données sur la réussite des tâches principales. Nous avons constaté qu’il donnait des résultats comparables d’un établissement à l’autre. Pour les établissements qui entreprennent leur parcours en gestion de tâches principales, la méthode du sondage est la plus facile à mettre en œuvre et à reproduire année après année.
+Le sondage en ligne était la méthode privilégiée pour recueillir des données sur la réussite des tâches principales. Nous avons constaté qu’il donnait des résultats comparables d’une institution à l’autre. Pour les institutions qui s’initient à la gestion de tâches principales, la méthode du sondage est la plus facile à mettre en œuvre et à reproduire année après année.
 
-Le Bureau de la transformation numérique a élaboré un sondage que n’importe quel établissement pourrait utiliser. Les établissements n’avaient qu’à rédiger leurs scénarios de tâches et à accorder suffisamment de temps pour exécuter le sondage. Ce sondage était la seule méthode qui permettait les réponses par écrit. Cette méthode a permis aux établissements de découvrir des tâches nouvelles ou sous-représentées.   
+Le Bureau de la transformation numérique a élaboré un sondage que n’importe quelle institution pourrait utiliser. Les institutions n’avaient qu’à rédiger leurs scénarios de tâches et à accorder suffisamment de temps pour exécuter le sondage. Ce sondage était la seule méthode permettant d’écrire des réponses. Cette méthode a permis aux institutions de découvrir des tâches nouvelles ou sous-représentées.   
 
-Les résultats des sondages ont été compilés automatiquement dans des tableaux de bord. Cela a réduit davantage la charge de travail de l’établissement pour la compilation et l’analyse des données.
+Les résultats des sondages ont été compilés automatiquement dans des tableaux de bord. Cela a réduit davantage la charge de travail de l’institution pour la compilation et l’analyse des données.
 
 Le sondage du Bureau de la transformation numérique demandait aux visiteurs de:
 
-* choisir la tâche qu’ils sont venus faire (y compris une option d’édition au cas où leur tâche ne serait pas indiquée)
+* choisir la tâche qu’ils sont venus accomplir (y compris la possibilité d’ajouter leur tâche si elle n’était pas indiquée)
 * confirmer s’ils ont été en mesure d’accomplir leur tâche
-* choisir la raison pour laquelle ils n’ont pas été en mesure d’accomplir leur tâche (y compris une option d’édition) s’ils n’ont pas pu le faire
+* choisir la raison pour laquelle ils n’ont pas été en mesure d’accomplir leur tâche (y compris la possibilité d’ajouter des raisons) s’ils n’ont pas pu le faire
 
 Nous avons constaté que cette méthode favorisait le meilleur équilibre entre :
 
 * la normalisation des données
-* La facilité, pour les établissements, de comprendre pourquoi les utilisateurs visitent leurs pages
+* La facilité, pour les institutions, de comprendre pourquoi les utilisateurs visitent leurs pages
 * cerner les parties de l’expérience en ligne qui causent des problèmes de prestation de services
 
-La première série de rapports a mis au jour des défis en termes de facilité d’exécution et de qualité des données. Nous tenons compte de ces constatations dans la planification de l’exercice 2020.
+La première série de rapports a révélé des défis en termes de facilité d’exécution et de qualité des données. Nous tenons compte de ces constatations dans la planification de l’exercice 2020.
 
 ## Simplification de nos méthodes pour obtenir de meilleurs résultats
 
-Afin d’éliminer les obstacles à la collecte de données, nous avons offert différentes méthodes pour rendre compte des tâches principales. La réalité est que cela a eu une incidence sur notre capacité de voir les tendances entre les établissements. L’utilisation de différentes méthodes a miné l’uniformité des données. Il est difficile de comparer les résultats d’un entonnoir de tâches à un test d’utilisabilité!
+Afin d’éliminer les obstacles à la collecte de données, nous avons offert différentes méthodes pour rendre compte des tâches principales. La réalité est que cela a eu une incidence sur notre capacité de voir les tendances entre les institutions. L’utilisation de différentes méthodes a miné l’uniformité des données. Il est difficile de comparer les résultats d’un entonnoir de tâches à un test d’utilisabilité!
 
-## Prochaines étapes : une méthode de production de rapports unique pour 2020
+## Prochaines étapes : une méthode unique de produire votre rapport pour 2020
 
-Il est clair qu’une méthode de production de rapports unique nous aiderait à avoir une vue d’ensemble de l’exécution des tâches en ligne dans l’ensemble du gouvernement du Canada.
+Il est clair qu’une méthode  unique de produire votre rapport sur les tâches principales nous aiderait à avoir une vue d’ensemble de l’exécution des tâches en ligne dans l’ensemble du gouvernement du Canada.
 
 La méthode de sondage en ligne offre une méthode de collecte de données normalisée. Elle est facile à mettre en œuvre sur le plan technique et fournit des données claires sur les forces et les faiblesses des tâches principales.
 
-Les commentaires que nous avons reçus des établissements utilisant cette méthode étaient positifs. Cela dénote un changement de culture vers la gestion des tâches principales.
+Les commentaires que nous avons reçus des institutions utilisant cette méthode étaient positifs. Cela dénote un changement de culture vers la gestion des tâches principales.
 
 * « Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier, par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. »
 
-* « Au fil du temps, les conclusions du SEW (Sondage sur l’expérience Web) ont joué un rôle dans l’évolution du site Web de Statistique Canada. »
+* « Au fil du temps, les conclusions du Sondage sur l’expérience Web (SEW) ont joué un rôle dans l’évolution du site Web de Statistique Canada. »
 
-Pour la prochaine demande de collecte de tâches en 2020, nous demanderons aux établissements d’utiliser un sondage en ligne.
+Pour la prochaine demande de collecte de tâches en 2020, nous demanderons aux institutions d’utiliser un sondage en ligne.
 
 ## Mot de la fin
 
-En 2020, tous les établissements assujettis à la [Politique sur les communications et l’image de marque](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683) (Annexes I, I.1 et II de la [Loi sur la gestion des finances publiques]()) devront présenter des rapports.
+En 2020, toutes les institutions assujetties à la [Politique sur les communications et l’image de marque](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683) (Annexes I, I.1 et II de la [Loi sur la gestion des finances publiques]()) devront produire un rapport sur leurs tâches principales.
 
 
 ### Nous voulons avoir votre opinion
