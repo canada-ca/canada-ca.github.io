@@ -122,18 +122,16 @@ The online survey method provides a standardized data collection method. It is t
 
 The feedback we heard from institutions using this method was positive. It indicated a culture shift to top task management.
 
-* “The survey allows us to prioritize which section on the website should be optimized first, for example our focus/energy should go towards top tasks that are not performing as [well] as the other ones.”
+<blockquote><p style="color: #1E5D71 !important;">“The survey allows us to prioritize which section on the website should be optimized first, for example our focus/energy should go towards top tasks that are not performing as [well] as the other ones.”</p>
+</blockquote>
 
-* “Over the course of time, the findings of WES (Web Experience Survey) have played a part in the evolution of the Statistics Canada website.”
-
-For the next task collection request in 2020, we will ask that institutions use an online survey.
-
-## Final word
-
-In 2020, all institutions subject to the [Policy on Communications and Federal Identity](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30683) (Schedules I, I.1 and II of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/F-11/page-30.html#docCont)) will be asked to report on their top tasks.
+<blockquote><p style="color: #1E5D71 !important;"> “Over the course of time, the findings of WES (Web Experience Survey) have played a part in the evolution of the website.”</p>
+</blockquote>
 
 
-### We want to hear from you
+For the next task reporting request in 2020, we will ask that institutions use an online survey.
+
+## We want to hear from you
 
 What would make online top task reporting easier for you to complete?
 
