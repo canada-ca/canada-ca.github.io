@@ -89,7 +89,7 @@ Cette méthode n’est pas idéale pour les tâches liées à la recherche de r�
 
 Bon nombre des institutions qui ont utilisé cette méthode ont également signalé que les plateformes d’analyse désuètes et l’incapacité de suivre les utilisateurs dans les zones sécurisées d’un site Web compliquaient l’analyse.   
 
-Nous avons constaté que la qualité des données que nous avons reçues des analyses d’entonnoirs de tâches était mitigée. Cette méthode était parfois confondue avec une étude sur la répérabilité. On a demandé aux utilisateurs s’ils pouvaient trouver des liens à partir d’une page définie. Il existe de meilleures méthodes pour déterminer la répérabilité, comme [le test d’arborescence ou le test du premier clic](https://www.nngroup.com/articles/navigation-ia-tests/)(disponible en anglais seulement).
+Nous avons constaté que la qualité des données que nous avons reçues des analyses d’entonnoirs de tâches était mitigée. Cette méthode était parfois confondue avec une étude sur la répérabilité. On a demandé aux utilisateurs s’ils pouvaient trouver des liens à partir d’une page définie. Il existe de meilleures méthodes pour déterminer la répérabilité, comme [le test d’arborescence ou le test du premier clic](https://www.nngroup.com/articles/navigation-ia-tests/) (disponible en anglais seulement).
 
 ### Sondage en ligne
 
@@ -125,18 +125,15 @@ La méthode de sondage en ligne offre une méthode de collecte de données norma
 
 Les commentaires que nous avons reçus des institutions utilisant cette méthode étaient positifs. Cela dénote un changement de culture vers la gestion des tâches principales.
 
-<blockquote><p style="color: #1E5D71 !important;">« Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier, par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. » </p> </blockquote>
+<blockquote><p style="color: #1E5D71 !important;">« Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier, par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. »
+</p> </blockquote>
 
-<blockquote><p style="color: #1E5D71 !important;">« Au fil du temps, les conclusions du Sondage sur l’expérience Web (SEW) ont joué un rôle dans l’évolution du site Web de Statistique Canada. »</p></blockquote>
+<blockquote><p style="color: #1E5D71 !important;">« Au fil du temps, les conclusions du Sondage sur l’expérience Web (SEW) ont joué un rôle dans l’évolution du site Web. »
+</p></blockquote>
 
 Pour la prochaine demande de collecte de tâches en 2020, nous demanderons aux institutions d’utiliser un sondage en ligne.
 
-## Mot de la fin
-
-En 2020, toutes les institutions assujetties à la [Politique sur les communications et l’image de marque](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683) (Annexes I, I.1 et II de la [Loi sur la gestion des finances publiques]()) devront produire un rapport sur leurs tâches principales.
-
-
-### Nous voulons avoir votre opinion
+## Nous voulons avoir votre opinion
 
 Qu’est-ce qui vous permettrait de produire des rapports sur les tâches principales en ligne plus facilement?
 
