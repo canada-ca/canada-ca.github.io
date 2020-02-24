@@ -14,6 +14,7 @@ description: "Part 1: Mobilizing the community"
 This is the first post of a series explaining how public servants are coming together to modernize the tools we need to build a more effective web presence for the Government of Canada. In this edition we look at what a design system is and why we’re making one.
 
 In September 2019, the Digital Transformation Office (DTO) and collaborators from across the Government of Canada came together to discuss building a Government of Canada Design System.
+
 We had people from the Aurora and Clone (Talent Cloud) design systems, the Canadian Digital Service (CDS), Digital Academy, and the Web Experience Toolkit. We also had design specialists from across departments, including ISED, CRA, IRCC, and DND.
 
 ## Introducing the Government of Canada Design System
