@@ -93,7 +93,7 @@ Get in on the conversation and share your ideas and feedback:
 * What should it do for your users?
 * How could you pitch in and help build this?
 
-[Join the conversation on Slack: design-gc-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
+Join the conversation on Slack: [design-gc-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 We will be sharing more updates from the Government of Canada Design System in future blog posts. Sign up for the [DTO mailing list](https://blog.canada.ca/pages/signup.html) to get the blog delivered to your inbox.
 
@@ -110,6 +110,6 @@ We will be sharing more updates from the Government of Canada Design System in f
 
 ## Connect with the Digital Transformation Office at TBS
 
-* Email: dto.btn@tbs-sct.gc.ca
-* Twitter: #Canadadotca and possible #GCDesignSystem
+* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
