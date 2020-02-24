@@ -25,6 +25,7 @@ We are pulling together elements from:
 * the Web Experience Toolkit and its GCWeb implementation
 * the Canada.ca Style Guide
 * the Canada.ca pattern library
+
 This means that there will be one place to go to get the right tools and guidance.
 
 But what exactly is a design system?
@@ -92,23 +93,23 @@ Get in on the conversation and share your ideas and feedback:
 * What should it do for your users?
 * How could you pitch in and help build this?
 
-Join the conversation on Slack: design-gc-conception.slack.com
+[Join the conversation on Slack: design-gc-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
-We will be sharing more updates from the Government of Canada Design System in future blog posts. Sign up for the DTO mailing list to get the blog  delivered to your inbox.
+We will be sharing more updates from the Government of Canada Design System in future blog posts. Sign up for the [DTO mailing list](https://blog.canada.ca/pages/signup.html) to get the blog delivered to your inbox.
 
 ## Learn more
 
-* Slack workspace: design-gc-conception.slack.com
-* GCpedia on Design system working group
-* Current pattern library
-* Gov.uk design system
-* Australia design system
-* Shopify design system (Polaris)
-* Everything you need to know about design systems
-* A comprehensive guide to design systems
+* [Slack workspace: design-gc-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
+* [GCpedia on Design system working group]()
+* [Current pattern library]
+* [Gov.uk design system]
+* [Australia design system]
+* [Shopify design system (Polaris)]
+* [Everything you need to know about design systems]
+* [A comprehensive guide to design systems]
 
 ## Connect with the Digital Transformation Office at TBS
 
 * Email: dto.btn@tbs-sct.gc.ca
 * Twitter: #Canadadotca and possible #GCDesignSystem
-* Slack: http://design-GC-conception.slack.com
+* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
