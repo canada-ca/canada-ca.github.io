@@ -71,7 +71,7 @@ This model will allow for faster, iterative updates, and will support ongoing im
 
 Momentum on the Government of Canada design system is building. Since September, we have continued to bring people, ideas and action together to drive progress.
 
-The Design System Working Group meets every 2 weeks. We are making concrete progress daily toward making the Government of Canada Design System a reality. 
+The Design System Working Group meets every 2 weeks. We are making concrete progress daily toward making the Government of Canada Design System a reality.
 
 ### Build it with us!
 
@@ -82,7 +82,9 @@ Get in on the conversation and share your ideas and feedback:
 * What should it do for your users?
 * How could you pitch in and help build this?
 
-Join the conversation on Slack: [design-gc-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
+If you’re interested in testing the new documentation style, or if you’d like to contribute something to the GC design system, reach out to us:
+* [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* [Join the conversation on Slack](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM))
 
 We will be sharing more updates from the Government of Canada Design System in future blog posts. Sign up for the [DTO mailing list](https://blog.canada.ca/pages/signup.html) to get the blog delivered to your inbox.
 
