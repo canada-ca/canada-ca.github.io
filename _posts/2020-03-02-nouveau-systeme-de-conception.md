@@ -21,27 +21,27 @@ Everyone agreed that an overarching design system would make it easier for depar
 
 So what exactly is a design system anyway?
 
-## Design system defined
+## Définition d’un système de conception
 
-There are many definitions of a design system out there. Here’s our take on it:
+Il existe de nombreuses définitions d’un système de conception. Voici la nôtre :
 
-> A design system is a collection of flexible and reusable design and code elements, supported by research and clear guidelines. It gives teams the building blocks they need to design their online presence in a way that supports task success and trust among users.
+> Un système de conception est un ensemble d’éléments de conception et de code souples et réutilisables, appuyé par des recherches et des lignes directrices claires. Il donne aux équipes les éléments de base nécessaires pour concevoir leur présence en ligne de manière à favoriser le succès des tâches et la confiance de leurs utilisateurs.
 
-In other words, a design system should make it <b>easier</b> and <b>faster</b> to design effective content within a coherent digital experience.
+Autrement dit, un système de conception devrait vous aider à faire la bonne chose, de la bonne façon.
 
-Design systems usually include:
+Les systèmes de conception comprennent habituellement :
 
-* a library of reusable design elements, along with the code to create them
-* best practices and guidance, based on evidence, for how to use those design elements
-* design principles
-* a writing style guide
-* guidance on branding
+* une bibliothèque d’éléments de conception réutilisables, ainsi que le code pour les créer
+* des pratiques exemplaires et des directives fondées sur des données probantes sur la façon d’utiliser ces éléments de conception
+* des principes de conception
+* un guide de rédaction
+* des indications sur l’image de marque
 
-There are a lot of great examples to start from. Large Canadian companies like Shopify as well as other governments like the UK and Australia, have launched successful design systems.
+On peut s’inspirer de plusieurs excellents exemples. De grandes entreprises canadiennes comme Shopify et d’autres gouvernements, comme ceux du Royaume-Uni et de l’Australie, ont lancé des systèmes de conception efficaces qui permettent de créer une expérience numérique conviviale et cohérente pour les utilisateurs.
 
-## Why we need a Government of Canada design system
+## Pourquoi avons-nous besoin d’un système de conception du gouvernement du Canada?
 
-When people can easily predict how to navigate your online presence, readily understand how to interact with your content and confidently identify the source of that content, they are more successful completing tasks online.
+Lorsque les gens peuvent facilement prévoir comment naviguer à travers votre présence en ligne, comprendre tout de suite comment interagir avec votre contenu et identifier avec confiance la source de ce contenu, ils réussissent mieux à accomplir des tâches en ligne.
 
 A Government of Canada design system will support this predictability and brand recognition. The result? Millions of Canadians will complete online interactions with the government more successfully every day.
 
