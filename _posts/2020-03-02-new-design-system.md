@@ -25,9 +25,11 @@ So what exactly is a design system anyway?
 
 There are many definitions of a design system out there. Here’s our take on it:
 
-A design system is a collection of flexible and reusable design and code elements, supported by research and clear guidelines. It gives teams the building blocks they need to design their online presence in a way that supports task success and trust among users.{: .well.well-sm}
+<div class="well well-sm">
+A design system is a collection of flexible and reusable design and code elements, supported by research and clear guidelines. It gives teams the building blocks they need to design their online presence in a way that supports task success and trust among users.
+</div>
 
-In other words, a design system should make it <b>easier</b> and <b>faster</b> to design effective content within a coherent digital experience. {: .well.well-sm}
+In other words, a design system should make it <b>easier</b> and <b>faster</b> to design effective content within a coherent digital experience.
 
 Design systems usually include:
 
