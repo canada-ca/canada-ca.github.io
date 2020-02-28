@@ -43,29 +43,29 @@ On peut s’inspirer de plusieurs excellents exemples. De grandes entreprises ca
 
 Lorsque les gens peuvent facilement prévoir comment naviguer à travers votre présence en ligne, comprendre tout de suite comment interagir avec votre contenu et identifier avec confiance la source de ce contenu, ils réussissent mieux à accomplir des tâches en ligne.
 
-A Government of Canada design system will support this predictability and brand recognition. The result? Millions of Canadians will complete online interactions with the government more successfully every day.
+Un système de conception appuie cette prévisibilité et cette reconnaissance de la marque. Résultat : chaque jour, des millions de Canadiens peuvent avoir des interactions en ligne plus efficaces avec le gouvernement.
 
-### Build trust through a consistent experience
+### Renforcer la confiance grâce à une expérience uniforme
 
-When using online services, people want to know who they’re dealing with. The Government of Canada, through the Federal Identity Program, has a very strong brand. It’s recognized the world over.  Our web presence needs to take advantage of that strong brand to foster trust.
+Lorsque les gens utilisent les services en ligne, ils veulent savoir à qui ils ont affaire. Le gouvernement du Canada, par l’entremise du Programme de coordination de l’image de marque, a une marque très forte reconnue dans le monde entier.  Notre présence sur le Web doit tirer parti de cette force pour favoriser la confiance.
 
-But a strong brand in the digital world is about more than logos and symbols. It needs to include an overall experience that’s consistent and integrated. That’s why the design system includes global styles for typography, colours and layouts, as well as a common header and footer.
+Toutefois, dans le monde numérique, une marque solide ne se limite pas aux logos et aux symboles. Elle doit inclure une expérience globale cohérente et intégrée. C’est pourquoi le système de conception comprend des styles globaux pour la typographie, les couleurs et la mise en page, ainsi qu’un en-tête et un pied de page communs.
 
-### Help build better, usable services faster
+### Aider à créer de meilleurs services utilisables plus rapidement
 
-Why try to solve an issue that somebody else has already solved?
+Pourquoi tenter de régler un problème que quelqu’un d’autre a déjà réglé?
 
-The design system will include a rich library of design and layout options. It will offer advice on best practices, instead of emphasizing “one-size-fits-all” templates and rules.
+Le système de conception comprendra une vaste bibliothèque d’options de conception et de mise en page. Il offrira des conseils sur les pratiques exemplaires, au lieu de mettre l’accent sur des modèles et des règles « universels ».
 
-This will help you fast-track design decisions, building with elements that have already been proven to be effective. While this doesn’t eliminate the need to test what you build with your users, it means you’re starting from a solid foundation. You don’t need to spend time working out basic issues of visual style or accessibility compliance. Your valuable time can go to creating high quality content that helps people complete their tasks.
+Cela vous aidera à prendre des décisions de conception plus rapidement, en travaillant avec des éléments qui ont déjà prouvé leur efficacité. Bien que la nécessité de tester le fruit de votre travail auprès de vos utilisateurs ne soit pas éliminée, vous partez d’une base solide. Vous pouvez commencer à améliorer l’expérience utilisateur plus tôt. Nul besoin de vous attarder aux questions fondamentales de style visuel ou de conformité en matière d’accessibilité. Vous pouvez consacrer votre précieux temps à créer du contenu de grande qualité qui aide les gens à accomplir leurs tâches.
 
-### Enable continuous improvement through experimentation
+### Permettre l’amélioration continue grâce à l’expérimentation
 
-While previous lessons learned and tested patterns are a great starting point, they should in no way be considered perfect and “final”. They need to evolve based on new evidence.
+Bien que les leçons apprises et les modèles mis à l’essai soient un excellent point de départ, ils ne doivent en aucun cas être considérés comme parfaits et « définitifs ». Ils doivent évoluer en fonction des nouvelles données probantes.
 
-The design system will be community driven - drawing on the collective creativity and innovative ideas of colleagues across departments. Have an idea for a better way to display information in a table or create an interactive wizard? Our alpha environment will allow for prototyping and testing as well as community feedback and collaboration. Patterns that turn out to be effective at solving design issues will be added to the design system library for others to use.
+Le système de conception sera communautaire – il s’appuiera sur la créativité collective et les idées novatrices de collègues de tous les ministères. Vous avez une idée sur une meilleure façon d’afficher des renseignements dans un tableau ou de créer un assistant interactif? Notre environnement alpha permettra le prototypage et les tests, ainsi que la rétroaction et la collaboration communautaires. Les modèles qui se révèlent efficaces pour résoudre les problèmes de conception seront ajoutés à la bibliothèque du système de conception pour que d’autres puissent les utiliser.
 
-This model will allow for faster, iterative updates, and will support ongoing improvement to service design.
+Cette façon de procéder permettra des mises à jour plus rapides et itératives et appuiera l’amélioration continue de la conception des services. 
 
 ## Concrétiser la vision
 
