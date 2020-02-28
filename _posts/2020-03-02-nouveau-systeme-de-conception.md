@@ -86,18 +86,18 @@ If you’re interested in testing the new documentation style, or if you’d lik
 * [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * [Join the conversation on Slack](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
-Nous publierons d’autres mises à jour sur le système de conception du gouvernement du Canada dans de futurs billets de blogue. Abonnez-vous à la [liste d’envoi du BTN](https://blog.canada.ca/pages/signup.html) pour recevoir le billet de blogue dans votre boîte de réception. 
+Nous publierons d’autres mises à jour sur le système de conception du gouvernement du Canada dans de futurs billets de blogue. Abonnez-vous à la [liste d’envoi du BTN](https://blog.canada.ca/pages/signup.html) pour recevoir le billet de blogue dans votre boîte de réception.
 
-## Learn more
+## Pour en savoir davantage
 
-* [Slack workspace: design-gc-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-* [GCpedia on Design system working group](https://wiki.gccollab.ca/Design_Systems_Working_Group_-_Groupe_de_travail_des_systemes_de_conception)
-* [Current pattern library](https://www.canada.ca/en/government/about/design-system/pattern-library.html)
-* [Gov.uk design system](https://design-system.service.gov.uk/)
-* [Australia design system](https://designsystem.gov.au/)
-* [Shopify design system (Polaris)](https://polaris.shopify.com/)
-* [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
-* [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/?utm_campaign=blog&utm_content=1554730300&utm_medium=social&utm_source=twitter)
+* [Espace de travail Slack : design-gc-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
+* [Groupe de travail sur les systèmes de conception sur GCpédia](https://wiki.gccollab.ca/Design_Systems_Working_Group_-_Groupe_de_travail_des_systemes_de_conception)
+* [Bibliothèque de configurations](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html)
+* [Gov.uk design system](https://design-system.service.gov.uk/)(en anglais seulement)
+* [Australia design system](https://designsystem.gov.au/)(en anglais seulement)
+* [Shopify design system (Polaris)](https://polaris.shopify.com/)(en anglais seulement)
+* [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)(en anglais seulement)
+* [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/?utm_campaign=blog&utm_content=1554730300&utm_medium=social&utm_source=twitter)(en anglais seulement)
 
 ## Communiquez avec le Bureau de la transformation numérique du SCT:
 
