@@ -45,23 +45,21 @@ When people can easily predict how to navigate your online presence, readily und
 
 A Government of Canada design system will support this predictability and brand recognition. The result? Millions of Canadians will complete online interactions with the government more successfully every day.
 
-### Building trust through a consistent experience
+### Build trust through a consistent experience
 
 When using online services, people want to know who they’re dealing with. The Government of Canada, through the Federal Identity Program, has a very strong brand. It’s recognized the world over.  Our web presence needs to take advantage of that strong brand to foster trust.
 
 But a strong brand in the digital world is about more than logos and symbols. It needs to include an overall experience that’s consistent and integrated. That’s why the design system includes global styles for typography, colours and layouts, as well as a common header and footer.
 
-### Helping build better, usable services faster
+### Help build better, usable services faster
 
 Why try to solve an issue that somebody else has already solved?
 
 The design system will include a rich library of design and layout options. It will offer advice on best practices, instead of emphasizing “one-size-fits-all” templates and rules.
 
-This will help you fast-track design decisions, building with elements that have already been proven to be effective. While this doesn’t eliminate the need to test what you build with your users, it means you’re starting from a solid foundation. You can get to the business of perfecting the user experience sooner.
+This will help you fast-track design decisions, building with elements that have already been proven to be effective. While this doesn’t eliminate the need to test what you build with your users, it means you’re starting from a solid foundation. You don’t need to spend time working out basic issues of visual style or accessibility compliance. Your valuable time can go to creating high quality content that helps people complete their tasks.
 
-You don’t need to spend time working out basic issues of visual style or accessibility compliance. Your valuable time can go to creating high quality content that helps people complete their tasks.
-
-### Enabling continuous improvement through experimentation
+### Enable continuous improvement through experimentation
 
 While previous lessons learned and tested patterns are a great starting point, they should in no way be considered perfect and “final”. They need to evolve based on new evidence.
 
@@ -71,7 +69,9 @@ This model will allow for faster, iterative updates, and will support ongoing im
 
 ## Bringing the vision to reality
 
-The Design System Working Group meets every 2 weeks. We are making concrete progress toward bringing the Government of Canada Design System vision to reality.
+Momentum on the Government of Canada design system is building. Since September, we have continued to bring people, ideas and action together to drive progress.
+
+The Design System Working Group meets every 2 weeks. We are making concrete progress daily toward making the Government of Canada Design System a reality. 
 
 ### Build it with us!
 
