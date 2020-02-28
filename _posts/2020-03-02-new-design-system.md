@@ -84,7 +84,7 @@ Get in on the conversation and share your ideas and feedback:
 
 If you’re interested in testing the new documentation style, or if you’d like to contribute something to the GC design system, reach out to us:
 * [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* [Join the conversation on Slack](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM))
+* [Join the conversation on Slack](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 We will be sharing more updates from the Government of Canada Design System in future blog posts. Sign up for the [DTO mailing list](https://blog.canada.ca/pages/signup.html) to get the blog delivered to your inbox.
 
