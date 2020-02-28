@@ -11,7 +11,7 @@ alt: "new Government of Canada design system"
 description: "Part 1: Mobilizing the community"
 ---
 
-In September 2019, the Digital Transformation Office (DTO) and collaborators from across the Government of Canada came together to propel the vision of building a Government of Canada Design System into reality.
+En septembre 2019, le Bureau de la transformation numérique (BTN) et des collaborateurs de l’ensemble du gouvernement du Canada se sont réunis pour discuter de la création d’un système de conception du gouvernement du Canada.
 
 Talented people from across the GC, including the Aurora and Clone (Talent Cloud) design systems, the Canadian Digital Service (CDS), Digital Academy, the Web Experience Toolkit,  ISED, CRA, IRCC, and DND  participated in the day.
 
