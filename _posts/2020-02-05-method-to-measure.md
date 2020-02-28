@@ -129,7 +129,7 @@ For the next task reporting request in 2020, we will ask that institutions use a
 
 ## We want to hear from you
 
-What would make online top task reporting easier for you to complete?
+What would make online top task reporting easier for you to complete
 
 * tips and best practices for writing top task survey questions
 * advice on how to break down big tasks into smaller, measurable steps
