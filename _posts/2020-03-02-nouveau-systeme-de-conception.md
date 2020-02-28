@@ -2,7 +2,7 @@
 layout: post
 title:  "A Government of Canada design system - building better online content faster"
 pubdate: "2 Mars 2020"
-langpage: "https://blogue.canada.ca/2020/03/02/new-design-system"
+langpage: "https://blogue.canada.ca/2020/03/02/new-design-system.html"
 date:   2020-03-02
 published: true
 draft: true
@@ -99,8 +99,8 @@ We will be sharing more updates from the Government of Canada Design System in f
 * [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
 * [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/?utm_campaign=blog&utm_content=1554730300&utm_medium=social&utm_source=twitter)
 
-## Connect with the Digital Transformation Office at TBS
+## Communiquez avec le Bureau de la transformation numérique du SCT:
 
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
+* Courriel: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Twitter: #Canadapointca (français) / #Canadadotca (anglais)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

@@ -2,7 +2,7 @@
 layout: post
 title:  "A Government of Canada design system - building better online content faster"
 pubdate: "March 2, 2020"
-langpage: "https://blogue.canada.ca/2020/02/05/methode-pour-mesurer.html"
+langpage: "https://blogue.canada.ca/2020/03/02/nouveau-systeme-de-conception"
 date:   2020-03-02
 published: true
 draft: true
