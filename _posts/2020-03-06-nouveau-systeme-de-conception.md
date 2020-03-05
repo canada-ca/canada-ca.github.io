@@ -11,9 +11,9 @@ alt: "new Government of Canada design system"
 description: "Part 1: Mobilizing the community"
 ---
 
-En septembre 2019, le Bureau de la transformation numérique (BTN) et des collaborateurs de l’ensemble du gouvernement du Canada se sont réunis pour discuter de la création d’un système de conception du gouvernement du Canada.
+En septembre 2019, le Bureau de la transformation numérique (BTN) et ses collaborateurs de partout au gouvernement du Canada se sont réunis pour concrétiser la vision d’un système de conception pour le gouvernement du Canada.
 
-Talented people from across the GC, including the Aurora and Clone (Talent Cloud) design systems, the Canadian Digital Service (CDS), Digital Academy, the Web Experience Toolkit,  ISED, CRA, IRCC, and DND  participated in the day.
+Des personnes talentueuses dans l’ensemble du GC, y compris des Systèmes de conception Aurora et Clone (Nuage des talents), du Service numérique canadien (SNC), de l’Académie du numérique, de la Boîte à outils de l’expérience Web, d’ISDE, de l’ARC, d’IRCC et du MDN ont pris part à la journée.
 
 It was a fantastic day of collaboration as we worked to shape a vision for a unified design system. We discussed the principles we wanted to work toward including finding the balance between flexibility and consistency. We also looked at what would be needed to manage this idea long-term, and what technology questions might need to be addressed.  
 
