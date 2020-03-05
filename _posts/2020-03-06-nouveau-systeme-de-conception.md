@@ -17,9 +17,9 @@ Des personnes talentueuses dans l’ensemble du GC, y compris des Systèmes de c
 
 Ce fut une journée de collaboration fantastique au cours de laquelle nous avons défini une vision pour un système de conception commun. Nous avons discuté des principes à mettre en application, notamment l’établissement d’un juste équilibre entre la souplesse et la cohérence. Nous avons aussi examiné les éléments qui seront nécessaires pour gérer cette idée à long terme et discuter des questions techniques qui pourraient devoir être abordées.  
 
-Everyone agreed that an overarching design system would make it easier for departments to build a modern digital presence that helps people get the information and services they need.
+Tous les participants ont convenu qu’un système de conception général faciliterait la tâche des ministères au moment d’établir une présence numérique moderne pour aider les gens à obtenir l’information et les services dont ils ont besoin.
 
-So what exactly is a design system anyway?
+Qu’est-ce qu’un système de conception au juste?
 
 ## Définition d’un système de conception
 
@@ -69,7 +69,7 @@ Cette façon de procéder permettra des mises à jour plus rapides et itérative
 
 ## Concrétiser la vision
 
-Momentum on the Government of Canada design system is building. Since September, we have continued to bring people, ideas and action together to drive progress.
+Le système de conception du gouvernement du Canada prend de l’ampleur. Depuis septembre, nous rassemblons sans relâche des gens, des idées et des actions pour faire avancer les choses.
 
 Le Groupe de travail sur les systèmes de conception se réunit toutes les deux semaines. Nous réalisons des progrès concrets en vue de faire de la vision du système de conception du gouvernement du Canada une réalité.
 
@@ -82,7 +82,7 @@ Participez à la conversation et partagez vos idées et vos commentaires:
 * Que devrait-il faire pour vos utilisateurs?
 * Comment pourriez-vous participer à le bâtir?
 
-If you’re interested in testing the new documentation style, or if you’d like to contribute something to the GC design system, reach out to us:
+Si vous souhaitez tester le nouveau style de documentation ou contribuer au système de conception du gouvernement du Canada, n’hésitez pas à nous contacter :
 * [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * [Joignez-vous à la conversation sur Slack](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
