@@ -15,7 +15,7 @@ En septembre 2019, le Bureau de la transformation numérique (BTN) et ses collab
 
 Des personnes talentueuses dans l’ensemble du GC, y compris des Systèmes de conception Aurora et Clone (Nuage des talents), du Service numérique canadien (SNC), de l’Académie du numérique, de la Boîte à outils de l’expérience Web, d’ISDE, de l’ARC, d’IRCC et du MDN ont pris part à la journée.
 
-It was a fantastic day of collaboration as we worked to shape a vision for a unified design system. We discussed the principles we wanted to work toward including finding the balance between flexibility and consistency. We also looked at what would be needed to manage this idea long-term, and what technology questions might need to be addressed.  
+Ce fut une journée de collaboration fantastique au cours de laquelle nous avons défini une vision pour un système de conception commun. Nous avons discuté des principes à mettre en application, notamment l’établissement d’un juste équilibre entre la souplesse et la cohérence. Nous avons aussi examiné les éléments qui seront nécessaires pour gérer cette idée à long terme et discuter des questions techniques qui pourraient devoir être abordées.  
 
 Everyone agreed that an overarching design system would make it easier for departments to build a modern digital presence that helps people get the information and services they need.
 
