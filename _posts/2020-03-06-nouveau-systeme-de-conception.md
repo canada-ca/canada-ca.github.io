@@ -13,7 +13,7 @@ description: "Faciliter et accélérer la conception de contenus efficaces dans 
 
 En septembre 2019, le Bureau de la transformation numérique (BTN) et ses collaborateurs de partout au gouvernement du Canada se sont réunis pour concrétiser la vision d’un système de conception pour le gouvernement du Canada.
 
-Des personnes talentueuses dans l’ensemble du GC, y compris des Systèmes de conception Aurora et Clone (Nuage des talents), du Service numérique canadien (SNC), de l’Académie du numérique, de la Boîte à outils de l’expérience Web, d’ISDE, de l’ARC, d’IRCC et du MDN ont pris part à la journée.
+Des personnes talentueuses dans l’ensemble du gouvernement du Canada, provenant notamment des Systèmes de conception Aurora et Clone (Nuage des talents), du Service numérique canadien , de l’Académie du numérique, de la Boîte à outils de l’expérience Web, d’Innovation, Sciences et Développement économique Canada, de l’Agence du revenu du Canada , d’Immigration, Réfugiés et Citoyenneté Canada  et du ministère de la Défense nationale  ont pris part à la journée.
 
 Ce fut une exemple de collaboration fantastique au cours de laquelle nous avons défini une vision pour un système de conception commun. Nous avons discuté des principes à mettre en application, notamment l’établissement d’un juste équilibre entre la souplesse et la cohérence. Nous avons aussi examiné les éléments qui seront nécessaires pour gérer cette idée à long terme et discuter des questions techniques qui pourraient devoir être abordées.  
 
@@ -82,23 +82,22 @@ Participez à la conversation et partagez vos idées et vos commentaires:
 * Que devrait-il faire pour vos utilisateurs?
 * Comment pourriez-vous participer à le bâtir?
 
-Si vous souhaitez tester le nouveau style de documentation ou contribuer au système de conception du gouvernement du Canada, n’hésitez pas à nous contacter :
+Si vous souhaitez tester le nouveau style de documentation ou contribuer au système de conception, n’hésitez pas à nous contacter :
 * [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * [Joignez-vous à la conversation sur Slack](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
-Nous publierons d’autres mises à jour sur le système de conception du gouvernement du Canada dans de futurs billets de blogue. Abonnez-vous à la [liste d’envoi du BTN](https://blog.canada.ca/pages/signup.html) pour recevoir le billet de blogue dans votre boîte de réception.
+Nous publierons d’autres mises à jour sur le système de conception du gouvernement du Canada dans de futurs billets de blogue. Abonnez-vous à la [liste d’envoi du Bureau de la transformation numérique](https://blog.canada.ca/pages/signup.html) pour recevoir les billets de blogue dans votre boîte de réception.
 
 ## Pour en savoir davantage
 
-* [Espace de travail Slack : design-gc-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 * [Bibliothèque de configurations](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html)
-* [Gov.uk design system](https://design-system.service.gov.uk/)(en anglais seulement)
-* [Australia design system](https://designsystem.gov.au/)(en anglais seulement)
-* [Shopify design system (Polaris)](https://polaris.shopify.com/)(en anglais seulement)
+* [Gov.uk design system](https://design-system.service.gov.uk/) (en anglais seulement)
+* [Australia design system](https://designsystem.gov.au/) (en anglais seulement)
+* [Shopify design system (Polaris)](https://polaris.shopify.com/) (en anglais seulement)
 * [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)(en anglais seulement)
-* [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/?utm_campaign=blog&utm_content=1554730300&utm_medium=social&utm_source=twitter)(en anglais seulement)
+* [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/?utm_campaign=blog&utm_content=1554730300&utm_medium=social&utm_source=twitter) (en anglais seulement)
 
-## Communiquez avec le Bureau de la transformation numérique du SCT:
+## Communiquer avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor
 
 * Courriel: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter: #Canadapointca (français) / #Canadadotca (anglais)
