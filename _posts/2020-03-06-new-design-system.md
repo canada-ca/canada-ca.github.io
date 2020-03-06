@@ -91,7 +91,6 @@ We will be sharing more updates from the Government of Canada Design System in f
 ## Learn more
 
 * [Slack workspace: design-gc-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-* [GCpedia on Design system working group](https://wiki.gccollab.ca/Design_Systems_Working_Group_-_Groupe_de_travail_des_systemes_de_conception)
 * [Current pattern library](https://www.canada.ca/en/government/about/design-system/pattern-library.html)
 * [Gov.uk design system](https://design-system.service.gov.uk/)
 * [Australia design system](https://designsystem.gov.au/)

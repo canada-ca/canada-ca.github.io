@@ -55,13 +55,13 @@ Toutefois, dans le monde numérique, une marque solide ne se limite pas aux logo
 
 Pourquoi tenter de régler un problème que quelqu’un d’autre a déjà réglé?
 
-Le système de conception comprendra une vaste bibliothèque d’options de conception et de mise en page. Il offrira des conseils sur les pratiques exemplaires, au lieu de mettre l’accent sur des modèles et des règles « universels ».
+Le système de conception comprendra une vaste bibliothèque d’options de conception et de mise en page. Il offrira des conseils sur les pratiques exemplaires, au lieu de mettre l’accent sur des modèles et des règles «&nbsp;universels ».
 
 En travaillant avec des éléments qui ont déjà prouvé leur efficacité, cela vous aidera à prendre des décisions de conception plus rapidement. Bien que la nécessité de tester le fruit de votre travail auprès de vos utilisateurs ne soit pas éliminée, vous partez d’une base solide. Vous pouvez commencer à améliorer l’expérience utilisateur plus tôt. Nul besoin de vous attarder aux questions fondamentales de style visuel ou de conformité en matière d’accessibilité. Vous pouvez consacrer votre précieux temps à créer du contenu de grande qualité qui aide les gens à accomplir leurs tâches.
 
 ### Permettre l’amélioration continue grâce à l’expérimentation
 
-Bien que les leçons apprises et les modèles mis à l’essai soient un excellent point de départ, ils ne doivent en aucun cas être considérés comme parfaits et « définitifs ». Ils doivent évoluer en fonction des nouvelles données probantes.
+Bien que les leçons apprises et les modèles mis à l’essai soient un excellent point de départ, ils ne doivent en aucun cas être considérés comme parfaits et «&nbsp;définitifs ». Ils doivent évoluer en fonction des nouvelles données probantes.
 
 Le système de conception sera communautaire – il s’appuiera sur la créativité collective et les idées novatrices de collègues de tous les ministères. Vous avez une idée sur une meilleure façon d’afficher des renseignements dans un tableau ou de créer un assistant interactif? Notre environnement alpha permettra le prototypage et les tests, ainsi que la rétroaction et la collaboration communautaires. Les modèles qui se révèlent efficaces pour résoudre les problèmes de conception seront ajoutés à la bibliothèque du système de conception pour que d’autres puissent les utiliser.
 
@@ -71,7 +71,7 @@ Cette façon de procéder permettra des mises à jour plus rapides et itérative
 
 Le système de conception du gouvernement du Canada prend de l’ampleur. Depuis septembre, nous rassemblons sans relâche des gens, des idées et des actions pour faire avancer les choses.
 
-Le Groupe de travail sur les systèmes de conception se réunit toutes les deux semaines. Nous réalisons des progrès concrets en vue de faire de la vision du système de conception du gouvernement du Canada une réalité.
+Le Groupe de travail sur les systèmes de conception se réunit toutes les 2 semaines. Nous réalisons des progrès concrets en vue de faire de la vision du système de conception du gouvernement du Canada une réalité.
 
 ### Bâtissez-le avec nous!
 
@@ -91,7 +91,6 @@ Nous publierons d’autres mises à jour sur le système de conception du gouver
 ## Pour en savoir davantage
 
 * [Espace de travail Slack : design-gc-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-* [Groupe de travail sur les systèmes de conception sur GCpédia](https://wiki.gccollab.ca/Design_Systems_Working_Group_-_Groupe_de_travail_des_systemes_de_conception)
 * [Bibliothèque de configurations](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html)
 * [Gov.uk design system](https://design-system.service.gov.uk/)(en anglais seulement)
 * [Australia design system](https://designsystem.gov.au/)(en anglais seulement)
