@@ -15,7 +15,7 @@ En septembre 2019, le Bureau de la transformation numérique (BTN) et ses collab
 
 Des personnes talentueuses dans l’ensemble du GC, y compris des Systèmes de conception Aurora et Clone (Nuage des talents), du Service numérique canadien (SNC), de l’Académie du numérique, de la Boîte à outils de l’expérience Web, d’ISDE, de l’ARC, d’IRCC et du MDN ont pris part à la journée.
 
-Ce fut une journée de collaboration fantastique au cours de laquelle nous avons défini une vision pour un système de conception commun. Nous avons discuté des principes à mettre en application, notamment l’établissement d’un juste équilibre entre la souplesse et la cohérence. Nous avons aussi examiné les éléments qui seront nécessaires pour gérer cette idée à long terme et discuter des questions techniques qui pourraient devoir être abordées.  
+Ce fut une exemple de collaboration fantastique au cours de laquelle nous avons défini une vision pour un système de conception commun. Nous avons discuté des principes à mettre en application, notamment l’établissement d’un juste équilibre entre la souplesse et la cohérence. Nous avons aussi examiné les éléments qui seront nécessaires pour gérer cette idée à long terme et discuter des questions techniques qui pourraient devoir être abordées.  
 
 Tous les participants ont convenu qu’un système de conception général faciliterait la tâche des ministères au moment d’établir une présence numérique moderne pour aider les gens à obtenir l’information et les services dont ils ont besoin.
 

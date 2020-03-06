@@ -8,14 +8,14 @@ published: true
 draft: true
 lang: en
 alt: "new Government of Canada design system"
-description: "Part 1: Mobilizing the community"
+description: "Making it easier and faster to design effective content within a coherent digital experience"
 ---
 
 In September 2019, the Digital Transformation Office (DTO) and collaborators from across the Government of Canada came together to propel the vision of building a Government of Canada Design System into reality.
 
 Talented people from across the GC, including the Aurora and Clone (Talent Cloud) design systems, the Canadian Digital Service (CDS), Digital Academy, the Web Experience Toolkit,  ISED, CRA, IRCC, and DND  participated in the day.
 
-It was a fantastic day of collaboration as we worked to shape a vision for a unified design system. We discussed the principles we wanted to work toward including finding the balance between flexibility and consistency. We also looked at what would be needed to manage this idea long-term, and what technology questions might need to be addressed.  
+It was a fantastic example of collaboration as we worked to shape a vision for a unified design system. We discussed the principles we wanted to work toward including finding the balance between flexibility and consistency. We also looked at what would be needed to manage this idea long-term, and what technology questions might need to be addressed.  
 
 Everyone agreed that an overarching design system would make it easier for departments to build a modern digital presence that helps people get the information and services they need.
 
@@ -37,7 +37,7 @@ Design systems usually include:
 * a writing style guide
 * guidance on branding
 
-There are a lot of great examples to start from. Large Canadian companies like Shopify as well as other governments like the UK and Australia, have launched successful design systems.
+There are a lot of great examples to start from. Large Canadian companies like Shopify, as well as other governments like the UK and Australia, have launched successful design systems.
 
 ## Why we need a Government of Canada design system
 
