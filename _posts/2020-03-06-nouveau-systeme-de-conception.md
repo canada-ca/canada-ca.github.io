@@ -65,7 +65,7 @@ Bien que les leçons apprises et les modèles mis à l’essai soient un excelle
 
 Le système de conception sera communautaire – il s’appuiera sur la créativité collective et les idées novatrices de collègues de tous les ministères. Vous avez une idée sur une meilleure façon d’afficher des renseignements dans un tableau ou de créer un assistant interactif? Notre environnement alpha permettra le prototypage et les tests, ainsi que la rétroaction et la collaboration communautaires. Les modèles qui se révèlent efficaces pour résoudre les problèmes de conception seront ajoutés à la bibliothèque du système de conception pour que d’autres puissent les utiliser.
 
-Cette façon de procéder permettra des mises à jour plus rapides et itératives et appuiera l’amélioration continue de la conception des services.
+Cette façon de procéder permettra des mises à jour plus rapides et fréquentes et appuiera l’amélioration continue de la conception des services.
 
 ## Concrétiser la vision
 
