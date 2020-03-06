@@ -13,7 +13,7 @@ description: "Making it easier and faster to design effective content within a c
 
 In September 2019, the Digital Transformation Office (DTO) and collaborators from across the Government of Canada came together to propel the vision of building a Government of Canada Design System into reality.
 
-Talented people from across the GC, including the Aurora and Clone (Talent Cloud) design systems, the Canadian Digital Service (CDS), Digital Academy, the Web Experience Toolkit,  ISED, CRA, IRCC, and DND  participated in the day.
+Talented people from across the Government of Canada, including the Aurora and Clone (Talent Cloud) design systems, the Canadian Digital Service , Digital Academy, the Web Experience Toolkit, Innovation, Science and Economic Development Canada, Canada Revenue Agency, Immigration, Refugees and Citizenship Canada, and National Defence  participated in the day.
 
 It was a fantastic example of collaboration as we worked to shape a vision for a unified design system. We discussed the principles we wanted to work toward including finding the balance between flexibility and consistency. We also looked at what would be needed to manage this idea long-term, and what technology questions might need to be addressed.  
 
@@ -82,15 +82,14 @@ Get in on the conversation and share your ideas and feedback:
 * What should it do for your users?
 * How could you pitch in and help build this?
 
-If you’re interested in testing the new documentation style, or if you’d like to contribute something to the GC design system, reach out to us:
+If you’re interested in testing the new documentation style, or if you’d like to contribute something to the design system, reach out to us:
 * [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * [Join the conversation on Slack](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
-We will be sharing more updates from the Government of Canada Design System in future blog posts. Sign up for the [DTO mailing list](https://blog.canada.ca/pages/signup.html) to get the blog delivered to your inbox.
+We will be sharing more updates from the Government of Canada Design System in future blog posts. Sign up for the [Digital Transformation Office mailing list](https://blog.canada.ca/pages/signup.html) to get the blog delivered to your inbox.
 
 ## Learn more
 
-* [Slack workspace: design-gc-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 * [Current pattern library](https://www.canada.ca/en/government/about/design-system/pattern-library.html)
 * [Gov.uk design system](https://design-system.service.gov.uk/)
 * [Australia design system](https://designsystem.gov.au/)
@@ -98,7 +97,7 @@ We will be sharing more updates from the Government of Canada Design System in f
 * [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
 * [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/?utm_campaign=blog&utm_content=1554730300&utm_medium=social&utm_source=twitter)
 
-## Connect with the Digital Transformation Office at TBS
+## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter: #Canadadotca (English) / #Canadapointca (French)
