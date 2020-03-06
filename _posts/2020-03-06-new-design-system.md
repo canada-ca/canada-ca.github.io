@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "new Government of Canada design system"
-description: "Making it easier and faster to design effective content within a coherent digital experience"
+description: "Making it easier and faster to design effective content within a coherent digital experience."
 ---
 
 In September 2019, the Digital Transformation Office (DTO) and collaborators from across the Government of Canada came together to propel the vision of building a Government of Canada Design System into reality.
