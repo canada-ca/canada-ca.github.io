@@ -57,7 +57,7 @@ Pourquoi tenter de régler un problème que quelqu’un d’autre a déjà régl
 
 Le système de conception comprendra une vaste bibliothèque d’options de conception et de mise en page. Il offrira des conseils sur les pratiques exemplaires, au lieu de mettre l’accent sur des modèles et des règles « universels ».
 
-Cela vous aidera à prendre des décisions de conception plus rapidement, en travaillant avec des éléments qui ont déjà prouvé leur efficacité. Bien que la nécessité de tester le fruit de votre travail auprès de vos utilisateurs ne soit pas éliminée, vous partez d’une base solide. Vous pouvez commencer à améliorer l’expérience utilisateur plus tôt. Nul besoin de vous attarder aux questions fondamentales de style visuel ou de conformité en matière d’accessibilité. Vous pouvez consacrer votre précieux temps à créer du contenu de grande qualité qui aide les gens à accomplir leurs tâches.
+En travaillant avec des éléments qui ont déjà prouvé leur efficacité, cela vous aidera à prendre des décisions de conception plus rapidement. Bien que la nécessité de tester le fruit de votre travail auprès de vos utilisateurs ne soit pas éliminée, vous partez d’une base solide. Vous pouvez commencer à améliorer l’expérience utilisateur plus tôt. Nul besoin de vous attarder aux questions fondamentales de style visuel ou de conformité en matière d’accessibilité. Vous pouvez consacrer votre précieux temps à créer du contenu de grande qualité qui aide les gens à accomplir leurs tâches.
 
 ### Permettre l’amélioration continue grâce à l’expérimentation
 
