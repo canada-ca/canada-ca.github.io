@@ -2,7 +2,7 @@
 layout: post
 title:  "Un système de conception pour le gouvernement du Canada – Produire plus rapidement un meilleur contenu en ligne"
 pubdate: "6 Mars 2020"
-langpage: "https://blogue.canada.ca/2020/03/02/new-design-system.html"
+langpage: "https://blog.canada.ca/2020/03/06/new-design-system.html"
 date:   2020-03-06
 published: true
 draft: true
