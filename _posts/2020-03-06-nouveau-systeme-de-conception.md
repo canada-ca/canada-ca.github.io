@@ -39,7 +39,7 @@ Les systèmes de conception comprennent habituellement :
 
 On peut s’inspirer de plusieurs excellents exemples. De grandes entreprises canadiennes comme Shopify et d’autres gouvernements, comme ceux du Royaume-Uni et de l’Australie, ont lancé des systèmes de conception efficaces qui permettent de créer une expérience numérique conviviale et cohérente pour les utilisateurs.
 
-## Pourquoi avons-nous besoin d’un système de conception du gouvernement du Canada?
+## Pourquoi le besoin d’avoir un système de conception du gouvernement du Canada
 
 Lorsque les gens peuvent facilement prévoir comment naviguer à travers votre présence en ligne, comprendre tout de suite comment interagir avec votre contenu et identifier avec confiance la source de ce contenu, ils réussissent mieux à accomplir des tâches en ligne.
 
