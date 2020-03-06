@@ -91,11 +91,11 @@ Nous publierons d’autres mises à jour sur le système de conception du gouver
 ## Pour en savoir davantage
 
 * [Bibliothèque de configurations](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html)
-* [Gov.uk design system](https://design-system.service.gov.uk/) (en anglais seulement)
-* [Australia design system](https://designsystem.gov.au/) (en anglais seulement)
-* [Shopify design system (Polaris)](https://polaris.shopify.com/) (en anglais seulement)
-* [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)(en anglais seulement)
-* [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/?utm_campaign=blog&utm_content=1554730300&utm_medium=social&utm_source=twitter) (en anglais seulement)
+* [Gov.uk design system](https://design-system.service.gov.uk/)&nbsp;(en anglais seulement)
+* [Australia design system](https://designsystem.gov.au/)&nbsp;(en anglais seulement)
+* [Shopify design system (Polaris)](https://polaris.shopify.com/)&nbsp;(en anglais seulement)
+* [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)&nbsp;(en anglais seulement)
+* [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/?utm_campaign=blog&utm_content=1554730300&utm_medium=social&utm_source=twitter)&nbsp;(en anglais seulement)
 
 ## Communiquer avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor
 
