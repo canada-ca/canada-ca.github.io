@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "new Government of Canada design system"
-description: "Part 1: Mobilizing the community"
+description: "Faciliter et accélérer la conception de contenus efficaces dans le cadre d'une expérience numérique cohérente."
 ---
 
 En septembre 2019, le Bureau de la transformation numérique (BTN) et ses collaborateurs de partout au gouvernement du Canada se sont réunis pour concrétiser la vision d’un système de conception pour le gouvernement du Canada.
@@ -27,7 +27,7 @@ Il existe de nombreuses définitions d’un système de conception. Voici la nô
 
 > Un système de conception est un ensemble d’éléments de conception et de code souples et réutilisables, appuyé par des recherches et des lignes directrices claires. Il donne aux équipes les éléments de base nécessaires pour concevoir leur présence en ligne de manière à favoriser le succès des tâches et la confiance de leurs utilisateurs.
 
-Autrement dit, un système de conception devrait vous aider à faire la bonne chose, de la bonne façon.
+Autrement dit, un système de conception devrait vous permettre de concevoir plus facilement et plus rapidement du contenu efficace, au sein d'une expérience numérique cohérente.
 
 Les systèmes de conception comprennent habituellement :
 
