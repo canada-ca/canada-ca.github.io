@@ -82,11 +82,11 @@ Ask yourself who your FAQ serves - you or your clients. Then make the right choi
 ### More encouragement to avoid FAQs
 
 * [No More FAQs: Create Purposeful Information for a More Effective User Experience](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/)
-* Why FAQ Pages Are Almost Always a Bad Idea (And What to Do About It)
-* FAQs: why we don’t have them (Gov UK)
-* 18F content guide - Don’t use FAQs (US government) 
-* Why You Shouldn't Use a FAQs Page
-* FAQs are the dinosaurs of web navigation - Gerry McGovern 
+* [Why FAQ Pages Are Almost Always a Bad Idea (And What to Do About It)](https://thegood.com/insights/faq-pages/)
+* [FAQs: why we don’t have them (Gov UK)](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/)
+* [18F content guide - Don’t use FAQs (US government)](https://content-guide.18f.gov/structure-the-content/#dont-use-faqs) 
+* [Why You Shouldn't Use a FAQs Page](https://turbofuture.com/internet/Why-You-Shouldnt-Use-a-FAQs-Page)
+* [FAQs are the dinosaurs of web navigation - Gerry McGovern](https://gerrymcgovern.com/faqs-are-the-dinosaurs-of-web-navigation/) 
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
