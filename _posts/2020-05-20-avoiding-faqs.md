@@ -33,8 +33,8 @@ Besides making people sift through content that isn’t relevant to their task, 
 Anyone who has seen a heat map of how people read a web page will be familiar with the F pattern that the scanning eye often follows. People’s eyes travel across a page less and less as they scan down. 
 
 <figure>
-<img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern "
- src="/images/faq.png" width="700">
+<img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
+ src="/images/heatmap.jpg" width="700">
 </figure>
 
 This user behaviour is the source of some of the most basic content design guidance around page and heading structure. “Front-loading” headings, by placing the most important words at the beginning, takes advantage of this known behaviour. 
@@ -65,6 +65,11 @@ On the General enquiries by email page, we saw a clear correlation between incre
 Many calls to the general 1-800 O Canada number were for questions specific to individual applications for the Canada Economic Response Benefit (CERB). Call centre staff had to redirect those calls to specific phone lines, depending on how the caller had applied for the benefit. 
 
 On the General information by phone page, we added a new top question/answer about getting help with issues related to an application. The analytics showed people used it to find the specific phone number they needed. It helped them understand which phone line to use based on how they had applied for the benefit. They still had to call, but this acted as an initial triage for callers. It saved them time on the phone by getting them to the right phone number the first time.
+
+<figure>
+<img class="img-responsive border" alt=" General information by telephone page showing answers to most frequent call drivers at the top of the page (in expand/collapse pattern to minimize screen real estate) and wait times along with the contact phone number at the bottom of the page"
+ src="/images/faq.png" width="700">
+</figure>
 
 ## Guidelines for limited use of FAQs 
 
