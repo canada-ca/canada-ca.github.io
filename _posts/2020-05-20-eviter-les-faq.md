@@ -20,7 +20,7 @@ Notre réponse, presque toujours, est non; les FAQ ne sont pas efficaces, alors 
 Au lieu d’être un outil de navigation intuitif, les FAQ tendent à devenir un lieu de décharge pour les messages que l’organisation veut promouvoir. Elles rendent votre travail facile – tout ce que les gens veulent probablement savoir est regroupé sur une seule page. Toutefois, elles rendent le parcours de votre utilisateur plus difficile. 
 
 Gerry McGovern, expert reconnu en expérience client numérique, appelle les FAQ « l’une des formes de navigation les plus paresseuses et les moins utiles qui se développe comme une mauvaise herbe sur le Web ». Il les qualifie de « l’un des pires exemples de pensée centrée sur l’organisation ».  
-([Concevoir la navigation pour plus de clarté et de fidélité](https://gerrymcgovern.com/design-navigation-for-clarity-and-fidelity/))(en anglais seulement)
+([Concevoir la navigation pour plus de clarté et de fidélité](https://gerrymcgovern.com/design-navigation-for-clarity-and-fidelity/)) (en anglais seulement)
 
 C’est parce que les FAQ permettent à vos utilisateurs d’examiner soigneusement les collections de questions verbeuses que vous pensez avoir, ou pire, des questions que vous voulez qu’ils aient. Certaines de ces questions peuvent être pertinentes pour leur tâche. Beaucoup d’entre elles ne le sont pas.
 
