@@ -34,7 +34,7 @@ Anyone who has seen a heat map of how people read a web page will be familiar wi
 
 <figure>
 <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern "
- src="/images/faq.jpg" width="700">
+ src="/images/faq.png" width="700">
 </figure>
 
 This user behaviour is the source of some of the most basic content design guidance around page and heading structure. “Front-loading” headings, by placing the most important words at the beginning, takes advantage of this known behaviour. 
