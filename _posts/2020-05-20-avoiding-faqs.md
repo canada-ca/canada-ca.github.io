@@ -81,8 +81,12 @@ Ask yourself who your FAQ serves - you or your clients. Then make the right choi
 
 ### More encouragement to avoid FAQs
 
-* [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* [Join the conversation on Slack](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
+* [No More FAQs: Create Purposeful Information for a More Effective User Experience](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/)
+* Why FAQ Pages Are Almost Always a Bad Idea (And What to Do About It)
+* FAQs: why we don’t have them (Gov UK)
+* 18F content guide - Don’t use FAQs (US government) 
+* Why You Shouldn't Use a FAQs Page
+* FAQs are the dinosaurs of web navigation - Gerry McGovern 
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
