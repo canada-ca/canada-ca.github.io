@@ -75,21 +75,21 @@ Sur la page Renseignements généraux par téléphone, nous avons ajouté une no
 
 Bien que nous disposions d’une façon légitime pour vous d’utiliser une FAQ, nous vous supplions de procéder avec prudence! Quelques lignes directrices sont importantes à suivre.
 
-1. When users have <b>already made the decision to contact you directly</b>, consider putting <b>answers</b> to top questions <b>on a Contact us page <b>
-2. Work with call centres to determine what the top call drivers actually are, and <b>only</b> include those 
-3. Limit your list to no more than 7 - the user’s top task coming to this page is to contact you, so don’t make them scroll endlessly
-4. Use an expand/collapse pattern so users only need to look at the answer that is relevant to them
-5. Put the answers above the phone number or email address - this is a last ditch effort to encourage self-serve behaviour
-6. Review and update the answers regularly - weekly or biweekly - so they truly reflect the most current call drivers
-7. Avoid duplicating content - provide a brief answer and link to the authoritative web content that provides further detail 
+1. Lorsque les utilisateurs <b>ont déjà pris la décision de vous contacter directement</b>, envisagez de mettre des <b>réponses</b> aux principales questions sur une <b>page Contactez-nous<b>
+2. Travaillez avec les centres d’appels pour déterminer ce que sont réellement les principaux facteurs d’appels, et inclure <b>seulement</b> ces derniers  
+3. Limitez votre liste à au plus sept – la tâche principale de l’utilisateur qui vient à cette page est de vous contacter, alors ne les faites pas défiler sans fin
+4. Utilisez un modèle d’expansion ou d’effondrement pour que les utilisateurs n’aient qu’à examiner la réponse qui leur est pertinente
+5. Mettez les réponses au-dessus du numéro de téléphone ou de l’adresse de courriel – c’est un effort ultime pour encourager le comportement libre-service
+6. Examiner et mettre à jour régulièrement les réponses – chaque semaine ou deux semaines – afin qu’elles reflètent vraiment les facteurs d’appel les plus récents
+7. Évitez la duplication du contenu – fournissez une brève réponse et un lien vers le contenu Web autoritaire qui fournit plus de détails 
   
-## Final Word
+## Conclusion
 
-Based on our evidence, we have since amended our strict “no”, to  “avoid-except-on-contact-pages-when-you-know-the-call-drivers.” It’s not really about FAQs or no FAQs. It’s about user journeys, and customer/client service. 
+D’après notre preuve, nous avons depuis modifié notre strict « non », pour  « À-éviter-sauf-sur-les-pages-de-contact-lorsque-vous-connaissez-les-facteurs-d’appel ». Ce n’est pas vraiment une question de FAQ ou qui n’appartient pas aux FAQ. Il s’agit des parcours d’utilisateur et du service à la clientèle. 
 
-Ask yourself who your FAQ serves - you or your clients. Then make the right choice!
+Demandez-vous qui profite de votre FAQ – vous ou vos clients. Faites alors le bon choix!
 
-### More encouragement to avoid FAQs
+### Plus d’encouragements pour éviter les FAQ
 
 * [No More FAQs: Create Purposeful Information for a More Effective User Experience](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/)
 * [Why FAQ Pages Are Almost Always a Bad Idea (And What to Do About It)](https://thegood.com/insights/faq-pages/)
@@ -98,9 +98,8 @@ Ask yourself who your FAQ serves - you or your clients. Then make the right choi
 * [Why You Shouldn't Use a FAQs Page](https://turbofuture.com/internet/Why-You-Shouldnt-Use-a-FAQs-Page)
 * [FAQs are the dinosaurs of web navigation - Gerry McGovern](https://gerrymcgovern.com/faqs-are-the-dinosaurs-of-web-navigation/) 
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
+## Communiquez avec le Bureau de la transformation numérique du SCT:
 
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
+* Courriel: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Twitter: #Canadapointca (français) / #Canadadotca (anglais)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-
