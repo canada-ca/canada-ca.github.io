@@ -68,7 +68,7 @@ Sur la page Renseignements généraux par téléphone, nous avons ajouté une no
 
 <figure>
 <img class="img-responsive border" alt=" Informations générales par page téléphonique montrant les réponses aux appels les plus fréquents des conducteurs en haut de la page (en mode expansion/réduction pour minimiser l'immobilier de l'écran) et les temps d'attente ainsi que le numéro de téléphone de contact en bas de la page"
- src="/images/faq.png" width="700">
+ src="/images/faq_fr.png" width="700">
 </figure>
 
 ## Lignes directrices sur l’utilisation limitée des FAQ  
@@ -91,12 +91,12 @@ Demandez-vous qui profite de votre FAQ – vous ou vos clients. Faites alors le 
 
 ### Plus d’encouragements pour éviter les FAQ
 
-* [No More FAQs: Create Purposeful Information for a More Effective User Experience](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/)
-* [Why FAQ Pages Are Almost Always a Bad Idea (And What to Do About It)](https://thegood.com/insights/faq-pages/)
-* [FAQs: why we don’t have them (Gov UK)](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/)
-* [18F content guide - Don’t use FAQs (US government)](https://content-guide.18f.gov/structure-the-content/#dont-use-faqs) 
-* [Why You Shouldn't Use a FAQs Page](https://turbofuture.com/internet/Why-You-Shouldnt-Use-a-FAQs-Page)
-* [FAQs are the dinosaurs of web navigation - Gerry McGovern](https://gerrymcgovern.com/faqs-are-the-dinosaurs-of-web-navigation/) 
+* [Plus jamais de FAQ : Créer des informations utiles pour une expérience utilisateur plus efficace](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/)(en anglais seulement)
+* [Pourquoi les pages de FAQ sont presque toujours une mauvaise idée (et que faire à ce sujet)](https://thegood.com/insights/faq-pages/)(en anglais seulement)
+* [Les FAQ : pourquoi ne les avons-nous pas (gouv. du R.-U.)](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/)(en anglais seulement)
+* [Guide de contenu 18F – Ne pas utiliser de FAQ (gouvernement américain) ](https://content-guide.18f.gov/structure-the-content/#dont-use-faqs)(en anglais seulement)
+* [Pourquoi ne devriez-vous pas utiliser une page de FAQ](https://turbofuture.com/internet/Why-You-Shouldnt-Use-a-FAQs-Page)(en anglais seulement)
+* [Les FAQ sont les dinosaures de la navigation Web – Gerry McGovern](https://gerrymcgovern.com/faqs-are-the-dinosaurs-of-web-navigation/)(en anglais seulement) 
 
 ## Communiquez avec le Bureau de la transformation numérique du SCT:
 
