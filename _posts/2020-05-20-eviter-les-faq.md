@@ -1,50 +1,50 @@
-﻿---
+---
 layout: post
-title:  "Avoiding FAQs, with one exception"
-pubdate: "May 20, 2020"
-langpage: "https://blogue.canada.ca/2020/05/20/eviter-les-faq.html"
+title:  "Éviter les FAQ, à une exception près"
+pubdate: "20 Mai 2020"
+langpage: "https://blog.canada.ca/2020/05/20/avoiding-faqs.html"
 date:   2020-05-20
 published: true
 draft: true
-lang: en
-alt: "Avoiding FAQs, with one exception"
-description: "Why FAQs are an ineffective content design choice most of the time, and when they can actually work."
+lang: fr
+alt: "Éviter les FAQ, à une exception près"
+description: "Faciliter et accélérer la conception de contenu efficace dans le cadre d'une expérience numérique cohérente."
 ---
 
-Yes, you read that right. One of the most frequently asked questions we get at the Digital Transformation Office is whether FAQs are an acceptable way of presenting web content.
+Oui, vous avez bien lu. L’une des questions les plus fréquemment posées au Bureau de la transformation numérique est de savoir si les Foires aux questions (FAQ) sont une façon acceptable de présenter du contenu Web.
 
-Our answer, almost always, is no, FAQs are not effective so please don’t make them!
+Notre réponse, presque toujours, est non; les FAQ ne sont pas efficaces, alors s’il vous plaît, ne les faites pas!
 
-## Clear paths lead to task success 
+## Les voies claires mènent à la réussite de la tâche 
 
-Instead of being an intuitive navigation tool, FAQs tend to become a dumping ground for messaging the organization wants to push. They make your job easy - all the stuff people probably want to know lumped on one page. But they make your user’s journey more difficult. 
+Au lieu d’être un outil de navigation intuitif, les FAQ tendent à devenir un lieu de décharge pour les messages que l’organisation veut promouvoir. Elles rendent votre travail facile – tout ce que les gens veulent probablement savoir est regroupé sur une seule page. Toutefois, elles rendent le parcours de votre utilisateur plus difficile. 
 
-Gerry McGovern, acclaimed expert in digital customer experience, calls FAQs “one of the laziest and least useful forms of navigation that grows like a weed on the Web.” He refers to them as “one of the worst examples of organization-centric thinking.” 
-([Design navigation for clarity and fidelity](https://gerrymcgovern.com/design-navigation-for-clarity-and-fidelity/))
+Gerry McGovern, expert reconnu en expérience client numérique, appelle les FAQ « l’une des formes de navigation les plus paresseuses et les moins utiles qui se développe comme une mauvaise herbe sur le Web ». Il les qualifie de « l’un des pires exemples de pensée centrée sur l’organisation ».  
+([Concevoir la navigation pour plus de clarté et de fidélité](https://gerrymcgovern.com/design-navigation-for-clarity-and-fidelity/))(en anglais seulement)
 
-This is because FAQs make your users sift through wordy collections of questions you think they may have, or worse, questions you want them to have. Some of these questions may be relevant to their task. Many of them are not.
+C’est parce que les FAQ permettent à vos utilisateurs d’examiner soigneusement les collections de questions verbeuses que vous pensez avoir, ou pire, des questions que vous voulez qu’ils aient. Certaines de ces questions peuvent être pertinentes pour leur tâche. Beaucoup d’entre elles ne le sont pas.
 
-When you design navigation from the perspective of your audience, you consider the tasks that they are trying to complete. Instead of lumping diverse concepts or details together in a single spot, you create clear paths to actionable answers.You identify the top tasks your audience wants to accomplish. Then you organize your website navigation in a simple and logical way to help them succeed.
+Lorsque vous concevez la navigation du point de vue de vos auditeurs, vous prenez en compte les tâches qu’ils essaient d’accomplir. Au lieu de regrouper des concepts ou des détails divers en un seul endroit, vous créez des voies claires vers des réponses réalisables. Vous identifiez les tâches principales que votre public souhaite réaliser. Ensuite, vous organisez la navigation de votre site Web de façon simple et logique pour les aider à réussir.
 
-## Effective headings are answers
+## Les titres efficaces sont les réponses
 
-Besides making people sift through content that isn’t relevant to their task, FAQs needlessly inflate your headings, and make them less effective.
+En plus de faire passer les gens à travers du contenu qui n’est pas pertinent pour leur tâche, les FAQ gonflent inutilement vos en-têtes et les rendent moins efficaces.
 
-Anyone who has seen a heat map of how people read a web page will be familiar with the F pattern that the scanning eye often follows. People’s eyes travel across a page less and less as they scan down. 
+Quiconque a vu une carte thermique de la façon dont les gens lisent une page Web connaîtra le modèle F, que le balayage oculaire suit souvent. Les yeux des gens traversent de moins en moins une page lorsqu’ils scannent. 
 
 <figure>
-<img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
+<img class="img-responsive border" alt=" Carte de chaleur issue d'une étude de suivi des yeux qui montre comment les yeux se sont déplacés en travers puis en bas de la page selon un schéma F de base"
  src="/images/heatmap.jpg" width="700">
 </figure>
 
-This user behaviour is the source of some of the most basic content design guidance around page and heading structure. “Front-loading” headings, by placing the most important words at the beginning, takes advantage of this known behaviour. 
-([F-Shaped Pattern of Reading on the Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [First 2 Words: A Signal for the Scanning Eye](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/))
+Ce comportement de l’utilisateur est la source de quelques-unes des directives de conception de contenu les plus basiques concernant la structure des pages et des en-têtes. Les titres de « chargement frontal », qui est le fait de placer les mots les plus importants au début, profite de ce comportement connu. 
+([Modèle de lecture en forme de F sur le Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [Deux premiers mots : Un signal pour le balayage oculaire](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/))((en anglais seulement)
 
-When you turn your headings into questions, you end up placing useless words in the most powerful position for the scanning eye. 
+Lorsque vous transformez vos titres en questions, vous finissez par placer des mots inutiles dans la position la plus puissante pour le balayage oculaire. 
 
-Consider these two heading options:
-* <b>What are the sources of traffic-related air pollution?</b>
-* <b>Sources of traffic-related air pollution</b>
+Prenons par exemple ces deux titres :
+* <b>Quelles sont les sources de pollution atmosphérique liée au trafic?</b>
+* <b>Sources de pollution atmosphérique liée au trafic </b>
 
 In the first option, you have 3 useless words in the most powerful position. Changing it into the “answer” means that the keywords are further to the left, where the scanning eye is more likely to notice them. 
 
