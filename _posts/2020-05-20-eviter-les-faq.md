@@ -46,34 +46,34 @@ Prenons par exemple ces deux titres :
 * <b>Quelles sont les sources de pollution atmosphérique liée au trafic?</b>
 * <b>Sources de pollution atmosphérique liée au trafic </b>
 
-In the first option, you have 3 useless words in the most powerful position. Changing it into the “answer” means that the keywords are further to the left, where the scanning eye is more likely to notice them. 
+Dans le premier exemple, vous avez trois mots inutiles dans la position la plus puissante. Le fait de remplacer ces mots dans la « réponse » signifie que les mots clés sont plus à gauche, où le balayage oculaire est plus susceptible de les remarquer. 
 
-## One positive use case for FAQs
+## Un cas d’utilisation positive pour les FAQ
 
-During the COVID-19 crisis, we did find one legitimate use for FAQs. 
+Pendant la crise de COVID-19, nous avons trouvé une utilisation légitime pour les FAQ. 
 
-Call centres and general email boxes were being inundated with questions from the public. The first line of defense was to improve the web content supporting the tasks people were trying to accomplish. However, we also looked at how we could redesign Contact us pages to encourage more self-serve behaviour and reduce call volumes. 
+Les centres d’appels et les boîtes de courriel génériques étaient inondés de questions du public. La première ligne de défense était d’améliorer le contenu Web pour les tâches que les gens essayaient d’accomplir. Cependant, nous avons également examiné la façon dont nous pourrions remanier les pages Contactez-nous afin d’encourager un plus grand comportement libre-service et de réduire le volume d’appels. 
 
-We worked closely with call centres to figure out what the top call drivers were in any given week. With this data, we put a small set of answers to the most asked questions right at the top of contact pages. We moved the phone number or email address lower on the page.
+Nous avons travaillé en étroite collaboration avec les centres d’appels pour déterminer quels étaient les principaux facteurs d’appels au cours d’une semaine donnée. Avec ces données, nous avons mis un petit ensemble de réponses aux questions les plus posées en haut des pages de contact. Nous avons déplacé le numéro de téléphone ou l’adresse de courriel plus bas sur la page. 
 
-## Answers reduced calls and emails 
+## Les réponses ont réduit le volume d’appels et de courriels 
 
-When we added answers to the top of 2 general enquiries contact pages, those answers began to get a lot of use. As many as 5-15% of the page visitors were opening and viewing each answer. 
+Lorsque nous avons ajouté des réponses au haut des deux pages de contact pour les demandes de renseignements généraux, ces réponses ont commencé à être très utiles. Entre 5 % et 15 % des visiteurs de la page ont ouvert et visionné chaque réponse. 
 
-On the General enquiries by email page, we saw a clear correlation between increased clicks on answers and a decrease in email submissions for those questions/answers. The percentage of visitors choosing to submit an email was cut in half, from a high of 46% to an average of 20%.
+Sur la page Renseignements généraux par courriel, nous avons constaté une corrélation claire entre l’augmentation du nombre de clics sur des réponses et une diminution du nombre de soumissions par courriel pour ces questions ou réponses. Le pourcentage de visiteurs qui ont choisi d’envoyer un courriel a été réduit de moitié, passant d’un maximum de 46 % à une moyenne de 20 %.
 
-Many calls to the general 1-800 O Canada number were for questions specific to individual applications for the Canada Economic Response Benefit (CERB). Call centre staff had to redirect those calls to specific phone lines, depending on how the caller had applied for the benefit. 
+De nombreux appels au numéro pour Renseignements généraux 1 800 O-Canada concernaient des questions spécifiques à des demandes individuelles pour la Prestation canadienne d’urgence (PCU). Le personnel du centre d’appels a dû rediriger ces appels vers des lignes téléphoniques précises, selon la façon dont l’appelant avait demandé la prestation. 
 
-On the General information by phone page, we added a new top question/answer about getting help with issues related to an application. The analytics showed people used it to find the specific phone number they needed. It helped them understand which phone line to use based on how they had applied for the benefit. They still had to call, but this acted as an initial triage for callers. It saved them time on the phone by getting them to the right phone number the first time.
+Sur la page Renseignements généraux par téléphone, nous avons ajouté une nouvelle question ou réponse au haut de la page sur l’obtention d’aide pour les problèmes liés à une demande. L’analyse a montré que les gens l’utilisaient pour trouver le numéro de téléphone précis dont ils avaient besoin. Cela les a aidés à comprendre quelle ligne téléphonique utiliser en fonction de la façon dont ils avaient demandé la prestation. Ils devaient encore appeler, mais cela a servi de triage initial pour les appelants. Cela leur a permis d’économiser du temps au téléphone en les amenant au bon numéro de téléphone la première fois.
 
 <figure>
-<img class="img-responsive border" alt=" General information by telephone page showing answers to most frequent call drivers at the top of the page (in expand/collapse pattern to minimize screen real estate) and wait times along with the contact phone number at the bottom of the page"
+<img class="img-responsive border" alt=" Informations générales par page téléphonique montrant les réponses aux appels les plus fréquents des conducteurs en haut de la page (en mode expansion/réduction pour minimiser l'immobilier de l'écran) et les temps d'attente ainsi que le numéro de téléphone de contact en bas de la page"
  src="/images/faq.png" width="700">
 </figure>
 
-## Guidelines for limited use of FAQs 
+## Lignes directrices sur l’utilisation limitée des FAQ  
 
-While we do have a legitimate way for you to use a FAQ, we implore you to proceed with caution! There are some important guidelines to follow.
+Bien que nous disposions d’une façon légitime pour vous d’utiliser une FAQ, nous vous supplions de procéder avec prudence! Quelques lignes directrices sont importantes à suivre.
 
 1. When users have <b>already made the decision to contact you directly</b>, consider putting <b>answers</b> to top questions <b>on a Contact us page <b>
 2. Work with call centres to determine what the top call drivers actually are, and <b>only</b> include those 
