@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "A Government of Canada design system - building better online content faster"
+title:  "Avoiding FAQs, with one exception"
 pubdate: "May 20, 2020"
 langpage: "https://blogue.canada.ca/2020/03/06/nouveau-systeme-de-conception.html"
 date:   2020-05-20
