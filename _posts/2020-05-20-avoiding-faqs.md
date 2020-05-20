@@ -2,7 +2,7 @@
 layout: post
 title:  "Avoiding FAQs, with one exception"
 pubdate: "May 20, 2020"
-langpage: "https://blogue.canada.ca/2020/03/06/nouveau-systeme-de-conception.html"
+langpage: "https://blogue.canada.ca/2020/05/20/eviter-les-faq.html"
 date:   2020-05-20
 published: true
 draft: true
