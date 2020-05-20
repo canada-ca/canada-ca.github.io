@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "Avoiding FAQs, with one exception"
-description: "One of the most frequently asked questions we get at the Digital Transformation Office is whether FAQs are an acceptable way of presenting web content."
+description: "Why FAQs are an ineffective content design choice most of the time, and when they can actually work."
 ---
 
 Yes, you read that right. One of the most frequently asked questions we get at the Digital Transformation Office is whether FAQs are an acceptable way of presenting web content.
