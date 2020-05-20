@@ -52,7 +52,7 @@ In the first option, you have 3 useless words in the most powerful position. Cha
 
 During the COVID-19 crisis, we did find one legitimate use for FAQs. 
 
-Call centres and general email boxes were being inundated with questions from the public. The first line of defense was to improve the web content supporting the tasks people were trying to accomplish. However, we also looked at how we could redesign Contact us pages to encourage more self-serve behaviour and reduce call volumes. 
+Call centres and general email boxes were being inundated with questions from the public. The first line of defence was to improve the web content supporting the tasks people were trying to accomplish. However, we also looked at how we could redesign Contact us pages to encourage more self-serve behaviour and reduce call volumes. 
 
 We worked closely with call centres to figure out what the top call drivers were in any given week. With this data, we put a small set of answers to the most asked questions right at the top of contact pages. We moved the phone number or email address lower on the page.
 
