@@ -91,12 +91,12 @@ Demandez-vous qui profite de votre FAQ – vous ou vos clients. Faites alors le 
 
 ### Plus d’encouragements pour éviter les FAQ
 
-* [Plus jamais de FAQ : Créer des informations utiles pour une expérience utilisateur plus efficace](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/)(en anglais seulement)
+* [Plus jamais de FAQ : Créer des informations utiles pour une expérience utilisateur plus efficace](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/) (en anglais seulement)
 * [Pourquoi les pages de FAQ sont presque toujours une mauvaise idée (et que faire à ce sujet)](https://thegood.com/insights/faq-pages/)(en anglais seulement)
-* [Les FAQ : pourquoi ne les avons-nous pas (gouv. du R.-U.)](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/)(en anglais seulement)
-* [Guide de contenu 18F – Ne pas utiliser de FAQ (gouvernement américain) ](https://content-guide.18f.gov/structure-the-content/#dont-use-faqs)(en anglais seulement)
-* [Pourquoi ne devriez-vous pas utiliser une page de FAQ](https://turbofuture.com/internet/Why-You-Shouldnt-Use-a-FAQs-Page)(en anglais seulement)
-* [Les FAQ sont les dinosaures de la navigation Web – Gerry McGovern](https://gerrymcgovern.com/faqs-are-the-dinosaurs-of-web-navigation/)(en anglais seulement) 
+* [Les FAQ : pourquoi ne les avons-nous pas (gouv. du R.-U.)](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/) (en anglais seulement)
+* [Guide de contenu 18F – Ne pas utiliser de FAQ (gouvernement américain) ](https://content-guide.18f.gov/structure-the-content/#dont-use-faqs) (en anglais seulement)
+* [Pourquoi ne devriez-vous pas utiliser une page de FAQ](https://turbofuture.com/internet/Why-You-Shouldnt-Use-a-FAQs-Page) (en anglais seulement)
+* [Les FAQ sont les dinosaures de la navigation Web – Gerry McGovern](https://gerrymcgovern.com/faqs-are-the-dinosaurs-of-web-navigation/) (en anglais seulement) 
 
 ## Communiquez avec le Bureau de la transformation numérique du SCT:
 
