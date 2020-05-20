@@ -31,12 +31,11 @@ When you design navigation from the perspective of your audience, you consider t
 Besides making people sift through content that isn’t relevant to their task, FAQs needlessly inflate your headings, and make them less effective.
 
 Anyone who has seen a heat map of how people read a web page will be familiar with the F pattern that the scanning eye often follows. People’s eyes travel across a page less and less as they scan down. 
-&nbsp
+
 <figure>
 <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
  src="/images/heatmap.jpg" width="700">
 </figure>
-&nbsp
 
 This user behaviour is the source of some of the most basic content design guidance around page and heading structure. “Front-loading” headings, by placing the most important words at the beginning, takes advantage of this known behaviour. 
 ([F-Shaped Pattern of Reading on the Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [First 2 Words: A Signal for the Scanning Eye](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/))
