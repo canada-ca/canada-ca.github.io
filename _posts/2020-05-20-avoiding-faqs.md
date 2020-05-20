@@ -31,7 +31,7 @@ When you design navigation from the perspective of your audience, you consider t
 Besides making people sift through content that isn’t relevant to their task, FAQs needlessly inflate your headings, and make them less effective.
 
 Anyone who has seen a heat map of how people read a web page will be familiar with the F pattern that the scanning eye often follows. People’s eyes travel across a page less and less as they scan down. 
-
+&nbsp
 <figure>
 <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
  src="/images/heatmap.jpg" width="700">
