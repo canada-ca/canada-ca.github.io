@@ -58,7 +58,7 @@ We worked closely with call centres to figure out what the top call drivers were
 
 ## Answers reduced calls and emails 
 
-When we added answers to the top of 2 general enquiries contact pages, those answers began to get a lot of use. As many as 5-15% of the page visitors were opening and viewing each answer. 
+When we added answers to the top of 2 general enquiries contact pages, those answers began to get a lot of use. As many as 5 to 15% of the page visitors were opening and viewing each answer. 
 
 On the General enquiries by email page, we saw a clear correlation between increased clicks on answers and a decrease in email submissions for those questions/answers. The percentage of visitors choosing to submit an email was cut in half, from a high of 46% to an average of 20%.
 
