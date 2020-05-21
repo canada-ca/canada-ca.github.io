@@ -15,7 +15,7 @@ Yes, you read that right. One of the most frequently asked questions we get at t
 
 Our answer, almost always, is no, FAQs are not effective so please don’t make them!
 
-### Clear paths lead to task success 
+## Clear paths lead to task success 
 
 Instead of being an intuitive navigation tool, FAQs tend to become a dumping ground for messaging the organization wants to push. They make your job easy - all the stuff people probably want to know lumped on one page. But they make your user’s journey more difficult. 
 
@@ -26,7 +26,7 @@ This is because FAQs make your users sift through wordy collections of questions
 
 When you design navigation from the perspective of your audience, you consider the tasks that they are trying to complete. Instead of lumping diverse concepts or details together in a single spot, you create clear paths to actionable answers.You identify the top tasks your audience wants to accomplish. Then you organize your website navigation in a simple and logical way to help them succeed.
 
-### Effective headings are answers
+## Effective headings are answers
 
 Besides making people sift through content that isn’t relevant to their task, FAQs needlessly inflate your headings, and make them less effective.
 
@@ -49,7 +49,7 @@ Consider these two heading options:
 
 In the first option, you have 3 useless words in the most powerful position. Changing it into the “answer” means that the keywords are further to the left, where the scanning eye is more likely to notice them. 
 
-### One positive use case for FAQs
+## One positive use case for FAQs
 
 During the COVID-19 crisis, we did find one legitimate use for FAQs. 
 
@@ -72,7 +72,7 @@ On the General information by telephone page, we added a new top question and an
  src="/images/faq.png" width="700">
 </figure><br>
 
-### Guidelines for limited use of FAQs 
+## Guidelines for limited use of FAQs 
 
 While we do have a legitimate way for you to use a FAQ, we implore you to proceed with caution! There are some important guidelines to follow.
 
@@ -90,7 +90,7 @@ Based on our evidence, we have since amended our strict “no”, to  “avoid-e
 
 Ask yourself who your FAQ serves &mdash; you or your clients. Then make the right choice!
 
-### More encouragement to avoid FAQs
+## More encouragement to avoid FAQs
 
 * [No More FAQs: Create Purposeful Information for a More Effective User Experience](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/)
 * [Why FAQ Pages Are Almost Always a Bad Idea (And What to Do About It)](https://thegood.com/insights/faq-pages/)
