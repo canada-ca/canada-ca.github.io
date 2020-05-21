@@ -32,10 +32,11 @@ Besides making people sift through content that isn’t relevant to their task, 
 
 Anyone who has seen a heat map of how people read a web page will be familiar with the F pattern that the scanning eye often follows. People’s eyes travel across a page less and less as they scan down. 
 
-<section><figure>
+<figure>
 <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
  src="/images/heatmap.jpg" width="700">
-</figure></section>
+</figure>
+<br>
 
 This user behaviour is the source of some of the most basic content design guidance around page and heading structure. “Front-loading” headings, by placing the most important words at the beginning, takes advantage of this known behaviour. 
 ([F-Shaped Pattern of Reading on the Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [First 2 Words: A Signal for the Scanning Eye](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/))
@@ -69,7 +70,7 @@ On the General information by phone page, we added a new top question/answer abo
 <figure>
 <img class="img-responsive border" alt=" General information by telephone page showing answers to most frequent call drivers at the top of the page (in expand/collapse pattern to minimize screen real estate) and wait times along with the contact phone number at the bottom of the page"
  src="/images/faq.png" width="700">
-</figure>
+</figure><br>
 
 ### Guidelines for limited use of FAQs 
 
