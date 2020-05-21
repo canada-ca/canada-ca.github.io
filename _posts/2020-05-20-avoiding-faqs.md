@@ -31,8 +31,8 @@ When you design navigation from the perspective of your audience, you consider t
 Besides making people sift through content that isn’t relevant to their task, FAQs needlessly inflate your headings, and make them less effective.
 
 Anyone who has seen a heat map of how people read a web page will be familiar with the F pattern that the scanning eye often follows. People’s eyes travel across a page less and less as they scan down. 
-<br>
-<figure>
+
+<br><figure>
 <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
  src="/images/heatmap.jpg" width="700">
 </figure>
@@ -61,11 +61,11 @@ We worked closely with call centres to figure out what the top call drivers were
 
 When we added answers to the top of 2 general enquiries contact pages, those answers began to get a lot of use. As many as 5 to 15% of the page visitors were opening and viewing each answer. 
 
-On the General enquiries by email page, we saw a clear correlation between increased clicks on answers and a decrease in email submissions for those questions/answers. The percentage of visitors choosing to submit an email was cut in half, from a high of 46% to an average of 20%.
+On the General enquiries by email page, we saw a clear correlation between increased clicks on answers and a decrease in email submissions for those questions and answers. The percentage of visitors choosing to submit an email was cut in half, from a high of 46% to an average of 20%.
 
-Many calls to the general 1-800 O Canada number were for questions specific to individual applications for the Canada Economic Response Benefit (CERB). Call centre staff had to redirect those calls to specific phone lines, depending on how the caller had applied for the benefit. 
+Many calls to the general 1-800 O-Canada number were for questions specific to individual applications for the Canada Economic Response Benefit (CERB). Call centre staff had to redirect those calls to specific phone lines, depending on how the caller had applied for the benefit. 
 
-On the General information by phone page, we added a new top question/answer about getting help with issues related to an application. The analytics showed people used it to find the specific phone number they needed. It helped them understand which phone line to use based on how they had applied for the benefit. They still had to call, but this acted as an initial triage for callers. It saved them time on the phone by getting them to the right phone number the first time.
+On the General information by telephone page, we added a new top question and answer about getting help with issues related to an application. The analytics showed people used it to find the specific phone number they needed. It helped them understand which phone line to use based on how they had applied for the benefit. They still had to call, but this acted as an initial triage for callers. It saved them time on the phone by getting them to the right phone number the first time.
 
 <br><figure>
 <img class="img-responsive border" alt=" General information by telephone page showing answers to most frequent call drivers at the top of the page (in expand/collapse pattern to minimize screen real estate) and wait times along with the contact phone number at the bottom of the page"
