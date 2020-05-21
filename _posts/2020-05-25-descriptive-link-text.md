@@ -18,11 +18,11 @@ In April 2020, during the COVID-19 crisis, the Digital Transformation Office and
 
 The initial link text for these resources was “Wellness Together Canada”. This was the name of the site that the link pointed to. It’s generally considered best practice for link text to match the title of the page it’s pointing to. However, we had concerns that this didn’t provide enough ‘scent of information’ for users.
 
-So, for 6 days we monitored how many people clicked through to find the resources. The link had a 0.10%<sup>[[1]](#ft-1)</sup> conversion rate (1,792 clicks of 1,733,984 visits). 
+So, for 6 days we monitored how many people clicked through to find the resources. The link had a 0.10%<sup class="fn1">[[1]](#ft-1)</sup> conversion rate (1,792 clicks of 1,733,984 visits). 
 
-We then changed the link text to “Mental health and substance use support.” The conversion rate improved to 0.15%* (2,011 clicks of 1,302,793 visits). This represents a 49.3% higher conversion rate. 
+We then changed the link text to “Mental health and substance use support.” The conversion rate improved to 0.15%<sup class="fn1">[[1]](#ft-1)</sup> (2,011 clicks of 1,302,793 visits). This represents a 49.3% higher conversion rate. 
 
-During Mental Health Week, we shortened the link text to just “Mental health support.” This performed even better, with a conversion rate of 0.23%*.
+During Mental Health Week, we shortened the link text to just “Mental health support.” This performed even better, with a conversion rate of 0.23%<sup class="fn1">[[1]](#ft-1)</sup>.
 
 Our results show that it’s not enough to simply make the link text match the title of the destination page. 
 “Wellness Together Canada” was vague. People had to guess what they would find there, so they were less likely to try it. More descriptive text provided a much clearer scent of information, and led more people to important mental health resources in a time of crisis.
@@ -34,9 +34,15 @@ Canada.ca is the source for Canadians to find the answers they need from the Gov
 Link text is a crucial navigation tool. It’s a promise of what you will find if you follow it. It needs to be crafted thoughtfully, with the user journey in mind. Always ensure that link text is written in plain language, and is meaningful and unique within a page so that people know what they can expect to find before they click. 
 
 Refer to the Canada.ca Content Style Guide to learn [how to write descriptive links](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-2).
+<dl>
+  <dt id="fn1-dt">Footnote 1</dt>
+  <dd id="fn1" tabindex="-1" aria-labelledby="fn1-dt">
+    <p>95%</a> confidence, p-value = 0.000</p>
+    <p class="fn-rtn"><a href="#fn1"><span class="wb-invisible">Return to footnote </span>1<span class="wb-invisible"> referrer</span></a></p>
+  </dd>
+</dl>
 
-<a name="sqft-1">*95%</a> confidence, p-value = 0.000
-
+<dl>
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
