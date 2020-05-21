@@ -18,7 +18,7 @@ In April 2020, during the COVID-19 crisis, the Digital Transformation Office and
 
 The initial link text for these resources was “Wellness Together Canada”. This was the name of the site that the link pointed to. It’s generally considered best practice for link text to match the title of the page it’s pointing to. However, we had concerns that this didn’t provide enough ‘scent of information’ for users.
 
-So, for 6 days we monitored how many people clicked through to find the resources. The link had a 0.10%<sup class="fn1">[[1]](#ft-1)</sup> conversion rate (1,792 clicks of 1,733,984 visits). 
+So, for 6 days we monitored how many people clicked through to find the resources. The link had a 0.10%<sup id=fn1-rtn class="fn1">[[1]](#ft-1)</sup> conversion rate (1,792 clicks of 1,733,984 visits). 
 
 We then changed the link text to “Mental health and substance use support.” The conversion rate improved to 0.15%<sup class="fn1">[[1]](#ft-1)</sup> (2,011 clicks of 1,302,793 visits). This represents a 49.3% higher conversion rate. 
 
@@ -38,7 +38,7 @@ Refer to the Canada.ca Content Style Guide to learn [how to write descriptive li
   <dt id="fn1-dt">Footnote 1</dt>
   <dd id="fn1" tabindex="-1" aria-labelledby="fn1-dt">
     <p>95% confidence, p-value = 0.000</p>
-    <p class="fn-rtn"><a href="#fn1"><span class="wb-invisible">Return to footnote </span>1<span class="wb-invisible"> referrer</span></a></p>
+    <p class="fn-rtn"><a href="#fn1-rtn"><span class="wb-invisible">Return to footnote </span>1<span class="wb-invisible"> referrer</span></a></p>
   </dd>
 </dl>
 
