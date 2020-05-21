@@ -15,7 +15,7 @@ Oui, vous avez bien lu. L’une des questions les plus fréquemment posées au B
 
 Notre réponse, presque toujours, est non; les FAQ ne sont pas efficaces, alors s’il vous plaît, ne les faites pas!
 
-## Les voies claires mènent à la réussite de la tâche 
+### Les voies claires mènent à la réussite de la tâche 
 
 Au lieu d’être un outil de navigation intuitif, les FAQ tendent à devenir un lieu de décharge pour les messages que l’organisation veut promouvoir. Elles rendent votre travail facile – tout ce que les gens veulent probablement savoir est regroupé sur une seule page. Toutefois, elles rendent le parcours de votre utilisateur plus difficile. 
 
@@ -26,7 +26,7 @@ C’est parce que les FAQ permettent à vos utilisateurs d’examiner soigneusem
 
 Lorsque vous concevez la navigation du point de vue de vos auditeurs, vous prenez en compte les tâches qu’ils essaient d’accomplir. Au lieu de regrouper des concepts ou des détails divers en un seul endroit, vous créez des voies claires vers des réponses réalisables. Vous identifiez les tâches principales que votre public souhaite réaliser. Ensuite, vous organisez la navigation de votre site Web de façon simple et logique pour les aider à réussir.
 
-## Les titres efficaces sont les réponses
+### Les titres efficaces sont les réponses
 
 En plus de faire passer les gens à travers du contenu qui n’est pas pertinent pour leur tâche, les FAQ gonflent inutilement vos en-têtes et les rendent moins efficaces.
 
@@ -48,7 +48,7 @@ Prenons par exemple ces deux titres :
 
 Dans le premier exemple, vous avez trois mots inutiles dans la position la plus puissante. Le fait de remplacer ces mots dans la « réponse » signifie que les mots clés sont plus à gauche, où le balayage oculaire est plus susceptible de les remarquer. 
 
-## Un cas d’utilisation positive pour les FAQ
+### Un cas d’utilisation positive pour les FAQ
 
 Pendant la crise de COVID-19, nous avons trouvé une utilisation légitime pour les FAQ. 
 
@@ -56,7 +56,7 @@ Les centres d’appels et les boîtes de courriel génériques étaient inondés
 
 Nous avons travaillé en étroite collaboration avec les centres d’appels pour déterminer quels étaient les principaux facteurs d’appels au cours d’une semaine donnée. Avec ces données, nous avons mis un petit ensemble de réponses aux questions les plus posées en haut des pages de contact. Nous avons déplacé le numéro de téléphone ou l’adresse de courriel plus bas sur la page. 
 
-## Les réponses ont réduit le volume d’appels et de courriels 
+### Les réponses ont réduit le volume d’appels et de courriels 
 
 Lorsque nous avons ajouté des réponses au haut des deux pages de contact pour les demandes de renseignements généraux, ces réponses ont commencé à être très utiles. Entre 5 % et 15 % des visiteurs de la page ont ouvert et visionné chaque réponse. 
 
