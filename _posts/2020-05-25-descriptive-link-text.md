@@ -42,7 +42,6 @@ Refer to the Canada.ca Content Style Guide to learn [how to write descriptive li
   </dd>
 </dl>
 
-<dl>
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
