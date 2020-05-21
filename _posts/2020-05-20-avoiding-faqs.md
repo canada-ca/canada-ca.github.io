@@ -87,7 +87,7 @@ While we do have a legitimate way for you to use a FAQ, we implore you to procee
 
 Based on our evidence, we have since amended our strict “no”, to  “avoid-except-on-contact-pages-when-you-know-the-call-drivers.” It’s not really about FAQs or no FAQs. It’s about user journeys, and customer/client service. 
 
-Ask yourself who your FAQ serves - you or your clients. Then make the right choice!
+Ask yourself who your FAQ serves &mdash you or your clients. Then make the right choice!
 
 ### More encouragement to avoid FAQs
 
