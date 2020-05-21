@@ -58,11 +58,11 @@ Nous avons travaillé en étroite collaboration avec les centres d’appels pour
 
 ### Les réponses ont réduit le volume d’appels et de courriels 
 
-Lorsque nous avons ajouté des réponses au haut des deux pages de contact pour les demandes de renseignements généraux, ces réponses ont commencé à être très utiles. Entre 5 % et 15 % des visiteurs de la page ont ouvert et visionné chaque réponse. 
+Lorsque nous avons ajouté des réponses au haut des deux pages de contact pour les demandes de renseignements généraux, ces réponses ont commencé à être très utiles. Entre «&nbsp;5 %&nbsp;» et «&nbsp;15 %&nbsp;» des visiteurs de la page ont ouvert et visionné chaque réponse. 
 
-Sur la page Renseignements généraux par courriel, nous avons constaté une corrélation claire entre l’augmentation du nombre de clics sur des réponses et une diminution du nombre de soumissions par courriel pour ces questions ou réponses. Le pourcentage de visiteurs qui ont choisi d’envoyer un courriel a été réduit de moitié, passant d’un maximum de 46 % à une moyenne de 20 %.
+Sur la page Renseignements généraux par courriel, nous avons constaté une corrélation claire entre l’augmentation du nombre de clics sur des réponses et une diminution du nombre de soumissions par courriel pour ces questions ou réponses. Le pourcentage de visiteurs qui ont choisi d’envoyer un courriel a été réduit de moitié, passant d’un maximum de «&nbsp;46 %&nbsp;» à une moyenne de «&nbsp;20 %&nbsp;».
 
-De nombreux appels au numéro pour Renseignements généraux 1 800 O-Canada concernaient des questions spécifiques à des demandes individuelles pour la Prestation canadienne d’urgence (PCU). Le personnel du centre d’appels a dû rediriger ces appels vers des lignes téléphoniques précises, selon la façon dont l’appelant avait demandé la prestation. 
+De nombreux appels au numéro pour Renseignements généraux «&nbsp;1 800 O-Canada&nbsp;» concernaient des questions spécifiques à des demandes individuelles pour la Prestation canadienne d’urgence (PCU). Le personnel du centre d’appels a dû rediriger ces appels vers des lignes téléphoniques précises, selon la façon dont l’appelant avait demandé la prestation. 
 
 Sur la page Renseignements généraux par téléphone, nous avons ajouté une nouvelle question ou réponse au haut de la page sur l’obtention d’aide pour les problèmes liés à une demande. L’analyse a montré que les gens l’utilisaient pour trouver le numéro de téléphone précis dont ils avaient besoin. Cela les a aidés à comprendre quelle ligne téléphonique utiliser en fonction de la façon dont ils avaient demandé la prestation. Ils devaient encore appeler, mais cela a servi de triage initial pour les appelants. Cela leur a permis d’économiser du temps au téléphone en les amenant au bon numéro de téléphone la première fois.
 
@@ -80,12 +80,12 @@ Bien que nous disposions d’une façon légitime pour vous d’utiliser une FAQ
 3. Limitez votre liste à au plus sept car la tâche principale de l’utilisateur qui vient à cette page est de vous contacter, alors ne les faites pas défiler sans fin
 4. Utilisez un modèle d’expansion ou d’effondrement pour que les utilisateurs n’aient qu’à examiner la réponse qui leur est pertinente
 5. Mettez les réponses au-dessus du numéro de téléphone ou de l’adresse de courriel car c’est un effort ultime pour encourager le comportement libre-service
-6. Examiner et mettre à jour les réponses à chaque semaine ou deux semaines – afin qu’elles reflètent vraiment les facteurs d’appel les plus récents
+6. Examiner et mettre à jour les réponses à chaque semaine ou deux semaines afin qu’elles reflètent vraiment les facteurs d’appel les plus récents
 7. Évitez la duplication du contenu en fournissant une brève réponse et un lien vers le contenu Web autoritaire qui fournit plus de détails 
   
 ## Conclusion
 
-D’après notre preuve, nous avons depuis modifié notre strict « non », pour  « À-éviter-sauf-sur-les-pages-de-contact-lorsque-vous-connaissez-les-facteurs-d’appel ». Ce n’est pas vraiment une question de FAQ ou qui n’appartient pas aux FAQ. Il s’agit des parcours d’utilisateur et du service à la clientèle. 
+D’après notre preuve, nous avons depuis modifié notre strict « non », pour  «&nbsp;« À-éviter-sauf-sur-les-pages-de-contact-lorsque-vous-connaissez-les-facteurs-d’appel »&nbsp;». Ce n’est pas vraiment une question de FAQ ou qui n’appartient pas aux FAQ. Il s’agit des parcours d’utilisateur et du service à la clientèle. 
 
 Demandez-vous qui profite de votre FAQ – vous ou vos clients. Faites alors le bon choix!
 
