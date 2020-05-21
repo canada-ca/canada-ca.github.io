@@ -18,7 +18,7 @@ In April 2020, during the COVID-19 crisis, the Digital Transformation Office and
 
 The initial link text for these resources was “Wellness Together Canada”. This was the name of the site that the link pointed to. It’s generally considered best practice for link text to match the title of the page it’s pointing to. However, we had concerns that this didn’t provide enough ‘scent of information’ for users.
 
-So, for 6 days we monitored how many people clicked through to find the resources. The link had a 0.10%[^1] ^[] <sup>[[1]](#ft-1)</sup> conversion rate (1,792 clicks of 1,733,984 visits). 
+So, for 6 days we monitored how many people clicked through to find the resources. The link had a 0.10%<sup>[[1]](#ft-1)</sup> conversion rate (1,792 clicks of 1,733,984 visits). 
 
 We then changed the link text to “Mental health and substance use support.” The conversion rate improved to 0.15%* (2,011 clicks of 1,302,793 visits). This represents a 49.3% higher conversion rate. 
 
@@ -35,7 +35,7 @@ Link text is a crucial navigation tool. It’s a promise of what you will find i
 
 Refer to the Canada.ca Content Style Guide to learn [how to write descriptive links](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-2).
 
-<a name="sqft-1>*95%</a> confidence, p-value = 0.000
+<a name="sqft-1">*95%</a> confidence, p-value = 0.000
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
