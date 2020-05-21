@@ -37,7 +37,7 @@ Refer to the Canada.ca Content Style Guide to learn [how to write descriptive li
 <dl>
   <dt id="fn1-dt">Footnote 1</dt>
   <dd id="fn1" tabindex="-1" aria-labelledby="fn1-dt">
-    <p>95%</a> confidence, p-value = 0.000</p>
+    <p>95% confidence, p-value = 0.000</p>
     <p class="fn-rtn"><a href="#fn1"><span class="wb-invisible">Return to footnote </span>1<span class="wb-invisible"> referrer</span></a></p>
   </dd>
 </dl>
