@@ -18,11 +18,11 @@ In April 2020, during the COVID-19 crisis, the Digital Transformation Office and
 
 The initial link text for these resources was “Wellness Together Canada”. This was the name of the site that the link pointed to. It’s generally considered best practice for link text to match the title of the page it’s pointing to. However, we had concerns that this didn’t provide enough ‘scent of information’ for users.
 
-So, for 6 days we monitored how many people clicked through to find the resources. The link had a 0.10%<sup id="fn1-rtn" class="fn1">[[1]](#ft-1)</sup> conversion rate (1,792 clicks of 1,733,984 visits). 
+So, for 6 days we monitored how many people clicked through to find the resources. The link had a 0.10%<sup id="fn1-rtn" class="fn-lnk">[[1]](#fn1)</sup> conversion rate (1,792 clicks of 1,733,984 visits). 
 
-We then changed the link text to “Mental health and substance use support.” The conversion rate improved to 0.15%<sup class="fn1">[[1]](#ft-1)</sup> (2,011 clicks of 1,302,793 visits). This represents a 49.3% higher conversion rate. 
+We then changed the link text to “Mental health and substance use support.” The conversion rate improved to 0.15%<sup class="fn-lnk">[[]](#fn1)</sup> (2,011 clicks of 1,302,793 visits). This represents a 49.3% higher conversion rate. 
 
-During Mental Health Week, we shortened the link text to just “Mental health support.” This performed even better, with a conversion rate of 0.23%<sup class="fn1">[[1]](#ft-1)</sup>.
+During Mental Health Week, we shortened the link text to just “Mental health support.” This performed even better, with a conversion rate of 0.23%<sup class="fn-lnk">[[1]](#fn1)</sup>.
 
 Our results show that it’s not enough to simply make the link text match the title of the destination page. 
 “Wellness Together Canada” was vague. People had to guess what they would find there, so they were less likely to try it. More descriptive text provided a much clearer scent of information, and led more people to important mental health resources in a time of crisis.
