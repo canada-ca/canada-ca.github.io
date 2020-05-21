@@ -34,6 +34,10 @@ Canada.ca is the source for Canadians to find the answers they need from the Gov
 Link text is a crucial navigation tool. It’s a promise of what you will find if you follow it. It needs to be crafted thoughtfully, with the user journey in mind. Always ensure that link text is written in plain language, and is meaningful and unique within a page so that people know what they can expect to find before they click. 
 
 Refer to the Canada.ca Content Style Guide to learn [how to write descriptive links](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-2).
+
+<div class="wb-fnote wb-init wb-fnote-inited" role="note" id="wb-auto-4">
+<h3 id="fn" class="wb-inv">Footnotes</h3>
+
 <dl>
   <dt id="fn1-dt">Footnote 1</dt>
   <dd id="fn1" tabindex="-1" aria-labelledby="fn1-dt">
@@ -41,6 +45,7 @@ Refer to the Canada.ca Content Style Guide to learn [how to write descriptive li
     <p class="fn-rtn"><a href="#fn1-rtn"><span class="wb-invisible">Return to footnote </span>1<span class="wb-invisible"> referrer</span></a></p>
   </dd>
 </dl>
+</div>
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
