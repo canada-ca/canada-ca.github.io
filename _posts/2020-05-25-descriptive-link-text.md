@@ -33,7 +33,7 @@ Canada.ca is the source for Canadians to find the answers they need from the Gov
 
 Link text is a crucial navigation tool. It’s a promise of what you will find if you follow it. It needs to be crafted thoughtfully, with the user journey in mind. Always ensure that link text is written in plain language, and is meaningful and unique within a page so that people know what they can expect to find before they click. 
 
-Refer to the Canada.ca Content Style Guide to learn how to write descriptive links.
+Refer to the Canada.ca Content Style Guide to learn [how to write descriptive links](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-2).
 
  *95% confidence, p-value = 0.000
 
