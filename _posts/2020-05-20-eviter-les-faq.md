@@ -77,11 +77,11 @@ Bien que nous disposions d’une façon légitime pour vous d’utiliser une FAQ
 
 1. Lorsque les utilisateurs <b>ont déjà pris la décision de vous contacter directement</b>, envisagez de mettre des <b>réponses</b> aux principales questions sur une <b>page Contactez-nous<b>
 2. Travaillez avec les centres d’appels pour déterminer ce que sont réellement les principaux facteurs d’appels, et inclure <b>seulement</b> ces derniers  
-3. Limitez votre liste à au plus sept – la tâche principale de l’utilisateur qui vient à cette page est de vous contacter, alors ne les faites pas défiler sans fin
+3. Limitez votre liste à au plus sept car la tâche principale de l’utilisateur qui vient à cette page est de vous contacter, alors ne les faites pas défiler sans fin
 4. Utilisez un modèle d’expansion ou d’effondrement pour que les utilisateurs n’aient qu’à examiner la réponse qui leur est pertinente
-5. Mettez les réponses au-dessus du numéro de téléphone ou de l’adresse de courriel – c’est un effort ultime pour encourager le comportement libre-service
-6. Examiner et mettre à jour régulièrement les réponses – chaque semaine ou deux semaines – afin qu’elles reflètent vraiment les facteurs d’appel les plus récents
-7. Évitez la duplication du contenu – fournissez une brève réponse et un lien vers le contenu Web autoritaire qui fournit plus de détails 
+5. Mettez les réponses au-dessus du numéro de téléphone ou de l’adresse de courriel car c’est un effort ultime pour encourager le comportement libre-service
+6. Examiner et mettre à jour les réponses à chaque semaine ou deux semaines – afin qu’elles reflètent vraiment les facteurs d’appel les plus récents
+7. Évitez la duplication du contenu en fournissant une brève réponse et un lien vers le contenu Web autoritaire qui fournit plus de détails 
   
 ## Conclusion
 
