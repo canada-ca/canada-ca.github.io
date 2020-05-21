@@ -11,7 +11,7 @@ alt: "Éviter les FAQ, à une exception près"
 description: "Pourquoi les FAQ sont un choix de conception de contenu inefficace la plupart du temps, et quand elles peuvent réellement fonctionner."
 ---
 
-Oui, vous avez bien lu. L’une des questions les plus fréquemment posées au Bureau de la transformation numérique est de savoir si les Foires aux questions (FAQ) sont une façon acceptable de présenter du contenu Web.
+Oui, vous avez bien lu. L’une des questions les plus fréquemment posées au Bureau de la transformation numérique est de savoir si les foires aux questions (FAQ) sont une façon acceptable de présenter du contenu Web.
 
 Notre réponse, presque toujours, est non; les FAQ ne sont pas efficaces, alors s’il vous plaît, ne les faites pas!
 
@@ -32,13 +32,13 @@ En plus de faire passer les gens à travers du contenu qui n’est pas pertinent
 
 Quiconque a vu une carte thermique de la façon dont les gens lisent une page Web connaîtra le modèle F, que le balayage oculaire suit souvent. Les yeux des gens traversent de moins en moins une page lorsqu’ils scannent. 
 
-<section><figure>
+<br><figure>
 <img class="img-responsive border" alt=" Carte de chaleur issue d'une étude de suivi des yeux qui montre comment les yeux se sont déplacés en travers puis en bas de la page selon un schéma F de base"
  src="/images/heatmap.jpg" width="700">
-</figure></section>
+</figure><br>
 
 Ce comportement de l’utilisateur est la source de quelques-unes des directives de conception de contenu les plus basiques concernant la structure des pages et des en-têtes. Les titres de « chargement frontal », qui est le fait de placer les mots les plus importants au début, profite de ce comportement connu. 
-([Modèle de lecture en forme de F sur le Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [Deux premiers mots : Un signal pour le balayage oculaire](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/))((en anglais seulement)
+([Modèle de lecture en forme de F sur le Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [Deux premiers mots : Un signal pour le balayage oculaire](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/))(en anglais seulement)
 
 Lorsque vous transformez vos titres en questions, vous finissez par placer des mots inutiles dans la position la plus puissante pour le balayage oculaire. 
 
@@ -50,7 +50,7 @@ Dans le premier exemple, vous avez trois mots inutiles dans la position la plus 
 
 ### Un cas d’utilisation positive pour les FAQ
 
-Pendant la crise de COVID-19, nous avons trouvé une utilisation légitime pour les FAQ. 
+Pendant la crise de la COVID-19, nous avons trouvé une utilisation légitime pour les FAQ. 
 
 Les centres d’appels et les boîtes de courriel génériques étaient inondés de questions du public. La première ligne de défense était d’améliorer le contenu Web pour les tâches que les gens essayaient d’accomplir. Cependant, nous avons également examiné la façon dont nous pourrions remanier les pages Contactez-nous afin d’encourager un plus grand comportement libre-service et de réduire le volume d’appels. 
 
@@ -66,10 +66,10 @@ De nombreux appels au numéro pour Renseignements généraux 1 800 O-Canada conc
 
 Sur la page Renseignements généraux par téléphone, nous avons ajouté une nouvelle question ou réponse au haut de la page sur l’obtention d’aide pour les problèmes liés à une demande. L’analyse a montré que les gens l’utilisaient pour trouver le numéro de téléphone précis dont ils avaient besoin. Cela les a aidés à comprendre quelle ligne téléphonique utiliser en fonction de la façon dont ils avaient demandé la prestation. Ils devaient encore appeler, mais cela a servi de triage initial pour les appelants. Cela leur a permis d’économiser du temps au téléphone en les amenant au bon numéro de téléphone la première fois.
 
-<figure>
+<br><figure>
 <img class="img-responsive border" alt=" Informations générales par page téléphonique montrant les réponses aux appels les plus fréquents des conducteurs en haut de la page (en mode expansion/réduction pour minimiser l'immobilier de l'écran) et les temps d'attente ainsi que le numéro de téléphone de contact en bas de la page"
  src="/images/faq_fr.png" width="700">
-</figure>
+</figure><br>
 
 ## Lignes directrices sur l’utilisation limitée des FAQ  
 
