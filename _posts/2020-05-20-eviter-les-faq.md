@@ -32,10 +32,10 @@ En plus de faire passer les gens à travers du contenu qui n’est pas pertinent
 
 Quiconque a vu une carte thermique de la façon dont les gens lisent une page Web connaîtra le modèle F, que le balayage oculaire suit souvent. Les yeux des gens traversent de moins en moins une page lorsqu’ils scannent. 
 
-<figure>
+<section><figure>
 <img class="img-responsive border" alt=" Carte de chaleur issue d'une étude de suivi des yeux qui montre comment les yeux se sont déplacés en travers puis en bas de la page selon un schéma F de base"
  src="/images/heatmap.jpg" width="700">
-</figure>
+</figure></section>
 
 Ce comportement de l’utilisateur est la source de quelques-unes des directives de conception de contenu les plus basiques concernant la structure des pages et des en-têtes. Les titres de « chargement frontal », qui est le fait de placer les mots les plus importants au début, profite de ce comportement connu. 
 ([Modèle de lecture en forme de F sur le Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [Deux premiers mots : Un signal pour le balayage oculaire](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/))((en anglais seulement)
