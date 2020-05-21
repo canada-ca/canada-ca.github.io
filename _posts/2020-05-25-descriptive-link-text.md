@@ -20,7 +20,7 @@ The initial link text for these resources was “Wellness Together Canada”. Th
 
 So, for 6 days we monitored how many people clicked through to find the resources. The link had a 0.10%<sup id="fn1-rtn" class="fn-lnk">[[1]](#fn1)</sup> conversion rate (1,792 clicks of 1,733,984 visits). 
 
-We then changed the link text to “Mental health and substance use support.” The conversion rate improved to 0.15%<sup class="fn-lnk">[[]](#fn1)</sup> (2,011 clicks of 1,302,793 visits). This represents a 49.3% higher conversion rate. 
+We then changed the link text to “Mental health and substance use support.” The conversion rate improved to 0.15%<sup class="fn-lnk">[[1]](#fn1)</sup> (2,011 clicks of 1,302,793 visits). This represents a 49.3% higher conversion rate. 
 
 During Mental Health Week, we shortened the link text to just “Mental health support.” This performed even better, with a conversion rate of 0.23%<sup class="fn-lnk">[[1]](#fn1)</sup>.
 
