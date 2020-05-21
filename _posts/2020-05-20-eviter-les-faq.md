@@ -58,11 +58,11 @@ Nous avons travaillé en étroite collaboration avec les centres d’appels pour
 
 ### Les réponses ont réduit le volume d’appels et de courriels 
 
-Lorsque nous avons ajouté des réponses au haut des deux pages de contact pour les demandes de renseignements généraux, ces réponses ont commencé à être très utiles. Entre &nbsp;5 %&nbsp; et &nbsp;15 %&nbsp; des visiteurs de la page ont ouvert et visionné chaque réponse. 
+Lorsque nous avons ajouté des réponses au haut des deux pages de contact pour les demandes de renseignements généraux, ces réponses ont commencé à être très utiles. Entre 5nbsp;% et 15&nbsp;% des visiteurs de la page ont ouvert et visionné chaque réponse. 
 
-Sur la page Renseignements généraux par courriel, nous avons constaté une corrélation claire entre l’augmentation du nombre de clics sur des réponses et une diminution du nombre de soumissions par courriel pour ces questions ou réponses. Le pourcentage de visiteurs qui ont choisi d’envoyer un courriel a été réduit de moitié, passant d’un maximum de &nbsp;46 %&nbsp; à une moyenne de «&nbsp;20 %&nbsp;».
+Sur la page Renseignements généraux par courriel, nous avons constaté une corrélation claire entre l’augmentation du nombre de clics sur des réponses et une diminution du nombre de soumissions par courriel pour ces questions ou réponses. Le pourcentage de visiteurs qui ont choisi d’envoyer un courriel a été réduit de moitié, passant d’un maximum de 46&nbsp;% à une moyenne de 20&nbsp;%.
 
-De nombreux appels au numéro pour Renseignements généraux &nbsp;1 800 O-Canada&nbsp; concernaient des questions spécifiques à des demandes individuelles pour la Prestation canadienne d’urgence (PCU). Le personnel du centre d’appels a dû rediriger ces appels vers des lignes téléphoniques précises, selon la façon dont l’appelant avait demandé la prestation. 
+De nombreux appels au numéro pour Renseignements généraux 1&nbsp;800&nbsp;O-Canada concernaient des questions spécifiques à des demandes individuelles pour la Prestation canadienne d’urgence (PCU). Le personnel du centre d’appels a dû rediriger ces appels vers des lignes téléphoniques précises, selon la façon dont l’appelant avait demandé la prestation. 
 
 Sur la page Renseignements généraux par téléphone, nous avons ajouté une nouvelle question ou réponse au haut de la page sur l’obtention d’aide pour les problèmes liés à une demande. L’analyse a montré que les gens l’utilisaient pour trouver le numéro de téléphone précis dont ils avaient besoin. Cela les a aidés à comprendre quelle ligne téléphonique utiliser en fonction de la façon dont ils avaient demandé la prestation. Ils devaient encore appeler, mais cela a servi de triage initial pour les appelants. Cela leur a permis d’économiser du temps au téléphone en les amenant au bon numéro de téléphone la première fois.
 
@@ -85,7 +85,7 @@ Bien que nous disposions d’une façon légitime pour vous d’utiliser une FAQ
   
 ## Conclusion
 
-D’après notre preuve, nous avons depuis modifié notre strict « non », pour  &nbsp;« À-éviter-sauf-sur-les-pages-de-contact-lorsque-vous-connaissez-les-facteurs-d’appel »&nbsp;. Ce n’est pas vraiment une question de FAQ ou qui n’appartient pas aux FAQ. Il s’agit des parcours d’utilisateur et du service à la clientèle. 
+D’après notre preuve, nous avons depuis modifié notre strict «&nbsp;non&nbsp;», pour «&nbsp;À-éviter-sauf-sur-les-pages-de-contact-lorsque-vous-connaissez-les-facteurs-d’appel&nbsp;». Ce n’est pas vraiment une question de FAQ ou qui n’appartient pas aux FAQ. Il s’agit des parcours d’utilisateur et du service à la clientèle. 
 
 Demandez-vous qui profite de votre FAQ – vous ou vos clients. Faites alors le bon choix!
 
