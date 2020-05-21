@@ -84,7 +84,7 @@ While we do have a legitimate way for you to use a FAQ, we implore you to procee
 6. Review and update the answers weekly or biweekly so they truly reflect the most current call drivers
 7. Avoid duplicating content by providing a brief answer and link to the authoritative web content that provides further detail 
   
-## Final Word
+## Final word
 
 Based on our evidence, we have since amended our strict “no”, to  “avoid-except-on-contact-pages-when-you-know-the-call-drivers.” It’s not really about FAQs or no FAQs. It’s about user journeys, and customer/client service. 
 
