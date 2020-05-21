@@ -15,7 +15,7 @@ Yes, you read that right. One of the most frequently asked questions we get at t
 
 Our answer, almost always, is no, FAQs are not effective so please don’t make them!
 
-## Clear paths lead to task success 
+### Clear paths lead to task success 
 
 Instead of being an intuitive navigation tool, FAQs tend to become a dumping ground for messaging the organization wants to push. They make your job easy - all the stuff people probably want to know lumped on one page. But they make your user’s journey more difficult. 
 
@@ -26,7 +26,7 @@ This is because FAQs make your users sift through wordy collections of questions
 
 When you design navigation from the perspective of your audience, you consider the tasks that they are trying to complete. Instead of lumping diverse concepts or details together in a single spot, you create clear paths to actionable answers.You identify the top tasks your audience wants to accomplish. Then you organize your website navigation in a simple and logical way to help them succeed.
 
-## Effective headings are answers
+### Effective headings are answers
 
 Besides making people sift through content that isn’t relevant to their task, FAQs needlessly inflate your headings, and make them less effective.
 
@@ -48,7 +48,7 @@ Consider these two heading options:
 
 In the first option, you have 3 useless words in the most powerful position. Changing it into the “answer” means that the keywords are further to the left, where the scanning eye is more likely to notice them. 
 
-## One positive use case for FAQs
+### One positive use case for FAQs
 
 During the COVID-19 crisis, we did find one legitimate use for FAQs. 
 
@@ -56,7 +56,7 @@ Call centres and general email boxes were being inundated with questions from th
 
 We worked closely with call centres to figure out what the top call drivers were in any given week. With this data, we put a small set of answers to the most asked questions right at the top of contact pages. We moved the phone number or email address lower on the page.
 
-## Answers reduced calls and emails 
+### Answers reduced calls and emails 
 
 When we added answers to the top of 2 general enquiries contact pages, those answers began to get a lot of use. As many as 5 to 15% of the page visitors were opening and viewing each answer. 
 
@@ -71,17 +71,17 @@ On the General information by phone page, we added a new top question/answer abo
  src="/images/faq.png" width="700">
 </figure>
 
-## Guidelines for limited use of FAQs 
+### Guidelines for limited use of FAQs 
 
 While we do have a legitimate way for you to use a FAQ, we implore you to proceed with caution! There are some important guidelines to follow.
 
 1. When users have <b>already made the decision to contact you directly</b>, consider putting <b>answers</b> to top questions <b>on a Contact us page <b>
 2. Work with call centres to determine what the top call drivers actually are, and <b>only</b> include those 
-3. Limit your list to no more than 7 - the user’s top task coming to this page is to contact you, so don’t make them scroll endlessly
+3. Limit your list to no more than 7 as the user’s top task coming to this page is to contact you, so don’t make them scroll endlessly
 4. Use an expand/collapse pattern so users only need to look at the answer that is relevant to them
-5. Put the answers above the phone number or email address - this is a last ditch effort to encourage self-serve behaviour
-6. Review and update the answers regularly - weekly or biweekly - so they truly reflect the most current call drivers
-7. Avoid duplicating content - provide a brief answer and link to the authoritative web content that provides further detail 
+5. Put the answers above the phone number or email address as this is a last ditch effort to encourage self-serve behaviour
+6. Review and update the answers weekly or biweekly so they truly reflect the most current call drivers
+7. Avoid duplicating content by providing a brief answer and link to the authoritative web content that provides further detail 
   
 ## Final Word
 
