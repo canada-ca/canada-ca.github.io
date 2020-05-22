@@ -36,7 +36,18 @@ Le texte du lien est un outil de navigation essentiel. C’est une indication fi
 
 Consultez le Guide de rédaction du contenu du site de Canada.ca pour [apprendre comment rédiger des liens descriptifs](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp7-2).
 
- * Confiance à 95 %, valeur p = 0,000
+<div class="wb-fnote wb-init wb-fnote-inited" role="note" id="wb-auto-4">
+<h3 id="fn" class="wb-inv">Footnotes</h3>
+
+<dl>
+  <dt id="fn1-dt">Note de bas de page 1</dt>
+  <dd id="fn1" tabindex="-1" aria-labelledby="fn1-dt">
+    <p> * Confiance à 95 %, valeur p = 0,000</p>
+    <p class="fn-rtn"><a href="#fn1-rtn"><span class="wb-invisible">Return to footnote </span>1<span class="wb-invisible"> referrer</span></a></p>
+  </dd>
+</dl>
+</div>
+
 
 
 
