@@ -1,9 +1,9 @@
 ﻿---
 layout: post
 title:  "Avoiding FAQs, with one exception"
-pubdate: "May 20, 2020"
-langpage: "https://blogue.canada.ca/2020/05/20/eviter-les-faq.html"
-date:   2020-05-20
+pubdate: "May 22, 2020"
+langpage: "https://blogue.canada.ca/2020/05/22/eviter-les-faq.html"
+date:   2020-05-22
 published: true
 draft: true
 lang: en
@@ -69,7 +69,7 @@ On the General information by telephone page, we added a new top question and an
 
 <br><figure>
 <img class="img-responsive border" alt=" General information by telephone page showing answers to most frequent call drivers at the top of the page (in expand/collapse pattern to minimize screen real estate) and wait times along with the contact phone number at the bottom of the page"
- src="/images/faq.png" width="700">
+ src="/images/faq.png" width="500">
 </figure><br>
 
 ## Guidelines for limited use of FAQs 
