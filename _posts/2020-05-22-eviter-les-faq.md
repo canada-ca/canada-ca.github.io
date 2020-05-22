@@ -34,7 +34,7 @@ Quiconque a vu une carte thermique de la façon dont les gens lisent une page We
 
 <br><figure>
 <img class="img-responsive border" alt=" Carte de chaleur issue d'une étude de suivi des yeux qui montre comment les yeux se sont déplacés en travers puis en bas de la page selon un schéma F de base"
- src="/images/heatmap.jpg" width="700">
+ src="/images/heatmap.jpg" width="500">
 </figure><br>
 
 Ce comportement de l’utilisateur est la source de quelques-unes des directives de conception de contenu les plus basiques concernant la structure des pages et des en-têtes. Les titres de « chargement frontal », qui est le fait de placer les mots les plus importants au début, profite de ce comportement connu. 
@@ -62,13 +62,13 @@ Lorsque nous avons ajouté des réponses au haut des deux pages de contact pour 
 
 Sur la page Renseignements généraux par courriel, nous avons constaté une corrélation claire entre l’augmentation du nombre de clics sur des réponses et une diminution du nombre de soumissions par courriel pour ces questions ou réponses. Le pourcentage de visiteurs qui ont choisi d’envoyer un courriel a été réduit de moitié, passant d’un maximum de 46&nbsp;% à une moyenne de 20&nbsp;%.
 
-De nombreux appels au numéro pour Renseignements généraux 1&nbsp;800&nbsp;O-Canada&nbsp; concernaient des questions spécifiques à des demandes individuelles pour la Prestation canadienne d’urgence (PCU). Le personnel du centre d’appels a dû rediriger ces appels vers des lignes téléphoniques précises, selon la façon dont l’appelant avait demandé la prestation. 
+De nombreux appels au numéro pour Renseignements généraux 1&nbsp;-800&nbsp;O-Canada concernaient des questions spécifiques à des demandes individuelles pour la Prestation canadienne d’urgence (PCU). Le personnel du centre d’appels a dû rediriger ces appels vers des lignes téléphoniques précises, selon la façon dont l’appelant avait demandé la prestation. 
 
 Sur la page Renseignements généraux par téléphone, nous avons ajouté une nouvelle question ou réponse au haut de la page sur l’obtention d’aide pour les problèmes liés à une demande. L’analyse a montré que les gens l’utilisaient pour trouver le numéro de téléphone précis dont ils avaient besoin. Cela les a aidés à comprendre quelle ligne téléphonique utiliser en fonction de la façon dont ils avaient demandé la prestation. Ils devaient encore appeler, mais cela a servi de triage initial pour les appelants. Cela leur a permis d’économiser du temps au téléphone en les amenant au bon numéro de téléphone la première fois.
 
 <br><figure>
 <img class="img-responsive border" alt=" Informations générales par page téléphonique montrant les réponses aux appels les plus fréquents des conducteurs en haut de la page (en mode expansion/réduction pour minimiser l'immobilier de l'écran) et les temps d'attente ainsi que le numéro de téléphone de contact en bas de la page"
- src="/images/faq_fr.png" width="700">
+ src="/images/faq_fr.png" width="500">
 </figure><br>
 
 ## Lignes directrices sur l’utilisation limitée des FAQ  
