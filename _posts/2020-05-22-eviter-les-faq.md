@@ -11,6 +11,12 @@ alt: "Éviter les FAQ, à une exception près"
 description: "Pourquoi les FAQ sont un choix de conception de contenu inefficace la plupart du temps, et quand elles peuvent réellement fonctionner."
 ---
 
+<style>
+.nobreak {
+    white-space: nowrap;
+  }
+</style>
+
 Oui, vous avez bien lu. L’une des questions les plus fréquemment posées au Bureau de la transformation numérique est de savoir si les foires aux questions (FAQ) sont une façon acceptable de présenter du contenu Web.
 
 Notre réponse, presque toujours, est non; les FAQ ne sont pas efficaces, alors s’il vous plaît, ne les faites pas!
