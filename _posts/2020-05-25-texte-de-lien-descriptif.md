@@ -37,7 +37,7 @@ Le texte du lien est un outil de navigation essentiel. C’est une indication fi
 Consultez le Guide de rédaction du contenu du site de Canada.ca pour [apprendre comment rédiger des liens descriptifs](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp7-2).
 
 <div class="wb-fnote wb-init wb-fnote-inited" role="note" id="wb-auto-4">
-<h3 id="fn" class="wb-inv">Footnotes</h3>
+<h3 id="fn" class="wb-inv">Note de bas de page</h3>
 
 <dl>
   <dt id="fn1-dt">Note de bas de page 1</dt>
@@ -47,18 +47,6 @@ Consultez le Guide de rédaction du contenu du site de Canada.ca pour [apprendre
   </dd>
 </dl>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Communiquez avec le Bureau de la transformation numérique du SCT:
 
