@@ -34,7 +34,7 @@ Anyone who has seen a heat map of how people read a web page will be familiar wi
 
 <br><figure>
 <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
- src="/images/heatmap.jpg" width="700">
+ src="/images/heatmap.jpg" width="500">
 </figure>
 <br>
 
