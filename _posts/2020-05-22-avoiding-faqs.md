@@ -63,7 +63,7 @@ When we added answers to the top of 2 general enquiries contact pages, those ans
 
 On the General enquiries by email page, we saw a clear correlation between increased clicks on answers and a decrease in email submissions for those questions and answers. The percentage of visitors choosing to submit an email was cut in half, from a high of 46% to an average of 20%.
 
-Many calls to the general 1&nbsp;-800&nbsp;0-Canada number were for questions specific to individual applications for the Canada Economic Response Benefit (CERB). Call centre staff had to redirect those calls to specific phone lines, depending on how the caller had applied for the benefit. 
+Many calls to the general 1-800&nbsp;0-Canada number were for questions specific to individual applications for the Canada Economic Response Benefit (CERB). Call centre staff had to redirect those calls to specific phone lines, depending on how the caller had applied for the benefit. 
 
 On the General information by telephone page, we added a new top question and answer about getting help with issues related to an application. The analytics showed people used it to find the specific phone number they needed. It helped them understand which phone line to use based on how they had applied for the benefit. They still had to call, but this acted as an initial triage for callers. It saved them time on the phone by getting them to the right phone number the first time.
 
