@@ -15,7 +15,7 @@ Oui, vous avez bien lu. L’une des questions les plus fréquemment posées au B
 
 Notre réponse, presque toujours, est non; les FAQ ne sont pas efficaces, alors s’il vous plaît, ne les faites pas!
 
-### Les voies claires mènent à la réussite de la tâche 
+## Les voies claires mènent à la réussite de la tâche 
 
 Au lieu d’être un outil de navigation intuitif, les FAQ tendent à devenir un lieu de décharge pour les messages que l’organisation veut promouvoir. Elles rendent votre travail facile – tout ce que les gens veulent probablement savoir est regroupé sur une seule page. Toutefois, elles rendent le parcours de votre utilisateur plus difficile. 
 
@@ -26,7 +26,7 @@ C’est parce que les FAQ permettent à vos utilisateurs d’examiner soigneusem
 
 Lorsque vous concevez la navigation du point de vue de vos auditeurs, vous prenez en compte les tâches qu’ils essaient d’accomplir. Au lieu de regrouper des concepts ou des détails divers en un seul endroit, vous créez des voies claires vers des réponses réalisables. Vous identifiez les tâches principales que votre public souhaite réaliser. Ensuite, vous organisez la navigation de votre site Web de façon simple et logique pour les aider à réussir.
 
-### Les titres efficaces sont les réponses
+## Les titres efficaces sont les réponses
 
 En plus de faire passer les gens à travers du contenu qui n’est pas pertinent pour leur tâche, les FAQ gonflent inutilement vos en-têtes et les rendent moins efficaces.
 
@@ -48,7 +48,7 @@ Prenons par exemple ces deux titres :
 
 Dans le premier exemple, vous avez trois mots inutiles dans la position la plus puissante. Le fait de remplacer ces mots dans la « réponse » signifie que les mots clés sont plus à gauche, où le balayage oculaire est plus susceptible de les remarquer. 
 
-### Un cas d’utilisation positive pour les FAQ
+## Un cas d’utilisation positive pour les FAQ
 
 Pendant la crise de la COVID-19, nous avons trouvé une utilisation légitime pour les FAQ. 
 
@@ -89,7 +89,7 @@ D’après notre preuve, nous avons depuis modifié notre strict «&nbsp;non&nbs
 
 Demandez-vous qui profite de votre FAQ – vous ou vos clients. Faites alors le bon choix!
 
-### Plus d’encouragements pour éviter les FAQ
+## Plus d’encouragements pour éviter les FAQ
 
 * [Plus jamais de FAQ : Créer des informations utiles pour une expérience utilisateur plus efficace](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/) (en anglais seulement)
 * [Pourquoi les pages de FAQ sont presque toujours une mauvaise idée (et que faire à ce sujet)](https://thegood.com/insights/faq-pages/)(en anglais seulement)
