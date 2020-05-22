@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Éviter les FAQ, à une exception près"
-pubdate: "20 Mai 2020"
-langpage: "https://blog.canada.ca/2020/05/20/avoiding-faqs.html"
-date:   2020-05-20
+pubdate: "22 Mai 2020"
+langpage: "https://blog.canada.ca/2020/05/22/avoiding-faqs.html"
+date:   2020-05-22
 published: true
 draft: true
 lang: fr
@@ -38,7 +38,7 @@ Quiconque a vu une carte thermique de la façon dont les gens lisent une page We
 </figure><br>
 
 Ce comportement de l’utilisateur est la source de quelques-unes des directives de conception de contenu les plus basiques concernant la structure des pages et des en-têtes. Les titres de « chargement frontal », qui est le fait de placer les mots les plus importants au début, profite de ce comportement connu. 
-([Modèle de lecture en forme de F sur le Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [Deux premiers mots : Un signal pour le balayage oculaire](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/))(en anglais seulement)
+([Modèle de lecture en forme de F sur le Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [Deux premiers mots : Un signal pour le balayage oculaire](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/)) (en anglais seulement)
 
 Lorsque vous transformez vos titres en questions, vous finissez par placer des mots inutiles dans la position la plus puissante pour le balayage oculaire. 
 
@@ -58,7 +58,7 @@ Nous avons travaillé en étroite collaboration avec les centres d’appels pour
 
 ### Les réponses ont réduit le volume d’appels et de courriels 
 
-Lorsque nous avons ajouté des réponses au haut des deux pages de contact pour les demandes de renseignements généraux, ces réponses ont commencé à être très utiles. Entre 5nbsp;% et 15&nbsp;% des visiteurs de la page ont ouvert et visionné chaque réponse. 
+Lorsque nous avons ajouté des réponses au haut des deux pages de contact pour les demandes de renseignements généraux, ces réponses ont commencé à être très utiles. Entre 5&nbsp;% et 15&nbsp;% des visiteurs de la page ont ouvert et visionné chaque réponse. 
 
 Sur la page Renseignements généraux par courriel, nous avons constaté une corrélation claire entre l’augmentation du nombre de clics sur des réponses et une diminution du nombre de soumissions par courriel pour ces questions ou réponses. Le pourcentage de visiteurs qui ont choisi d’envoyer un courriel a été réduit de moitié, passant d’un maximum de 46&nbsp;% à une moyenne de 20&nbsp;%.
 
