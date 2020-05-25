@@ -27,7 +27,7 @@ During Mental Health Week, we shortened the link text to just “Mental health s
 Our results show that it’s not enough to simply make the link text match the title of the destination page. 
 “Wellness Together Canada” was vague. People had to guess what they would find there, so they were less likely to try it. More descriptive text provided a much clearer scent of information, and led more people to important mental health resources in a time of crisis.
 
-## Why this is important
+## A crucial navigation tool
 
 Canada.ca is the source for Canadians to find the answers they need from the Government of Canada. Everyone needs clear paths to information, especially those using screen readers who often navigate from link to link. 
 
