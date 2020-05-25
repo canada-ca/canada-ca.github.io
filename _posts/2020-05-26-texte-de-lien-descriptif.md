@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Un exemple en faveur du texte de lien descriptif"
-pubdate: "25 Mai 2020"
-langpage: "https://blog.canada.ca/2020/05/25/descriptive-link-text.html"
-date:   2020-05-25
+pubdate: "26 Mai 2020"
+langpage: "https://blog.canada.ca/2020/05/26/descriptive-link-text.html"
+date:   2020-05-26
 published: true
 draft: true
 lang: fr
