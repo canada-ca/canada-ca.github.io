@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Éviter les FAQ, à une exception près"
-pubdate: "22 Mai 2020"
-langpage: "https://blog.canada.ca/2020/05/22/avoiding-faqs.html"
-date:   2020-05-22
+pubdate: "25 Mai 2020"
+langpage: "https://blog.canada.ca/2020/05/25/avoiding-faqs.html"
+date:   2020-05-25
 published: true
 draft: true
 lang: fr
