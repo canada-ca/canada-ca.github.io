@@ -1,9 +1,9 @@
 ﻿---
 layout: post
 title:  "A case for descriptive link text"
-pubdate: "May 25, 2020"
-langpage: "https://blogue.canada.ca/2020/05/20/eviter-les-faq.html"
-date:   2020-05-25
+pubdate: "May 26, 2020"
+langpage: "https://blogue.canada.ca/2020/05/26/eviter-les-faq.html"
+date:   2020-05-26
 published: true
 draft: true
 lang: en
