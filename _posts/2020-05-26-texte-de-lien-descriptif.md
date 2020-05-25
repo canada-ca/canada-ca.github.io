@@ -19,11 +19,11 @@ En avril 2020, pendant la crise de la COVID 19, le Bureau de la transformation n
 
 Le texte initial pour ces ressources était «&nbsp;Espace Mieux-être Canada ». Il s’agissait du nom du site vers lequel le lien pointait. Il est généralement considéré comme une pratique exemplaire que le texte du lien corresponde au titre de la page vers laquelle il pointe. Cependant, nous craignions que les «&nbsp;pistes d’information » ainsi fournies soient insuffisantes pour les utilisateurs.
 
-Donc, pendant six jours, nous avons surveillé le nombre de personnes qui ont cherché en cliquant pour trouver les ressources. Le taux de conversion pour le lien était de 0,10 %<sup id="fn1-rtn" class="fn-lnk">[[1]](#fn1)</sup> (1 792 clics sur 1 733 984 visites). 
+Donc, pendant six jours, nous avons surveillé le nombre de personnes qui ont cherché en cliquant pour trouver les ressources. Le taux de conversion pour le lien était de 0,10&nbsp;%<sup id="fn1-rtn" class="fn-lnk">[[1]](#fn1)</sup> (1 792 clics sur 1 733 984 visites). 
 
-Nous avons ensuite remplacé le texte du lien par «&nbsp;Soutien en matière de santé mentale et de consommation de substances ». Le taux de conversion est passé à 0,15 %<sup id="fn1-rtn" class="fn-lnk">[[1]](#fn1)</sup> (2 011 clics sur 1 302 793 visites). Cela représente un taux de conversion supérieur de 49,3 %. 
+Nous avons ensuite remplacé le texte du lien par «&nbsp;Soutien en matière de santé mentale et de consommation de substances ». Le taux de conversion est passé à 0,15&nbsp;%<sup id="fn1-rtn" class="fn-lnk">[[1]](#fn1)</sup> (2 011 clics sur 1 302 793 visites). Cela représente un taux de conversion supérieur de 49,3&nbsp;%. 
 
-Pendant la Semaine de la santé mentale, nous avons réduit le texte du lien à «&nbsp;Soutien en matière de santé mentale ». Ce changement a généré de meilleurs résultats encore, avec un taux de conversion de 0,23 %<sup id="fn1-rtn" class="fn-lnk">[[1]](#fn1)</sup>.
+Pendant la Semaine de la santé mentale, nous avons réduit le texte du lien à «&nbsp;Soutien en matière de santé mentale ». Ce changement a généré de meilleurs résultats encore, avec un taux de conversion de 0,23&nbsp;%<sup id="fn1-rtn" class="fn-lnk">[[1]](#fn1)</sup>.
 
 Nos résultats montrent qu’il ne suffit pas de simplement faire correspondre le texte du lien au titre de la page de destination. 
 «&nbsp;Espace Mieux-être Canada » était vague. Comme les gens devaient deviner ce qu’ils trouveraient en cliquant le lien, ils étaient moins susceptibles de l’essayer. Un texte plus descriptif a donné des pistes d’information beaucoup plus précises et a dirigé plus de gens vers d’importantes ressources en santé mentale en période de crise.
