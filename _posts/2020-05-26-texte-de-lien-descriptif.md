@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "Un exemple en faveur du texte de lien descriptif"
-description: "Pourquoi les FAQ sont un choix de conception de contenu inefficace la plupart du temps, et quand elles peuvent réellement fonctionner."
+description: "Un texte de lien clair peut aider des milliers de personnes supplémentaires à accéder rapidement et facilement au contenu de Canada.ca dont elles ont besoin."
 ---
 
 Des liens clairs peuvent aider des milliers de personnes à accéder rapidement et aisément au contenu de Canada.ca. Pour les personnes qui ignorent le nom des programmes, des applications et des outils auxquels le texte du lien descriptif renvoie, l’utilisation de ces derniers n’est pas toujours idéale.
