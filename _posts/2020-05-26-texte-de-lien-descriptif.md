@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Un exemple en faveur du texte de lien descriptif"
-pubdate: "26 Mai 2020"
+pubdate: "26 mai 2020"
 langpage: "https://blog.canada.ca/2020/05/26/descriptive-link-text.html"
 date:   2020-05-26
 published: true
@@ -28,7 +28,7 @@ Pendant la Semaine de la santé mentale, nous avons réduit le texte du lien à 
 Nos résultats montrent qu’il ne suffit pas de simplement faire correspondre le texte du lien au titre de la page de destination. 
 « Espace Mieux-être Canada » était vague. Comme les gens devaient deviner ce qu’ils trouveraient en cliquant le lien, ils étaient moins susceptibles de l’essayer. Un texte plus descriptif a donné des pistes d’information beaucoup plus précises et a dirigé plus de gens vers d’importantes ressources en santé mentale en période de crise.
 
-## Pourquoi est-ce important?
+## Un outil de navigation essentiel
 
 Canada.ca permet aux Canadiens de trouver les réponses à leurs questions auprès du gouvernement du Canada. Tout le monde a besoin d’un accès à l’information libre de tout obstacle, en particulier les personnes qui utilisent des lecteurs d’écran qui naviguent souvent d’un lien à l’autre. 
 
