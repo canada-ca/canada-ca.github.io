@@ -43,7 +43,7 @@ Consultez le Guide de rédaction du contenu du site de Canada.ca pour [apprendre
   <dt id="fn1-dt">Note de bas de page 1</dt>
   <dd id="fn1" tabindex="-1" aria-labelledby="fn1-dt">
     <p> * Confiance à 95 %, valeur p = 0,000</p>
-    <p class="fn-rtn"><a href="#fn1-rtn"><span class="wb-invisible">Return to footnote </span>1<span class="wb-invisible"> referrer</span></a></p>
+    <p class="fn-rtn"><a href="#fn1-rtn"><span class="wb-invisible">Retour à la note de bas de page </span>1<span class="wb-invisible"> referrer</span></a></p>
   </dd>
 </dl>
 </div>
