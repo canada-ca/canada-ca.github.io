@@ -15,7 +15,7 @@ COVID-19 forced the government to operate much faster than usual. New benefits w
 
 Across government, it was clear that we need to work together so that everyone who needs these new programs can find, understand, and use them. That includes people with physical or cognitive disabilities. 
 
-**Usability testing with assistive technology users
+## Usability testing with assistive technology users
 
 To support this work, the Digital Transformation Office (DTO) conducted dozens of usability tests. Usability testing can help find problems that might affect many people. They are a key part of our toolkit in improving digital services. 
 
@@ -58,12 +58,11 @@ We’re now working to make the necessary changes to further increase the effect
 Regardless of the audience we test with, the evidence comes back each time showing how basic design techniques make content work better for everyone. Our research with screen readers showed once again the importance of clear headings, links, and language in navigating Canada.ca. 
 
 Learn more about writing in plain language and how to create effective headings and link text in the Canada.ca Content Style guide:
-Plain language 
-Useful page titles and headings
-Links
+* [Plain language](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6) 
+* [Useful page titles and headings](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1)
+* [Links](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc11)
 
 Designing digital government services with accessibility in mind is key to ensuring that everyone can get the services they need quickly and easily. 
-
 
 ## Inspired by what you learned? Share this post with your team.
 Connect with the Digital Transformation Office at TBS:
