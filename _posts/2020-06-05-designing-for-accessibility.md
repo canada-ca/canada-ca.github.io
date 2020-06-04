@@ -38,6 +38,15 @@ https://design.canada.ca/patlaj/video/blog-post-video-en.html (Still uploading)
 
 Transcript:
 SEE BELOW
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details
 
 
 Overall, the testing showed that the new templates and patterns performed well for assistive technologies. Participants commented on how the clear link text, subway navigation pattern, larger fonts and simple design helped them understand the content.
