@@ -36,16 +36,59 @@ https://www.youtube.com/watch?v=C4Gf8TaoyaM&feature=youtu.be
 
 https://design.canada.ca/patlaj/video/blog-post-video-en.html (Still uploading)
 
-Transcript:
-SEE BELOW
+Transcript: Navigation strategies of assistive technology users
+
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Transcript: Navigation strategies of assistive technology users
+</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+ Title: Some assistive technology navigation strategies on Canada.ca - May 2020
+Sub-title: Participant ARCA-03 - JAWS user - Financial support from the Canada.ca homepage
+(A screen capture of the Canada.ca homepage. We zoom in to see a window open above the page with the title "Links List". A list of links appears in the window, each link being highlighted as the participant says out loud what they are.)
+Participant 1: Now I can't use "Skip to main content", I don't really quite know what's there first so we'll have to have a look and see.
+(Caption: Navigating by exploring the list of links on the page)
+Okay let's see, I see "Public pensions", "Get a passport"... Ah! Okay
+("Coronavirus (COVID-19)" is highlighted)
+Coronavirus - now there might be something there. You're talking about someone who's been laid off, so there might be something there. We'll come back to that in a minute.
+("Get the support you need" is highlighted.)
+So I'm going to start with "Get the support you need" and see if it has anything that looks like at least a good place to start. So I'll go there.
+Moderator: OK
+(Zooms out to show the page change to the Economic Response Plan.)
+Sub-title: Participant ARCA-02 - JAWS user - Financial support from the Economic Response Plan
+(Screen shot of a page entitled, "Canada's COVID-19 Economic Response Plan". A box moves down the page, highlighting different elements while a robotic voice (the screen reader) reads what's there.)
+Screen reader: Get the support you need. Canada's COVID-19 Economic Response Plan dash Canada.ca. Language selection, heading level -
+(The box highlights the page title, then continues down the page).
+Canada's COVID-19 Economic Response Plan - Heading level 1. The Government of Canada is taking immediate, significant, decisive action to support Canadians and businesses facing hardship as a result of the global COVID-19 outbreak.
+Caption: Navigating by page element
+Heading level 2 - On this page List with 3 items Bullet, same page link - Support for individuals. Bullet, same page link - Support for businesses. Bullet, same page link - Support for sectors. List end. Participant 2: I'm going to go to individuals, Support for individuals.
+It shouldn't be going too fast, I'm an actual slow JAWS reader, compared to some.
+(The selection box moves back up to the "Support for individuals" heading to the "Support for individuals" link)
+Screen reader: Heading level 2 - Support for individuals. Heading level 3 - Individuals and families. List with 5 items. Temporary wage top-up for low-income essential workers
+Participant 2: Low-income essential… he's not an essential worker is he? Didn't say in the instructions.
+Screen reader: (Unintelligible).
+(Selection moves down the other items in the list - Increasing the Canada Child Benefit, Special Goods and Services Tax credit payment, Extra time to file income tax returns, Mortgage payment deferral, then moves to a heading "People facing loss of income").
+Heading level 3 - People facing loss of income Participant 2: Ah!
+Screen reader: List with 1 item. Canada Emergency Response Benefit (CERB) - button collapsed. Heading level 3 - Indigenous peoples.
+(Selection moves from the "Indigenous peoples" ).
+Canada Emergency Response Benefit (CERB) - button expanded.
+Participant 2: It's a collapsed link so it actually expanded which is good - it worked. Because they don't always work.
+Screen reader: We will provide a taxable benefit of $2000 every 4 weeks...
+Sub-title: Participant ARCA-05 - Windows Magnifier user - When to re-apply for CERB.
+Participant 3: OK I just go to re-apply and see what the instructions say if I go from there.
+It's right underneath there anyway "If your situation continues you should apply for the...
+(Pointer moves around the screen, looking for more detail).
+So I'm not sure because it's not saying right here where I'd expect it to be when I should apply for May 10th. It's just saying that I should re-apply every 4 weeks. Unless I missed it I don't see it here.
+Caption: Uses the side menu to orient himself.
+(Pointer moves to the Section menu at the right of the screen).
+Yeah: "Who can apply," "How to apply…" Shows me that I'm actually on, "Keep getting my payments." So I feel like I'm in the right spot. Oh! There it is!
+(Pointer moves to below the "Determine when to apply" link).
+Sub-title: Participant ARCA-04 - NVDA user - Contact about CERB.
+(Screen capture of a page entitled "Applying for CERB with CRA: How to Apply". The page has a menu on the right labeled "Sections". A selection box moves around the elements on the page. Screen reader is audible throughout the video, but is unintelligible)
+Participant 4: Contact us about CERB - Hey! Let's try that!
+Screen reader: (Unintelligible)
+Participant 4: You've got to contact the department you applied with, that's good.
+1-800-959-8281. Oh, that's the normal CRA number.
+
 </details>
 
 
