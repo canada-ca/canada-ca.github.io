@@ -42,10 +42,12 @@ Transcript: Navigation strategies of assistive technology users
   <summary>Transcript: Navigation strategies of assistive technology users
 </summary>
   
- Title: Some assistive technology navigation strategies on Canada.ca - May 2020
-Sub-title: Participant ARCA-03 - JAWS user - Financial support from the Canada.ca homepage
+## Title: Some assistive technology navigation strategies on Canada.ca - May 2020
+### Sub-title: Participant ARCA-03 - JAWS user - Financial support from the Canada.ca homepage
+
 (A screen capture of the Canada.ca homepage. We zoom in to see a window open above the page with the title "Links List". A list of links appears in the window, each link being highlighted as the participant says out loud what they are.)
-Participant 1: Now I can't use "Skip to main content", I don't really quite know what's there first so we'll have to have a look and see.
+
+<b>Participant 1:</b> Now I can't use "Skip to main content", I don't really quite know what's there first so we'll have to have a look and see.
 (Caption: Navigating by exploring the list of links on the page)
 Okay let's see, I see "Public pensions", "Get a passport"... Ah! Okay
 ("Coronavirus (COVID-19)" is highlighted)
@@ -86,7 +88,7 @@ Sub-title: Participant ARCA-04 - NVDA user - Contact about CERB.
 (Screen capture of a page entitled "Applying for CERB with CRA: How to Apply". The page has a menu on the right labeled "Sections". A selection box moves around the elements on the page. Screen reader is audible throughout the video, but is unintelligible)
 Participant 4: Contact us about CERB - Hey! Let's try that!
 Screen reader: (Unintelligible)
-Participant 4: You've got to contact the department you applied with, that's good.
+ Participant 4: You've got to contact the department you applied with, that's good.
 1-800-959-8281. Oh, that's the normal CRA number.
 
 </details>
