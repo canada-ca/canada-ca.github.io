@@ -15,7 +15,7 @@ COVID-19 forced the government to operate much faster than usual. New benefits w
 
 Across government, it was clear that we need to work together so that everyone who needs these new programs can find, understand, and use them. That includes people with physical or cognitive disabilities. 
 
-Usability testing with assistive technology users
+**Usability testing with assistive technology users
 
 To support this work, the Digital Transformation Office (DTO) conducted dozens of usability tests. Usability testing can help find problems that might affect many people. They are a key part of our toolkit in improving digital services. 
 
