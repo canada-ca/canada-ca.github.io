@@ -75,7 +75,7 @@ Connect with the Digital Transformation Office at TBS:
 * [Making your service accessible: an introduction (Gov.uk)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 * [Do’s and don’ts of designing for accessibility (Gov.uk)](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
 * [Accessible Canada Act](https://www.parl.ca/DocumentViewer/en/42-1/bill/C-81/royal-assent)
-* [Canada.ca Content and Information Architecture Specification](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html
+* [Canada.ca Content and Information Architecture Specification](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html)
 * [Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601)
 * [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
 * [Understanding WCAG Success Criterion 2.4.4: Link Purpose](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html)
