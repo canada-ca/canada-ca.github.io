@@ -66,9 +66,9 @@ Designing digital government services with accessibility in mind is key to ensur
 
 ## Inspired by what you learned? Share this post with your team.
 Connect with the Digital Transformation Office at TBS:
-* Email: dto.btn@tbs-sct.gc.ca
+* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter: #Canadadotca
-* Slack: http://design-GC-conception.slack.com
+* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 ## Learn More
 
