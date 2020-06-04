@@ -46,7 +46,7 @@ SEE BELOW
   2. list
      * With some
      * Sub bullets
-</details
+</details>
 
 
 Overall, the testing showed that the new templates and patterns performed well for assistive technologies. Participants commented on how the clear link text, subway navigation pattern, larger fonts and simple design helped them understand the content.
