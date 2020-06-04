@@ -21,11 +21,11 @@ To support this work, the Digital Transformation Office (DTO) conducted dozens o
 
 One of the studies the DTO ran assessed the accessibility of some new Canada.ca designs that are being used for certain key COVID-19 pages and programs. The study focused on people who use screen readers or magnifiers to navigate the web.  We wanted to make sure people could use these technologies to get to and understand specific content. In this study, we focused on the following pages, as they used the design patterns we wanted to test:
 
-* Canada.ca home page
-* Coronavirus disease (COVID-19) 
-* Canada Emergency Response Benefit 
-* Canada Emergency Student Benefit 
-* Canada’s Economic Response Plan
+* [Canada.ca home page](https://www.canada.ca/en.html)
+* [Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_coronavirus) 
+* [Canada Emergency Response Benefit](https://www.canada.ca/en/services/benefits/ei/cerb-application.html) 
+* [Canada Emergency Student Benefit](https://www.canada.ca/en/services/benefits/ei/cerb-application.html) 
+* [Canada’s Economic Response Plan](https://www.canada.ca/en/department-finance/economic-response-plan.html#individuals)
 
 Just like testing on both mobile devices and desktop, it’s important to know how people using assistive technology use a website. Screen readers convert a web page to spoken text or braille. A screen magnifier lets you zoom in close to text to make it easier to read. Both technologies require different ways of navigating websites from what many content designers and authors are familiar with.
  
