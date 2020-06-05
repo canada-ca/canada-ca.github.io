@@ -252,19 +252,15 @@ We’re now working to make the necessary changes to further increase the effect
 Regardless of the audience we test with, the evidence comes back each time showing how basic design techniques make content work better for everyone. Our research with screen readers showed once again the importance of clear headings, links, and language in navigating Canada.ca. 
 
 Learn more about writing in plain language and how to create effective headings and link text in the Canada.ca Content Style guide:
-* [Plain language](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6) 
+* [Use plain language](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6) 
 * [Write useful page titles and headings](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1)
-* [Links](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc11)
+* [Create effective links](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc11)
 
 Designing digital government services with accessibility in mind is key to ensuring that everyone can get the services they need quickly and easily. 
 
-## Connect with the Digital Transformation Office at TBS:
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
+## Learn more
 
-## Learn More
-
+* [A case for descriptive link text](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)
 * [Making your service accessible: an introduction (Gov.uk)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 * [Do’s and don’ts of designing for accessibility (Gov.uk)](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
 * [Accessible Canada Act](https://laws-lois.justice.gc.ca/eng/acts/A-0.6/)
@@ -272,3 +268,8 @@ Designing digital government services with accessibility in mind is key to ensur
 * [Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601)
 * [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
 * [Understanding WCAG Success Criterion 2.4.4: Link Purpose](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html)
+
+## Connect with the Digital Transformation Office at TBS:
+* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Twitter: #Canadadotca (English) / #Canadapointca (French)
+* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
