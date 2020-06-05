@@ -38,9 +38,10 @@ https://design.canada.ca/patlaj/video/blog-post-video-en.html (Still uploading)
 
 <details>
   <summary>Transcript: Navigation strategies of assistive technology users</summary>
-  
-## Title: Some assistive technology navigation strategies on Canada.ca - May 2020
-### Sub-title: Participant ARCA-03 - JAWS user - Financial support from the Canada.ca homepage
+ 
+<p><strong> Title: Some assistive technology navigation strategies on Canada.ca - May 2020 </strong></p>
+
+<p><strong> Sub-title: Participant ARCA-03 - JAWS user - Financial support from the Canada.ca homepage </strong></p>
 
 (A screen capture of the Canada.ca homepage. We zoom in to see a window open above the page with the title "Links List". A list of links appears in the window, each link being highlighted as the participant says out loud what they are.)
 
