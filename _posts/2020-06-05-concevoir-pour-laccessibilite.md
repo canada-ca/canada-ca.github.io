@@ -27,6 +27,16 @@ L’une des études menées par le BTN portait sur l’accessibilité de certain
 *	[Prestation canadienne d’urgence pour les étudiants (PCUE)](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-urgence-etudiants.html) 
 *	[Plan d’intervention économique du Canada pour répondre à la COVID-19](https://www.canada.ca/fr/ministere-finances/plan-intervention-economique.html#individuals)
 
+Tout comme pour les essais sur les appareils mobiles et les ordinateurs de bureau, il importe de savoir comment les utilisateurs de la technologie d’assistance se comportent sur un site Web. Les lecteurs d’écran convertissent une page Web en texte parlé ou en braille. Une loupe d’écran vous permet de grossir le texte pour en faciliter la lecture. Les deux technologies font appel à des modes de navigation différents que de nombreux concepteurs et auteurs de contenu Web connaissent bien.
+
+Regardez certains participants naviguer sur Canada.ca à l’aide de la technologie d’assistance :
+
+( video)
+
+Transcription :
+
+Les essais ont montré que, dans l’ensemble, les nouveaux gabarits et modèles de technologies d’assistance ont donné de bons résultats. Les participants ont laissé des commentaires affirmant que leur compréhension du contenu a été facilitée par le texte de lien clair, le modèle de navigation dans le métro, les polices de plus grande taille et la simplicité de conception.
+
 
 
 
