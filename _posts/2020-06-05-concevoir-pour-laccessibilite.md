@@ -59,9 +59,7 @@ Pour en savoir davantage sur la rédaction en langage clair et simple et sur la 
 
 Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l’accessibilité pour assurer à chacun la possibilité d’obtenir rapidement et facilement les services dont il a besoin. 
 
-## Ce que vous avez appris vous inspire? Partagez ce billet avec votre équipe.
-
-Communiquez avec le Bureau de la transformation numérique du SCT :
+## Communiquez avec le Bureau de la transformation numérique du SCT :
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
 * Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
