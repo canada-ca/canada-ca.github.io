@@ -37,6 +37,44 @@ Transcription :
 
 Les essais ont montré que, dans l’ensemble, les nouveaux gabarits et modèles de technologies d’assistance ont donné de bons résultats. Les participants ont laissé des commentaires affirmant que leur compréhension du contenu a été facilitée par le texte de lien clair, le modèle de navigation dans le métro, les polices de plus grande taille et la simplicité de conception.
 
+Nous avons constaté qu’il faut améliorer certains aspects. Par exemple :
+*	sur certaines pages se trouvaient des liens répétés en double, ce qui peut être déroutant si vous naviguez en écoutant une liste de liens sur la page;
+*	sur une page se trouvait un bouton qui ne semblait avoir aucun effet lorsqu’on cliquait dessus, parce que rien n’indiquait que la page avait changé; 
+*	les descriptions verbales sur la façon d’utiliser les commandes du menu étaient trop longues.
+
+Voici certaines des réactions que nous avons entendues :
+
+(insérer)
+
+Nous nous efforçons maintenant d’apporter les changements nécessaires pour accroître l’efficacité de ces conceptions. À l’avenir, nous continuerons d’augmenter le nombre de tests auprès des personnes qui ont différents types d’incapacités. 
+
+## Un contenu bien conçu est utile à tous
+
+Quel que soit le public avec lequel nous réalisons des tests, les données probantes recueillies chaque fois nous montrent comment les techniques de conception de base améliorent le fonctionnement du contenu pour tout le monde. Notre recherche avec des lecteurs d’écran a permis de confirmer une fois de plus l’importance de la clarté des titres, des liens et du langage pour faciliter la navigation sur Canada.ca. 
+
+Pour en savoir davantage sur la rédaction en langage clair et simple et sur la façon de créer des titres efficaces et des liens vers le texte, consultez le Guide de rédaction du contenu de Canada.ca :
+*	[Langage clair et simple](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc6) 
+*	[Rédiger des titres et sous-titres de page descriptifs](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-1)
+*	[Liens](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc11)
+
+Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l’accessibilité pour assurer à chacun la possibilité d’obtenir rapidement et facilement les services dont il a besoin. 
+
+## Ce que vous avez appris vous inspire? Partagez ce billet avec votre équipe.
+
+Communiquez avec le Bureau de la transformation numérique du SCT :
+•	Courriel : dto.btn@tbs-sct.gc.ca
+•	Twitter : #Canadapointca
+•	Slack : http://design-GC-conception.slack.com
+
+## Pour en savoir davantage
+
+*	Rendre votre service accessible : une introduction (Gov.uk) (en anglais seulement)
+*	Choses à faire et à ne pas faire en matière d’accessibilité (Gov.uk) (en anglais seulement)
+*	Loi canadienne sur l’accessibilité
+*	Spécifications du contenu et de l’architecture de l’information pour Canada.ca
+*	Norme sur l’accessibilité des sites Web
+*	Aperçu des Règles d’accessibilité pour les contenus Web (WCAG) 2.1 (en anglais seulement)
+
 
 
 
