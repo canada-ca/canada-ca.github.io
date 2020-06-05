@@ -62,9 +62,9 @@ Il est essentiel de concevoir des services gouvernementaux numériques qui tienn
 ## Ce que vous avez appris vous inspire? Partagez ce billet avec votre équipe.
 
 Communiquez avec le Bureau de la transformation numérique du SCT :
-•	Courriel : dto.btn@tbs-sct.gc.ca
-•	Twitter : #Canadapointca
-•	Slack : http://design-GC-conception.slack.com
+* Courriel : dto.btn@tbs-sct.gc.ca
+* Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
+* Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 ## Pour en savoir davantage
 
