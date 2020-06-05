@@ -110,7 +110,7 @@ Regardless of the audience we test with, the evidence comes back each time showi
 
 Learn more about writing in plain language and how to create effective headings and link text in the Canada.ca Content Style guide:
 * [Plain language](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6) 
-* [Useful page titles and headings](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1)
+* [Write useful page titles and headings](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1)
 * [Links](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc11)
 
 Designing digital government services with accessibility in mind is key to ensuring that everyone can get the services they need quickly and easily. 
