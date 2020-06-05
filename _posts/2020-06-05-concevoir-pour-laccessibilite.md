@@ -70,8 +70,8 @@ Communiquez avec le Bureau de la transformation numérique du SCT :
 
 *	[Rendre votre service accessible : une introduction (Gov.uk)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)(en anglais seulement)
 *	[Choses à faire et à ne pas faire en matière d’accessibilité (Gov.uk)](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)(en anglais seulement)
-*	Loi canadienne sur l’accessibilité
-*	Spécifications du contenu et de l’architecture de l’information pour Canada.ca
-*	Norme sur l’accessibilité des sites Web
-*	Aperçu des Règles d’accessibilité pour les contenus Web (WCAG) 2.1 (en anglais seulement)
-*	Comprendre le critère de réussite du WCAG 2.4.4 : Objectif du lien (en anglais seulement)
+*	[Loi canadienne sur l’accessibilité](https://www.parl.ca/DocumentViewer/fr/42-1/projet-loi/C-81/sanction-royal)
+*	[Spécifications du contenu et de l’architecture de l’information pour Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html)
+*	[Norme sur l’accessibilité des sites Web](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601)
+*	[Aperçu des Règles d’accessibilité pour les contenus Web (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)(en anglais seulement)
+*	[Comprendre le critère de réussite du WCAG 2.4.4 : Objectif du lien](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html)(en anglais seulement)
