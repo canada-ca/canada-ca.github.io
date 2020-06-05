@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "Designing for accessibility during COVID-19"
-description: "Making it easier and faster to design effective content within a coherent digital experience."
+description: "Designing digital government services with accessibility in mind is key to ensuring that everyone can get the services they need quickly and easily."
 ---
 
 COVID-19 forced the government to operate much faster than usual. New benefits were designed and developed in record time, to support people during the pandemic. 
@@ -117,7 +117,7 @@ Designing digital government services with accessibility in mind is key to ensur
 
 ## Connect with the Digital Transformation Office at TBS:
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca
+* Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 ## Learn More
