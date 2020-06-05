@@ -251,9 +251,9 @@ Nous nous efforçons maintenant d’apporter les changements nécessaires pour a
 Quel que soit le public avec lequel nous réalisons des tests, les données probantes recueillies chaque fois nous montrent comment les techniques de conception de base améliorent le fonctionnement du contenu pour tout le monde. Notre recherche avec des lecteurs d’écran a permis de confirmer une fois de plus l’importance de la clarté des titres, des liens et du langage pour faciliter la navigation sur Canada.ca. 
 
 Pour en savoir davantage sur la rédaction en langage clair et simple et sur la façon de créer des titres efficaces et des liens vers le texte, consultez le Guide de rédaction du contenu de Canada.ca :
-*	[Langage clair et simple](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc6) 
+*	[Utiliser un langage clair et simple](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc6) 
 *	[Rédiger des titres et sous-titres de page descriptifs](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-1)
-*	[Liens](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc11)
+*	[Créer des liens efficaces](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc11)
 
 Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l’accessibilité pour assurer à chacun la possibilité d’obtenir rapidement et facilement les services dont il a besoin. 
 
