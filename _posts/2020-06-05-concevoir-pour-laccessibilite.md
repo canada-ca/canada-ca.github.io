@@ -33,8 +33,8 @@ Regardez certains participants naviguer sur Canada.ca à l’aide de la technolo
 
 {::nomarkdown}
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="Pick some representative image" title="Stratégies de navigation des utilisateurs de technologies d’assistance">
-		<source type="video/mp4" src="assistive-tech-nav-1080x600-fr.mp4" />
+	<video poster="../images/assistive-tecth/poster.jpg" title="Stratégies de navigation des utilisateurs de technologies d’assistance">
+		<source type="video/mp4" src="../images/assistive-tecth/assistive-tech-nav-1080x600-fr.mp4" />
 		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="fr" label="French" />
 	</video>
 

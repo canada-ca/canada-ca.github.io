@@ -34,8 +34,8 @@ Watch some participants navigate Canada.ca using assistive technology:
 {::nomarkdown}
 
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="Pick some representative image" title="Assistive technology navigation strategies">
-		<source type="video/mp4" src="assistive-tech-nav-1080x600-en.mp4" />
+	<video poster="../images/assistive-tecth/poster.jpg" title="Assistive technology navigation strategies">
+		<source type="video/mp4" src="../images/assistive-tech/assistive-tech-nav-1080x600-en.mp4" />
 		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
 	</video>
 
