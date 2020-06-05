@@ -2,7 +2,7 @@
 layout: post
 title:  "Designing for accessibility during COVID-19"
 pubdate: "June 5, 2020"
-langpage: "https://blogue.canada.ca/2020/06/05/nouveau-systeme-de-conception.html"
+langpage: "https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html"
 date:   2020-06-05
 published: true
 draft: true
