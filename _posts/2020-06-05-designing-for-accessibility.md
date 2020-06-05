@@ -245,10 +245,6 @@ We did find some areas that need improvement. For example:
 * one page had a button that didn’t appear to have any effect when clicked, because there was no cue that the page had changed 
 * verbal descriptions on how to use menu controls were too wordy
 
-Some of the things we heard:
-
-
-
 We’re now working to make the necessary changes to further increase the effectiveness of these designs. Moving forward, we will continue to do more testing with people who have different types of disabilities. 
 
 ## Well designed content helps everyone
