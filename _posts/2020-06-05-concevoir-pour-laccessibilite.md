@@ -68,13 +68,10 @@ Communiquez avec le Bureau de la transformation numérique du SCT :
 
 ## Pour en savoir davantage
 
-*	Rendre votre service accessible : une introduction (Gov.uk) (en anglais seulement)
-*	Choses à faire et à ne pas faire en matière d’accessibilité (Gov.uk) (en anglais seulement)
+*	[Rendre votre service accessible : une introduction (Gov.uk)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)(en anglais seulement)
+*	[Choses à faire et à ne pas faire en matière d’accessibilité (Gov.uk)](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)(en anglais seulement)
 *	Loi canadienne sur l’accessibilité
 *	Spécifications du contenu et de l’architecture de l’information pour Canada.ca
 *	Norme sur l’accessibilité des sites Web
 *	Aperçu des Règles d’accessibilité pour les contenus Web (WCAG) 2.1 (en anglais seulement)
-
-
-
-
+*	Comprendre le critère de réussite du WCAG 2.4.4 : Objectif du lien (en anglais seulement)
