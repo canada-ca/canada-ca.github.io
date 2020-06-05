@@ -257,13 +257,10 @@ Pour en savoir davantage sur la rédaction en langage clair et simple et sur la 
 
 Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l’accessibilité pour assurer à chacun la possibilité d’obtenir rapidement et facilement les services dont il a besoin. 
 
-## Communiquez avec le Bureau de la transformation numérique du SCT :
-* Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
-* Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 ## Pour en savoir davantage
 
+*       [Un exemple en faveur du texte de lien descriptif](https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html)
 *	[Rendre votre service accessible : une introduction (Gov.uk)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) (en anglais seulement)
 *	[Choses à faire et à ne pas faire en matière d’accessibilité (Gov.uk)](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) (en anglais seulement)
 *	[Loi canadienne sur l’accessibilité](https://laws-lois.justice.gc.ca/fra/lois/A-0.6/)
@@ -271,3 +268,8 @@ Il est essentiel de concevoir des services gouvernementaux numériques qui tienn
 *	[Norme sur l’accessibilité des sites Web](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601)
 *	[Aperçu des Règles d’accessibilité pour les contenus Web (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) (en anglais seulement)
 *	[Comprendre le critère de réussite du WCAG 2.4.4 : Objectif du lien](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html) (en anglais seulement)
+
+## Communiquez avec le Bureau de la transformation numérique du SCT :
+* Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
+* Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
