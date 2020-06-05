@@ -244,10 +244,6 @@ Nous avons constaté qu’il faut améliorer certains aspects. Par exemple :
 *	sur une page se trouvait un bouton qui ne semblait avoir aucun effet lorsqu’on cliquait dessus, parce que rien n’indiquait que la page avait changé; 
 *	les descriptions verbales sur la façon d’utiliser les commandes du menu étaient trop longues.
 
-Voici certaines des réactions que nous avons entendues :
-
-(insérer)
-
 Nous nous efforçons maintenant d’apporter les changements nécessaires pour accroître l’efficacité de ces conceptions. À l’avenir, nous continuerons d’augmenter le nombre de tests auprès des personnes qui ont différents types d’incapacités. 
 
 ## Un contenu bien conçu est utile à tous
