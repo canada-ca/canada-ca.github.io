@@ -39,15 +39,14 @@ https://design.canada.ca/patlaj/video/blog-post-video-en.html (Still uploading)
 Transcript: Navigation strategies of assistive technology users
 
 <details>
-  <summary>Transcript: Navigation strategies of assistive technology users
-</summary>
+  <summary>Transcript: Navigation strategies of assistive technology users</summary>
   
 ## Title: Some assistive technology navigation strategies on Canada.ca - May 2020
 ### Sub-title: Participant ARCA-03 - JAWS user - Financial support from the Canada.ca homepage
 
 (A screen capture of the Canada.ca homepage. We zoom in to see a window open above the page with the title "Links List". A list of links appears in the window, each link being highlighted as the participant says out loud what they are.)
 
-<b>Participant 1:</b> Now I can't use "Skip to main content", I don't really quite know what's there first so we'll have to have a look and see.
+<p><b>Participant 1:</b> Now I can't use "Skip to main content", I don't really quite know what's there first so we'll have to have a look and see.</p>
 (Caption: Navigating by exploring the list of links on the page)
 Okay let's see, I see "Public pensions", "Get a passport"... Ah! Okay
 ("Coronavirus (COVID-19)" is highlighted)
