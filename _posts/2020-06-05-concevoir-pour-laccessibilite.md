@@ -31,7 +31,7 @@ Tout comme pour les tests sur les appareils mobiles et les ordinateurs de bureau
 
 Regardez certains participants naviguer sur Canada.ca à l’aide de la technologie d’assistance :
 
-( video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C4Gf8TaoyaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Transcription :
 
