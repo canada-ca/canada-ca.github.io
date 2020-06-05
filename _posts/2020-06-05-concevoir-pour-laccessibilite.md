@@ -25,7 +25,7 @@ L’une des études menées par le BTN portait sur l’accessibilité de certain
 *	[Maladie à coronavirus (COVID-19)](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html) 
 *	[Prestation canadienne d’intervention d’urgence](https://www.canada.ca/fr/services/prestations/ae/pcusc-application.html) 
 *	[Prestation canadienne d’urgence pour les étudiants (PCUE)](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-urgence-etudiants.html) 
-*	[Plan d’intervention économique du Canada pour répondre à la COVID-19](https://www.canada.ca/fr/ministere-finances/plan-intervention-economique.html#individuals)
+*	[Plan d’intervention économique du Canada pour répondre à la COVID-19](https://www.canada.ca/fr/ministere-finances/plan-intervention-economique.html)
 
 Tout comme pour les essais sur les appareils mobiles et les ordinateurs de bureau, il importe de savoir comment les utilisateurs de la technologie d’assistance se comportent sur un site Web. Les lecteurs d’écran convertissent une page Web en texte parlé ou en braille. Une loupe d’écran vous permet de grossir le texte pour en faciliter la lecture. Les deux technologies font appel à des modes de navigation différents que de nombreux concepteurs et auteurs de contenu Web connaissent bien.
 
