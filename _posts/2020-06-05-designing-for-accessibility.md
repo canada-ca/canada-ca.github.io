@@ -24,7 +24,7 @@ One of the studies the DTO ran assessed the accessibility of some new Canada.ca 
 * [Canada.ca home page](https://www.canada.ca/en.html)
 * [Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_coronavirus) 
 * [Canada Emergency Response Benefit](https://www.canada.ca/en/services/benefits/ei/cerb-application.html) 
-* [Canada Emergency Student Benefit](https://www.canada.ca/en/services/benefits/ei/cerb-application.html) 
+* [Canada Emergency Student Benefit](https://www.canada.ca/en/revenue-agency/services/benefits/emergency-student-benefit.html) 
 * [Canada’s Economic Response Plan](https://www.canada.ca/en/department-finance/economic-response-plan.html)
 
 Just like testing on both mobile devices and desktop, it’s important to know how people using assistive technology use a website. Screen readers convert a web page to spoken text or braille. A screen magnifier lets you zoom in close to text to make it easier to read. Both technologies require different ways of navigating websites from what many content designers and authors are familiar with.
