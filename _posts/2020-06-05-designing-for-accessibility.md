@@ -31,8 +31,8 @@ Just like testing on both mobile devices and desktop, it’s important to know h
  
 Watch some participants navigate Canada.ca using assistive technology:
 
-(Insert video: 4m33s) - 
-https://www.youtube.com/watch?v=C4Gf8TaoyaM&feature=youtu.be
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C4Gf8TaoyaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 https://design.canada.ca/patlaj/video/blog-post-video-en.html (Still uploading)
 
@@ -44,7 +44,7 @@ https://design.canada.ca/patlaj/video/blog-post-video-en.html (Still uploading)
 <p><strong> Sub-title:</strong> Participant ARCA-03 - JAWS user - Financial support from the Canada.ca homepage </p>
 
 <p>(A screen capture of the Canada.ca homepage. We zoom in to see a window open above the page with the title "Links List". A list of links appears in the window, each link being highlighted as the participant says out loud what they are.)</p>
-&nbsp;
+
 <p><b>Participant 1:</b> Now I can't use "Skip to main content", I don't really quite know what's there first so we'll have to have a look and see.</p>
 <p>(<strong>Caption:</strong> Navigating by exploring the list of links on the page)</p>
 <p>Okay let's see, I see "Public pensions", "Get a passport"... Ah! Okay</p>
