@@ -236,7 +236,7 @@ Watch some participants navigate Canada.ca using assistive technology:
 
 {:/nomarkdown}
 
-
+<br/>
 
 Overall, the testing showed that the new templates and patterns performed well for assistive technologies. Participants commented on how the clear link text, subway navigation pattern, larger fonts and simple design helped them understand the content.
 
