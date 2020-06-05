@@ -237,6 +237,7 @@ Regardez certains participants naviguer sur Canada.ca à l’aide de la technolo
 
 
 {:/nomarkdown}
+<br/>
 Les tests ont montré que, dans l’ensemble, les nouveaux gabarits et modèles ont donné de bons résultats pour les technologies d’assistance. Les participants ont laissé des commentaires affirmant que leur compréhension du contenu a été facilitée par le texte de lien clair, le modèle de navigation dans le métro, les polices de plus grande taille et la simplicité de conception.
 
 Nous avons constaté qu’il faut améliorer certains aspects. Par exemple :
