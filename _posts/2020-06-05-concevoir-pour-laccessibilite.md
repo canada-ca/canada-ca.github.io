@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "Conception axée sur l’accessibilité pendant la pandémie de la COVID-19"
-description: "Faciliter et accélérer la conception de contenu efficace dans le cadre d'une expérience numérique cohérente."
+description: "Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l’accessibilité pour assurer à chacun la possibilité d’obtenir rapidement et facilement les services dont il a besoin."
 ---
 
 La pandémie de la COVID-19 a forcé le gouvernement à agir beaucoup plus rapidement que d’habitude. Pour soutenir les gens durant la pandémie, de nouveaux avantages ont été conçus et mis au point en un temps record. 
