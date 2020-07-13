@@ -2,7 +2,7 @@
 layout: post
 title:  "Alert fatigue during COVID-19"
 pubdate: "July 15, 2020"
-langpage: "https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html"
+langpage: "https://blogue.canada.ca/2020/07/15/fatigue-d'alerte.html"
 date:   2020-07-15
 published: true
 draft: true
