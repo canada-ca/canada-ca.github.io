@@ -60,10 +60,10 @@ You may need to update the messaging or the alert type if the situation changes.
 ## Final word
 
 There are 4 things you can do to make sure your alerts have the highest impact:
-* Keep them short and simple
-* Choose the right type
-* Limit the number
-* Remove them once they’ve served their purpose
+1. Keep them short and simple
+2. Choose the right type
+3. Limit the number
+4. Remove them once they’ve served their purpose
 
 The bottom line - have a plan. The more you put into managing your alerts, the more effective they’ll be at communicating your message. 
 
