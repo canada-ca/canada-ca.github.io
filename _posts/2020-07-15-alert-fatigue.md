@@ -17,7 +17,7 @@ As the pandemic situation stretches on, there is an increasing awareness of “a
 
 Alerts are notices meant to draw attention to changes in regular content. For example: service disruptions, new policies or service changes. But what’s new and different today, is no longer new and different weeks or months down the road. Once the issue is resolved or enough time has passed to advise people, remove the alert promptly. 
 
-Example of an alert on a contact page
+## Example of an alert on a contact page
 
 (insert image)
 
