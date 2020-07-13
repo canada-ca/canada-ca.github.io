@@ -59,7 +59,7 @@ The bottom line - have a plan. The more you put into managing your alerts, the m
 * [Canada.ca alerts and service disruptions](https://design.canada.ca/crisis/alerts.html)
 * [Contextual alerts - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/contextual-alerts.html)
 
-## Connect with the Digital Transformation Office at TBS:
+## Connect with the Digital Transformation Office at Treasury Board Secretariat:
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
