@@ -33,7 +33,19 @@ Long alerts that include too much information can be distracting and annoying. T
 
 The type of alert to use depends on the reason it’s needed and the message it conveys. Using an alert style that conveys danger or urgency when it’s not needed undermines the trustworthiness of your message.
 
-Which alert to use (add in code)
+<section>
+            <h3>Which alert to use</h3>
+            <dl class="dl-horizontal">
+                <dt>Danger alert (red)</dt>
+                <dd>Use only if the service is cancelled or if there's a risk to health or safety to Canadians in completing an activity.</dd>
+                <dt>Warning alert (yellow)</dt>
+                <dd>Use for delays, closures at certain locations, and other types of service disruptions.</dd>
+                <dt>Info alert (blue)</dt>
+                <dd>Use for the length of time an application method takes, changes in wait times on a phone line, messages that there is no service disruption for a particular service if that is generating inquiries.</dd>
+                <dt>Success alert (green)</dt>
+                <dd>Use when a service disruption is resolved.</dd>
+            </dl>
+        </section>
 
 ## Too many alerts create confusion
 
