@@ -21,7 +21,7 @@ Alerts are notices meant to draw attention to changes in regular content. For ex
 
 <figure>
 <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
- src="/images/Alerts.jpg" width="500">
+ src="/images/Alerts.JPG" width="500">
 </figure>
 
 ## Keep alerts short and simple
