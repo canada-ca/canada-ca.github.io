@@ -18,10 +18,14 @@ Les alertes sont des avis destinés à attirer l’attention sur des changements
 
 ### Exemple d’alerte sur une page de contact
 
-<figure>
-<img class="img-responsive border" alt=" La disponibilité des services est limitée. En raison de l'épidémie de coronavirus (COVID-19), il se peut que vous deviez attendre plus longtemps que la normale sur nos lignes téléphoniques. Les lignes téléphoniques automatisées sont disponibles. Si possible, utilisez les options de libre-service. Vérifiez les mises à jour de l'état des services."
- src="/images/Alertes.JPG">
-</figure>
+<section class="alert alert-warning">
+  <h3>Disponibilité limitée du service
+  </h3>
+  <p>En raison de l'épidémie de coronavirus (COVID-19), certains de nos bureaux pourraient être fermés et il pourrait y avoir des temps d'attente plus longs que la normale sur nos lignes téléphoniques. Si possible, utilisez les options de libre-service en ligne.
+  </p>
+  <p><a href="#">Consulter les mises à jour de l'état du service</a>
+  </p>
+</section>
 
 ## Les alertes doivent être courtes et simples
 
