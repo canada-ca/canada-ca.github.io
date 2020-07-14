@@ -19,7 +19,7 @@ Les alertes sont des avis destinés à attirer l’attention sur des changements
 ### Exemple d’alerte sur une page de contact
 
 <figure>
-<img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
+<img class="img-responsive border" alt=" La disponibilité des services est limitée. En raison de l'épidémie de coronavirus (COVID-19), il se peut que vous deviez attendre plus longtemps que la normale sur nos lignes téléphoniques. Les lignes téléphoniques automatisées sont disponibles. Si possible, utilisez les options de libre-service. Vérifiez les mises à jour de l'état des services."
  src="/images/Alertes.JPG">
 </figure>
 
