@@ -20,7 +20,7 @@ Les alertes sont des avis destinés à attirer l’attention sur des changements
 
 <figure>
 <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
- src="/images/Alertes.JPG" width="500">
+ src="/images/Alertes.JPG">
 </figure>
 
 ## Les alertes doivent être courtes et simples
