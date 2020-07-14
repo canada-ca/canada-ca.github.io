@@ -21,7 +21,7 @@ Alerts are notices meant to draw attention to changes in regular content. For ex
 
 <figure>
 <img class="img-responsive border" alt="Limited service availability. Due to the coronavirus (COVID-19) outbreak, you may experience longer than normal wait times on our phone lines. The automated phone lines are available. If possible, use the self-service options. Check services status updates."
- src="/images/Alerts.JPG" width="500">
+ src="/images/Alerts.JPG">
 </figure>
 
 ## Keep alerts short and simple
