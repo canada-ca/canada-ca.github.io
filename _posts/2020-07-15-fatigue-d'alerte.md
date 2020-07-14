@@ -11,6 +11,11 @@ alt: "La « fatigue d'alerte » pendant la COVID-19"
 description: " "
 ---
 
+<figure>
+<img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
+ src="/images/Alertes.JPG" width="500">
+</figure>
+
 <section>
 		<h3>Quelle alerte utiliser</h3>
 		<dl class="dl-horizontal">
