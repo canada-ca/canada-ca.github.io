@@ -19,10 +19,14 @@ Alerts are notices meant to draw attention to changes in regular content. For ex
 
 ### Example of an alert on a contact page
 
-<figure>
-<img class="img-responsive border" alt="Limited service availability. Due to the coronavirus (COVID-19) outbreak, you may experience longer than normal wait times on our phone lines. The automated phone lines are available. If possible, use the self-service options. Check services status updates."
- src="/images/Alerts.JPG">
-</figure>
+<section class="alert alert-warning">
+  <h3>Limited service availability
+  </h3>
+  <p>Due to the coronavirus (COVID-19) outbreak, you may experience longer than normal wait times on our phone lines. The automated phone lines are available. If possible, use the online self-service options.
+  </p>
+  <p><a href="#">Check service status updates </a>
+  </p>
+</section>
 
 ## Keep alerts short and simple
 
