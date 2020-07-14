@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "La « fatigue d'alerte » pendant la COVID-19"
-description: " "
+description: "Plus vous gérez bien vos alertes, plus elles pourront faire passer votre message avec efficacité."
 ---
 Au fur et à mesure que la pandémie s’étire, on est de plus en plus conscient que s’installe une « fatigue des alertes ». Les gens deviennent de moins en moins réceptifs aux alertes et aux messages d’avertissement. Sur Canada.ca, nous avons quatre différents styles d’alertes. Elles jouent toutes un rôle important, car elles attirent l’attention sur une situation qui sort de l’ordinaire. Toutefois, pour nous assurer de leur efficacité, nous devons gérer soigneusement leur cycle de vie. 
 
