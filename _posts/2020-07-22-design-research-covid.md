@@ -37,11 +37,12 @@ The team’s existing access to unmoderated testing tools allowed us to rapidly 
 
 We developed a rhythm for our activities and packaged these prototypes as ready-to-use solutions to make implementation as smooth as possible.
 
+### 48-hour testing schedule
 <section>
 <div class="row">
   <div class="col-xs-12 col-sm-6 col-md-8">
 <div class="well well-sm">
-<h3>48-hour testing schedule</h3>
+
 <strong>Day one</strong>
 <ol>
 <li>Identify priorities in the morning</li>
