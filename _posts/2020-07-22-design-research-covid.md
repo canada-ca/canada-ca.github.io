@@ -37,6 +37,32 @@ The team’s existing access to unmoderated testing tools allowed us to rapidly 
 
 We developed a rhythm for our activities and packaged these prototypes as ready-to-use solutions to make implementation as smooth as possible.
 
+<section>
+<div class="well well-sm">
+<h3>48-hour testing schedule</h3>
+<strong>Day one</strong>
+<ol>
+<li>Identify priorities in the morning</li>
+<li>Prototype during the day</li>
+<li>Develop scenarios and build the test in the afternoon</li>
+<li>Run test overnight
+</li>
+</ol>
+
+<strong>Day two</strong>
+<ol>
+<li>Analyze videos and compile recommendations in the morning
+</li>
+<li>Deliver or communicate results in the afternoon.
+</li>
+</ol>
+
+<p>Repeat and retest!</p>
+
+</div>
+</section>
+
+
 Unmoderated testing allowed us to get some rest while the tests ran overnight. It was the fastest method to test prototypes or live content and was flexible enough to recruit some specialized audiences. Spend a little time to try your task scenarios out on friends or family first, you may find that people interpret the task in unexpected ways. Even when a task is interpreted differently, you can still learn a lot about the participant’s mental model.
 
 As the situation stabilized, research activities became larger and aligned to upcoming announcements. Larger projects, like the Canada Emergency Response Benefit (CERB) underwent many rounds of testing and iterations.
