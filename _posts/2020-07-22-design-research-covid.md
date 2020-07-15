@@ -139,8 +139,7 @@ In a crisis, like COVID-19, poor content or a poor user experience undermines th
 We encourage you to implement advice from web content design specialists about already-established best practices in user experience. Rely on standard templates and content design recommendations from the [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html). These are based on best practices that have been tested with users to ensure they work and are accessible.
 
 
-
-Watch some participants navigate Canada.ca using assistive technology:
+In this unmoderated test video, the participant draws their own conclusions when interpreting a task. When testing a page about economic benefits, we found that many participants identified being self-employed as a business, not as an individual.
 
 {::nomarkdown}
 
