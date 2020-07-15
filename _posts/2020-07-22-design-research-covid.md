@@ -38,6 +38,8 @@ The team’s existing access to unmoderated testing tools allowed us to rapidly 
 We developed a rhythm for our activities and packaged these prototypes as ready-to-use solutions to make implementation as smooth as possible.
 
 <section>
+<div class="row">
+  <div class="col-xs-12 col-sm-6 col-md-8">
 <div class="well well-sm">
 <h3>48-hour testing schedule</h3>
 <strong>Day one</strong>
@@ -60,6 +62,8 @@ We developed a rhythm for our activities and packaged these prototypes as ready-
 <p>Repeat and retest!</p>
 
 </div>
+</div>
+</div>
 </section>
 
 
@@ -69,6 +73,10 @@ As the situation stabilized, research activities became larger and aligned to up
 
 
 <section>
+<div class="row">
+  <div class="col-xs-12 col-sm-6 col-md-8">
+
+
             <h3>Iterations of the Canada Emergency Response Benefit (CERB)</h3>
             <dl class="dl-horizontal">
                 <dt>March 27</dt>
@@ -92,6 +100,8 @@ As the situation stabilized, research activities became larger and aligned to up
                                                     <dt>June 3</dt>
                                                     <dd>Revised ESDC page goes live.</dd>
             </dl>
+              </div>
+              </div>
         </section>
 
 
