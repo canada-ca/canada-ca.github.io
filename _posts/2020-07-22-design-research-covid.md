@@ -107,7 +107,7 @@ As the situation stabilized, research activities became larger and aligned to up
 
 ## 4. Used moderated testing strategically
 
-We reserved moderated testing for when we needed specialized audiences like business owners, students, or [people using assistive technologies] (https://blog.canada.ca/2020/06/05/designing-for-accessibility.html). Using a moderator gave us time to schedule the testing over several days while we worked on complex prototypes. This provided more flexibility to ask follow-up questions when we saw interesting behaviours and probe for more details allowing us to get the most out of the sessions.
+We reserved moderated testing for when we needed specialized audiences like business owners, students, or [people using assistive technologies](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html). Using a moderator gave us time to schedule the testing over several days while we worked on complex prototypes. This provided more flexibility to ask follow-up questions when we saw interesting behaviours and probe for more details allowing us to get the most out of the sessions.
 
 The moderator can encourage participants to continue on a task where they may have otherwise given up in an unmoderated test.
 
