@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Lessons learned doing design research during COVID-19"
-pubdate: "June 5, 2020"
+pubdate: "July 22, 2020"
 langpage: "https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html"
-date:   2020-06-05
+date:   2020-07-22
 published: true
 draft: true
 lang: en
