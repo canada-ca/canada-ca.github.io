@@ -26,7 +26,7 @@ In the following weeks, we collaborated with other departments on larger researc
 
 ## 2. Adapting our timelines into days not weeks
 
-Light and fast research helped inform daily recommendations. Where possible, we combined [previous research from DTO optimization projects] (https://blog.canada.ca/pages/project-overview.html) with new research to deliver evidence-based recommendations to web teams and senior management.
+Light and fast research helped inform daily recommendations. Where possible, we combined [previous research from DTO optimization projects](https://blog.canada.ca/pages/project-overview.html) with new research to deliver evidence-based recommendations to web teams and senior management.
 
 We used easy to access data like web analytics, social media monitoring and call centre questions to identify areas where we could focus our research - often working these problems directly into task scenarios.
 
@@ -125,7 +125,7 @@ Even though we learned a lot, the journey wasn’t without challenges. One of th
 
 In a crisis, like COVID-19, poor content or a poor user experience undermines the credibility of the government. You can identify many of the usability problems with a page by testing it with even just a few users. Identifying and correcting usability problems early helped divert unnecessary calls from call centres and reduced ineligible or incomplete applications for benefits.
 
-We encourage you to implement advice from web content design specialists about already-established best practices in user experience. Rely on standard templates and content design recommendations from the [Canada.ca design system] (https://www.canada.ca/en/government/about/design-system.html). These are based on best practices that have been tested with users to ensure they work and are accessible.
+We encourage you to implement advice from web content design specialists about already-established best practices in user experience. Rely on standard templates and content design recommendations from the [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html). These are based on best practices that have been tested with users to ensure they work and are accessible.
 
 
 
