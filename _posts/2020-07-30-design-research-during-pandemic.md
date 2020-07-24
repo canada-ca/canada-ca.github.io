@@ -78,9 +78,39 @@ https://youtu.be/tcYDM_RorRM
 
 As the situation stabilized, research activities became larger and aligned to upcoming announcements. Larger projects, like the Canada Emergency Response Benefit (CERB) underwent many rounds of testing and iterations.
 
-(pull out box)
+<section>
+<div class="row">
+  <div class="col-xs-12 col-sm-6 col-md-8">
 
-5. Using moderated testing strategically
+
+            <h3>Iterations of the Canada Emergency Response Benefit (CERB)</h3>
+            <dl class="dl-horizontal">
+                <dt>March 27</dt>
+                <dd>First test of CERB prototype with eligibility checkboxes.</dd>
+                <dt>March 30</dt>
+                <dd>Page purpose changed to being a triage tool to split applications between CRA and ESDC.</dd>
+                <dt>March 31-April 1</dt>
+                <dd>Retests of triage page.</dd>
+                <dt>April 6</dt>
+                <dd>CERB goes live</dd>
+                      <dt>April 6-8</dt>
+                      <dd>Retests of live content.</dd>
+                            <dt>April 9</dt>
+                            <dd>Test of CRA multi-page prototype with checkboxes.</dd>
+                                  <dt>April 16-24</dt>
+                                  <dd>Retests of CRA prototype.</dd>
+                                        <dt>May 2</dt>
+                                        <dd>CRA multi-page design goes live.</dd>
+                                              <dt>May 22-25</dt>
+                                              <dd>Test of ESDC prototype with revised CERB content.</dd>
+                                                    <dt>June 3</dt>
+                                                    <dd>Revised ESDC page goes live.</dd>
+            </dl>
+              </div>
+              </div>
+        </section>
+
+## 5. Using moderated testing strategically
 We reserved moderated testing for when we needed specialized audiences like business owners, students, or people using assistive technologies. Using a moderator gave us time to schedule the testing over several days while we worked on complex prototypes. This provided more flexibility to ask follow-up questions. When we saw interesting behaviours, we could probe for more details. This let us get the most out of the sessions.
 
 A moderator can encourage participants to continue on a task where they may have otherwise given up in an unmoderated test. 
