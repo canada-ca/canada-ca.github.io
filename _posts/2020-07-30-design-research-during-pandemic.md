@@ -15,13 +15,13 @@ The Digital Transformation Office (DTO) usually runs “short” 3-month optimiz
 
 Here’s how we’ve approached design research as part of the COVID-19 digital response. 
 
-### 1. Working together while being physically apart
+## 1. Working together while being physically apart
 
 We tweaked our existing ways of working with colleagues across government. More than ever, we needed a whole-of-government approach to the web content. Daily interdepartmental video calls to coordinate the effort replaced on-site meetings and we also set up some cross-GC collaboration channels. Within the DTO, we found that many of the processes and ways we worked before COVID still worked well with a distributed team. We continued to work collaboratively using shared documents, and prototyped in the open.
 
 Working closely (but distantly!) with departmental communications and web teams helped us align the right research, with the right questions, at the right time.
 
-### 2. Prioritizing research that will deliver the biggest impact
+## 2. Prioritizing research that will deliver the biggest impact
 
 We quickly realized that every corner of the Canada.ca landscape would be affected. Our research focussed on improving both the content and information architecture related to pandemic information and services. 
 
@@ -29,7 +29,7 @@ We prioritized our work based on which areas would deliver the biggest improveme
 
 In the following weeks, we collaborated with other departments on larger research studies that have helped shape some of the biggest economic relief programs we’ve seen in our lifetime.
 
-### 3. COVID-time: Adapting our timelines to days not weeks
+## 3. COVID-time: Adapting our timelines to days not weeks
 
 Light and fast research helped inform daily recommendations. Where possible, we combined [previous research from DTO optimization projects](https://blog.canada.ca/pages/project-overview.html) with new research. This allowed us to deliver evidence-based recommendations to web teams and senior management. 
 
@@ -41,7 +41,35 @@ The team’s existing access to unmoderated testing tools allowed us to rapidly 
 
 We developed a rhythm for our activities. We packaged prototypes as ready-to-use solutions. This helped make implementation as smooth as possible.
 
-(pull out box)
+### 48-hour testing schedule
+<section>
+<div class="row">
+  <div class="col-xs-12 col-sm-6 col-md-8">
+<div class="well well-sm">
+
+<strong>Day one</strong>
+<ol>
+<li>Identify priorities in the morning</li>
+<li>Prototype during the day</li>
+<li>Develop scenarios and build the test in the afternoon</li>
+<li>Run test overnight
+</li>
+</ol>
+
+<strong>Day two</strong>
+<ol>
+<li>Analyze videos and compile recommendations in the morning
+</li>
+<li>Deliver or communicate results in the afternoon.
+</li>
+</ol>
+
+<p>Repeat and retest!</p>
+
+</div>
+</div>
+</div>
+</section>
 
 Unmoderated testing allowed us to get some rest while the tests ran overnight. It was the fastest way to test prototypes or live content and was flexible enough to recruit some specialized audiences. We also found that if you spend a little time trying your task scenarios out on friends or family first, you may find that people interpret the task in unexpected ways. Even when a task is interpreted differently, you can still learn a lot about the participant’s mental model.
 
