@@ -35,7 +35,25 @@ Changing Home to Canada.ca in the breadcrumb, ensures that every page displays C
 
 This change also helps people get to Canada.ca even if the URL of the site they’re on is different, such as those using the gc.ca domain. 
 
-(insert table)
+<table class="wb-charts wb-charts-bar table">
+  <caption>Changing breadcrumb to 'Canada.ca' from 'Home' maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
+	<tr>
+		<td></td>
+		<th>Education</th>
+		<th>Task</th>
+	</tr>
+	<tr>
+		<th>A) Home</th>
+		<td>2</td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<th>B) Canada.ca</th>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+</table>
+  
 
 ## Implementation
 
