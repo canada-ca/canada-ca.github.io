@@ -169,7 +169,8 @@ A moderator can encourage participants to continue on a task where they may have
 <p class="wet-boew-vd"><b>Title:</b> Moderated testing: interacting with a participant</p>
 <p class="wet-boew-vd">A screen capture of a Canada.ca page with checkboxes that can be selected. </p>
 
-<span class="wb-tmtxt" data-begin="04.00s" dur="03.98s">
+<p class="wet-boew-vd">
+<span class="wb-tmtxt" data-begin="04.00s" dur="03.98s"></p>
 <p>
 <b>Participant 1:</b> "Ok direct deposit payments take 3 business</span>
 <span class="wb-tmtxt" data-begin="08.00s" dur="03.98s">days, a cheque takes about 10 business days. Is your direct deposit information</span>
@@ -192,8 +193,6 @@ A moderator can encourage participants to continue on a task where they may have
 
 
 
-Caption: In this moderated testing video, a participant is being reassured that selecting an option will not reveal any personal banking information.
-https://youtu.be/4GMdIITiDbI
 
 
 ## Key lessons learned
