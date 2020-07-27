@@ -56,6 +56,7 @@ TBS has instructed GC departments and agencies to adopt the Canada.ca design by 
 * [Latest changes to the Canada.ca design system](https://www.canada.ca/en/government/about/design-system/latest-changes.html)
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat:
-Email: dto.btn@tbs-sct.gc.ca
-Twitter: #Canadadotca (English) / #Canadapointca (French)
-Slack: http://design-GC-conception.slack.com
+
+* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Twitter: #Canadadotca (English) / #Canadapointca (French)
+* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
