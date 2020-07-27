@@ -94,7 +94,7 @@ In this unmoderated test video, the participant draws their own conclusions when
 <span class="wb-tmtxt" data-begin="04.00s" dur="03.98s">
     <b>Participant 1:</b> Your home daycare, I think</span>
 
-<span class="wb-tmtxt" data-begin="08.00s" dur="03.98s">would be considered a business for sure</span>
+<span class="wb-tmtxt" data-begin="08.00s" dur="03.98s">would be considered a business for sure.</span>
 </p>
 
 <p>
@@ -174,15 +174,15 @@ A moderator can encourage participants to continue on a task where they may have
 <p>
 <b>Participant 1:</b> "Ok direct deposit payments take 3 business</span>
 <span class="wb-tmtxt" data-begin="08.00s" dur="03.98s">days, a cheque takes about 10 business days. Is your direct deposit information</span>
-<span class="wb-tmtxt" data-begin="12.00s" dur="03.98s">up to date with the CRA?</p>
-<p> If I click these, it won’t like</span>
-<span class="wb-tmtxt" data-begin="16.00s" dur="03.98s"><p>actually affect my stuff, right?"
+<span class="wb-tmtxt" data-begin="12.00s" dur="03.98s">up to date with the CRA?"</p>
+<p>"If I click these, it won’t like</span>
+<span class="wb-tmtxt" data-begin="16.00s" dur="03.98s">actually affect my stuff, right?"
 </p>
 
 <p><b>Moderator:</b>"Exactly, I won’t let you do</span>
-<span class="wb-tmtxt" data-begin="20.00s" dur="03.98s">anything that has real consequences." </p> <p> <b>Participant 1:</b> "Perfect."
-</p></span>
-<span class="wb-tmtxt" data-begin="24.00s" dur="08.07s"><p>Alright.</p></span>
+<span class="wb-tmtxt" data-begin="20.00s" dur="03.98s">anything that has real consequences." </p> <p> <b>Participant 1:</b> "Perfect.
+</span>
+<span class="wb-tmtxt" data-begin="24.00s" dur="08.07s">Alright."</p></span>
 
 
 
