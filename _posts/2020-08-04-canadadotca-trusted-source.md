@@ -29,6 +29,33 @@ Most visitors to Canada.ca pages arrive at pages via Google. In the study, they 
 
 > Participant 4: “Which site am I on? It’s Government of Canada — says it right at the top.” [points to GC signature] 
 
+## Small changes make a big difference
 
+Changing Home to Canada.ca in the breadcrumb, ensures that every page displays Canada.ca. It’s a simple yet highly visible change that improves trust and awareness. 
 
+This change also helps people get to Canada.ca even if the URL of the site they’re on is different, such as those using the gc.ca domain. 
 
+(insert table)
+
+## Implementation
+
+We worked with the Principal Publisher at Service Canada to change the breadcrumb in the  Canada.ca design.
+
+Within one week, they updated all pages on the Canada.ca domain. The pages with the new breadcrumb went live on April 16, 2020. Many sites which use the Canada.ca design but have not yet adopted the Canada.ca domain have changed their breadcrumb as well. 
+
+## Final word
+
+Trust and consistency are essential. We created the Canada.ca Design System to provide a more usable, consistent and trustworthy online experience for people who access Government of Canada digital services.  By adopting the Canada.ca design, GC site owners can help their users to easily identify Government of Canada web pages as part of Canada.ca. This means sers can immediately see that what they are looking at comes from a trusted source. 
+
+TBS has instructed GC departments and agencies to adopt the Canada.ca design by March 2021. The DTO is working with institutions to facilitate adoption of all mandatory elements.  
+
+## Learn more
+* [Breadcrumb trail - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/breadcrumb-trail.html)
+* [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html)
+* [Mandatory elements of the Canada.ca design system](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html)
+* [Latest changes to the Canada.ca design system](https://www.canada.ca/en/government/about/design-system/latest-changes.html)
+
+## Connect with the Digital Transformation Office at Treasury Board Secretariat:
+Email: dto.btn@tbs-sct.gc.ca
+Twitter: #Canadadotca (English) / #Canadapointca (French)
+Slack: http://design-GC-conception.slack.com
