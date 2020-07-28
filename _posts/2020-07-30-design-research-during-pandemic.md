@@ -33,11 +33,11 @@ In the following weeks, we collaborated with other departments on larger researc
 
 Light and fast research helped inform daily recommendations. Where possible, we combined [previous research from DTO optimization projects](https://blog.canada.ca/pages/project-overview.html) with new research. This allowed us to deliver evidence-based recommendations to web teams and senior management.
 
-We used easy-to-access data like web analytics, social media monitoring and call centre questions to identify areas where we could focus our research. We often worked questions from social media or call centres directly into task scenarios.
+We used easy-to-access data like web analytics, search queries, social media monitoring and call centre questions to identify areas where we could focus our research. We often worked questions from social media or call centres directly into task scenarios.
 
 ### 4. Unmoderated testing: Rapid recommendations in 48 hours
 
-The team’s existing access to unmoderated testing tools allowed us to rapidly test and deliver recommendations within 48 hours. Unmoderated tests were conducted every 2 to 3 days with 6 to 8 Canadians per test. This allowed us to identify big issues and analyze the video recordings in a few hours.
+The team’s existing access to unmoderated, online usability testing services allowed us to rapidly test and deliver recommendations within 48 hours. Unmoderated tests were conducted every 2 to 3 days with 6 to 8 Canadians per test. This allowed us to identify big issues and analyze the video recordings in a few hours.
 
 We developed a rhythm for our activities. We packaged prototypes as ready-to-use solutions. This helped make implementation as smooth as possible.
 
@@ -115,7 +115,7 @@ Caption: In this unmoderated test video, the participant draws their own conclus
 
 
 
-As the situation stabilized, research activities became larger and aligned to upcoming announcements. Larger projects, like the Canada Emergency Response Benefit (CERB) underwent many rounds of testing and iterations.
+As the situation stabilized, research activities became larger and aligned to upcoming announcements. Larger projects, like the Canada Emergency Response Benefit (CERB) underwent many rounds of testing and prototyping.
 
 <section>
 <div class="row">
