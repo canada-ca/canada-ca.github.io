@@ -2,7 +2,7 @@
 layout: post
 title:  "Design research during a pandemic "
 pubdate: "July 30, 2020"
-langpage: "https://blogue.canada.ca/2020/07/15/fatigue-d'alerte.html"
+langpage: "https://blogue.canada.ca/2020/07/30/concevoir-recherche-pendant-pandemie.html"
 date:   2020-07-30
 published: true
 draft: true
