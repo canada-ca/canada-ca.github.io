@@ -76,8 +76,35 @@ https://youtu.be/tcYDM_RorRM
 
 À mesure que la situation s’est stabilisée, les activités de recherche ont pris de l’ampleur et se sont alignées sur les annonces à venir. Les projets de plus grande envergure, comme la Prestation canadienne d’urgence (PCU), ont fait l’objet de nombreux tests et itérations.
  
-(insert table 2)
-
+<h3>Itérations à la page sur la Prestation canadienne d’urgence</h3>
+            <dl class="dl-horizontal">
+                <dt>27 mars</dt>
+                <dd>Premier essai du prototype de la page sur la PCU avec cases à cocher pour l’admissibilité.</dd>
+                <dt>30 mars</dt>
+                <dd> L’objet de la page a été modifié pour devenir un outil de triage permettant de séparer les demandes entre l’ARC et EDSC
+.</dd>
+                <dt>31 mars et 1er avril</dt>
+                <dd> Nouveaux tests de la page de triage.</dd>
+                <dt>6 avril</dt>
+                <dd>Mise en service de la page sur la PCU.</dd>
+                      <dt>6 et 8 avril</dt>
+                      <dd>Reprise des tests sur le contenu en ligne.</dd>
+                            <dt>9 avril</dt>
+                            <dd> Test du prototype multipages de l’ARC avec cases à cocher
+.</dd>
+                                  <dt>Du 16 au 24 avril</dt>
+                                  <dd>Reprise des tests sur le prototype de l’ARC.</dd>
+                                        <dt>2 mai</dt>
+                                        <dd>Mise en service de la conception multipages de l’ARC.</dd>
+                                              <dt>22 et 25 mai</dt>
+                                              <dd>Test du prototype d’EDSC avec le contenu révisé au sujet de la PCU.</dd>
+                                                    <dt>3 juin</dt>
+                                                    <dd>Mise en service de la page révisée d’EDSC.</dd>
+            </dl>
+              </div>
+              </div>
+        </section>
+        
 ## 5. Utilisation stratégique de tests avec modérateur
 
 Nous avons réservé l’utilisation de tests avec modérateur pour les cas où nous avions besoin d’auditoires spécialisés comme les propriétaires d’entreprise, les étudiants ou les personnes utilisant des technologies d’assistance. Le recours à un modérateur nous a donné le temps de planifier les tests sur plusieurs jours pendant que nous travaillions sur des prototypes complexes. Cela nous a donné plus de souplesse pour poser des questions de suivi. Lorsque nous constations des comportements intéressants, nous avons pu chercher à obtenir plus de détails. Cela nous permet de tirer le meilleur parti des séances.
