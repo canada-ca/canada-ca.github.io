@@ -107,6 +107,10 @@ Dans cette vidéo de test d’utilisabilité sans modérateur, le participant ti
 
 À mesure que la situation s’est stabilisée, les activités de recherche ont pris de l’ampleur et se sont alignées sur les annonces à venir. Les projets de plus grande envergure, comme la Prestation canadienne d’urgence (PCU), ont fait l’objet de nombreux tests et itérations.
 
+<section>
+<div class="row">
+  <div class="col-xs-12 col-sm-6 col-md-8">
+
 <h3>Itérations à la page sur la Prestation canadienne d’urgence</h3>
             <dl class="dl-horizontal">
                 <dt>27 mars</dt>
