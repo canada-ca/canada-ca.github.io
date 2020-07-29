@@ -215,14 +215,10 @@ Even though we learned a lot, the journey wasn’t without challenges. One of th
 
 In a crisis, like COVID-19, poor content or a poor user experience undermines the credibility of the government. You can identify many of the usability problems with a page by testing it with even just a few users. Identifying and correcting usability problems early helped divert unnecessary calls from call centres and reduced ineligible or incomplete applications for benefits.
 
-We encourage you to implement advice from web content design specialists about already-established best practices in user experience. Rely on standard templates and content design recommendations from the [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html). These are based on best practices that have been tested with users to ensure they work and are accessible.
+We encourage you to implement advice from web content design specialists about already-established best practices in user experience. Rely on standard templates and content design recommendations from the [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html). These are based on **best practices** that have been **tested with users** to ensure they work and are accessible.
 
-
-
-
-<br />
-
-
+* [Canada.ca Templates and design patterns](https://www.canada.ca/en/government/about/design-system/pattern-library.html)
+* [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
 
 ## Learn more
 
