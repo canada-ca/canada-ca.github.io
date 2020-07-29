@@ -41,7 +41,33 @@ L’accès existant de l’équipe aux outils de test de convivialité sans mod�
 
 Nous avons établi un rythme pour nos activités. Nous avons présenté des prototypes sous forme de solutions prêtes à l’emploi. Cela a permis de rendre la mise en œuvre aussi aisée que possible.
 
-(insert first table here)
+### Calendrier de test de 48 heures
+<section>
+<div class="row">
+  <div class="col-xs-12 col-sm-6 col-md-8">
+<div class="well well-sm">
+
+<strong>Jour 1</strong>
+<ol>
+<li>Établir les priorités le matin</li>
+<li>Établir le prototype pendant la journée</li>
+<li>Développer des scénarios et concevoir le test en après‑midi</li>
+<li>Mener le test pendant la nuit </li>
+</ol>
+
+<strong>Jour 2</strong>
+<ol>
+<li> Analyser les vidéos et compiler les recommandations le matin </li>
+<li>  Livrer ou communiquer les résultats en après‑midi</li>
+</ol>
+
+<p>Répéter et refaire le test</p>
+
+</div>
+</div>
+</div>
+</section>
+
 
 Les tests d’utilisabilité sans modérateur nous ont permis de nous reposer pendant qu’ils étaient exécutés durant la nuit. Il s’agissait du moyen le plus rapide de tester des prototypes ou du contenu en ligne, suffisamment souple pour recruter des auditoires spécialisés. Nous avons également constaté que si vous passez un peu de temps à tester vos scénarios de tâches sur vos amis ou votre famille d’abord, vous pourriez vous rendre compte que les gens interprètent la tâche de façon inattendue. Même lorsqu’une tâche est interprétée différemment, vous pouvez tout de même en apprendre beaucoup sur le modèle mental du participant.
 
