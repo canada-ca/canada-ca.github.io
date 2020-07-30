@@ -27,7 +27,7 @@ We quickly realized that every corner of the Canada.ca landscape would be affect
 
 We prioritized our work based on which areas would deliver the biggest improvement to digital service delivery. In the very early days, we worked with Health Canada and the Public Health Agency of Canada to test a revised information architecture for COVID-19 topics. We also improved existing content to reduce the demand on call centres.
 
-In the following weeks, we collaborated with other departments on larger research studies that have helped shape some of the biggest economic relief programs we’ve seen in our lifetime.
+In the following weeks, we collaborated with other departments on larger research studies that have helped shape the communications and delivery of some of the biggest economic relief programs we’ve seen in our lifetime.
 
 ## 3. COVID-time: Adapting our timelines to days not weeks
 
@@ -37,7 +37,7 @@ We used easy-to-access data like web analytics, search queries, social media mon
 
 ### 4. Unmoderated testing: Rapid recommendations in 48 hours
 
-The team’s existing access to unmoderated, online usability testing services allowed us to rapidly test and deliver recommendations within 48 hours. Unmoderated tests were conducted every 2 to 3 days with 6 to 8 Canadians per test. This allowed us to identify big issues and analyze the video recordings in a few hours.
+The team’s existing access to online testing services allowed us to rapidly test and deliver recommendations within 48 hours. Unmoderated tests were conducted every 2 to 3 days with 6 to 8 Canadians per test. This allowed us to identify big issues and analyze the video recordings in a few hours.
 
 We developed a rhythm for our activities. We packaged prototypes as ready-to-use solutions. This helped make implementation as smooth as possible.
 
