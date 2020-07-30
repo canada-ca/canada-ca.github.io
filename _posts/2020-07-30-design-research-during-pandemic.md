@@ -137,7 +137,7 @@ As the situation stabilized, research activities became larger and aligned to up
                                   <dd>Retests of CRA prototype.</dd>
                                         <dt>May 2</dt>
                                         <dd>CRA multi-page design goes live.</dd>
-                                              <dt>May 22-25</dt>
+                                              <dt>May 22,25</dt>
                                               <dd>Test of ESDC prototype with revised CERB content.</dd>
                                                     <dt>June 3</dt>
                                                     <dd>Revised ESDC page goes live.</dd>
