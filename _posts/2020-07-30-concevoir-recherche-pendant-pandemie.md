@@ -114,27 +114,25 @@ Dans cette vidéo de test d’utilisabilité sans modérateur, le participant ti
 <h3>Itérations à la page sur la Prestation canadienne d’urgence</h3>
             <dl class="dl-horizontal">
                 <dt>27 mars</dt>
-                <dd>Premier essai du prototype de la page sur la PCU avec cases à cocher pour l’admissibilité.</dd>
+                <dd>Premier essai du prototype de la page sur la PCU avec cases à cocher pour l’admissibilité</dd>
                 <dt>30 mars</dt>
-                <dd> L’objet de la page a été modifié pour devenir un outil de triage permettant de séparer les demandes entre l’ARC et EDSC
-.</dd>
+                <dd> L’objet de la page a été modifié pour devenir un outil de triage permettant de séparer les demandes entre l’ARC et EDSC</dd>
                 <dt>31 mars et 1er avril</dt>
-                <dd>Reprise des tests de la page de triage.</dd>
+                <dd>Reprise des tests de la page de triage</dd>
                 <dt>6 avril</dt>
-                <dd>Mise en service de la page sur la PCU.</dd>
+                <dd>Mise en service de la page sur la PCU</dd>
                       <dt>6 et 8 avril</dt>
-                      <dd>Reprise des tests sur le contenu en ligne.</dd>
+                      <dd>Reprise des tests sur le contenu en ligne</dd>
                             <dt>9 avril</dt>
-                            <dd> Test du prototype multipages de l’ARC avec cases à cocher
-.</dd>
+                            <dd> Test du prototype multipages de l’ARC avec cases à cocher</dd>
                                   <dt>Du 16 au 24 avril</dt>
-                                  <dd>Reprise des tests sur le prototype de l’ARC.</dd>
+                                  <dd>Reprise des tests sur le prototype de l’ARC</dd>
                                         <dt>2 mai</dt>
-                                        <dd>Mise en service de la conception multipages de l’ARC.</dd>
+                                        <dd>Mise en service de la conception multipages de l’ARC</dd>
                                               <dt>22 et 25 mai</dt>
-                                              <dd>Test du prototype d’EDSC avec le contenu révisé au sujet de la PCU.</dd>
+                                              <dd>Test du prototype d’EDSC avec le contenu révisé au sujet de la PCU</dd>
                                                     <dt>3 juin</dt>
-                                                    <dd>Mise en service de la page révisée d’EDSC.</dd>
+                                                    <dd>Mise en service de la page révisée d’EDSC</dd>
             </dl>
               </div>
               </div>
