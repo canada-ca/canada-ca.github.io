@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "Design research during a pandemic"
-description: " "
+description: "When the pandemic was confirmed in mid-March, the Digital Transformation Office had to rethink and change our approach so we could help departments respond quickly and effectively to the rapidly changing situation. "
 ---
 
 The Digital Transformation Office (DTO) usually runs “short” 3-month optimization projects. When the pandemic was confirmed in mid-March, we had to rethink and change our approach so we could help departments respond quickly and effectively to the rapidly changing situation. We began doing rapid-response design research on COVID-19 content and aspects of the Canada.ca information architecture. Our priority continued to be delivering clear and usable mobile-first content on Canada.ca. The crisis situation just meant we had to do it faster. A lot faster!
@@ -100,9 +100,6 @@ In this unmoderated test video, the participant draws their own conclusions when
 <p>
 <span class="wb-tmtxt" data-begin="12.00s" dur="03.98s">Um, I’m going to go ahead and click “For businesses”</span>
 </p>
-
-
-
 
 
 
