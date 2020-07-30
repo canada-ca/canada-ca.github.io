@@ -35,7 +35,7 @@ Light and fast research helped inform daily recommendations. Where possible, we 
 
 We used easy-to-access data like web analytics, search queries, social media monitoring and call centre questions to identify areas where we could focus our research. We often worked questions from social media or call centres directly into task scenarios.
 
-### 4. Unmoderated testing: Rapid recommendations in 48 hours
+## 4. Unmoderated testing: Rapid recommendations in 48 hours
 
 The team’s existing access to online testing services allowed us to rapidly test and deliver recommendations within 48 hours. Unmoderated tests were conducted every 2 to 3 days with 6 to 8 Canadians per test. This allowed us to identify big issues and analyze the video recordings in a few hours.
 
