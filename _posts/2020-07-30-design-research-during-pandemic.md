@@ -125,15 +125,15 @@ As the situation stabilized, research activities became larger and aligned to up
                 <dd>First test of CERB prototype with eligibility checkboxes.</dd>
                 <dt>March 30</dt>
                 <dd>Page purpose changed to being a triage tool to split applications between CRA and ESDC.</dd>
-                <dt>March 31-April 1</dt>
+                <dt>March 31, April 1</dt>
                 <dd>Retests of triage page.</dd>
                 <dt>April 6</dt>
                 <dd>CERB goes live</dd>
-                      <dt>April 6-8</dt>
+                      <dt>April 6,8</dt>
                       <dd>Retests of live content.</dd>
                             <dt>April 9</dt>
                             <dd>Test of CRA multi-page prototype with checkboxes.</dd>
-                                  <dt>April 16-24</dt>
+                                  <dt>April 16 to 24</dt>
                                   <dd>Retests of CRA prototype.</dd>
                                         <dt>May 2</dt>
                                         <dd>CRA multi-page design goes live.</dd>
@@ -147,7 +147,8 @@ As the situation stabilized, research activities became larger and aligned to up
         </section>
 
 ## 5. Using moderated testing strategically
-We reserved moderated testing for when we needed specialized audiences like business owners, students, or people using assistive technologies. Using a moderator gave us time to schedule the testing over several days while we worked on complex prototypes. This provided more flexibility to ask follow-up questions. When we saw interesting behaviours, we could probe for more details. This let us get the most out of the sessions.
+
+We reserved moderated testing for when we needed specialized audiences like business owners, students, or [people using assistive technologies](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html). Using a moderator gave us time to schedule the testing over several days while we worked on complex prototypes. This provided more flexibility to ask follow-up questions. When we saw interesting behaviours, we could probe for more details. This let us get the most out of the sessions.
 
 A moderator can encourage participants to continue on a task where they may have otherwise given up in an unmoderated test.
 
@@ -207,7 +208,6 @@ A moderator can encourage participants to continue on a task where they may have
 
 Even though we learned a lot, the journey wasn’t without challenges. One of the hardest transitions for the team in the first few weeks of pandemic design research was speed and the volume of new content being produced. Testing and iterating on live content was the new normal.
 
-
 ## Final word
 
 In a crisis, like COVID-19, poor content or a poor user experience undermines the credibility of the government. You can identify many of the usability problems with a page by testing it with even just a few users. Identifying and correcting usability problems early helped divert unnecessary calls from call centres and reduced ineligible or incomplete applications for benefits.
@@ -221,7 +221,7 @@ We encourage you to implement advice from web content design specialists about a
 
 * [Designing for accessibility during COVID-19](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html)
 * [A case for descriptive link text](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)
-* [Avoiding FAQs (with one exception)](https://blog.canada.ca/2020/05/25/avoiding-faqs.html)
+* [Avoiding FAQs, with one exception](https://blog.canada.ca/2020/05/25/avoiding-faqs.html)
 * [Content improvement projects](https://blog.canada.ca/pages/project-overview.html)
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
