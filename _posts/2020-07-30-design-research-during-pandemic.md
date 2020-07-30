@@ -204,7 +204,7 @@ A moderator can encourage participants to continue on a task where they may have
 * Keep a record of your work (screenshots and summaries)
 * Clear language is the best investment for your website
 
-### Challenges when doing rapid research
+## Challenges when doing rapid research
 
 Even though we learned a lot, the journey wasn’t without challenges. One of the hardest transitions for the team in the first few weeks of pandemic design research was speed and the volume of new content being produced. Testing and iterating on live content was the new normal.
 
