@@ -108,10 +108,6 @@ In this unmoderated test video, the participant draws their own conclusions when
 
 {:/nomarkdown}
 
-Caption: In this unmoderated test video, the participant draws their own conclusions when interpreting a task. When testing a page about economic benefits, we found that many participants identified being self-employed as a business, not as an individual.
-
-
-
 As the situation stabilized, research activities became larger and aligned to upcoming announcements. Larger projects, like the Canada Emergency Response Benefit (CERB) underwent many rounds of testing and prototyping.
 
 <section>
@@ -152,6 +148,8 @@ We reserved moderated testing for when we needed specialized audiences like busi
 
 A moderator can encourage participants to continue on a task where they may have otherwise given up in an unmoderated test.
 
+In this moderated testing video, a participant is being reassured that selecting an option will not reveal any personal banking information.
+
 {::nomarkdown}
 
 <figure class="wb-mltmd wb-init video cc_on">
@@ -188,10 +186,6 @@ A moderator can encourage participants to continue on a task where they may have
 </figcaption>
 
 {:/nomarkdown}
-
-
-
-
 
 ## Key lessons learned
 
