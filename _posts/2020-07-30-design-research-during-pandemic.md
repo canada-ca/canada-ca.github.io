@@ -122,25 +122,25 @@ As the situation stabilized, research activities became larger and aligned to up
             <h3>Iterations of the Canada Emergency Response Benefit (CERB)</h3>
             <dl class="dl-horizontal">
                 <dt>March 27</dt>
-                <dd>First test of CERB prototype with eligibility checkboxes.</dd>
+                <dd>First test of CERB prototype with eligibility checkboxes</dd>
                 <dt>March 30</dt>
-                <dd>Page purpose changed to being a triage tool to split applications between CRA and ESDC.</dd>
+                <dd>Page purpose changed to being a triage tool to split applications between CRA and ESDC</dd>
                 <dt>March 31, April 1</dt>
-                <dd>Retests of triage page.</dd>
+                <dd>Retests of triage page</dd>
                 <dt>April 6</dt>
                 <dd>CERB goes live</dd>
                       <dt>April 6,8</dt>
-                      <dd>Retests of live content.</dd>
+                      <dd>Retests of live content</dd>
                             <dt>April 9</dt>
-                            <dd>Test of CRA multi-page prototype with checkboxes.</dd>
+                            <dd>Test of CRA multi-page prototype with checkboxes</dd>
                                   <dt>April 16 to 24</dt>
-                                  <dd>Retests of CRA prototype.</dd>
+                                  <dd>Retests of CRA prototype</dd>
                                         <dt>May 2</dt>
-                                        <dd>CRA multi-page design goes live.</dd>
+                                        <dd>CRA multi-page design goes live</dd>
                                               <dt>May 22,25</dt>
-                                              <dd>Test of ESDC prototype with revised CERB content.</dd>
+                                              <dd>Test of ESDC prototype with revised CERB content</dd>
                                                     <dt>June 3</dt>
-                                                    <dd>Revised ESDC page goes live.</dd>
+                                                    <dd>Revised ESDC page goes live</dd>
             </dl>
               </div>
               </div>
