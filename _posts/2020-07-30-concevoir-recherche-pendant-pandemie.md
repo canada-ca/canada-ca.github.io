@@ -71,7 +71,7 @@ Nous avons établi un rythme pour nos activités. Nous avons présenté des prot
 
 Les tests d’utilisabilité sans modérateur nous ont permis de nous reposer pendant qu’ils étaient exécutés durant la nuit. Il s’agissait du moyen le plus rapide de tester des prototypes ou du contenu en ligne, suffisamment souple pour recruter des auditoires spécialisés. Nous avons également constaté que si vous passez un peu de temps à tester vos scénarios de tâches sur vos amis ou votre famille d’abord, vous pourriez vous rendre compte que les gens interprètent la tâche de façon inattendue. Même lorsqu’une tâche est interprétée différemment, vous pouvez tout de même en apprendre beaucoup sur le modèle mental du participant.
 
-Dans cette vidéo de test d’utilisabilité sans modérateur, le participant tire ses propres conclusions lorsqu’il interprète une tâche. Dans le cadre d’un test sur une page sur les mesures de soutien économiques, nous avons constaté que de nombreux participants ont indiqué le fait d’être travailleur indépendant dans la catégorie entreprise et non dans la catégorie particulier.
+Dans cette vidéo de test d’utilisabilité sans modérateur, le participant tire ses propres conclusions lorsqu’il interprète une tâche. Dans le cadre d’un test sur une page sur les mesures de soutien économiques, nous avons constaté que de nombreux participants ont indiqué le fait d’être travailleur autonome en tant qu’entreprise et non comme particulier.
 
 {::nomarkdown}
 
