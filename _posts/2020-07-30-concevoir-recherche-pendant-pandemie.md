@@ -11,7 +11,7 @@ alt: "Recherche en conception pendant une pandémie"
 description: "Lorsque la pandémie a été confirmée à la mi‑mars, le Bureau de la transformation numérique avons dû repenser et modifier notre approche afin d’aider les ministères à réagir rapidement et efficacement à l’évolution rapide de la situation."
 ---
 
-Le Bureau de la transformation numérique (BTN) mène habituellement de «&nbsp; courts &nbsp;» projets d’optimisation de trois mois. Lorsque la pandémie a été confirmée à la mi‑mars, nous avons dû repenser et modifier notre approche afin d’aider les ministères à réagir rapidement et efficacement à l’évolution rapide de la situation. Nous avons commencé à faire de la recherche en conception de façon rapidesur le contenu lié à la COVID‑19 et les aspects de l’architecture de l’information de Canada.ca. Nous avons maintenu notre priorité de fournir du contenu clair et utilisable pour les appareils mobiles d’abord sur Canada.ca. La situation de crise nous a simplement obligés à agir plus rapidement. Beaucoup plus rapidement!
+Le Bureau de la transformation numérique (BTN) mène habituellement de «&nbsp; courts &nbsp;» projets d’optimisation de trois mois. Lorsque la pandémie a été confirmée à la mi‑mars, nous avons dû repenser et modifier notre approche afin d’aider les ministères à réagir rapidement et efficacement à l’évolution rapide de la situation. Nous avons commencé à faire de la recherche en conception de façon rapide sur le contenu lié à la COVID‑19 et les aspects de l’architecture de l’information de Canada.ca. Nous avons maintenu notre priorité de fournir du contenu clair et utilisable pour les appareils mobiles d’abord sur Canada.ca. La situation de crise nous a simplement obligés à agir plus rapidement. Beaucoup plus rapidement!
 
 Voici comment nous avons abordé la recherche en conception dans le cadre de la réponse numérique à la COVID‑19.
 
@@ -140,9 +140,11 @@ Dans cette vidéo de test d’utilisabilité sans modérateur, le participant ti
 
 ## 5. Utilisation stratégique de tests avec modérateur
 
-Nous avons réservé l’utilisation de tests avec modérateur pour les cas où nous avions besoin d’auditoires spécialisés comme les propriétaires d’entreprise, les étudiants ou les personnes utilisant des technologies d’assistance. Le recours à un modérateur nous a donné le temps de planifier les tests sur plusieurs jours pendant que nous travaillions sur des prototypes complexes. Cela nous a donné plus de souplesse pour poser des questions de suivi. Lorsque nous constations des comportements intéressants, nous avons pu chercher à obtenir plus de détails. Cela nous permet de tirer le meilleur parti des séances.
+Nous avons réservé l’utilisation de tests avec modérateur pour les cas où nous avions besoin d’auditoires spécialisés comme les propriétaires d’entreprise, les étudiants ou les [personnes utilisant des technologies d’assistance](https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html). Le recours à un modérateur nous a donné le temps de planifier les tests sur plusieurs jours pendant que nous travaillions sur des prototypes complexes. Cela nous a donné plus de souplesse pour poser des questions de suivi. Lorsque nous constations des comportements intéressants, nous avons pu chercher à obtenir plus de détails. Cela nous permet de tirer le meilleur parti des séances.
 
 Le modérateur peut encourager les participants à poursuivre une tâche qu’ils auraient autrement abandonnée dans le cadre d’un test sans modérateur.
+
+Dans cette vidéo sur un test avec modérateur, un participant est rassuré que le choix d’une option ne révèle pas de renseignements bancaires personnels.
 
 {::nomarkdown}
 
@@ -189,7 +191,7 @@ Le modérateur peut encourager les participants à poursuivre une tâche qu’il
 * Tenir un registre des travaux (captures d’écran et résumés)
 * Le langage clair est le meilleur investissement pour votre site Web
 
-### Défis liés à la recherche rapide
+## Défis liés à la recherche rapide
 
 Même si nous avons beaucoup appris, l’initiative n’a pas été sans difficulté. L’une des transitions les plus difficiles à faire pour l’équipe au cours des premières semaines de recherche en conception axée sur la pandémie a été la rapidité et le volume de nouveaux contenus produits. Les tests et les itérations sur le contenu en ligne étaient la nouvelle norme.
 
@@ -206,7 +208,7 @@ Nous vous encourageons à mettre en œuvre les conseils de spécialistes en conc
 
 * [Conception axée sur l’accessibilité pendant la pandémie de la COVID‑19](https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html)
 * [Un exemple en faveur du texte de lien descriptif](https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html)
-* [Éviter les FAQ à une exception près](https://blogue.canada.ca/2020/05/25/eviter-les-faq.html)
+* [Éviter les FAQ, à une exception près](https://blogue.canada.ca/2020/05/25/eviter-les-faq.html)
 * [Améliorer le contenu sur Canada.ca](https://blogue.canada.ca/pages/apercu-projet.html)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor :
