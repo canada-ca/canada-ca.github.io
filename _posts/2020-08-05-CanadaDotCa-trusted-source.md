@@ -65,7 +65,7 @@ Within one week, they updated all pages on the Canada.ca domain. The pages with 
 
 Trust and consistency are essential. We created the Canada.ca Design System to provide a more usable, consistent and trustworthy online experience for people who access Government of Canada digital services.  By adopting the Canada.ca design, GC site owners can help their users to easily identify Government of Canada web pages as part of Canada.ca. This means sers can immediately see that what they are looking at comes from a trusted source. 
 
-TBS has instructed GC departments and agencies to adopt the Canada.ca design by March 2021. The DTO is working with institutions to facilitate adoption of all mandatory elements.  
+TBS has instructed GC departments and agencies to adopt the Canada.ca design. The DTO is working with institutions to facilitate adoption of all mandatory elements.  
 
 ## Learn more
 * [Breadcrumb trail - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/breadcrumb-trail.html)
