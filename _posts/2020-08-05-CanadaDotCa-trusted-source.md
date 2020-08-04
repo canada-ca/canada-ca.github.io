@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "Canada.ca is a trusted source"
-description: "The more you put into managing your alerts, the more effective they’ll be at communicating your message."
+description: "With the increase in phishing campaigns and scams related to COVID-19 on government sites, it is more important than ever to provide a consistent and trustworthy user experience."
 ---
 
 Throughout the COVID-19 pandemic, the Prime Minister and his ministers have been advising Canadians to visit Canada.ca. With the increase in phishing campaigns and scams related to COVID-19 on government sites, it is more important than ever to provide a consistent and trustworthy user experience.  
