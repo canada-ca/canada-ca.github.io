@@ -2,13 +2,13 @@
 layout: post
 title:  "Canada.ca est une source fiable"
 pubdate: "05 août 2020"
-langpage: "https://blog.canada.ca/2020/07/30/design-research-during-pandemic.html"
+langpage: "https://blog.canada.ca/2020/08/05/CanadaDotCa-trusted-source.html"
 date:   2020-08-05
 published: true
 draft: true
 lang: fr
 alt: "Canada.ca est une source fiable"
-description: " "
+description: "Compte tenu de l’augmentation des campagnes d’hameçonnage et des escroqueries liées à la COVID-19 sur les sites gouvernementaux, il est plus important que jamais d’offrir une expérience utilisateur uniforme et fiable."
 ---
 
 Tout au long de la pandémie de la COVID-19, le premier ministre et ses ministres ont conseillé aux Canadiens de visiter Canada.ca. Compte tenu de l’augmentation des campagnes d’hameçonnage et des escroqueries liées à la COVID-19 sur les sites gouvernementaux, il est plus important que jamais d’offrir une expérience utilisateur uniforme et fiable.
