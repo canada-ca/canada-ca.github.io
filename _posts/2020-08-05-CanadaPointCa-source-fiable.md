@@ -21,6 +21,18 @@ Nous avons mené une étude en ligne auprès de plus de 600 utilisateurs de Cana
 
 ## Manque de sensibilisation de Canada.ca
 
+## Pour en savoir davantage
+
+* [Conception axée sur l’accessibilité pendant la pandémie de la COVID‑19](https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html)
+* [Un exemple en faveur du texte de lien descriptif](https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html)
+* [Éviter les FAQ, à une exception près](https://blogue.canada.ca/2020/05/25/eviter-les-faq.html)
+* [Améliorer le contenu sur Canada.ca](https://blogue.canada.ca/pages/apercu-projet.html)
+
+## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor :
+* Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
+* Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
+
 
 
 
