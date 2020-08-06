@@ -71,26 +71,35 @@ main p, main li, main blockquote {
 
 <p>The project is a multi-year initiative. It will see existing processes modernized through the implementation of a single platform based on two commercial solutions (SAP’s Ariba and Fieldglass applications).</p>
 
+	<p>As part of the transition to the new EPS, PSPC is planning to implement a new entry point to replace the existing <a href="https://buyandsell.gc.ca/">Buy and Sell website</a>.</p>
 
-	<p>It also included GAC’s partners in delivering travel-related content:</p>
+<p>The role of this new site (CanadaBuys) will be to support tasks like learning about government procurement, finding out how to become a supplier to the government, and searching for opportunities open for competitive bidding (also called tenders).</p>
 
+<p>Between April and July 2019, the Treasury Board's Digital Transformation Office (DTO) partnered with the PSPC team responsible for the design of the new CandaBuys site. </p>
+
+<p>We focused on the needs of businesses new to government procurement. We tested with small and medium enterprises not currently registered as suppliers to the Government of Canada.</p>
+
+<h2>Establishing a baseline</h2>
+
+<p>We did our baseline task performance testing on the existing Buy and Sell site.</p>
+
+<p>In the baseline study, 18 small and medium enterprises performed 158 tests. The most common problems participants encountered were:</p>
 	<ul>
-		<li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
-		<li>Public Health Agency of Canada (PHAC)</li>
-		<li>Health Canada (HC)</li>
-		<li>Canada Border Services Agency (CBSA)</li>
+		<li>complexity: the site has a lot of information, cluttered pages that are difficult to scan, technical terminology and jargon</li>
+		<li>link splatter: too many links lead people away from the task they came to do</li>
+		<li>poor search usability: homepage choices are actually canned searches that may include a large number of expired opportunities and award notices</li>
+		<li>tender summaries make it difficult to differentiate relevant details from less important information</li>
+		<li>crucial details buried in PDFs present a significant barrier </li>
+		<li>PDF links had filenames that didn’t mean anything to the users so that in many cases it wasn’t obvious that these needed to be opened to find the relevant information</li>
 	</ul>
 
-<h2>What made this project stand out</h2>
+	<h2>Designing for success</h2>
+	
+	<p>The CanadaBuys prototype was developed in Drupal. This was the first time the DTO team used Drupal instead of Github for prototyping. The advantage of Drupal is its WYSIWIG (what you see is what you get) interface. It allows more non-coders to contribute to content design and iteration.</p>
+	
+	
 
-<h3>Mobile access</h3>
-<p>Analytics told us that Canadians increasingly use their mobile devices to access travel information on Canada.ca. For this reason, both baseline and prototype testing focused on mobile use. Test participants either used their own device, or resized their desktop browser to simulate a mobile interface.</p>
 
-<h3>Communicating risks</h3>
-<p>Travelling has a degree of risk. Most travellers take routine precautions against familiar risks, like theft or injury. The Government of Canada can’t prevent Canadians from travelling, but has an obligation to protect them from harm. We inform Canadians when they should change their routine behaviour or avoid travel altogether to stay safe.  It’s critical that we design web pages that clearly and succinctly convey both the nature and the level of risk. To do this, the project team designed a new page template for destinations. The design prioritizes “must know” risks using a new alert pattern and a carefully curated short list of important points.</p>
-
-<h3>Encouraging people to look at both generic and destination-specific advice</h3>
-<p>There are many pages in the travel section of Canada.ca that provide general advice. This includes guidance on travel documents, travelling with children or pets, travel insurance and vaccinations. Often destination-specific pages duplicated this content. Testing uncovered a persistent challenge where people found general advice and assumed they had all the information they needed to make decisions about travelling. They were missing critical destination-specific advice. To address this we removed duplicate “generic” advice from destination-specific pages. We linked to it instead. We also grouped content differently on the navigation. We increased the visibility of topics such as “Planning your trip” and added a “Before you go” checklist. These changes helped people navigate more effectively between both types of advice.</p>
 
 <figure class="mrgn-tp-lg mrgn-bttm-lg">
 <img class="img-responsive border" alt="Travel advice redesign" src="../images/travel-advice/advice-design.png"/>
@@ -148,59 +157,6 @@ main p, main li, main blockquote {
 
 
 
-<div class="row col-md-9">
-<details>
-		 <summary>
-			Task completion success rates – table
-		 </summary>
-			 <div class="table-bravo">
-						 <table class="table table-bordered">
-
-			<thead><tr><th scope="col">Task</th>
-			<th scope="col">Baseline</th>
-			<th scope="col">Validation</th>
-
-		</tr></thead><tbody><tr><td>Idonesia + codeine</td>
-			<td>17%</td>
-			<td>53%</td>
-		</tr><tr><td>Malawi + advice</td>
-			<td>21%</td>
-			<td>84%</td>
-		</tr><tr><td>Spain + lost passport</td>
-			<td>37%</td>
-			<td>53%</td>
-		</tr><tr><td>Cuba + health insurance</td>
-			<td>16%</td>
-			<td>63%</td>
-			<tr><td>Cayman Islands + hurricanes</td>
-				<td>32%</td>
-				<td>78%</td>
-			</tr>
-		</tr><tr><td>Travel checklist</td>
-			<td>11%</td>
-			<td>100%</td>
-		</tr>
-		<tr><td>London appointment</td>
-			<td>12%</td>
-			<td>58%</td>
-		</tr>
-		<tr><td>Costa Rica + yellow fever</td>
-			<td>41%</td>
-			<td>71%</td>
-		</tr>
-		<tr><td>Cambodia + advisory</td>
-			<td>21%</td>
-			<td>37%</td>
-		</tr>
-
-		</tbody>
-	</table>
-</div>
-
-
-</details>
-
-</div>
 
 <div class="clearfix"></div>
 
@@ -208,9 +164,10 @@ main p, main li, main blockquote {
 
 <p>The features of the prototype that had the biggest impact on success rates were:</p>
 <ul>
-	<li>headings that are simple, informative and task-oriented: “Planning your trip,” “Before you go,” “When things go wrong”</li>
-	<li>a page design for destinations where critical information stands out, supporting details are relevant, and additional detail is linked to instead of duplicated</li>
-	<li>content pages that are scannable, with clear and plentiful headings, bulleted lists, and only essential links</li>
+	<li>fewer words, clear labels, plain language</li>
+	<li>a streamlined search experience with fewer, clearer choices for narrowing results/li>
+	<li>simplified, scannable tender notice details that answer key questions for determining relevance and eligibility</li>
+	<li>no PDFs</li>
 </ul>
 <div class="clearfix"></div>
 <h2>Request the research</h2>
@@ -227,7 +184,6 @@ main p, main li, main blockquote {
 
 <ul>
 
-<li>Read our blog post: <a href="#">Content design tips from our Travel advice and advisories and Contact the CRA optimization projects</a></li>
 <li>Read overviews of other <a href="https://blog.canada.ca/pages/project-overview.html#projects">projects with our partners</a></li>
 
 </ul>
@@ -239,7 +195,7 @@ main p, main li, main blockquote {
 <script type="text/javascript">
 	var defPreFooter = document.getElementById("def-preFooter");
 	defPreFooter.outerHTML = wet.builder.preFooter({
-		dateModified: "November 1st, 2019",
+		dateModified: "August 6th, 2020",
 		showPostContent: true,
 		showFeedback: true,
 		showShare: true
