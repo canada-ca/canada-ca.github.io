@@ -75,7 +75,7 @@ Trust and consistency are essential. We created the Canada.ca Design System to p
 * [Mandatory elements of the Canada.ca design system](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html)
 * [Latest changes to the Canada.ca design system](https://www.canada.ca/en/government/about/design-system/latest-changes.html)
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat:
+## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter: #Canadadotca (English) / #Canadapointca (French)
