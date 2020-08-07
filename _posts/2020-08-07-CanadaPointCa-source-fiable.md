@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Canada.ca est une source fiable"
-pubdate: "05 août 2020"
+pubdate: "07 août 2020"
 langpage: "https://blog.canada.ca/2020/08/05/CanadaDotCa-trusted-source.html"
-date:   2020-08-05
+date:   2020-08-07
 published: true
 draft: true
 lang: fr
