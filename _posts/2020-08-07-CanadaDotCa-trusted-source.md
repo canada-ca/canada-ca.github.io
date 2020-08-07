@@ -2,7 +2,7 @@
 layout: post
 title:  "Canada.ca is a trusted source"
 pubdate: "August 7, 2020"
-langpage: "https://blogue.canada.ca/2020/07/15/fatigue-d'alerte.html"
+langpage: "https://blogue.canada.ca/2020/08/07/CanadaPointCa-source-fiable.html"
 date:   2020-08-07
 published: true
 draft: true
