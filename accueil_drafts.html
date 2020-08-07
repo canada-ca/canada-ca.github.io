@@ -12,7 +12,7 @@ lang: fr
 
 <section class="col-md-6">
 
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><img src="./thumbs/{{ post.date | date: "%F" | img_url: '100x100' crop: 'center' }}fr.png" alt="{{ post.alt }}" class="img-responsive thumbnail"></a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><img src="./thumbs/{{ post.date | date: "%F" | img_url: '100x100' }}fr.png" alt="{{ post.alt }}" class="img-responsive thumbnail"></a>
 		<p>{{ post.description }} - <small>[{{ post.date | date: "%F" }}]</small> </p>
 
 </section>
