@@ -2,7 +2,7 @@
 layout: post
 title:  "Canada.ca is a trusted source"
 pubdate: "August 5, 2020"
-langpage: "https://blogue.canada.ca/2020/07/15/fatigue-d'alerte.html"
+langpage: "https://blogue.canada.ca/2020/08/05/CanadaPointCa-source-fiable.html"
 date:   2020-08-05
 published: true
 draft: true
@@ -33,27 +33,32 @@ Most visitors to Canada.ca pages arrive at pages via Google. In the study, they 
 
 Changing "Home" to "Canada.ca" in the breadcrumb, ensures that every page displays Canada.ca. It’s a simple yet highly visible change that improves trust and awareness. 
 
-This change also helps people get to Canada.ca even if the URL of the site they’re on is different, such as those using the gc.ca domain. 
+This change also helps people get to Canada.ca even if the URL of the site they’re on is different, such as those using the gc.ca domain.
 
-<table class="wb-charts wb-charts-bar table">
-  <caption>Changing breadcrumb to "Canada.ca" from "Home" maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
-	<tr>
-		<td></td>
-		<th>Within theme task</th>
-		<th>Outside theme task</th>
-	</tr>
-	<tr>
-		<th>A) Home</th>
-		<td>56%</td>
-		<td>56%</td>
-	</tr>
-	<tr>
-		<th>B) Canada.ca</th>
-		<td>54%</td>
-		<td>59%</td>
-	</tr>
-</table>
-  
+<div class="table-responsive">
+	<table class="wb-tables table table-striped">
+		<caption>Changing breadcrumb to 'Canada.ca' from 'Home' maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
+		<thead>
+			<tr>
+				<td>&nbsp;</td>
+				<th>A) Home</th>
+				<th>B) Canada.ca</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Within theme task</th>
+				<td>56%</td>
+				<td>56%</td>
+			</tr>
+			<tr>
+				<th>Outside theme task</th>
+				<td>54%</td>
+				<td>59%</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
 ## Implementation
 
