@@ -35,7 +35,7 @@ En changeant « Accueil » par « Canada.ca » dans la piste de navigation, on s
 
 Ce changement aide également les gens à accéder à Canada.ca même si l’URL du site sur lequel ils se trouvent est différente, comme ceux qui utilisent le domaine gc.ca.
 
-<table class="wb-charts wb-charts-bar table">
+<table class="wb-charts wb-charts-bar wb-charts-custom table" data-flot='{ "yaxis": { "max": 80} }'>
 	<caption>Le remplacement d’« Accueil » par « Canada.ca » dans la piste de navigation maintient les taux de réussite dans l’étude des tâches du premier clic auprès de 602 visiteurs de Canada.ca.</caption>
 	<thead>
 		<tr>
@@ -79,3 +79,13 @@ La confiance et la cohérence sont essentielles. Nous avons créé le système d
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
 * Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
+
+<script>
+window[ "wb-charts" ] = {
+	flot: {
+		custom: {
+			colors: [ "#4285f3", "#76a5af"]
+		}
+	}
+};
+</script>

@@ -35,7 +35,7 @@ Changing "Home" to "Canada.ca" in the breadcrumb, ensures that every page displa
 
 This change also helps people get to Canada.ca even if the URL of the site they’re on is different, such as those using the gc.ca domain. 
 
-<table class="wb-charts wb-charts-bar table">
+<table class="wb-charts wb-charts-bar wb-charts-custom table" data-flot='{ "yaxis": { "max": 80} }'>
 	<caption>Changing breadcrumb to 'Canada.ca' from 'Home' maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
 	<thead>
 		<tr>
@@ -80,3 +80,13 @@ Trust and consistency are essential. We created the Canada.ca Design System to p
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
+
+<script>
+window[ "wb-charts" ] = {
+	flot: {
+		custom: {
+			colors: [ "#4285f3", "#76a5af"]
+		}
+	}
+};
+</script>
