@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Canada.ca is a trusted source"
-pubdate: "August 5, 2020"
+pubdate: "August 7, 2020"
 langpage: "https://blogue.canada.ca/2020/07/15/fatigue-d'alerte.html"
-date:   2020-08-05
+date:   2020-08-07
 published: true
 draft: true
 lang: en
