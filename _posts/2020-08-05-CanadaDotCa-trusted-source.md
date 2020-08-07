@@ -15,7 +15,7 @@ Throughout the COVID-19 pandemic, the Prime Minister and his ministers have been
 
 ## Building trust through design
 
-In January 2020, the Digital Transformation Office undertook a wayfinding project to examine how people navigate across the Government of Canada (GC) web presence. As part of the project, we looked at changing the label in the breadcrumb at the top of every page from "Home"  to "Canada.ca". 
+In January 2020, the Digital Transformation Office (DTO) undertook a wayfinding project to examine how people navigate across the Government of Canada (GC) web presence. As part of the project, we looked at changing the label in the breadcrumb at the top of every page from "Home"  to "Canada.ca". 
 
 We ran an online study with over 600 Canada.ca users. We compared the two breadcrumb designs. “Canada.ca” performed as effectively as “Home,” while supporting improved brand identity and usability. 
 
@@ -25,7 +25,7 @@ We found the awareness of Canada.ca as a site is not as high as awareness of “
 
 > Participant 1: “I know most of the government URLs — they’re usually gc.ca.” 
 
-Most visitors to Canada.ca pages arrive at pages via Google. In the study, they didn’t see anything on the page that said "Canada.ca". Even the URL may not have included Canada.ca as some departments haven’t moved their sites to that domain . Most participants in our study couldn’t name the site they were on:
+Most visitors to Canada.ca pages arrive at pages via Google. In the study, they didn’t see anything on the page that said "Canada.ca". Even the URL may not have included Canada.ca as some departments haven’t moved their sites to that domain. Most participants in our study couldn’t name the site they were on:
 
 > Participant 4: “Which site am I on? It’s Government of Canada — says it right at the top.” [points to GC signature] 
 
@@ -70,7 +70,7 @@ Within one week, they updated all pages on the Canada.ca domain. The pages with 
 
 Trust and consistency are essential. We created the Canada.ca Design System to provide a more usable, consistent and trustworthy online experience for people who access Government of Canada digital services.  By adopting the Canada.ca design, GC site owners can help their users to easily identify Government of Canada web pages as part of Canada.ca. This means sers can immediately see that what they are looking at comes from a trusted source. 
 
-TBS has instructed GC departments and agencies to adopt the Canada.ca design. The DTO is working with institutions to facilitate adoption of all mandatory elements.  
+The DTO has instructed GC departments and agencies to adopt the Canada.ca design. We are working with institutions to facilitate adoption of all mandatory elements.  
 
 ## Learn more
 * [Breadcrumb trail - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/breadcrumb-trail.html)
