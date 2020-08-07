@@ -25,18 +25,18 @@ We found the awareness of Canada.ca as a site is not as high as awareness of “
 
 > Participant 1: “I know most of the government URLs — they’re usually gc.ca.” 
 
-Most visitors to Canada.ca pages arrive at pages via Google. In the study, they didn’t see anything on the page that said ‘Canada.ca’. Even the URL may not have included Canada.ca as some departments haven’t moved their sites to that domain . Most participants in our study couldn’t name the site they were on:
+Most visitors to Canada.ca pages arrive at pages via Google. In the study, they didn’t see anything on the page that said "Canada.ca". Even the URL may not have included Canada.ca as some departments haven’t moved their sites to that domain . Most participants in our study couldn’t name the site they were on:
 
 > Participant 4: “Which site am I on? It’s Government of Canada — says it right at the top.” [points to GC signature] 
 
 ## Small changes make a big difference
 
-Changing Home to Canada.ca in the breadcrumb, ensures that every page displays Canada.ca. It’s a simple yet highly visible change that improves trust and awareness. 
+Changing "Home" to "Canada.ca" in the breadcrumb, ensures that every page displays Canada.ca. It’s a simple yet highly visible change that improves trust and awareness. 
 
 This change also helps people get to Canada.ca even if the URL of the site they’re on is different, such as those using the gc.ca domain. 
 
 <table class="wb-charts wb-charts-bar table">
-  <caption>Changing breadcrumb to 'Canada.ca' from 'Home' maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
+  <caption>Changing breadcrumb to "Canada.ca" from "Home" maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
 	<tr>
 		<td></td>
 		<th>Education</th>
