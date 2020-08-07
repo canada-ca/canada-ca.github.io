@@ -15,7 +15,7 @@ Tout au long de la pandémie de la COVID-19, le premier ministre et ses ministre
 
 ## Bâtir la confiance grâce à la conception
 
-En janvier 2020, le Bureau de la transformation numérique a entrepris un projet d’orientation pour examiner la façon dont les gens naviguent dans la présence Web du gouvernement du Canada (GC). Dans le cadre du projet, nous avons envisagé de remplacer « Accueil » par « Canada.ca » dans la piste de navigation (le fil d’Ariane) au haut de chaque page.
+En janvier 2020, le Bureau de la transformation numérique (BTN) a entrepris un projet d’orientation pour examiner la façon dont les gens naviguent dans la présence Web du gouvernement du Canada (GC). Dans le cadre du projet, nous avons envisagé de remplacer « Accueil » par « Canada.ca » dans la piste de navigation (le fil d’Ariane) au haut de chaque page.
 
 Nous avons mené une étude en ligne auprès de plus de 600 utilisateurs de Canada.ca. Nous avons comparé les deux conceptions de piste de navigation. « Canada.ca » a obtenu un rendement aussi efficace que le lien « Accueil », tout en soutenant l’amélioration de l’identité de marque et de sa convivialité.
 
@@ -54,7 +54,7 @@ La confiance et la cohérence sont essentielles. Nous avons créé le système d
 * [Éléments obligatoires du système de conception de Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html)
 * [Derniers changements apportés au système de conception de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/derniers-changements.html)
 
-## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor :
+## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
 * Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
