@@ -35,7 +35,28 @@ En changeant « Accueil » par « Canada.ca » dans la piste de navigation, on s
 
 Ce changement aide également les gens à accéder à Canada.ca même si l’URL du site sur lequel ils se trouvent est différente, comme ceux qui utilisent le domaine gc.ca.
 
-Le remplacement d’« Accueil » par « Canada.ca » dans la piste de navigation maintient les taux de réussite dans l’étude des tâches du premier clic auprès de 602 visiteurs de Canada.ca.
+<table class="wb-charts wb-charts-bar table">
+	<caption>Le remplacement d’« Accueil » par « Canada.ca » dans la piste de navigation maintient les taux de réussite dans l’étude des tâches du premier clic auprès de 602 visiteurs de Canada.ca.</caption>
+	<thead>
+		<tr>
+			<td>&nbsp;</td>
+			<th>A) Accueil</th>
+			<th>B) Canada.ca</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>Dans la tâche de thème</th>
+			<td>56&nbsp;%</td>
+			<td>54&nbsp;%</td>
+		</tr>
+		<tr>
+			<th>Hors de la tâche de thème</th>
+			<td>56&nbsp;%</td>
+			<td>59&nbsp;%</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Mise en œuvre
 
