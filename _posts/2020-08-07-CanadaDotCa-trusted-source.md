@@ -45,11 +45,11 @@ This change also helps people get to Canada.ca even if the URL of the site theyâ
 	<tr>
 		<th>Within theme task</th>
 		<td>56%</td>
-		<td>56%</td>
+		<td>54%</td>
 	</tr>
 	<tr>
 		<th>Outside theme task</th>
-		<td>54%</td>
+		<td>56%</td>
 		<td>59%</td>
 	</tr>
 </table>
