@@ -39,18 +39,18 @@ This change also helps people get to Canada.ca even if the URL of the site theyâ
   <caption>Changing breadcrumb to "Canada.ca" from "Home" maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
 	<tr>
 		<td></td>
-		<th>Education</th>
-		<th>Task</th>
+		<th>Within theme task</th>
+		<th>Outside theme task</th>
 	</tr>
 	<tr>
 		<th>A) Home</th>
-		<td>2</td>
-		<td>0</td>
+		<td>56%</td>
+		<td>56%</td>
 	</tr>
 	<tr>
 		<th>B) Canada.ca</th>
-		<td>2</td>
-		<td>2</td>
+		<td>54%</td>
+		<td>59%</td>
 	</tr>
 </table>
   
