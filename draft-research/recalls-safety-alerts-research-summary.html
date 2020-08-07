@@ -63,13 +63,13 @@ main p, main li, main blockquote {
 <main role="main" property="mainContentOfPage" class="container wb-prettify">
 
 	<h1>Research summary: Recalls and safety alerts search optimization, Round 2</h1>
-	<p class="post-meta">August 5, 2020</p>
+	<p class="post-meta">August 7, 2020</p>
 
 	<p>In October of 2019, the Treasury Board’s Digital Transformation Office (DTO) identified an opportunity to follow up on a previous optimization project from 2018: Health Canada’s recalls and safety alerts management system (RSAMS).</p>
 
 	<p>In the first project, we had created a prototype search using the Canada.ca search engine. Results from that project validated many of the hypotheses that had informed the prototype’s design, but the search functionality was limited. This meant that the prototype couldn’t be deployed to the RSAMS environment that was in place at the time.</p>
 
-	<p>For this second project, the team was able to experiment with an open source search solution. We also added a search expert to the project team. The intent was to help Health Canada prepare for implementing search functionality in a new Drupal-based  RSAMS publishing infrastructure, to be launched in FY 2020-2021.</p>
+	<p>For this second project, the team was able to experiment with an open source search solution. We also added a search expert to the project team. The intent was to help Health Canada prepare for implementing search functionality in a new Drupal-based  RSAMS publishing infrastructure, to be launched in the 2020 to 2021 fiscal year. </p>
 
         <p>For the DTO, our goal was to learn more about delivering effective specialized search, so we could provide advice and guidance to other GC institutions offering similar search functionality to their users.</p>
 
@@ -82,9 +82,6 @@ main p, main li, main blockquote {
 <p>When we started the project, we planned for one round of testing. We planned to reuse tasks and baseline data from the first project, and compare task performance to complete the study. Our optimization studies require a minimum of 16 performances of each task for reliable comparison.</p>
 
 <p>Implementing a full search solution within a constrained time frame is a complex task. We found ourselves implementing new features, updating the index, and making significant changes to the product as we tested. This was fantastic for learning and experimenting. It is exactly what should be done in a product development process. The drawback was that it meant we didn’t have our minimum of 16 task performances, so we couldn’t use the test data for comparison.</p>
-
-<h3>Encouraging people to look at both generic and destination-specific advice</h3>
-<p>There are many pages in the travel section of Canada.ca that provide general advice. This includes guidance on travel documents, travelling with children or pets, travel insurance and vaccinations. Often destination-specific pages duplicated this content. Testing uncovered a persistent challenge where people found general advice and assumed they had all the information they needed to make decisions about travelling. They were missing critical destination-specific advice. To address this we removed duplicate “generic” advice from destination-specific pages. We linked to it instead. We also grouped content differently on the navigation. We increased the visibility of topics such as “Planning your trip” and added a “Before you go” checklist. These changes helped people navigate more effectively between both types of advice.</p>
 
 <h2>Defining specialized search</h2>
 
@@ -129,7 +126,7 @@ main p, main li, main blockquote {
 
 <p>Our experience with the RSAMS project reinforced our understanding of the complexity of delivering effective specialized search. The key recommendations, summarized here, apply to any specialized search implementation.</p>
 	
-	<h4>Understand search use cases</h4>
+	<h3>Understand search use cases</h3>
 	
 	<p>It is important to look at the evidence of how people are using specialized search and design the solution to support this.</p>
 
@@ -142,7 +139,7 @@ main p, main li, main blockquote {
 
 	<p> A shared understanding of these patterns can help determine how to structure your content. For example, the RSAMS data did not capture brand names or product codes as a separate field. That undermined precision in search results.</p>
 	
-	<h4>Fix the data at source, with the right people involved</h4>
+	<h3>Fix the data at source, with the right people involved</h3>
 	
 	<p>For RSAMS, a significant area of challenge has been that the content is sourced from multiple groups and institutions. Each has its own processes, templates and formats for publishing recalls and other notices related to the specific products it is responsible for monitoring.</p>
 	
@@ -158,7 +155,7 @@ main p, main li, main blockquote {
 
 <p>Ideally, these types of issues should be fixed at the source, rather than patched afterwards. Getting this right requires bringing together the people most knowledgeable about the data or content.</p>
 	
-	<h4>Dedicate resources to performance monitoring and data curation</h4>
+	<h3>Dedicate resources to performance monitoring and data curation</h3>
 <p>Is your search effective? To answer this question, you need to define metrics for search performance and perform routine analytics.</p>
 
 <p>You need to continually monitor these metrics. They should drive improvements to the relevant search solution component.</p>
