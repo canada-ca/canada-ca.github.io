@@ -2,7 +2,7 @@
 layout: post
 title:  "Canada.ca est une source fiable"
 pubdate: "07 août 2020"
-langpage: "https://blog.canada.ca/2020/08/05/CanadaDotCa-trusted-source.html"
+langpage: "https://blog.canada.ca/2020/08/07/CanadaDotCa-trusted-source.html"
 date:   2020-08-07
 published: true
 draft: true
@@ -46,8 +46,6 @@ En une semaine, il a mis à jour toutes les pages du domaine Canada.ca. Les page
 ## Mot de la fin
 
 La confiance et la cohérence sont essentielles. Nous avons créé le système de conception de Canada.ca pour offrir une expérience en ligne plus utilisable, uniforme et fiable aux personnes qui accèdent aux services numériques du gouvernement du Canada. En adoptant la conception de Canada.ca, les propriétaires de sites du GC peuvent aider leurs utilisateurs à repérer facilement les pages Web du gouvernement du Canada qui font partie de Canada.ca. Les utilisateurs peuvent donc immédiatement voir que ce qu’ils regardent provient d’une source fiable.
-
-Le SCT a demandé aux ministères et organismes du GC d’adopter la conception de Canada.ca. Le BTN travaille avec les établissements pour faciliter l’adoption de tous les éléments obligatoires.
 
 ## Pour en savoir davantage
 
