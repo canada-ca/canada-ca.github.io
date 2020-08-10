@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Canada.ca is a trusted source"
-pubdate: "August 7, 2020"
-langpage: "https://blogue.canada.ca/2020/08/07/CanadaPointCa-source-fiable.html"
-date:   2020-08-07
+pubdate: "August 10, 2020"
+langpage: "https://blogue.canada.ca/2020/08/10/CanadaPointCa-source-fiable.html"
+date:   2020-08-10
 published: true
 draft: true
 lang: en
