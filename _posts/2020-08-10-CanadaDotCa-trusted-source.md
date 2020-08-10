@@ -35,8 +35,6 @@ Changing "Home" to "Canada.ca" in the breadcrumb, ensures that every page displa
 
 This change also helps people get to Canada.ca even if the URL of the site theyâ€™re on is different, such as those using the gc.ca domain.
 
-<br>
-
 <table class="table table-slim">
 	<caption>Changing breadcrumb to &quot;Canada.ca&quot; from &quot;Home&quot; maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
 	<thead>
@@ -59,8 +57,6 @@ This change also helps people get to Canada.ca even if the URL of the site theyâ
 		</tr>
 	</tbody>
 </table>
-
-<br>
 
 ## Implementation
 
