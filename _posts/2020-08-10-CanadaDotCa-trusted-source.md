@@ -33,7 +33,9 @@ Most visitors to Canada.ca pages arrive at pages via Google. In the study, they 
 
 Changing "Home" to "Canada.ca" in the breadcrumb, ensures that every page displays Canada.ca. It’s a simple yet highly visible change that improves trust and awareness. 
 
-This change also helps people get to Canada.ca even if the URL of the site they’re on is different, such as those using the gc.ca domain. 
+This change also helps people get to Canada.ca even if the URL of the site they’re on is different, such as those using the gc.ca domain.
+
+<br>
 
 <table class="table table-slim">
 	<caption>Changing breadcrumb to &quot;Canada.ca&quot; from &quot;Home&quot; maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
@@ -57,7 +59,8 @@ This change also helps people get to Canada.ca even if the URL of the site they�
 		</tr>
 	</tbody>
 </table>
-  
+
+<br>
 
 ## Implementation
 
