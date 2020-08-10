@@ -79,13 +79,3 @@ La confiance et la cohérence sont essentielles. Nous avons créé le système d
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
 * Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-
-<script>
-window[ "wb-charts" ] = {
-	flot: {
-		custom: {
-			colors: [ "#4285f3", "#76a5af"]
-		}
-	}
-};
-</script>
