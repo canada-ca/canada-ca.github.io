@@ -27,7 +27,7 @@ Nous avons constaté que la sensibilisation de Canada.ca en tant que site n’es
 
 La plupart des visiteurs des pages Canada.ca arrivent par Google. Dans l’étude, ils n’ont rien vu sur la page qui disait « Canada.ca ». Même l’URL n’a peut-être pas inclus Canada.ca, car certains ministères n’ont pas déplacé leurs sites vers ce domaine. La plupart des participants à notre étude ne pouvaient nommer le site où ils se trouvaient.
 
-> Participant 4 : « Sur quel site suis-je? C’est le gouvernement du Canada. Ça le dit dans le haut. » [pointe la signature du GC]
+> Participant 4 : « Sur quel site suis-je? C’est le gouvernement du Canada. Ça le dit dans le haut. » [pointe à la signature du GC]
 
 ## De petits changements font toute la différence
 
@@ -36,7 +36,7 @@ En changeant « Accueil » par « Canada.ca » dans la piste de navigation, on s
 Ce changement aide également les gens à accéder à Canada.ca même si l’URL du site sur lequel ils se trouvent est différente, comme ceux qui utilisent le domaine gc.ca.
 
 <table class="table table-slim">
-	<caption>Le remplacement d’« Accueil » par « Canada.ca » dans la piste de navigation maintient les taux de réussite dans l’étude des tâches du premier clic auprès de 602 visiteurs de Canada.ca.</caption>
+	<caption>Le remplacement d’« Accueil » par « Canada.ca » dans la piste de navigation maintient les taux de réussite dans l’étude des tâches du premier clic auprès de 602 visiteurs de Canada.ca</caption>
 	<thead>
 		<tr>
 			<td>&nbsp;</td>
