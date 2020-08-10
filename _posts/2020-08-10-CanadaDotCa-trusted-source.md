@@ -35,8 +35,13 @@ Changing "Home" to "Canada.ca" in the breadcrumb, ensures that every page displa
 
 This change also helps people get to Canada.ca even if the URL of the site theyâ€™re on is different, such as those using the gc.ca domain. 
 
-<table class="wb-charts wb-charts-bar wb-charts-custom table" data-flot='{ "yaxis": { "max": 80} }'>
-	<caption>Changing breadcrumb to 'Canada.ca' from 'Home' maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
+<table class="wb-charts wb-charts-bar wb-charts-custom table"
+       data-flot="{ 
+        &quot;yaxis&quot;: { 
+          &quot;max&quot;: 80
+        } 
+      }">
+	<caption>Changing breadcrumb to &quot;Canada.ca&quot; from &quot;Home&quot; maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
 	<thead>
 		<tr>
 			<td>&nbsp;</td>
@@ -46,12 +51,12 @@ This change also helps people get to Canada.ca even if the URL of the site theyâ
 	</thead>
 	<tbody>
 		<tr>
-			<th>Within theme task</th>
+			<th data-flot='{"color":"#4285f3"}'>Within theme task</th>
 			<td>56%</td>
 			<td>54%</td>
 		</tr>
 		<tr>
-			<th>Outside theme task</th>
+			<th data-flot='{"color":"#76a5af"}'>Outside theme task</th>
 			<td>56%</td>
 			<td>59%</td>
 		</tr>
