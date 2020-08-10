@@ -46,12 +46,12 @@ This change also helps people get to Canada.ca even if the URL of the site theyâ
 	</thead>
 	<tbody>
 		<tr>
-			<th data-flot='{"color":"#4285f3"}'>Within theme task</th>
+			<th>Within theme task</th>
 			<td>56%</td>
 			<td>54%</td>
 		</tr>
 		<tr>
-			<th data-flot='{"color":"#76a5af"}'>Outside theme task</th>
+			<th>Outside theme task</th>
 			<td>56%</td>
 			<td>59%</td>
 		</tr>

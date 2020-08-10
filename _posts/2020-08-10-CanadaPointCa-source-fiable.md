@@ -46,12 +46,12 @@ Ce changement aide également les gens à accéder à Canada.ca même si l’URL
 	</thead>
 	<tbody>
 		<tr>
-			<th data-flot='{"color":"#4285f3"}'>Dans le cadre d'une tâche de thème</th>
+			<th>Dans le cadre d'une tâche de thème</th>
 			<td>56&nbsp;%</td>
 			<td>54&nbsp;%</td>
 		</tr>
 		<tr>
-			<th data-flot='{"color":"#76a5af"}'>Tâche hors thème</th>
+			<th>Tâche hors thème</th>
 			<td>56&nbsp;%</td>
 			<td>59&nbsp;%</td>
 		</tr>
