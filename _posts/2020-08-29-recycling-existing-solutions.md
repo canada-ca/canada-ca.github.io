@@ -1,9 +1,24 @@
+---
+layout: post
+title:  "Recycling an existing solution for the COVID-19 real-time updates"
+pubdate: "August 29, 2020"
+langpage: "https://blogue.canada.ca/2020/08/10/CanadaPointCa-source-fiable.html"
+date:   2020-08-29
+published: true
+draft: true
+lang: en
+alt: "Recycling an existing solution for the COVID-19 real-time updates"
+description: "With the increase in phishing campaigns and scams related to COVID-19 on government sites, it is more important than ever to provide a consistent and trustworthy user experience."
+---
 
-Recycling an existing solution for the COVID-19 real-time updates
 By Kelly Galbraith, Program advisor, Employment and Social Development Canada
+
 In the digital world, there isn’t always a need to reinvent the wheel. We’re finding ways to reduce workloads and delivery times by re-using solutions that we know work. These solutions come from unparalleled collaborations between many teams.
+
 In March 2020, as the spread of COVID-19 was increasing, Health Canada wanted to make sure that Canada.ca visitors were getting the most up-to-date numbers of cases and deaths in Canada. They also wanted to avoid any potential lags or inconsistencies due to manual updates. They needed a web solution that could update the numbers across many pages at once, and they needed something quickly. They reached out to Service Canada to see what could be done.
+
 The COVID-19 real-time updates solution went live two days after the request came in on March 27. The updates appear on the COVID-19 landing page and the main outbreak update page on Canada.ca.
+
 Coronavirus disease (COVID-19)
 Outbreak update
 Using the old to create the new
