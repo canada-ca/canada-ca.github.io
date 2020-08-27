@@ -10,7 +10,7 @@ lang: en
 alt: "Recycling an existing solution for the COVID-19 real-time updates"
 description: "With the increase in phishing campaigns and scams related to COVID-19 on government sites, it is more important than ever to provide a consistent and trustworthy user experience."
 ---
-By Kelly Galbraith, Program advisor, Employment and Social Development Canada
+By Kelly Galbraith, Communications officer, Digital Service Directorate, Service Canada
 
 In the digital world, there isn’t always a need to reinvent the wheel. We’re finding ways to reduce workloads and delivery times by re-using solutions that we know work. These solutions come from unparalleled collaborations between many teams.
 
