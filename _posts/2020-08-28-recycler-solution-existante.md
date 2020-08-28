@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "Recycler une solution existante pour obtenir une mise à jour en temps réel sur la COVID-19"
-description: "Compte tenu de l’augmentation des campagnes d’hameçonnage et des escroqueries liées à la COVID-19 sur les sites gouvernementaux, il est plus important que jamais d’offrir une expérience utilisateur uniforme et fiable."
+description: "Dans le monde numérique, il n’est pas toujours nécessaire de réinventer la roue. Nous trouvons des façons de réduire la charge de travail et les délais de livraison en réutilisant des solutions qui, nous le savons, fonctionnent. Ces solutions sont le fruit de collaborations sans précédent entre de nombreuses équipes."
 ---
 
 par Kelly Galbraith, Agente de communication, Direction du service numérique, Service Canada
@@ -45,7 +45,7 @@ Les mises à jour en temps réel ne sont pas la seule solution numérique liée 
 
 La collaboration et le recyclage peuvent contribuer grandement à fournir rapidement aux Canadiens les outils dont ils ont besoin pour demeurer en sécurité, en santé et bien informés.  
 
-Contactez Melissa.Teasdale@servicecanada.gc.ca pour plus d'informations.
+Contactez [Melissa.Teasdale@servicecanada.gc.ca](mailto:Melissa.Teasdale@servicecanada.gc.ca) pour plus d'informations.
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
