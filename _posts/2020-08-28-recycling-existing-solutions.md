@@ -2,7 +2,7 @@
 layout: post
 title:  "Recycling an existing solution for the COVID-19 real-time updates"
 pubdate: "August 28, 2020"
-langpage: "https://blogue.canada.ca/2020/08/10/CanadaPointCa-source-fiable.html"
+langpage: "https://blogue.canada.ca/2020/08/28/recycler-solution-existante.html"
 date:   2020-08-28
 published: true
 draft: true
@@ -52,4 +52,3 @@ Contact [Melissa.Teasdale@servicecanada.gc.ca](mailto:Melissa.Teasdale@serviceca
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-
