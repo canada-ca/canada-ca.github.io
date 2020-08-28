@@ -45,6 +45,8 @@ Real-time updates isn’t the only COVID-19 digital solution we can recycle. For
 
 Collaborating and recycling can go a long way toward quickly providing the tools Canadians need to stay safe, healthy and informed. 
 
+Contact [Melissa.Teasdale@servicecanada.gc.ca](mailto:Melissa.Teasdale@servicecanada.gc.ca) for more information.
+
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
