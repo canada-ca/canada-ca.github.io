@@ -45,8 +45,6 @@ Les mises à jour en temps réel ne sont pas la seule solution numérique liée 
 
 La collaboration et le recyclage peuvent contribuer grandement à fournir rapidement aux Canadiens les outils dont ils ont besoin pour demeurer en sécurité, en santé et bien informés.  
 
-Contactez [Melissa.Teasdale@servicecanada.gc.ca](mailto:Melissa.Teasdale@servicecanada.gc.ca) pour plus d'informations.
-
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
