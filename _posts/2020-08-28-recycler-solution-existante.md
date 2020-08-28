@@ -18,8 +18,8 @@ Dans le monde numérique, il n’est pas toujours nécessaire de réinventer la 
 En mars 2020, alors que la COVID-19 se propageait de plus en plus, Santé Canada voulait s’assurer que les visiteurs de Canada.ca obtenaient le plus récent nombre de cas et de décès au Canada. Ils voulaient également éviter tout retard ou incohérence possible en raison des mises à jour manuelles. Ils avaient besoin d’une solution Web qui pouvait mettre à jour les chiffres sur de nombreuses pages en même temps, et cette solution devait être mise en place rapidement. Ils ont communiqué avec Service Canada pour voir ce qui pouvait être fait.
 
 La solution de mise à jour en temps réel sur la COVID-19 est entrée en service deux jours après la réception de la demande, soit le 27 mars. Les mises à jour apparaissent sur la page d’accueil de la COVID-19 et sur la page principale de mise à jour sur l’éclosion du site Canada.ca.
-*	Maladie à coronavirus (COVID-19)
-*	Mise à jour sur l’éclosion
+*	[Maladie à coronavirus (COVID-19)](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html)
+*	[Mise à jour sur l’éclosion](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus.html)
 
 ## Utiliser ce que nous avons pour créer du nouveau
 
@@ -28,7 +28,7 @@ Cette solution de mise à jour en temps réel n’est pas nouvelle. En fait, Ser
 Le site Canada.ca reçoit des données en direct des centres d’appels et les affiche dans un format lisible. Cela donne aux appelants l’information dont ils ont besoin pour décider du meilleur moment pour appeler. Les mises à jour en temps réel sur la COVID-19 apparaissent grâce à un processus automatique similaire. Le site Canada.ca reçoit les données de l’Agence de la santé publique du Canada et les transforme dans un format lisible pour les pages Web. Cette opération se produit toutes les cinq minutes pour s’assurer que l’information la plus récente est disponible.
 
 Plus récemment, Service Canada et Santé Canada ont fait équipe de nouveau pour offrir des mises à jour en temps réel sur les expositions possibles à la COVID-19 :
-* Endroits où vous pourriez avoir été exposé à la COVID-19
+* [Endroits où vous pourriez avoir été exposé à la COVID-19](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs/exposition-vols-navires-croisiere-rassemblements-masse.html)
  
 ## Créer ensemble des solutions reproductibles
 
