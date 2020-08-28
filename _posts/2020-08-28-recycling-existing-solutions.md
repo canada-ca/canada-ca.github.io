@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Recycling an existing solution for the COVID-19 real-time updates"
-pubdate: "August 29, 2020"
+pubdate: "August 28, 2020"
 langpage: "https://blogue.canada.ca/2020/08/10/CanadaPointCa-source-fiable.html"
-date:   2020-08-29
+date:   2020-08-28
 published: true
 draft: true
 lang: en
