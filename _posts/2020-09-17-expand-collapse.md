@@ -1,21 +1,73 @@
 ---
 layout: post
-title:  "Recycling an existing solution for the COVID-19 real-time updates"
+title:  "Using expand/collapse for making choices"
 pubdate: "September 17, 2020"
 langpage: "https://blogue.canada.ca/2020/08/28/recycler-solution-existante.html"
 date:   2020-09-17
 published: true
 draft: true
 lang: en
-alt: "Recycling an existing solution for the COVID-19 real-time updates"
+alt: "Using expand/collapse for making choices"
 description: "In the digital world, there isn’t always a need to reinvent the wheel. We’re finding ways to reduce workloads and delivery times by re-using solutions that we know work. These solutions come from unparalleled collaborations between many teams."
 ---
+Since March 2020, the Digital Transformation Office (DTO) has conducted over 45 usability tests and user research studies to offer evidence-based guidance that helped inform the publication of pandemic-related web resources. We are also relying on previous optimization projects to provide a more usable, consistent and trustworthy online experience on Canada.ca. 
 
+The expand/collapse pattern is just one of many patterns in the Canada.ca design system library that can help you improve the way users interact with your web content. But use it with care!
 
+## Testing the pattern with users
+
+In November 2019, the Digital Transformation Office (DTO) modified Canada.ca guidance to allow the use of the expand/collapse design pattern to present a choice between mutually exclusive answers. Also known as the accordion pattern, the expand/collapse pattern allows you to hide content until it’s requested or relevant. A trigger link shows or hides the content when a user selects it.
+
+Insert working example from https://design.canada.ca/common-design-patterns/collapsible-content.html
+
+The expand/collapse pattern was successfully tested during 2 optimization projects with the Canada Revenue Agency (CRA). In both projects, we used the pattern to simplify page layouts and reduce cognitive load. The pattern helps people find and focus on the content that’s relevant to their situation.
+
+[Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
+
+Based on the positive results of our optimization projects, we’ve used the expand/collapse pattern on more pages to help Canadians find the answers they need regarding the COVID-19 pandemic.
+
+* [Canada Emergency Response Benefit](https://www.canada.ca/en/services/benefits/ei/cerb-application.html#payments)
+* [Canada Emergency Student Benefit](https://www.canada.ca/en/revenue-agency/services/benefits/emergency-student-benefit/cesb-how-much.html)
+* [Canada’s COVID-19 Economic Response Plan](https://www.canada.ca/en/department-finance/economic-response-plan.html)
+
+## When to use expand/collapse
+
+You can use the expand/collapse pattern in 2 specific situations:
+
+### 1. Presenting a choice between mutually exclusive answers
+
+Use this pattern when people need different answers depending on their situation and when these answers are mutually exclusive. Research has shown that when all the options are visible, people tend to spend time reading answers that are irrelevant to their task. They may not realize the content is under a heading that doesn’t apply to them. They get confused and think they have the right answer when they don’t.
+
+Using this pattern can help people focus only on what applies specifically to them. 
+
+(add in graphic)
+
+### 2. Presenting secondary information
+
+You can also use this pattern to prevent secondary content from interfering with the main task.
+
+This can be content that applies to most people, but that only a few people may need to use (for example, a privacy statement or additional details not needed to accomplish the main task).
+
+It can also be content that applies only to a minority of people (such as when there is specific information for a specific audience).
+
+(insert image)
+
+The code and instructions for how to implement this pattern are in the Template and pattern library of the Canada.ca design system: 
+* [Expand/Collapse - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/collapsible-content.html)
+
+## User-tested templates and layouts
+
+Starting with user-tested templates, patterns and design principles can help your team get going quickly, saving you time and money. 
+For more information on how to use this and other design patterns, check out the [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html).
+
+## Learn more
+
+* [Accordions on mobile](https://www.nngroup.com/articles/mobile-accordions/)
+* [Expand/Collapse - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/collapsible-content.html)
+* [Improving content on Canada.ca](https://blog.canada.ca/pages/project-overview.html)
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-
