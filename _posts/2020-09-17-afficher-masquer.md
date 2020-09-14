@@ -1,49 +1,68 @@
 ---
 layout: post
-title:  "Recycler une solution existante pour obtenir une mise à jour en temps réel sur la COVID-19"
+title:  "Utiliser le modèle afficher/masquer pour faire des choix"
 pubdate: "17 septembre 2020"
-langpage: "https://blog.canada.ca/2020/08/28/recycling-existing-solutions"
+langpage: "https://blog.canada.ca/2020/09/17/expand-collapse"
 date:   2020-09-17
 published: true
 draft: true
 lang: fr
-alt: "Recycler une solution existante pour obtenir une mise à jour en temps réel sur la COVID-19"
-description: "Dans le monde numérique, il n’est pas toujours nécessaire de réinventer la roue. Nous trouvons des façons de réduire la charge de travail et les délais de livraison en réutilisant des solutions qui, nous le savons, fonctionnent. Ces solutions sont le fruit de collaborations sans précédent entre de nombreuses équipes."
+alt: "Utiliser le modèle afficher/masquer pour faire des choix"
+description: " "
 ---
+Depuis mars 2020, le Bureau de la transformation numérique (BTN) a mené plus de 45 tests d’utilisabilité et études de recherche auprès des utilisateurs afin d’offrir des directives fondées sur des données probantes pendant la pandémie. Nous comptons également sur les projets d’optimisation précédents pour offrir une expérience en ligne plus utilisable, uniforme et fiable sur Canada.ca. 
 
-par Kelly Galbraith, Agente de communication, Direction du service numérique, Service Canada
+Le modèle afficher/masquer n’est qu’un des nombreux modèles de la bibliothèque du système de conception de Canada.ca qui peuvent vous aider à améliorer la façon dont les utilisateurs interagissent avec votre contenu Web. Il faut toutefois l’utiliser avec soin!
 
-Dans le monde numérique, il n’est pas toujours nécessaire de réinventer la roue. Nous trouvons des façons de réduire la charge de travail et les délais de livraison en réutilisant des solutions qui, nous le savons, fonctionnent. Ces solutions sont le fruit de collaborations sans précédent entre de nombreuses équipes.
+## Mise à l’essai du modèle auprès des utilisateurs
 
-En mars 2020, alors que la COVID-19 se propageait de plus en plus, Santé Canada voulait s’assurer que les visiteurs de Canada.ca obtenaient le plus récent nombre de cas et de décès au Canada. Ils voulaient également éviter tout retard ou incohérence possible en raison des mises à jour manuelles. Ils avaient besoin d’une solution Web qui pouvait mettre à jour les chiffres sur de nombreuses pages en même temps, et cette solution devait être mise en place rapidement. Ils ont communiqué avec Service Canada pour voir ce qui pouvait être fait.
+En novembre 2019, le Bureau de la transformation numérique (BTN) a modifié les directives de Canada.ca pour permettre l’utilisation du modèle afficher/masquer afin de présenter un choix entre des réponses mutuellement exclusives. Aussi appelé « accordéon », le modèle afficher/masquer vous permet de masquer le contenu jusqu’à ce qu’il soit demandé ou pertinent. Un lien de déclenchement affiche ou masque le contenu lorsqu’un utilisateur le sélectionne.
 
-La solution de mise à jour en temps réel sur la COVID-19 est entrée en service deux jours après la réception de la demande, soit le 27 mars. Les mises à jour apparaissent sur la page d’accueil de la COVID-19 et sur la page principale de mise à jour sur l’éclosion du site Canada.ca.
-*	[Maladie à coronavirus (COVID-19)](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html)
-*	[Mise à jour sur l’éclosion](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus.html)
+Insérer un exemple pratique de https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html
 
-## Utiliser ce que nous avons pour créer du nouveau
+Le modèle afficher/masquer a été testé avec succès dans le cadre de deux projets d’optimisation auprès de l’Agence du revenu du Canada (ARC). Dans les deux projets, nous avons utilisé le modèle pour simplifier la mise en page et réduire la charge cognitive. Le modèle aide les gens à trouver le contenu qui convient à leur situation et à se concentrer sur celui-ci.
 
-Cette solution de mise à jour en temps réel n’est pas nouvelle. En fait, Service Canada a recyclé la solution existante qu’elle utilise pour afficher les temps d’attente pour les centres d’appels 1-800 O-CANADA.
+[Résumé de la recherche : Communiquer avec l’ARC](https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html)
 
-Le site Canada.ca reçoit des données en direct des centres d’appels et les affiche dans un format lisible. Cela donne aux appelants l’information dont ils ont besoin pour décider du meilleur moment pour appeler. Les mises à jour en temps réel sur la COVID-19 apparaissent grâce à un processus automatique similaire. Le site Canada.ca reçoit les données de l’Agence de la santé publique du Canada et les transforme dans un format lisible pour les pages Web. Cette opération se produit toutes les cinq minutes pour s’assurer que l’information la plus récente est disponible.
+Pendant la pandémie de COVID-19, à la lumière des résultats positifs de nos projets d’optimisation, nous avons utilisé le modèle afficher/masquer sur plus de pages pour aider les Canadiens à trouver les réponses dont ils ont besoin.
 
-Plus récemment, Service Canada et Santé Canada ont fait équipe de nouveau pour offrir des mises à jour en temps réel sur les expositions possibles à la COVID-19 :
-* [Endroits où vous pourriez avoir été exposé à la COVID-19](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs/exposition-vols-navires-croisiere-rassemblements-masse.html)
- 
-## Créer ensemble des solutions reproductibles
+* [Prestation canadienne d’intervention d’urgence](https://www.canada.ca/fr/services/prestations/ae/pcusc-application.html#payments)
+* [Prestation canadienne d’urgence pour les étudiants (PCUE)](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-urgence-etudiants/pcue-combien-recevoir.html)
+* [Plan d’intervention économique du Canada pour répondre à la COVID-19](https://www.canada.ca/fr/ministere-finances/plan-intervention-economique.html)
 
-Ce que nous avons appris au sujet de cette solution, c’est qu’elle est reproductible. Au cours des dernières années, les calendriers de la fête du Canada et du Bal de Neige ont également utilisé des mises à jour en temps réel. Santé Canada peut maintenant y avoir accès rapidement lorsque des besoins semblables se présentent. D’autres institutions du gouvernement du Canada peuvent également s’en servir pour mettre à jour, en temps quasi réel, toute mesure utile pour le public.
+## Quand utiliser le modèle afficher/masquer
 
-Voici quelques avantages de la solution :
-*	peu d’efforts humains requis;
-*	moins d’incohérences;
-*	mises à jour simultanées de nombreuses pages en même temps.
+Vous pouvez utiliser le modèle afficher/masquer dans deux situations précises :
 
-## Réduire, réutiliser et recycler
+## 1. Présenter un choix entre des réponses mutuellement exclusives
 
-Les mises à jour en temps réel ne sont pas la seule solution numérique liée à la COVID-19 que nous pouvons recycler. Par exemple, nous pouvons utiliser le service de courriel « Obtenir les nouvelles sur la COVID-19 » afin d’offrir des mises à jour fiables et opportunes au public par courriel. Un autre exemple est la page « Annonces liées à la COVID-19 ». Nous pouvons répéter l’expérience pour réunir des articles sur n’importe quel sujet pertinent.
+Utilisez ce modèle lorsque les gens doivent obtenir des réponses différentes en fonction de leur situation et lorsque ces réponses sont mutuellement exclusives. La recherche a démontré que lorsque toutes les options sont visibles, les gens ont tendance à passer du temps à lire des réponses qui ne sont pas pertinentes pour leur tâche. Ils ne se rendent peut-être pas compte que le contenu se trouve sous une rubrique qui ne s’applique pas à eux. Ils s’embrouillent et pensent à tort avoir trouvé la bonne réponse.
 
-La collaboration et le recyclage peuvent contribuer grandement à fournir rapidement aux Canadiens les outils dont ils ont besoin pour demeurer en sécurité, en santé et bien informés.  
+L’utilisation de ce modèle peut aider les gens à se concentrer uniquement sur ce qui s’applique précisément à eux. 
+
+## 2. Présenter des renseignements secondaires
+
+Vous pouvez également utiliser ce modèle pour éviter que le contenu secondaire n'interfère avec la tâche principale.
+
+Il peut s’agir d'un contenu qui s’applique à la plupart des gens, mais que seules quelques personnes peuvent avoir besoin d’utiliser (par exemple, une déclaration de confidentialité ou des renseignements supplémentaires qui ne sont pas nécessaires pour accomplir la tâche principale).
+
+Il peut également s’agir d'un contenu qui ne s'applique qu’à une minorité de personnes (par exemple lorsqu’il existe des renseignements spécifiques destinés à un public spécifique).
+
+Le code et les instructions pour la mise en œuvre de ce modèle se trouvent dans la bibliothèque de modèles et de configurations du système de conception de Canada.ca : 
+
+* [Afficher/masquer - Configuration de conception de Canada.ca ](https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html)
+
+## Modèles et configurations de conception testés par les utilisateurs
+
+Commencer avec des modèles et des configurations de conception testés par les utilisateurs peut aider votre équipe à aller de l’avant rapidement, ce qui vous fera économiser temps et argent. 
+
+Pour en savoir plus sur la façon d’utiliser le modèle afficher/masquer et d’autres modèles de conception, consultez le [système de conception de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html).
+
+## Pour en savoir davantage
+
+* [Accordéons pour appareil mobile](https://www.nngroup.com/articles/mobile-accordions/) (en anglais seulement)
+* [Afficher/masquer - Configuration de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html)
+* [Améliorer le contenu sur Canada.ca](https://blogue.canada.ca/pages/apercu-projet.html)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
