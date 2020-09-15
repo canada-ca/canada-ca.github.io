@@ -2,13 +2,13 @@
 layout: post
 title:  "Using expand/collapse for making choices"
 pubdate: "September 17, 2020"
-langpage: "https://blogue.canada.ca/2020/08/28/recycler-solution-existante.html"
+langpage: "https://blogue.canada.ca/2020/09/17/afficher-masquer.html"
 date:   2020-09-17
 published: true
 draft: true
 lang: en
 alt: "Using expand/collapse for making choices"
-description: "In the digital world, there isn’t always a need to reinvent the wheel. We’re finding ways to reduce workloads and delivery times by re-using solutions that we know work. These solutions come from unparalleled collaborations between many teams."
+description: " "
 ---
 Since March 2020, the Digital Transformation Office (DTO) has conducted over 45 usability tests and user research studies to offer evidence-based guidance that helped inform the publication of pandemic-related web resources. We are also relying on previous optimization projects to provide a more usable, consistent and trustworthy online experience on Canada.ca. 
 
@@ -18,7 +18,29 @@ The expand/collapse pattern is just one of many patterns in the Canada.ca design
 
 In November 2019, the Digital Transformation Office (DTO) modified Canada.ca guidance to allow the use of the expand/collapse design pattern to present a choice between mutually exclusive answers. Also known as the accordion pattern, the expand/collapse pattern allows you to hide content until it’s requested or relevant. A trigger link shows or hides the content when a user selects it.
 
-Insert working example from https://design.canada.ca/common-design-patterns/collapsible-content.html
+<h3>Determine if you are in a shared custody situation</h3>
+<p>Does the child spend their time:</p>
+<ul class="list-unstyled">
+ <li>
+  <details>
+   <summary>about equally between both parents</summary>
+   <p>If the child shares their time about equally between the parents, then both parents are considered to have <strong>shared custody</strong> of that child...</p>
+  </details>
+ </li>
+ <li>
+  <details>
+   <summary>mostly with you</summary>
+   <p>If the child lives with you most of the time, you are considered to have <strong>primary custody</strong> for the purposes of the Canada child benefit...</p>
+  </details>
+ </li>
+ <li>
+  <details>
+   <summary>mostly with the other parent</summary>
+   <p>If the child lives with the other parent most of the time, the other parent is considered to have <strong>primary custody</strong> for the purposes of the Canada child benefit...</p>
+  </details>
+ </li>
+</ul>
+
 
 The expand/collapse pattern was successfully tested during 2 optimization projects with the Canada Revenue Agency (CRA). In both projects, we used the pattern to simplify page layouts and reduce cognitive load. The pattern helps people find and focus on the content that’s relevant to their situation.
 
