@@ -41,7 +41,6 @@ In November 2019, the DTO modified Canada.ca guidance to allow the use of the ex
  </li>
 </ul>
 
-
 The expand/collapse pattern was successfully tested during 2 optimization projects with the Canada Revenue Agency (CRA). In both projects, we used the pattern to simplify page layouts and reduce cognitive load. The pattern helps people find and focus on the content that’s relevant to their situation.
 
 [Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
@@ -64,7 +63,7 @@ Using this pattern can help people focus only on what applies specifically to th
 
 <br><figure>
 <img class="img-responsive border" alt=" Below the question "Is your direct deposit and mailing information up to date with the CRA?" expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, "Great. This will ensure your benefit payment will be delivered to you.""
- src="/images/expand-collapse-1.PNG" width="500">
+ src="/images/expand-collapse-1.jpg" width="500">
 </figure>
 <br>
 
