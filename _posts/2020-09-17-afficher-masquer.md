@@ -18,28 +18,13 @@ Le modèle afficher/masquer n’est qu’un des nombreux modèles de la biblioth
 
 En novembre 2019, le Bureau de la transformation numérique (BTN) a modifié les directives de Canada.ca pour permettre l’utilisation du modèle afficher/masquer afin de présenter un choix entre des réponses mutuellement exclusives. Aussi appelé « accordéon », le modèle afficher/masquer vous permet de masquer le contenu jusqu’à ce qu’il soit demandé ou pertinent. Un lien de déclenchement affiche ou masque le contenu lorsqu’un utilisateur le sélectionne.
 
-<h3>Déterminez si vous êtes dans une situation de garde partagée</h3>
-<p>L'enfant passe-t-il son temps :</p>
-<ul class="list-unstyled">
- <li>
+<div class="pattern-demo mrgn-bttm-md">
+  <p>Exemple :</p>
   <details>
-   <summary>environ de façon égale avec chaque deux parents</summary>
-   <p>Si l'enfant partage son temps environ de façon égale entre les deux parents, les deux parents sont considérés avoir la  <strong>garde partagée</strong> de cet enfant...</p>
+    <summary>Vous devez cliquer sur cette zone pour afficher ou masquer le contenu</summary>
+    <p>Ce texte est masqué jusqu'à ce qu'il soit affiché.</p>
   </details>
- </li>
- <li>
-  <details>
-   <summary>avec vous la plupart du temps</summary>
-   <p>Si l'enfant vit avec vous la plupart du temps, vous êtes considéré avoir la  <strong>garde principale</strong> pour les besoins de l'Allocation canadienne pour enfants...</p>
-  </details>
- </li>
- <li>
-  <details>
-   <summary>avec l'autre parent la plupart du temps</summary>
-   <p>Si l'enfant vit avec l'autre parent la plupart du temps, l'autre parent est considéré avoir la  <strong>garde principale</strong> pour les besoins de l'Allocation canadienne pour enfants...</p>
-  </details>
- </li>
-</ul>
+</div>
 
 Le modèle afficher/masquer a été testé avec succès dans le cadre de deux projets d’optimisation auprès de l’Agence du revenu du Canada (ARC). Dans les deux projets, nous avons utilisé le modèle pour simplifier la mise en page et réduire la charge cognitive. Le modèle aide les gens à trouver le contenu qui convient à leur situation et à se concentrer sur celui-ci.
 
