@@ -16,7 +16,7 @@ The expand/collapse pattern is just one of many patterns in the Canada.ca design
 
 ## Testing the pattern with users
 
-In November 2019, the Digital Transformation Office (DTO) modified Canada.ca guidance to allow the use of the expand/collapse design pattern to present a choice between mutually exclusive answers. Also known as the accordion pattern, the expand/collapse pattern allows you to hide content until it’s requested or relevant. A trigger link shows or hides the content when a user selects it.
+In November 2019, the DTO modified Canada.ca guidance to allow the use of the expand/collapse design pattern to present a choice between mutually exclusive answers. Also known as the accordion pattern, the expand/collapse pattern allows you to hide content until it’s requested or relevant. A trigger link shows or hides the content when a user selects it.
 
 <h3>Determine if you are in a shared custody situation</h3>
 <p>Does the child spend their time:</p>
@@ -62,7 +62,13 @@ Use this pattern when people need different answers depending on their situation
 
 Using this pattern can help people focus only on what applies specifically to them. 
 
-(add in graphic)
+<br><figure>
+<img class="img-responsive border" alt=" Below the question "Is your direct deposit and mailing information up to date with the CRA?" expand/collapse patterns offer 2 possible answers: Yes and No.
+
+The second image shows the Yes option expanded with the message, "Great. This will ensure your benefit payment will be delivered to you.""
+ src="/images/expand-collapse-1.jpg" width="500">
+</figure>
+<br>
 
 ### 2. Presenting secondary information
 
@@ -72,7 +78,11 @@ This can be content that applies to most people, but that only a few people may 
 
 It can also be content that applies only to a minority of people (such as when there is specific information for a specific audience).
 
-(insert image)
+<br><figure>
+<img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
+ src="/images/heatmap.jpg" width="500">
+</figure>
+<br>
 
 The code and instructions for how to implement this pattern are in the Template and pattern library of the Canada.ca design system: 
 * [Expand/Collapse - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/collapsible-content.html)
