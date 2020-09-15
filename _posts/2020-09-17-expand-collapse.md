@@ -18,28 +18,13 @@ The expand/collapse pattern is just one of many patterns in the Canada.ca design
 
 In November 2019, the DTO modified Canada.ca guidance to allow the use of the expand/collapse design pattern to present a choice between mutually exclusive answers. Also known as the accordion pattern, the expand/collapse pattern allows you to hide content until it’s requested or relevant. A trigger link shows or hides the content when a user selects it.
 
-<h3>Determine if you are in a shared custody situation</h3>
-<p>Does the child spend their time:</p>
-<ul class="list-unstyled">
- <li>
+<div class="pattern-demo mrgn-bttm-md">
+  <p>Example:</p>
   <details>
-   <summary>about equally between both parents</summary>
-   <p>If the child shares their time about equally between the parents, then both parents are considered to have <strong>shared custody</strong> of that child...</p>
+    <summary>You must click on this area to expand and collapse the content</summary>
+    <p>This text is hidden until it is revealed.</p>
   </details>
- </li>
- <li>
-  <details>
-   <summary>mostly with you</summary>
-   <p>If the child lives with you most of the time, you are considered to have <strong>primary custody</strong> for the purposes of the Canada child benefit...</p>
-  </details>
- </li>
- <li>
-  <details>
-   <summary>mostly with the other parent</summary>
-   <p>If the child lives with the other parent most of the time, the other parent is considered to have <strong>primary custody</strong> for the purposes of the Canada child benefit...</p>
-  </details>
- </li>
-</ul>
+</div>
 
 The expand/collapse pattern was successfully tested during 2 optimization projects with the Canada Revenue Agency (CRA). In both projects, we used the pattern to simplify page layouts and reduce cognitive load. The pattern helps people find and focus on the content that’s relevant to their situation.
 
