@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "Using expand/collapse for making choices"
-description: " "
+description: "In November 2019, the DTO modified Canada.ca guidance to allow the use of the expand/collapse design pattern to present a choice between mutually exclusive answers."
 ---
 Since March 2020, the Digital Transformation Office (DTO) has conducted over 45 usability tests and user research studies to offer evidence-based guidance that helped inform the publication of pandemic-related web resources. We are also relying on previous optimization projects to provide a more usable, consistent and trustworthy online experience on Canada.ca. 
 
