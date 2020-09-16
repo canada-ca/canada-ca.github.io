@@ -46,6 +46,11 @@ Utilisez ce modèle lorsque les gens doivent obtenir des réponses différentes 
 
 L’utilisation de ce modèle peut aider les gens à se concentrer uniquement sur ce qui s’applique précisément à eux.
 
+<br><figure>
+<img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
+ src="/images/expand-collapse.JPG" >
+</figure><br>
+
 ### 2. Présenter des renseignements secondaires
 
 Vous pouvez également utiliser ce modèle pour éviter que le contenu secondaire n'interfère avec la tâche principale.
