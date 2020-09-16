@@ -54,6 +54,12 @@ Il peut s’agir d'un contenu qui s’applique à la plupart des gens, mais que 
 
 Il peut également s’agir d'un contenu qui ne s'applique qu’à une minorité de personnes (par exemple lorsqu’il existe des renseignements spécifiques destinés à un public spécifique).
 
+<br><figure>
+<img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
+ src="/images/CERB.JPG" >
+</figure>
+<br>
+
 Le code et les instructions pour la mise en œuvre de ce modèle se trouvent dans la bibliothèque de modèles et de configurations du système de conception de Canada.ca :
 
 * [Afficher/masquer - Configuration de conception de Canada.ca ](https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html)
