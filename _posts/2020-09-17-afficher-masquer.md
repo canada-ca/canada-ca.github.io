@@ -16,7 +16,7 @@ Le modèle afficher/masquer n’est qu’un des nombreux modèles de la biblioth
 
 ## Mise à l’essai du modèle auprès des utilisateurs
 
-En novembre 2019, le Bureau de la transformation numérique (BTN) a modifié les directives de Canada.ca pour permettre l’utilisation du modèle afficher/masquer afin de présenter un choix entre des réponses mutuellement exclusives. Aussi appelé « accordéon », le modèle afficher/masquer vous permet de masquer le contenu jusqu’à ce qu’il soit demandé ou pertinent. Un lien de déclenchement affiche ou masque le contenu lorsqu’un utilisateur le sélectionne.
+En novembre 2019, le BTN a modifié les directives de Canada.ca pour permettre l’utilisation du modèle afficher/masquer afin de présenter un choix entre des réponses mutuellement exclusives. Aussi appelé « accordéon », le modèle afficher/masquer vous permet de masquer le contenu jusqu’à ce qu’il soit demandé ou pertinent. Un lien de déclenchement affiche ou masque le contenu lorsqu’un utilisateur le sélectionne.
 
 <div class="pattern-demo mrgn-bttm-md">
   <p>Exemple :</p>
@@ -32,21 +32,21 @@ Le modèle afficher/masquer a été testé avec succès dans le cadre de deux pr
 
 En raison des résultats positifs de nos projets d’optimisation, nous avons utilisé le modèle afficher/masquer sur plus de pages pour aider les Canadiens à trouver les réponses dont ils ont besoin concernant la pandémie de COVID-19.
 
-* [Prestation canadienne d’intervention d’urgence](https://www.canada.ca/fr/services/prestations/ae/pcusc-application.html#payments)
-* [Prestation canadienne d’urgence pour les étudiants (PCUE)](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-urgence-etudiants/pcue-combien-recevoir.html)
+* [Prestation canadienne d’urgence](https://www.canada.ca/fr/services/prestations/ae/pcusc-application.html#payments)
+* [Prestation canadienne d’urgence pour les étudiants](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-urgence-etudiants/pcue-combien-recevoir.html)
 * [Plan d’intervention économique du Canada pour répondre à la COVID-19](https://www.canada.ca/fr/ministere-finances/plan-intervention-economique.html)
 
 ## Quand utiliser le modèle afficher/masquer
 
 Vous pouvez utiliser le modèle afficher/masquer dans deux situations précises :
 
-## 1. Présenter un choix entre des réponses mutuellement exclusives
+### 1. Présenter un choix entre des réponses mutuellement exclusives
 
 Utilisez ce modèle lorsque les gens doivent obtenir des réponses différentes en fonction de leur situation et lorsque ces réponses sont mutuellement exclusives. La recherche a démontré que lorsque toutes les options sont visibles, les gens ont tendance à passer du temps à lire des réponses qui ne sont pas pertinentes pour leur tâche. Ils ne se rendent peut-être pas compte que le contenu se trouve sous une rubrique qui ne s’applique pas à eux. Ils s’embrouillent et pensent à tort avoir trouvé la bonne réponse.
 
 L’utilisation de ce modèle peut aider les gens à se concentrer uniquement sur ce qui s’applique précisément à eux.
 
-## 2. Présenter des renseignements secondaires
+### 2. Présenter des renseignements secondaires
 
 Vous pouvez également utiliser ce modèle pour éviter que le contenu secondaire n'interfère avec la tâche principale.
 
