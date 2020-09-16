@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "Utiliser le modèle afficher/masquer pour faire des choix"
-description: " "
+description: "En novembre 2019, le BTN a modifié les directives de Canada.ca pour permettre l’utilisation du modèle afficher/masquer afin de présenter un choix entre des réponses mutuellement exclusives."
 ---
 Depuis mars 2020, le Bureau de la transformation numérique (BTN) a mené plus de 45 tests d’utilisabilité et études de recherche auprès des utilisateurs afin d’offrir des directives fondées sur des données probantes qui ont contribué à la publication de ressources Web liées à la pandémie. Nous comptons également sur les projets d’optimisation précédents pour offrir une expérience en ligne plus utilisable, uniforme et fiable sur Canada.ca. 
 
@@ -61,7 +61,7 @@ Il peut également s’agir d'un contenu qui ne s'applique qu’à une minorité
 
 <br><figure>
 <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
- src="/images/CERB.JPG" >
+ src="/images/CERB.jpg" >
 </figure>
 <br>
 
