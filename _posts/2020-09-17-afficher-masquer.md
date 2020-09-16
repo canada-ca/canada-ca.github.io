@@ -48,7 +48,7 @@ L’utilisation de ce modèle peut aider les gens à se concentrer uniquement su
 
 <br><figure>
 <img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
- src="/images/expand-collapse-2.jpg" >
+ src="/images/expand-collapse-2.jpg" width="600" >
 </figure><br>
 
 ### 2. Présenter des renseignements secondaires
@@ -61,7 +61,7 @@ Il peut également s’agir d'un contenu qui ne s'applique qu’à une minorité
 
 <br><figure>
 <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
- src="/images/CERB.jpg" >
+ src="/images/CERB.jpg" width="500" >
 </figure>
 <br>
 
