@@ -52,7 +52,7 @@ Using this pattern can help people focus only on what applies specifically to th
 </figure><br>
 
 <br><figure>
-<img class="img-responsive border" alt=" Below the question "Is your direct deposit and mailing information up to date with the CRA?" expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, "Great. This will ensure your benefit payment will be delivered to you." "
+<img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
  src="/images/expand-collapse-1.jpg" width="500">
 </figure><br>
 
