@@ -61,7 +61,7 @@ It can also be content that applies only to a minority of people (such as when t
 
 <br><figure>
 <img class="img-responsive border" alt=" Content about re-applying for CERB includes an expand/collapse pattern for 'If you start working again.' The second image shows the pattern expanded to display content for people who stop working and then start again during a later benefit period."
- src="/images/CERB.JPEG" width="500">
+ src="/images/CERB.JPG" width="500">
 </figure>
 <br>
 
