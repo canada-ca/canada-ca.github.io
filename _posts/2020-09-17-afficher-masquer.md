@@ -61,7 +61,7 @@ Il peut également s’agir d'un contenu qui ne s'applique qu’à une minorité
 
 <br><figure>
 <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
- src="/images/CERB.jpg" width="500" >
+ src="/images/CERB.JPG" width="500" >
 </figure>
 <br>
 
