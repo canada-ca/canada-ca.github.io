@@ -60,9 +60,7 @@ This can be content that applies to most people, but that only a few people may 
 It can also be content that applies only to a minority of people (such as when there is specific information for a specific audience).
 
 <br><figure>
-<img class="img-responsive border" alt=" Content about re-applying for CERB includes an expand/collapse pattern for "If you start working again."
-
-The second image shows the pattern expanded to display content for people who stop working and then start again during a later benefit period."
+<img class="img-responsive border" alt=" Content about re-applying for CERB includes an expand/collapse pattern for 'If you start working again.' The second image shows the pattern expanded to display content for people who stop working and then start again during a later benefit period."
  src="/images/CERB.jpg" >
 </figure>
 <br>
