@@ -51,6 +51,12 @@ Using this pattern can help people focus only on what applies specifically to th
  src="/images/expand-collapse.JPG" width="500">
 </figure><br>
 
+<br><figure>
+<img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
+ src="/images/expand-collapse.JPG" width="500">
+</figure>
+<br>
+
 ### 2. Presenting secondary information
 
 You can also use this pattern to prevent secondary content from interfering with the main task.
