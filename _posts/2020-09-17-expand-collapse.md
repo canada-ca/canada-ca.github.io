@@ -48,14 +48,8 @@ Using this pattern can help people focus only on what applies specifically to th
 
 <br><figure>
 <img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
- src="/images/expand-collapse.JPG" width="500">
+ src="/images/expand-collapse.JPG" >
 </figure><br>
-
-<br><figure>
-<img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
- src="/images/expand-collapse.JPG" width="500">
-</figure>
-<br>
 
 ### 2. Presenting secondary information
 
