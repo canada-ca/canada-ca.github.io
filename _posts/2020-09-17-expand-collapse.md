@@ -47,13 +47,8 @@ Use this pattern when people need different answers depending on their situation
 Using this pattern can help people focus only on what applies specifically to them. 
 
 <br><figure>
-<img class="img-responsive border" alt=" General information by telephone page showing answers to most frequent call drivers at the top of the page (in expand/collapse pattern to minimize screen real estate) and wait times along with the contact phone number at the bottom of the page"
- src="/images/faq.png" width="500">
-</figure><br>
-
-<br><figure>
 <img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
- src="/images/expand-collapse-1.jpg" width="500">
+ src="/images/expand-collapse-1.png" width="500">
 </figure><br>
 
 ### 2. Presenting secondary information
