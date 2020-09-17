@@ -47,7 +47,7 @@ Utilisez ce modèle lorsque les gens doivent obtenir des réponses différentes 
 L’utilisation de ce modèle peut aider les gens à se concentrer uniquement sur ce qui s’applique précisément à eux.
 
 <br><figure>
-<img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
+<img class="img-responsive border" alt=" Sous la question Vos informations sur le dépôt direct et l'envoi postal sont-elles à jour avec l'ARC ? les modèles d'expansion/réduction offrent 2 réponses possibles : Oui et Non. La deuxième image montre l'option Oui développée avec le message "Super". Cela vous permettra de vous assurer que votre prestation vous sera versée."
  src="/images/expand-collapse-2.jpg" width="600" >
 </figure><br>
 
@@ -60,7 +60,7 @@ Il peut s’agir d'un contenu qui s’applique à la plupart des gens, mais que 
 Il peut également s’agir d'un contenu qui ne s'applique qu’à une minorité de personnes (par exemple lorsqu’il existe des renseignements spécifiques destinés à un public spécifique).
 
 <br><figure>
-<img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
+<img class="img-responsive border" alt=" Le contenu sur la redemande de CERB comprend un modèle d'expansion/réduction pour Si vous recommencez à travailler. La deuxième image montre le modèle élargi pour afficher le contenu concernant les personnes qui arrêtent de travailler et recommencent à travailler pendant une période de prestations ultérieure."
  src="/images/CERB.JPG" width="500" >
 </figure>
 <br>
