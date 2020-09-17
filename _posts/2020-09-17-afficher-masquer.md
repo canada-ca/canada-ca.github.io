@@ -61,7 +61,7 @@ Il peut s’agir d'un contenu qui s’applique à la plupart des gens, mais que 
 Il peut également s’agir d'un contenu qui ne s'applique qu’à une minorité de personnes (par exemple lorsqu’il existe des renseignements spécifiques destinés à un public spécifique).
 
 <br><figure>
-<img class="img-responsive border" alt=" Le contenu sur la redemande de CERB comprend un modèle d'expansion/réduction pour Si vous recommencez à travailler. La deuxième image montre le modèle élargi pour afficher le contenu concernant les personnes qui arrêtent de travailler et recommencent à travailler pendant une période de prestations ultérieure."
+<img class="img-responsive border" alt=" Le contenu pour faire une autre demnade de la PCU comprend le modèle afficher/masquer pour Si vous recommencez à travailler. La deuxième image montre le modèle élargi pour afficher le contenu concernant les personnes qui arrêtent de travailler et recommencent à travailler au cours d'une période de prestations ultérieure."
  src="/images/CERB.JPG" width="500" > </figure>
 <figcaption>Le modèle afficher/masquer pour l'une des pages de la PCU (l'image est en anglais).</figcaption>
 <br>
