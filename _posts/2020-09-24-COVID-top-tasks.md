@@ -35,13 +35,14 @@ Again Gerry’s team ran the analysis and ranked the top tasks.
 ## Canadian results
 
 Top results (25% of votes), 7 top tasks on Canada.ca:
-Financial support, benefits	
-Money issues
-Outbreak cases data 
-New outbreak, second wave
-Vaccine
-Latest updates
-Government strategy
+
+1. Financial support, benefits	
+2. Money issues
+3. Outbreak cases data 
+4. New outbreak, second wave
+5. Vaccine
+6. Latest updates
+7. Government strategy
 
 7 tasks accounted for 25% of the votes. This number of tasks in the top 25% is high in a top task study. It’s more common to see just a few tasks emerge as clear leaders. However, given that the pandemic was still fairly new, we weren’t surprised to see the wide variety of topics people wanted to know more about. The WHO and the other countries all saw a similar 7-10 top tasks emerge.
 
@@ -63,10 +64,10 @@ Even during a pandemic, decisions and changes to content and the Canada.ca infor
 
 ## Learn more
 
-* Improve digital services by measuring outcomes
-* How we’re optimizing Canada.ca top tasks
-* What really matters: focusing on top tasks
-* Gerry McGovern’s website
+* [Improve digital services by measuring outcomes](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html)
+* [How we’re optimizing Canada.ca top tasks](https://blog.canada.ca/2017/12/12/optimization-overview.html)
+* [What really matters: focusing on top tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
+* [Gerry McGovern’s website](http://www.gerrymcgovern.com/)
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
