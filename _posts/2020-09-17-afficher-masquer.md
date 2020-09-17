@@ -47,7 +47,7 @@ Utilisez ce modèle lorsque les gens doivent obtenir des réponses différentes 
 L’utilisation de ce modèle peut aider les gens à se concentrer uniquement sur ce qui s’applique précisément à eux.
 
 <br><figure>
-<img class="img-responsive border" alt=" Sous la question Vos informations sur le dépôt direct et l'envoi postal sont-elles à jour avec l'ARC ? les modèles d'expansion/réduction offrent 2 réponses possibles : Oui et Non. La deuxième image montre l'option Oui développée avec le message "Super". Cela vous permettra de vous assurer que votre prestation vous sera versée."
+<img class="img-responsive border" alt=" Sous la question Vos informations sur le dépôt direct et l'envoi postal sont-elles à jour avec l'ARC ? les modèles d'expansion/réduction offrent 2 réponses possibles : Oui et Non. La deuxième image montre l'option Oui développée avec le message Super. Cela vous permettra de vous assurer que votre prestation vous sera versée."
  src="/images/expand-collapse-2.jpg" width="600" >
 </figure><br>
 
