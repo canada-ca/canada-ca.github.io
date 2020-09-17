@@ -48,9 +48,9 @@ L’utilisation de ce modèle peut aider les gens à se concentrer uniquement su
 
 <br><figure>
 <img class="img-responsive border" alt=" Sous la question Vos informations sur le dépôt direct et l'envoi postal sont-elles à jour avec l'ARC ? les modèles d'expansion/réduction offrent 2 réponses possibles : Oui et Non. La deuxième image montre l'option Oui développée avec le message Super. Cela vous permettra de vous assurer que votre prestation vous sera versée."
- src="/images/expand-collapse-2.jpg" width="600" >
+ src="/images/expand-collapse-2.jpg" width="600" ></figure>
 <figcaption>Un modèle d'expansion/réduction (L'image est en anglais).</figcaption>
-</figure><br>
+<br>
 
 ### 2. Présenter des renseignements secondaires
 
@@ -62,9 +62,8 @@ Il peut également s’agir d'un contenu qui ne s'applique qu’à une minorité
 
 <br><figure>
 <img class="img-responsive border" alt=" Le contenu sur la redemande de CERB comprend un modèle d'expansion/réduction pour Si vous recommencez à travailler. La deuxième image montre le modèle élargi pour afficher le contenu concernant les personnes qui arrêtent de travailler et recommencent à travailler pendant une période de prestations ultérieure."
- src="/images/CERB.JPG" width="500" >
+ src="/images/CERB.JPG" width="500" > </figure>
 <figcaption>Un modèle d'expansion/réduction pour CERB (L'image est en anglais).</figcaption>
-</figure>
 <br>
 
 Le code et les instructions pour la mise en œuvre de ce modèle se trouvent dans la bibliothèque de modèles et de configurations du système de conception de Canada.ca :
