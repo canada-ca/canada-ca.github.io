@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Utiliser le modèle afficher/masquer pour faire des choix"
-pubdate: "17 septembre 2020"
-langpage: "https://blog.canada.ca/2020/09/17/expand-collapse"
-date:   2020-09-17
+pubdate: "18 septembre 2020"
+langpage: "https://blog.canada.ca/2020/09/18/expand-collapse"
+date:   2020-09-18
 published: true
 draft: true
 lang: fr
@@ -32,9 +32,9 @@ Le modèle afficher/masquer a été testé avec succès dans le cadre de deux pr
 
 En raison des résultats positifs de nos projets d’optimisation, nous avons utilisé le modèle afficher/masquer sur plus de pages pour aider les Canadiens à trouver les réponses dont ils ont besoin concernant la pandémie de COVID-19.
 
-* [Prestation canadienne d’urgence](https://www.canada.ca/fr/services/prestations/ae/pcusc-application.html#payments)
+* [Prestation canadienne d’urgence](https://www.canada.ca/fr/services/prestations/ae/pcusc-application.html#versements)
 * [Prestation canadienne d’urgence pour les étudiants](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-urgence-etudiants/pcue-combien-recevoir.html)
-* [Plan d’intervention économique du Canada pour répondre à la COVID-19](https://www.canada.ca/fr/ministere-finances/plan-intervention-economique.html)
+* [Plan d’intervention économique du Canada pour répondre à la COVID-19](https://www.canada.ca/fr/ministere-finances/plan-intervention-economique.html#particuliers)
 
 ## Quand utiliser le modèle afficher/masquer
 
