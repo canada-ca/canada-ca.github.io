@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Using expand/collapse for making choices"
-pubdate: "September 17, 2020"
+pubdate: "September 18, 2020"
 langpage: "https://blogue.canada.ca/2020/09/17/afficher-masquer.html"
-date:   2020-09-17
+date:   2020-09-18
 published: true
 draft: true
 lang: en
@@ -34,7 +34,7 @@ Based on the positive results of our optimization projects, we’ve used the exp
 
 * [Canada Emergency Response Benefit](https://www.canada.ca/en/services/benefits/ei/cerb-application.html#payments)
 * [Canada Emergency Student Benefit](https://www.canada.ca/en/revenue-agency/services/benefits/emergency-student-benefit/cesb-how-much.html)
-* [Canada’s COVID-19 Economic Response Plan](https://www.canada.ca/en/department-finance/economic-response-plan.html)
+* [Canada’s COVID-19 Economic Response Plan](https://www.canada.ca/en/department-finance/economic-response-plan.html#individuals)
 
 ## When to use expand/collapse
 
