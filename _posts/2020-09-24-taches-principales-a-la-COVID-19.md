@@ -45,10 +45,10 @@ Principaux résultats (25 % des votes), 7 principales tâches sur Canada.ca :
 7. Stratégie du gouvernement.
 
 <br><figure>
-<img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
- src="/images/top-task.png" width="600">
+<img class="img-responsive border" alt="Un graphique circulaire montre que 7 tâches ont reçu les 25 % de votes les plus importants. Le graphique montre que les 25 % de votes suivants ont été répartis sur 11 tâches, puis 18 tâches et les 25 % de votes finaux ont été répartis sur 42 tâches."
+ src="/images/top-task.png" width="700">
 </figure>
-<figcaption>The expand/collapse pattern.</figcaption>
+<figcaption>Les résultats de l'étude canadienne sur les tâches principales (l'image est en anglais).</figcaption>
 <br>
 
 Ces 7 tâches représentaient 25 % des votes. Ce nombre de tâches qui obtient 25 %des votes est élevé dans une étude sur les principales tâches. Il est plus habituel de voir seulement quelques tâches émerger clairement en tête du classement. Toutefois, compte tenu du fait que la pandémie venait de commencer, nous ne serions pas surpris de voir une grande variété de sujets sur lesquels les gens aimeraient en savoir plus. 
@@ -71,10 +71,10 @@ Même en cas de pandémie, les décisions et les changements apportés au conten
 
 ## Pour en savoir davantage
 
-* [Site Web de Gerry McGovern](http://www.gerrymcgovern.com/)
 * [Mesurer les résultats pour améliorer les services numériques](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
 * [Comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
 * [Article « What really matters: focusing on top tasks »](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)(en anglais seulement)
+* [Site Web de Gerry McGovern](http://www.gerrymcgovern.com/)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
