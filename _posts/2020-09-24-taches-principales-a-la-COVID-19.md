@@ -35,13 +35,14 @@ Encore une fois, l’équipe de Gerry a effectué une analyse et a classé les t
 ## Résultats canadiens
 
 Principaux résultats (25 % des votes), 7 principales tâches sur Canada.ca :
-1.    Aide financière et prestations;     	
-2.    Questions d’argent;
-3.    Données sur les cas d’éclosion; 
-4.    Nouvelle éclosion et deuxième vague;
-5.    Vaccins;
-6.    Dernières mises à jour;
-7.    Stratégie du gouvernement.
+
+1. Aide financière et prestations;     	
+2. Questions d’argent;
+3. Données sur les cas d’éclosion; 
+4. Nouvelle éclosion et deuxième vague;
+5. Vaccins;
+6. Dernières mises à jour;
+7. Stratégie du gouvernement.
 
 Ces 7 tâches représentaient 25 % des votes. Ce nombre de tâches qui obtient 25 %des votes est élevé dans une étude sur les principales tâches. Il est plus habituel de voir seulement quelques tâches émerger clairement en tête du classement. Toutefois, compte tenu du fait que la pandémie venait de commencer, nous ne serions pas surpris de voir une grande variété de sujets sur lesquels les gens aimeraient en savoir plus. 
 
@@ -63,10 +64,10 @@ Même en cas de pandémie, les décisions et les changements apportés au conten
 
 ## Pour en savoir davantage
 
-* Site Web de Gerry McGovern
-* Mesurer les résultats pour améliorer les services numériques
-* Comment nous optimisons les principales tâches sur le site Canada.ca
-* Article « What really matters: focusing on top tasks » (en anglais seulement)
+* [Site Web de Gerry McGovern](http://www.gerrymcgovern.com/)
+* [Mesurer les résultats pour améliorer les services numériques](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
+* [Comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
+* [Article « What really matters: focusing on top tasks »](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)(en anglais seulement)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
