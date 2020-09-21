@@ -44,6 +44,13 @@ Principaux résultats (25 % des votes), 7 principales tâches sur Canada.ca :
 6. Dernières mises à jour;
 7. Stratégie du gouvernement.
 
+<br><figure>
+<img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
+ src="/images/expand-collapse-2.jpg" width="600">
+</figure>
+<figcaption>The expand/collapse pattern.</figcaption>
+<br>
+
 Ces 7 tâches représentaient 25 % des votes. Ce nombre de tâches qui obtient 25 %des votes est élevé dans une étude sur les principales tâches. Il est plus habituel de voir seulement quelques tâches émerger clairement en tête du classement. Toutefois, compte tenu du fait que la pandémie venait de commencer, nous ne serions pas surpris de voir une grande variété de sujets sur lesquels les gens aimeraient en savoir plus. 
 
 Plusieurs des principales tâches ont confirmé ce que nous avons vu dans les données d’analyse et des centres d’appels (par exemple, qu’il y avait plus d’intérêt pour l’aide financière que pour le nombre de cas COVID-19).
