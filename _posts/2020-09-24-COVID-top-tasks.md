@@ -44,6 +44,13 @@ Top results (25% of votes), 7 top tasks on Canada.ca:
 6. Latest updates
 7. Government strategy
 
+<br><figure>
+<img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
+ src="/images/expand-collapse-2.jpg" width="600">
+</figure>
+<figcaption>The expand/collapse pattern.</figcaption>
+<br>
+
 7 tasks accounted for 25% of the votes. This number of tasks in the top 25% is high in a top task study. It’s more common to see just a few tasks emerge as clear leaders. However, given that the pandemic was still fairly new, we weren’t surprised to see the wide variety of topics people wanted to know more about. The WHO and the other countries all saw a similar 7-10 top tasks emerge.
 
 Several of the top tasks confirmed what we were seeing in the analytics and call centre data (for example, there was more interest in financial support than the number of COVID-19 cases).
