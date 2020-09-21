@@ -2,7 +2,7 @@
 layout: post
 title:  "Improving Canada.ca by focusing on COVID-19 top tasks"
 pubdate: "September 24, 2020"
-langpage: "https://blogue.canada.ca/2020/09/17/afficher-masquer.html"
+langpage: "https://blogue.canada.ca/2020/09/24/afficher-masquer.html"
 date:   2020-09-24
 published: true
 draft: true
@@ -46,7 +46,7 @@ Top results (25% of votes), 7 top tasks on Canada.ca:
 
 <br><figure>
 <img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
- src="/images/top-task.png" >
+ src="/images/top-task.png" width="600" >
 </figure>
 <figcaption>The expand/collapse pattern.</figcaption>
 <br>
