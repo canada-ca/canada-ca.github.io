@@ -2,7 +2,7 @@
 layout: post
 title:  "Improving Canada.ca by focusing on COVID-19 top tasks"
 pubdate: "September 24, 2020"
-langpage: "https://blogue.canada.ca/2020/09/24/afficher-masquer.html"
+langpage: "https://blogue.canada.ca/2020/09/24/taches-principales-a-la-COVID-19.html"
 date:   2020-09-24
 published: true
 draft: true
