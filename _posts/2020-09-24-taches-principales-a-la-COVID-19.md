@@ -55,13 +55,13 @@ Ces 7 tâches représentaient 25 % des votes. Ce nombre de tâches qui obtient 2
 
 Plusieurs des principales tâches ont confirmé ce que nous avons vu dans les données d’analyse et des centres d’appels (par exemple, qu’il y avait plus d’intérêt pour l’aide financière que pour le nombre de cas COVID-19).
 
-Certaines des tâches parmi les sept principales nous ont toutefois surpris. Nous ne nous attendions pas à ce que les « dernières mises à jour » et la « stratégie gouvernementale » figurent si haut dans la liste des priorités des gens. 
+Certaines des tâches parmi les sept principales nous ont toutefois surpris. Nous ne nous attendions pas à ce que les « dernières mises à jour&nbsp;» et la « stratégie gouvernementale&nbsp;» figurent si haut dans la liste des priorités des gens. 
 
 En y regardant de plus près, nous nous sommes rendu compte que des nouvelles et des annonces étaient disponibles sur le site, mais qu’elles étaient dissimulées au bas de la page de mise à jour sur l’éclosion. Les analyses ont montré qu’elles n’étaient pas beaucoup utilisées à cet endroit. L’étude nous a révélé ce problème de navigation et a fait ressortir l’importance de rassembler au même endroit les nouvelles sur la COVID-19 de l’ensemble du gouvernement.
 
 Pour répondre à ce besoin, l’équipe de l’éditeur principal de Service Canada a travaillé avec le Bureau du Conseil privé et le BTN à l’élaboration et au lancement d’une page contenant les dernières annonces sur la COVID-19. Cette page présente les dernières nouvelles et annonces de tous les ministères concernant la pandémie. Le contenu de la page est automatiquement extrait de la salle de presse du GC. Cela permet de réduire le fardeau de maintenance pour les équipes Web. Le jour où le lien vers la nouvelle page a été placé sur la page principale liée au coronavirus, il est devenu l’un des dix principaux liens sur lesquels les visiteurs ont cliqué lorsqu’ils étaient sur cette page d’accueil.
 
-Le fait de voir la « stratégie gouvernementale » émerger comme l’une des principales tâches a également montré qu’en période de crise, les gens veulent savoir ce que le gouvernement fait quotidiennement. Ils veulent savoir quel est le plan. Ce contenu existait, mais il fallait le rendre plus visible pour les visiteurs du site. Nous avons testé certaines étiquettes, puis nous avons décidé d’ajouter une nouvelle section intitulée « Limiter la propagation » dans la page d’accueil liée au coronavirus. Cette section offre des liens vers l’information sur les stratégies d’affaires, les directives de réouverture, les vaccins, les tests de dépistage et plus encore. 
+Le fait de voir la « stratégie gouvernementale&nbsp;» émerger comme l’une des principales tâches a également montré qu’en période de crise, les gens veulent savoir ce que le gouvernement fait quotidiennement. Ils veulent savoir quel est le plan. Ce contenu existait, mais il fallait le rendre plus visible pour les visiteurs du site. Nous avons testé certaines étiquettes, puis nous avons décidé d’ajouter une nouvelle section intitulée « Limiter la propagation » dans la page d’accueil liée au coronavirus. Cette section offre des liens vers l’information sur les stratégies d’affaires, les directives de réouverture, les vaccins, les tests de dépistage et plus encore. 
 
 Les résultats de notre étude sur les principales tâches nous ont aidés à mieux comprendre ces besoins et d’autres besoins en matière de contenu des Canadiens à l’heure actuelle. Combinés à des analyses continues et à des tests de réussite sur les pages, ces renseignements nous aident à continuer de planifier les activités et d’établir les priorités sur lesquelles concentrer nos efforts pour réagir efficacement à l’évolution de la situation. 
 
@@ -73,7 +73,7 @@ Même en cas de pandémie, les décisions et les changements apportés au conten
 
 * [Mesurer les résultats pour améliorer les services numériques](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
 * [Comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
-* [Article « What really matters: focusing on top tasks »](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)(en anglais seulement)
+* [Article « What really matters: focusing on top tasks&nbsp;»](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)(en anglais seulement)
 * [Site Web de Gerry McGovern](http://www.gerrymcgovern.com/)(en anglais seulement)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
