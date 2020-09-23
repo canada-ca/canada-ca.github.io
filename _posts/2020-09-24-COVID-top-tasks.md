@@ -8,19 +8,19 @@ published: true
 draft: true
 lang: en
 alt: "Improving Canada.ca by focusing on COVID-19 top tasks"
-description: "In November 2019, the DTO modified Canada.ca guidance to allow the use of the expand/collapse design pattern to present a choice between mutually exclusive answers."
+description: "In May 2020, the DTO collaborated with Gerry McGovern, the World Health Organization (WHO), Health Canada and the Public Health Agency of Canada on a study to identify people’s top COVID-19 tasks on Canada.ca."
 ---
 Canada.ca's site structure is designed to reflect the top tasks Canadians are trying to complete on the site. Using data to understand their changing needs is key to ensuring the right content is always up front and centre.
 
 Over the years, the Digital Transformation Office (DTO) has worked with Gerry McGovern as he developed and refined his top task methodology. Gerry is a renowned expert in information design. Organizing a website based on top tasks not only helps people find and use the most common information and services as quickly as possible, but it also helps prioritize efforts, especially when resources are limited. His methods of identifying and prioritizing the tasks that matter most to people on a site continue to influence Canada.ca optimization. 
 
-In May 2020, the DTO collaborated with Gerry, the World Health Organization (WHO), and Health Canada/Public Health Agency of Canada on a study to identify people’s top COVID-19 tasks on Canada.ca. 
+In May 2020, the DTO collaborated with Gerry, the World Health Organization (WHO), Health Canada and the Public Health Agency of Canada on a study to identify people’s top COVID-19 tasks on Canada.ca. 
 
 ## Identifying COVID-19 top tasks worldwide
 
 To identify top tasks, we start with data sources like web analytics, search terms and call centre intelligence. Research with users then helps confirm and uncover tasks that the analytics may have missed.
 
-To prepare this original study, Gerry worked with an international team, including members of the GC, to create a list of potential top tasks related to COVID-19. The team looked at site menus, analytics, search data, etc. The WHO then used the list to run the initial study on their website. 
+To prepare this original study, Gerry worked with an international team, including members of the Government of Canada (GC), to create a list of potential top tasks related to COVID-19. The team looked at site menus, analytics, search data, etc. The WHO then used the list to run the initial study on their website. 
 
 People were given the list of approximately 70 tasks in a random order. They were asked to vote on the 5 tasks that were most important to them when interacting with the government or WHO. Once the voting patterns became clear, Gerry’s team  ran the analysis and produced results that organized the top task list  in terms of how frequently people chose specific COVID-19 tasks.
 
@@ -28,7 +28,7 @@ People were given the list of approximately 70 tasks in a random order. They wer
 
 After that, Norway, Canada, Ireland and New Zealand ran custom versions of the original WHO study on their own sites, with Gerry’s help. We added some extra tasks to ours to reflect the Canadian context (financial support, for example). 
 
-In Canada, the invitation to participate in the study was randomly presented to visitors on Canada.ca pages from May 14 to 19. There were 6,441 responses (90% in English, 10% in French). 
+In Canada, the invitation to participate in the study was randomly presented to visitors on Canada.ca pages from May 14 to 19. There were **6,441 responses** (90% in English, 10% in French). 
 
 Again Gerry’s team ran the analysis and ranked the top tasks. 
 
@@ -51,7 +51,7 @@ Top results (25% of votes), 7 top tasks on Canada.ca:
 <figcaption>The Canadian top task study results. </figcaption>
 <br>
 
-7 tasks accounted for 25% of the votes. This number of tasks in the top 25% is high in a top task study. It’s more common to see just a few tasks emerge as clear leaders. However, given that the pandemic was still fairly new, we weren’t surprised to see the wide variety of topics people wanted to know more about. The WHO and the other countries all saw a similar 7-10 top tasks emerge.
+Seven tasks accounted for 25% of the votes. This number of tasks in the top 25% is high in a top task study. It’s more common to see just a few tasks emerge as clear leaders. However, given that the pandemic was still fairly new, we weren’t surprised to see the wide variety of topics people wanted to know more about. The WHO and the other countries all saw a similar 7 to 10 top tasks emerge.
 
 Several of the top tasks confirmed what we were seeing in the analytics and call centre data (for example, there was more interest in financial support than the number of COVID-19 cases).
 
