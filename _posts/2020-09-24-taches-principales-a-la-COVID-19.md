@@ -20,7 +20,7 @@ En mai 2020, le BTN a collaboré avec Gerry, l’Organisation mondiale de la San
 
 Pour déterminer les principales tâches, nous commençons par des sources de données comme l’analyse Web, les termes de recherche et les renseignements des centres d’appels. La recherche auprès des utilisateurs aide ensuite à confirmer et à découvrir les tâches que l’analyse pourrait ne pas avoir décelées.
 
-Pour préparer l’étude originale, Gerry a travaillé avec une équipe internationale, y compris des membres du GC, pour créer une liste des principales tâches possibles liées à la COVID-19. L’équipe a examiné les menus du site, les analyses, les données sur les recherches, etc. Ensuite, l’OMS a utilisé la liste pour réaliser l’étude initiale sur son site Web. 
+Pour préparer l’étude originale, Gerry a travaillé avec une équipe internationale, y compris des membres du gouvernement du Canada (GC), pour créer une liste des principales tâches possibles liées à la COVID-19. L’équipe a examiné les menus du site, les analyses, les données sur les recherches, etc. Ensuite, l’OMS a utilisé la liste pour réaliser l’étude initiale sur son site Web. 
  
 Les gens ont reçu une liste contenant environ 70 tâches dans un ordre aléatoire. On leur a demandé de voter pour les cinq tâches les plus importantes pour eux lorsqu’ils interagissent avec le gouvernement ou l’OMS. Lorsque les habitudes de vote sont devenues claires, l’équipe de Gerry a effectué une analyse et a produit des résultats qui ont permis d’organiser la liste des tâches principales en fonction des tâches précises liées à la COVID-19 qui ont été le plus fréquemment choisies.
 
@@ -51,7 +51,7 @@ Principaux résultats (25 % des votes), 7 principales tâches sur Canada.ca :
 <figcaption>Les résultats de l'étude canadienne sur les tâches principales (l'image est en anglais).</figcaption>
 <br>
 
-Ces 7 tâches représentaient 25 % des votes. Ce nombre de tâches qui obtient 25 %des votes est élevé dans une étude sur les principales tâches. Il est plus habituel de voir seulement quelques tâches émerger clairement en tête du classement. Toutefois, compte tenu du fait que la pandémie venait de commencer, nous ne serions pas surpris de voir une grande variété de sujets sur lesquels les gens aimeraient en savoir plus. 
+Ces 7 tâches représentaient 25 % des votes. Ce nombre de tâches qui obtient 25 % des votes est élevé dans une étude sur les principales tâches. Il est plus habituel de voir seulement quelques tâches émerger clairement en tête du classement. Toutefois, compte tenu du fait que la pandémie était encore assez récente, nous étions peu surpris de voir une grande variété de sujets sur lesquels les gens aimeraient en savoir plus. L'OMS et les autres pays ont tous constaté l'émergence de 7 à 10 tâches principales similaires.
 
 Plusieurs des principales tâches ont confirmé ce que nous avons vu dans les données d’analyse et des centres d’appels (par exemple, qu’il y avait plus d’intérêt pour l’aide financière que pour le nombre de cas COVID-19).
 
@@ -74,7 +74,7 @@ Même en cas de pandémie, les décisions et les changements apportés au conten
 * [Mesurer les résultats pour améliorer les services numériques](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
 * [Comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
 * [Article « What really matters: focusing on top tasks »](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)(en anglais seulement)
-* [Site Web de Gerry McGovern](http://www.gerrymcgovern.com/)
+* [Site Web de Gerry McGovern](http://www.gerrymcgovern.com/)(en anglais seulement)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
