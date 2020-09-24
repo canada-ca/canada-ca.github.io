@@ -67,7 +67,7 @@ Les résultats de notre étude sur les principales tâches nous ont aidés à mi
 
 ## Mot de la fin
  
-Même en cas de pandémie, les décisions et les changements apportés au contenu et à l’architecture de l’information du site Canada.ca devraient être dictés par des données probantes des Canadiens. Ce type d’étude révèle le contenu que les gens n’arrivent pas à trouver et les éléments clés qui pourraient manquer sur le site Web. Bien que la collecte de données probantes exige du temps et des efforts, le fait de disposer de données probantes est un outil puissant qui peut aider les équipes à gagner du temps, à établir des priorités et à se concentrer sur ce que les Canadiens veulent vraiment et ce dont ils ont besoin.
+Même en cas de pandémie, les données probantes des Canadiens devraient guider les décisions et les changements apportés au contenu et à l’architecture de l’information du site Canada.ca. Ce type d’étude révèle le contenu que les gens n’arrivent pas à trouver et les éléments clés qui pourraient manquer sur le site Web. Bien que la collecte de données probantes exige du temps et des efforts, le fait de disposer de données probantes est un outil puissant qui permet de gagner du temps. Cela peut aider les équipes à établir des priorités et à se concentrer sur ce que les Canadiens veulent vraiment et ce dont ils ont besoin.
 
 ## Pour en savoir davantage
 
