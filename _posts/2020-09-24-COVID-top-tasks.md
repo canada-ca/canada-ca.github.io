@@ -67,7 +67,7 @@ The results of our top task study helped us to better understand these and other
 
 ## Final word
 
-Even during a pandemic, decisions and changes to content and the Canada.ca information architecture should be driven by evidence from Canadians. This type of study reveals what people can't find and what key pieces may be missing from the website. While evidence gathering requires time and effort, having the evidence is a powerful time-saving tool that can help teams prioritize their work and focus on what Canadians truly want and need.
+Even during a pandemic, evidence from Canadians should drive decisions and changes to content and the Canada.ca information architecture. This type of study reveals what people can't find and what key pieces may be missing from the website. While gathering evidence requires time and effort, having the evidence is a powerful time-saving tool. It can help teams prioritize their work and focus on what Canadians truly want and need.
 
 ## Learn more
 
