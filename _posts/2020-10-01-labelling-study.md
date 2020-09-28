@@ -39,11 +39,51 @@ Together with Health Canada we used the results to support updates on the COVID-
 
 Then we looked at what new content was ready and the approvals needed for some of the proposed changes. Based on this, we added a couple of new labels right away to reflect the results of the study.
 
+### Categories
 
+* Added a new category labelled  “Limiting the spread” to group links related to reopening that had performed well in the study
 
+### Links
 
+* Added a new link for the top task “Vaccines and drugs”
+* Kept the “Latest announcements” label
+* Kept the “Prevention and risks” label
+* Kept the “Take a self-assessment” label
 
+## Planning for the future 
 
+Today, the Coronavirus landing page reflects a lot of what we found from this research. As COVID-19 continues to evolve and needs change, we’ll continue to adjust the categories and links on this page.
+
+For example, the “Protecting public health” label won strong majorities in English for vaccine & immunity tasks. “Protection de la santé publique” performed similarly well with French respondents. These tasks are related to personal medical health. Vaccines is our #5 top task (#1 at WHO) & immunity is #17 (#4 at WHO). As Health Canada develops content supporting vaccine tasks,  this category label is tested and ready to use. 
+
+## Use labels that work for people
+
+One thing that stood out from the research findings was that the terminology that policy teams preferred didn’t always resonate with users. This showed once again that to help users find what they need, we need to use words that work for them. Internal language doesn’t always fit the bill.
+
+As a designer, you need to think of your users and design with them in mind. Go look at your labels and make sure that people understand them the way you think they do. Be sure they aren’t being misled. Then go back and check again later. Teams need to keep evolving categories and labels as top task content evolves.  
+
+## Final word
+
+Web is a service and it’s a shared responsibility. What the Government of Canada wishes to communicate is not always the same as what the audience has come to learn or accomplish. Public servants may use terms that seem obvious to them, but when those terms don’t resonate with the general public, communication breaks down. 
+
+Audiences behave and interact differently in the digital space compared to how they behave and interact with traditional communication channels. 
+
+Remember:
+
+* Web is a “doing” place for most — focus on tasks
+* People don't read, they scan — use short meaningful section headers
+* People look for easy to follow directions or steps, otherwise they give up, call or email
+* Small screens need less content — mobile traffic is greater than 50%
+* Don’t duplicate content — GC web space is integrated. Collaborate with others or link to existing content
+* Follow GC standards for web design at design.canada.ca
+
+## Learn more
+
+* COVID-19 top task study
+* A case for descriptive link text
+* Content improvement projects
+* Canada.ca Content Style Guide
+* Canada.ca Design System
 
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
