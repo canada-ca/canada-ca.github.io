@@ -22,6 +22,28 @@ To get people to content for these emerging top tasks, we had to create some new
 
 ## The labelling study
 
+In June 2020, DTO and Health Canada launched a follow-up labelling study in both English and French. On Canada.ca, we randomly invited people to participate in the study from June 8 to 10, 2020.  
+
+### Stats
+* 3,053 people participated 
+* 85% did the study in English 
+* 15% did the study in French
+* More than half completed the entire study of 10 task questions (58%)
+
+Participants responded to the task questions by clicking on one of the potential label options shown with the question. The survey asked them to choose as if they were attempting the task on the website.  Each question showed different sets of label options for both the links and the categories. This let us explore how different options fit with specific task scenarios. 
+
+(insert image)
+
+## Taking action on results
+Together with Health Canada we used the results to support updates on the COVID-19 landing page. The study confirmed that some labels were working well, so we kept those in place. 
+
+Then we looked at what new content was ready and the approvals needed for some of the proposed changes. Based on this, we added a couple of new labels right away to reflect the results of the study.
+
+
+
+
+
+
 
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
