@@ -79,11 +79,11 @@ Remember:
 
 ## Learn more
 
-* COVID-19 top task study
-* A case for descriptive link text
-* Content improvement projects
-* Canada.ca Content Style Guide
-* Canada.ca Design System
+* [COVID-19 top task study](https://blog.canada.ca/2020/09/24/COVID-top-tasks.html)
+* [A case for descriptive link text](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)
+* [Content improvement projects](https://blog.canada.ca/pages/project-overview.html)
+* [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
+* [Canada.ca Design System](https://www.canada.ca/en/government/about/design-system.html)
 
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
