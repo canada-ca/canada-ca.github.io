@@ -51,6 +51,20 @@ Top results (25% of votes), 7 top tasks on Canada.ca:
 <figcaption>The Canadian top task study results. </figcaption>
 <br>
 
+<details>
+<summary>The Canadian top task study results.</summary>
+<h3>Select up to 5 tasks / resources that are MOST IMPORTANT to you when interacting with the Government of Canada.</h3>
+<ol>
+<li> Financial support, benefits for individuals and families ( eligibility, availability, training)</li>
+<li>Money issues, personal finances, savings, pensions</li>
+<li>Confirmed cases, deaths, recoveries (daily, total) </li>
+<li>New outbreak, second wave (response, containment) </li>
+<li>Vaccine (development, availability, safety) </li>
+<li>Latest news, latest research (alerts, directives, updates) </li>
+<li>Government strategy (long-term control, lockdown exit, transition, economy reboot) </li>
+</ol>
+</details>
+
 Seven tasks accounted for 25% of the votes. This number of tasks in the top 25% is high in a top task study. It’s more common to see just a few tasks emerge as clear leaders. However, given that the pandemic was still fairly new, we weren’t surprised to see the wide variety of topics people wanted to know more about. The WHO and the other countries all saw a similar 7 to 10 top tasks emerge.
 
 Several of the top tasks confirmed what we were seeing in the analytics and call centre data (for example, there was more interest in financial support than the number of COVID-19 cases).
