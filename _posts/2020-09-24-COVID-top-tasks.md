@@ -52,7 +52,7 @@ Top results (25% of votes), 7 top tasks on Canada.ca:
 <summary>The Canadian top task study results.</summary>
 <h3>Select up to 5 tasks / resources that are MOST IMPORTANT to you when interacting with the Government of Canada.</h3>
 <ol>
-<li> Financial support, benefits for individuals and families ( eligibility, availability, training)</li>
+<li> Financial support, benefits for individuals and families (eligibility, availability, training)</li>
 <li>Money issues, personal finances, savings, pensions</li>
 <li>Confirmed cases, deaths, recoveries (daily, total) </li>
 <li>New outbreak, second wave (response, containment) </li>
