@@ -48,9 +48,6 @@ Top results (25% of votes), 7 top tasks on Canada.ca:
 <img class="img-responsive border" alt=" A pie chart shows 7 tasks received the top 25% of votes. The chart shows the next 25% of votes were spread over 11 tasks, then 18 tasks and the final 25% of votes were spread over 42 tasks."
  src="/images/top-task.png" width="700" >
 </figure>
-<figcaption>The Canadian top task study results. </figcaption>
-<br>
-
 <details>
 <summary>The Canadian top task study results.</summary>
 <h3>Select up to 5 tasks / resources that are MOST IMPORTANT to you when interacting with the Government of Canada.</h3>
@@ -64,6 +61,7 @@ Top results (25% of votes), 7 top tasks on Canada.ca:
 <li>Government strategy (long-term control, lockdown exit, transition, economy reboot) </li>
 </ol>
 </details>
+<br>
 
 Seven tasks accounted for 25% of the votes. This number of tasks in the top 25% is high in a top task study. It’s more common to see just a few tasks emerge as clear leaders. However, given that the pandemic was still fairly new, we weren’t surprised to see the wide variety of topics people wanted to know more about. The WHO and the other countries all saw a similar 7 to 10 top tasks emerge.
 
