@@ -43,19 +43,20 @@ Nous avons ensuite examiné le nouveau contenu qui était prêt et les approbati
 
 ### Catégories
 
-* Ajout d’une nouvelle catégorie intitulée « **Limiter la propagation** » aux liens de groupe liés à la réouverture qui ont bien fonctionné dans l’étude
+* Ajout d’une nouvelle catégorie intitulée «&nbsp;**Limiter la propagation**&nbsp;» aux liens de groupe liés à la réouverture qui ont bien fonctionné dans l’étude
 
 ### Liens
 
-* Ajout d’un nouveau lien pour la tâche principale « Vaccins et médicaments »
-* Conservation de l’étiquette « Dernières annonces »
-* Conservation de l’étiquette « Prévention et risques »
-* Conservation de l’étiquette « Faites une auto‑évaluation »
+* Ajout d’un nouveau lien pour la tâche principale «&nbsp;Vaccins et médicaments&nbsp;»
+* Conservation de l’étiquette «&nbsp;Dernières annonces&nbsp;»
+* Conservation de l’étiquette «&nbsp;Prévention et risques&nbsp;»
+* Conservation de l’étiquette «&nbsp;Faites une auto‑évaluation&nbsp;»
 
 ## Planifier l’avenir
 
 Aujourd’hui, la page d’accueil sur le coronavirus tient compte d’une grande partie de ce que nous avons découvert grâce à cette étude. À mesure que la COVID‑19 continuera d’évoluer et que les besoins changeront, nous continuerons de rajuster les catégories et les liens sur cette page.
-Par exemple, l’étiquette « Protecting public health » a remporté de fortes majorités en anglais pour les tâches sur les vaccins et l’immunité. « Protection de la santé publique » a fait aussi bonne figure auprès des répondants français. Ces tâches sont liées à l’état de santé personnel. Les vaccins sont notre cinquième tâche principale (première à l’OMS) et l’immunité est la 17e (quatrième à l’OMS). À mesure que Santé Canada élabore du contenu à l’appui des tâches liées aux vaccins, cette étiquette de catégorie est testée et prête à être utilisée. 
+
+Par exemple, l’étiquette «&nbsp;Protecting public health&nbsp;» a remporté de fortes majorités en anglais pour les tâches sur les vaccins et l’immunité. «&nbsp;Protection de la santé publique&nbsp;» a fait aussi bonne figure auprès des répondants français. Ces tâches sont liées à l’état de santé personnel. Les vaccins sont notre cinquième tâche principale (première à l’OMS) et l’immunité est la 17e (quatrième à l’OMS). À mesure que Santé Canada élabore du contenu à l’appui des tâches liées aux vaccins, cette étiquette de catégorie est testée et prête à être utilisée. 
 
 ## Utiliser des étiquettes qui fonctionnent pour les gens
 
@@ -71,7 +72,7 @@ Les auditoires se comportent et interagissent différemment dans l’espace num�
 
 Souvenez-vous
 
-* Le Web est un endroit où « faire des trucs » pour la plupart des gens — concentrez‑vous sur les tâches
+* Le Web est un endroit où «&nbsp;faire des trucs&nbsp;» pour la plupart des gens — concentrez‑vous sur les tâches
 * Les gens ne lisent pas, ils survolent rapidement les textes — utilisez de courts en-têtes de section significatifs
 * Les gens recherchent des directives ou des étapes faciles à suivre, sinon ils abandonnent, appellent ou envoient des courriels
 * Les petits écrans ont besoin de moins de contenu — le trafic mobile est supérieur à 50 %
