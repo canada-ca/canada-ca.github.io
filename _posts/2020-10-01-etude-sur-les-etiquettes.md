@@ -78,13 +78,13 @@ Souvenez-vous
 * Ne reproduisez pas le contenu — l’espace Web du GC est intégré. Collaborez avec les autres ou dirigez les gens vers le contenu existant
 * Suivez les normes du GC pour la conception Web sur le site conception.canada.ca
 
-Pour en savoir davantage
+## Pour en savoir davantage
 
-* Étude sur les principales tâches liées à la COVID-19
-* Un exemple en faveur du texte de lien descriptif
-* Projets d'amélioration du contenu
-* Guide de rédaction du contenu du site Canada.ca
-* Système de conception de Canada.ca
+* [Étude sur les principales tâches liées à la COVID-19](https://blogue.canada.ca/2020/09/24/taches-principales-a-la-COVID-19.html)
+* [Un exemple en faveur du texte de lien descriptif](https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html)
+* [Projets d'amélioration du contenu](https://blogue.canada.ca/pages/apercu-projet.html)
+* [Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
+* [Système de conception de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
