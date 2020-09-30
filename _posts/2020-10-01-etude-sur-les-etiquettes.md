@@ -66,6 +66,13 @@ Aujourd’hui, la page d’accueil sur le coronavirus tient compte d’une grand
 
 Par exemple, l’étiquette «&nbsp;Protecting public health&nbsp;» a remporté de fortes majorités en anglais pour les tâches sur les vaccins et l’immunité. «&nbsp;Protection de la santé publique&nbsp;» a fait aussi bonne figure auprès des répondants français. Ces tâches sont liées à l’état de santé personnel. Les vaccins sont notre cinquième tâche principale (première à l’OMS) et l’immunité est la 17e (quatrième à l’OMS). À mesure que Santé Canada élabore du contenu à l’appui des tâches liées aux vaccins, cette étiquette de catégorie est testée et prête à être utilisée. 
 
+<br><figure>
+<img class="img-responsive border" alt="Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on."
+src="/images/limiting the spread.png" width="700">
+</figure>
+<figcaption>Page d'accueil de la maladie à coronavirus (COVID-19)</figcaption>
+<br>
+
 ## Utiliser des étiquettes qui fonctionnent pour les gens
 
 Ce qui ressort des résultats de l’étude, c’est que la terminologie que les équipes responsables des politiques privilégiaient n’a pas toujours trouvé écho auprès des utilisateurs. Cela montre encore une fois que pour aider les utilisateurs à trouver ce dont ils ont besoin, nous devons utiliser des mots qui fonctionnent pour eux. Le langage interne ne convient pas toujours.
