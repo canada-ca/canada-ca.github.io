@@ -35,6 +35,14 @@ Sur Canada.ca, nous avons invité au hasard des gens à participer à l’étude
 
 Les participants ont répondu aux questions en cliquant sur l’une des options d’étiquette possibles indiquées avec la question. Dans le sondage, on leur demandait de choisir comme s’ils tentaient d’accomplir la tâche sur le site Web. Chaque question présentait différents ensembles d’options d’étiquettes pour les liens et les catégories. Cela nous permet d’explorer comment différentes options s’intègrent à des scénarios de tâches particulières.
 
+<br><figure>
+<img class="img-responsive border" alt="Find: How can my store reduce the risk of transmission of COVID-19? Where would you click? Options include: Focus on : business, Recovery strategy, Limiting the spread, Containing the pandemic, Reopening safely, and Current situation"
+src="/images/label.png" width="700">
+</figure>
+<figcaption>Exemple de question dans l'étude (l'image est en anglais).</figcaption>
+<br>
+
+
 ## Prendre des mesures en fonction des résultats
 
 De concert avec Santé Canada, nous avons utilisé les résultats pour appuyer les mises à jour de la page d’accueil sur la COVID-19. L’étude a confirmé que certaines étiquettes fonctionnaient bien, nous les avons donc conservées.
