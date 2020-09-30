@@ -33,14 +33,8 @@ In June 2020, DTO and Health Canada launched a follow-up labelling study in both
 Participants responded to the task questions by clicking on one of the potential label options shown with the question. The survey asked them to choose as if they were attempting the task on the website.  Each question showed different sets of label options for both the links and the categories. This let us explore how different options fit with specific task scenarios. 
 
 <br><figure>
-<img class="img-responsive border" alt="Find: How can my store reduce the risk of transmission of COVID-19? Where would you click? Options include:
-- Focus on : business
-- Recovery strategy
-- Limiting the spread
-- Containing the pandemic
-- Reopening safely
-- Current situation"
- src="/images/label.png" width="700">
+<img class="img-responsive border" alt="Find: How can my store reduce the risk of transmission of COVID-19? Where would you click? Options include: Focus on : business, Recovery strategy, Limiting the spread, Containing the pandemic, Reopening safely, and Current situation"
+src="/images/label.png" width="700">
 </figure>
 <figcaption>Example of a question in the study.</figcaption>
 <br>
