@@ -34,7 +34,7 @@ En juin 2020, le Bureau de la transformation numérique (BTN) et Santé Canada o
 Les participants ont répondu aux questions en cliquant sur l’une des options d’étiquette possibles indiquées avec la question. Dans le sondage, on leur demandait de choisir comme s’ils tentaient d’accomplir la tâche sur le site Web. Chaque question présentait différents ensembles d’options d’étiquettes pour les liens et les catégories. Cela nous permet d’explorer comment différentes options s’intègrent à des scénarios de tâches particulières.
 
 <br><figure>
-<img class="img-responsive border" alt="Trouver : Comment mon commerce peut-il réduire le risque de transmission de la COVID-19? Où cliqueriez-vous? Les options comprennent : Renseignements ciblés: Entreprise, Stratégie de relance, Limiter la propagation, Contenir la pandémie, Réouverture en toute sécurité, Situation actuelle"
+<img class="img-responsive border" alt="Trouver : Quelle est l'approche stratégique pour lever les restrictions de santé publique? Où cliqueriez-vous? Les options comprennent : Protection de la santé publique, La réponse du Canada, Limiter la propagation, Réouverture en toute sécurité, Stratégie de reprise, Contenir la pandémie, Stratégie du gouvernment"
 src="/images/label-FR.png" width="700">
 </figure>
 <figcaption>Exemple d'une question dans l'étude.</figcaption>
@@ -78,22 +78,22 @@ En tant que concepteur, vous devez penser à vos utilisateurs et concevoir en pr
 
 ## Mot de la fin
 
-Le Web est un service et une responsabilité partagée. Ce que le gouvernement du Canada souhaite communiquer n’est pas toujours ce que le public a appris ou accompli. Les fonctionnaires peuvent utiliser des termes qui leur semblent évidents, mais lorsque ces termes ne trouvent pas écho auprès du grand public, la communication est rompue.
+Le Web est un service et une responsabilité partagée. Ce que le gouvernement du Canada souhaite communiquer n’est pas toujours ce que le public est venu apprendre ou accomplir. Les fonctionnaires peuvent utiliser des termes qui leur semblent évidents, mais lorsque ces termes ne trouvent pas écho auprès du grand public, la communication est rompue.
  
 Les auditoires se comportent et interagissent différemment dans l’espace numérique comparativement à la façon dont ils se comportent et interagissent avec les canaux de communication traditionnels. 
 
-Souvenez-vous
+### Souvenez-vous
 
-* Le Web est un endroit où «&nbsp;faire des trucs&nbsp;» pour la plupart des gens — concentrez‑vous sur les tâches
-* Les gens ne lisent pas, ils survolent rapidement les textes — utilisez de courts en-têtes de section significatifs
-* Les gens recherchent des directives ou des étapes faciles à suivre, sinon ils abandonnent, appellent ou envoient des courriels
-* Les petits écrans ont besoin de moins de contenu — le trafic mobile est supérieur à 50 %
-* Ne reproduisez pas le contenu — l’espace Web du GC est intégré. Collaborez avec les autres ou dirigez les gens vers le contenu existant
-* Suivez les normes du GC pour la conception Web sur le site conception.canada.ca
+* Le Web est un espace « d’action » pour la plupart des gens — concentrez‑vous sur les tâches.
+* Les gens ne lisent pas, ils survolent rapidement les textes — utilisez de courts en-têtes de section significatifs.
+* Les gens recherchent des directives ou des étapes faciles à suivre, sinon ils abandonnent, appellent ou envoient des courriels.
+* Les petits écrans ont besoin de moins de contenu — le trafic mobile est supérieur à 50 %.
+* Ne reproduisez pas le contenu — l’espace Web du GC est intégré. Collaborez avec les autres ou créer des liens vers le contenu existant
+* Suivez les normes du GC pour la conception Web sur le site conception.canada.ca.
 
 ## Pour en savoir davantage
 
-* [Étude sur les principales tâches liées à la COVID-19](https://blogue.canada.ca/2020/09/24/taches-principales-a-la-COVID-19.html)
+* [Améliorer le site Canada.ca en se concentrant sur les principales tâches liées à la COVID-19](https://blogue.canada.ca/2020/09/24/taches-principales-a-la-COVID-19.html)
 * [Un exemple en faveur du texte de lien descriptif](https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html)
 * [Projets d'amélioration du contenu](https://blogue.canada.ca/pages/apercu-projet.html)
 * [Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
