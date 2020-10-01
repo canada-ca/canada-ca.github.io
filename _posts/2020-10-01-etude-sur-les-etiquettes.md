@@ -48,7 +48,7 @@ Nous avons ensuite examiné le nouveau contenu qui était prêt et les approbati
 
 ### Catégories
 
-* Ajout d’une nouvelle catégorie intitulée «&nbsp;**Limiter la propagation**&nbsp;» aux liens de groupe liés à la réouverture qui ont bien fonctionné dans l’étude
+* Ajout d’une nouvelle catégorie intitulée «&nbsp;Limiter la propagation&nbsp;» aux liens de groupe liés à la réouverture qui ont bien fonctionné dans l’étude
 
 ### Liens
 
