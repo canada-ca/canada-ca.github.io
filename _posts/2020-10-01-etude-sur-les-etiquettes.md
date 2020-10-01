@@ -42,7 +42,6 @@ src="/images/label-FR.png" width="700">
 <figcaption>Exemple d'une question dans l'étude.</figcaption>
 <br>
 
-
 ## Prendre des mesures en fonction des résultats
 
 De concert avec Santé Canada, nous avons utilisé les résultats pour appuyer les mises à jour de la page d’accueil sur la COVID-19. L’étude a confirmé que certaines étiquettes fonctionnaient bien, nous les avons donc conservées.
@@ -68,7 +67,7 @@ Par exemple, l’étiquette «&nbsp;Protecting public health&nbsp;» a remporté
 
 <br><figure>
 <img class="img-responsive border" alt="Page d'accueil de la maladie à coronavirus (COVID-19) sur Canada.ca avec les nouvelles bandes. Les étiquettes comprennent : Choisir de porter un masque non médical, Situation actuelle, Soutien financier, Votre santé, Limiter la propagation, Voyage et immigration, Comment vous pouvez aider, Renseignements ciblés."
-src="/images/label-3.png" width="700">
+src="/images/label-5.png" width="500">
 </figure>
 <figcaption>Page d'accueil de la maladie à coronavirus (COVID-19)</figcaption>
 <br>
