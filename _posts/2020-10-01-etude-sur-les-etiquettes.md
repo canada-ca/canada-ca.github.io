@@ -36,10 +36,10 @@ Sur Canada.ca, nous avons invité au hasard des gens à participer à l’étude
 Les participants ont répondu aux questions en cliquant sur l’une des options d’étiquette possibles indiquées avec la question. Dans le sondage, on leur demandait de choisir comme s’ils tentaient d’accomplir la tâche sur le site Web. Chaque question présentait différents ensembles d’options d’étiquettes pour les liens et les catégories. Cela nous permet d’explorer comment différentes options s’intègrent à des scénarios de tâches particulières.
 
 <br><figure>
-<img class="img-responsive border" alt="Find: How can my store reduce the risk of transmission of COVID-19? Where would you click? Options include: Focus on : business, Recovery strategy, Limiting the spread, Containing the pandemic, Reopening safely, and Current situation"
+<img class="img-responsive border" alt="Trouver : Comment mon commerce peut-il réduire le risque de transmission de la COVID-19? Où cliqueriez-vous? Les options comprennent : Renseignements ciblés: Entreprise, Stratégie de relance, Limiter la propagation, Contenir la pandémie, Réouverture en toute sécurité, Situation actuelle"
 src="/images/label-FR.png" width="700">
 </figure>
-<figcaption>Exemple de question dans l'étude.</figcaption>
+<figcaption>Exemple d'une question dans l'étude.</figcaption>
 <br>
 
 
@@ -67,7 +67,7 @@ Aujourd’hui, la page d’accueil sur le coronavirus tient compte d’une grand
 Par exemple, l’étiquette «&nbsp;Protecting public health&nbsp;» a remporté de fortes majorités en anglais pour les tâches sur les vaccins et l’immunité. «&nbsp;Protection de la santé publique&nbsp;» a fait aussi bonne figure auprès des répondants français. Ces tâches sont liées à l’état de santé personnel. Les vaccins sont notre cinquième tâche principale (première à l’OMS) et l’immunité est la 17e (quatrième à l’OMS). À mesure que Santé Canada élabore du contenu à l’appui des tâches liées aux vaccins, cette étiquette de catégorie est testée et prête à être utilisée. 
 
 <br><figure>
-<img class="img-responsive border" alt="Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on."
+<img class="img-responsive border" alt="Page d'accueil de la maladie à coronavirus (COVID-19) sur Canada.ca avec les nouvelles bandes. Les étiquettes comprennent : Choisir de porter un masque non médical, Situation actuelle, Soutien financier, Votre santé, Limiter la propagation, Voyage et immigration, Comment vous pouvez aider, Renseignements ciblés."
 src="/images/label-3.png" width="700">
 </figure>
 <figcaption>Page d'accueil de la maladie à coronavirus (COVID-19)</figcaption>
