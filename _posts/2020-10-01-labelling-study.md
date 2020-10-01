@@ -2,7 +2,7 @@
 layout: post
 title:  "Labelling study: which words work best"
 pubdate: "October 1, 2020"
-langpage: "https://blogue.canada.ca/2020/09/24/taches-principales-a-la-COVID-19.html"
+langpage: "https://blogue.canada.ca/2020/10/01/etude-sur-les-etiquettes.html"
 date:   2020-10-01
 published: true
 draft: true
