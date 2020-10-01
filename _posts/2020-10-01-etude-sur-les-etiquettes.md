@@ -16,19 +16,17 @@ Canada.ca/Coronavirus est l’une des pages les plus consultées sur le site Can
  
 Cette semaine, nous examinons les étiquettes que nous avons choisies pour les catégories et les liens sur cette page, et la façon dont elles améliorent la «&nbsp;repérabilité&nbsp;» des principales tâches. Le public compte sur nous pour choisir les bons mots pour la catégorie et les étiquettes de liens pour s’assurer qu’il peut trouver des réponses rapidement et facilement sur Canada.ca. Cela est devenu encore plus évident pendant cette pandémie.
 
-Dans l’étude en ligne que nous avons effectuée avec l’Organisation mondiale de la Santé (OMS) et Gerry McGovern en mai, plus de 6 000 Canadiens ont classé leurs tâches principales liées à la COVID. Les résultats correspondaient en grande partie aux liens des principales tâches qui se trouvent déjà sur la page Canada.ca/Coronavirus. Nous avons également défini quelques nouvelles tâches de «&nbsp;récupération&nbsp;».
+Dans l’étude en ligne que nous avons effectuée avec l’Organisation mondiale de la Santé (OMS) et Gerry McGovern en mai, plus de 6 000 Canadiens ont classé leurs tâches principales liées à la COVID. Les résultats correspondaient en grande partie aux liens des principales tâches qui se trouvent déjà sur la page Canada.ca/Coronavirus. Nous avons également défini quelques nouvelles tâches de «&nbsp;relance&nbsp;».
 
 Pour que les gens aient accès au contenu de ces nouvelles tâches principales, nous avons dû créer de nouvelles catégories et de nouveaux liens. Les étiquettes devaient refléter fidèlement la façon dont les gens percevaient les nouvelles tâches. Puisque nous avons utilisé des données probantes pour définir les nouvelles tâches, nous avons utilisé des données probantes pour trouver les meilleures étiquettes. 
 
 ## L’étude sur les étiquettes
 
-En juin 2020, le Bureau de la transformation numérique (BTN) et Santé Canada ont lancé une étude de suivi sur les étiquettes en anglais et en français.
- 
-Sur Canada.ca, nous avons invité au hasard des gens à participer à l’étude du 8 au 10 juin 2020. 
+En juin 2020, le Bureau de la transformation numérique (BTN) et Santé Canada ont lancé une étude de suivi sur les étiquettes en anglais et en français. Sur Canada.ca, nous avons invité au hasard des gens à participer à l’étude du 8 au 10 juin 2020. 
 
 ### Statistiques
 
-* 3,053 personnes ont participé
+* 3 053 personnes ont participé
 * 85 % ont répondu en anglais
 * 15 % ont répondu en français
 * Plus de la moitié ont répondu aux 10 questions (58 %)
@@ -41,7 +39,6 @@ src="/images/label-FR.png" width="700">
 </figure>
 <figcaption>Exemple d'une question dans l'étude.</figcaption>
 <br>
-
 
 ## Prendre des mesures en fonction des résultats
 
@@ -68,7 +65,7 @@ Par exemple, l’étiquette «&nbsp;Protecting public health&nbsp;» a remporté
 
 <br><figure>
 <img class="img-responsive border" alt="Page d'accueil de la maladie à coronavirus (COVID-19) sur Canada.ca avec les nouvelles bandes. Les étiquettes comprennent : Choisir de porter un masque non médical, Situation actuelle, Soutien financier, Votre santé, Limiter la propagation, Voyage et immigration, Comment vous pouvez aider, Renseignements ciblés."
-src="/images/label-3.png" width="700">
+src="/images/label-5.png" width="500">
 </figure>
 <figcaption>Page d'accueil de la maladie à coronavirus (COVID-19)</figcaption>
 <br>
