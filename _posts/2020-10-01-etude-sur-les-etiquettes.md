@@ -12,7 +12,7 @@ description: "Canada.ca/Coronavirus est l’une des pages les plus consultées s
 ---
 Canada.ca/Coronavirus est l’une des pages les plus consultées sur le site Canada.ca. Des équipes dans l’ensemble du gouvernement ont collaboré et mis à jour cette page régulièrement pour tenir compte des besoins changeants du public canadien. Dans le billet de blogue de la semaine dernière, nous avons parlé de la façon dont nous avons organisé Canada.ca/coronavirus en fonction des principales tâches.
 
-[Améliorer le site Canada.ca en se concentrant sur les principales tâches](https://blogue.canada.ca/2020/09/24/taches-principales-a-la-COVID-19.html)
+[Améliorer le site Canada.ca en se concentrant sur les principales tâches liées à la COVID-19](https://blogue.canada.ca/2020/09/24/taches-principales-a-la-COVID-19.html)
  
 Cette semaine, nous examinons les étiquettes que nous avons choisies pour les catégories et les liens sur cette page, et la façon dont elles améliorent la «&nbsp;repérabilité&nbsp;» des principales tâches. Le public compte sur nous pour choisir les bons mots pour la catégorie et les étiquettes de liens pour s’assurer qu’il peut trouver des réponses rapidement et facilement sur Canada.ca. Cela est devenu encore plus évident pendant cette pandémie.
 
