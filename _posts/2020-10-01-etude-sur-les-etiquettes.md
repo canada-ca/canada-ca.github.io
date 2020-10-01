@@ -8,13 +8,13 @@ published: true
 draft: true
 lang: fr
 alt: "Étude sur les étiquettes : quels mots fonctionnent le mieux"
-description: "En novembre 2019, le BTN a modifié les directives de Canada.ca pour permettre l’utilisation du modèle afficher/masquer afin de présenter un choix entre des réponses mutuellement exclusives."
+description: "Canada.ca/Coronavirus est l’une des pages les plus consultées sur le site Canada.ca. Cette semaine, nous examinons les étiquettes que nous avons choisies pour les catégories et les liens sur cette page, et la façon dont elles améliorent la «&nbsp;repérabilité&nbsp;» des principales tâches."
 ---
 Canada.ca/Coronavirus est l’une des pages les plus consultées sur le site Canada.ca. Des équipes dans l’ensemble du gouvernement ont collaboré et mis à jour cette page régulièrement pour tenir compte des besoins changeants du public canadien. Dans le billet de blogue de la semaine dernière, nous avons parlé de la façon dont nous avons organisé Canada.ca/coronavirus en fonction des principales tâches.
 
 [Améliorer le site Canada.ca en se concentrant sur les principales tâches](https://blogue.canada.ca/2020/09/24/taches-principales-a-la-COVID-19.html)
  
-Cette semaine, nous examinons les étiquettes que nous avons choisies pour les catégories et les liens sur cette page, et la façon dont elles améliorent la « repérabilité » des principales tâches. Le public compte sur nous pour choisir les bons mots pour la catégorie et les étiquettes de liens pour s’assurer qu’il peut trouver des réponses rapidement et facilement sur Canada.ca. Cela est devenu encore plus évident pendant cette pandémie.
+Cette semaine, nous examinons les étiquettes que nous avons choisies pour les catégories et les liens sur cette page, et la façon dont elles améliorent la «&nbsp;repérabilité&nbsp;» des principales tâches. Le public compte sur nous pour choisir les bons mots pour la catégorie et les étiquettes de liens pour s’assurer qu’il peut trouver des réponses rapidement et facilement sur Canada.ca. Cela est devenu encore plus évident pendant cette pandémie.
 
 Dans l’étude en ligne que nous avons effectuée avec l’Organisation mondiale de la Santé (OMS) et Gerry McGovern en mai, plus de 6 000 Canadiens ont classé leurs tâches principales liées à la COVID. Les résultats correspondaient en grande partie aux liens des principales tâches qui se trouvent déjà sur la page Canada.ca/Coronavirus. Nous avons également défini quelques nouvelles tâches de «&nbsp;récupération&nbsp;».
 
