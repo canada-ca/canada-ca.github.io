@@ -12,17 +12,17 @@ description: "Canada.ca/Coronavirus is one of the most visited pages on Canada.c
 ---
 Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. Teams across government have been collaborating and updating this page regularly to reflect the evolving needs of the Canadian public. In last week’s blog post, we talked about how we organized Canada.ca/coronavirus based on top tasks. 
 
-[Improving Canada.ca by focusing on top tasks](https://blog.canada.ca/2020/09/24/COVID-top-tasks.html)
+[Improving Canada.ca by focusing on COVID-19 top tasks](https://blog.canada.ca/2020/09/24/COVID-top-tasks.html)
 
 This week, we’re looking at the labels we’ve chosen for categories and links on that page, and how they improve the ‘findability’ of the top tasks. The public depends on us to choose the right words for the category and link labels to ensure that they can find answers quickly and easily on Canada.ca. That has become even more evident during this pandemic. 
 
-In the online top task study we did with the World Health Organization and Gerry McGovern in May, over 6,000 Canadians ranked their top COVID-related tasks. The results mostly matched the top task links already on the Canada.ca/Coronavirus page. We also identified some new “recovery” tasks. 
+In the online top task study we did with the World Health Organization (WHO) and Gerry McGovern in May, over 6,000 Canadians ranked their top COVID-related tasks. The results mostly matched the top task links already on the Canada.ca/Coronavirus page. We also identified some new “recovery” tasks. 
 
 To get people to content for these emerging top tasks, we had to create some new categories and links. The labels for these had to accurately reflect how people thought about the new tasks.  Since we used evidence to identify the new tasks, we used evidence to find the best labels. 
 
 ## The labelling study
 
-In June 2020, DTO and Health Canada launched a follow-up labelling study in both English and French. On Canada.ca, we randomly invited people to participate in the study from June 8 to 10, 2020.  
+In June 2020, the Digital Transformation Office (DTO) and Health Canada launched a follow-up labelling study in both English and French. On Canada.ca, we randomly invited people to participate in the study from June 8 to 10, 2020.  
 
 ### Stats
 * 3,053 people participated 
@@ -59,7 +59,7 @@ Then we looked at what new content was ready and the approvals needed for some o
 
 Today, the Coronavirus landing page reflects a lot of what we found from this research. As COVID-19 continues to evolve and needs change, we’ll continue to adjust the categories and links on this page.
 
-For example, the “Protecting public health” label won strong majorities in English for vaccine & immunity tasks. “Protection de la santé publique” performed similarly well with French respondents. These tasks are related to personal medical health. Vaccines is our #5 top task (#1 at WHO) & immunity is #17 (#4 at WHO). As Health Canada develops content supporting vaccine tasks,  this category label is tested and ready to use. 
+For example, the “Protecting public health” label won strong majorities in English for vaccine and immunity tasks. “Protection de la santé publique” performed similarly well with French respondents. These tasks are related to personal medical health. Vaccines is our #5 top task (#1 at WHO) and immunity is #17 (#4 at WHO). As Health Canada develops content supporting vaccine tasks,  this category label is tested and ready to use. 
 
 <br><figure>
 <img class="img-responsive border" alt="Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on."
@@ -91,7 +91,7 @@ Remember:
 
 ## Learn more
 
-* [COVID-19 top task study](https://blog.canada.ca/2020/09/24/COVID-top-tasks.html)
+* [Improving Canada.ca by focusing on COVID-19 top tasks](https://blog.canada.ca/2020/09/24/COVID-top-tasks.html)
 * [A case for descriptive link text](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)
 * [Content improvement projects](https://blog.canada.ca/pages/project-overview.html)
 * [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
