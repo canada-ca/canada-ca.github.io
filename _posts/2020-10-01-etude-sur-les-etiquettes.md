@@ -68,7 +68,7 @@ Par exemple, l’étiquette «&nbsp;Protecting public health&nbsp;» a remporté
 
 <br><figure>
 <img class="img-responsive border" alt="Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on."
-src="/images/limiting the spread.png" width="700">
+src="/images/label-3.png" width="700">
 </figure>
 <figcaption>Page d'accueil de la maladie à coronavirus (COVID-19)</figcaption>
 <br>
