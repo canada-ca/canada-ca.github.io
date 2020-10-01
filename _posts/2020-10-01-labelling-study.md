@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "Labelling study: which words work best"
-description: "In May 2020, the DTO collaborated with Gerry McGovern, the World Health Organization (WHO), Health Canada and the Public Health Agency of Canada on a study to identify people’s top COVID-19 tasks on Canada.ca."
+description: "Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. This week, we’re looking at the labels we’ve chosen for categories and links on that page, and how they improve the ‘findability’ of the top tasks."
 ---
 Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. Teams across government have been collaborating and updating this page regularly to reflect the evolving needs of the Canadian public. In last week’s blog post, we talked about how we organized Canada.ca/coronavirus based on top tasks. 
 
