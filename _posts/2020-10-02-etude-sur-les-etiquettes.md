@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Étude sur les étiquettes : quels mots fonctionnent le mieux"
-pubdate: "1er octobre 2020"
-langpage: "https://blog.canada.ca/2020/10/01/labelling-study.html"
-date:   2020-10-01
+pubdate: "2er octobre 2020"
+langpage: "https://blog.canada.ca/2020/10/02/labelling-study.html"
+date:   2020-10-02
 published: true
 draft: true
 lang: fr
