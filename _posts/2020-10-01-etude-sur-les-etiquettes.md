@@ -42,7 +42,7 @@ src="/images/label-FR.png" width="700">
 
 ## Prendre des mesures en fonction des résultats
 
-De concert avec Santé Canada, nous avons utilisé les résultats pour appuyer les mises à jour de la page d’accueil sur la COVID-19. L’étude a confirmé que certaines étiquettes fonctionnaient bien, nous les avons donc conservées.
+De concert avec Santé Canada, nous avons utilisé les résultats pour appuyer les mises à jour de la page d’accueil sur la COVID-19. L’étude a confirmé que certaines étiquettes fonctionnaient bien. Nous les avons donc conservées.
  
 Nous avons ensuite examiné le nouveau contenu qui était prêt et les approbations nécessaires pour certains des changements proposés. Nous avons donc immédiatement ajouté quelques nouvelles étiquettes pour tenir compte des résultats de l’étude.
 
@@ -88,7 +88,7 @@ Les auditoires se comportent et interagissent différemment dans l’espace num�
 * Les gens ne lisent pas, ils survolent rapidement les textes — utilisez de courts en-têtes de section significatifs.
 * Les gens recherchent des directives ou des étapes faciles à suivre, sinon ils abandonnent, appellent ou envoient des courriels.
 * Les petits écrans ont besoin de moins de contenu — le trafic mobile est supérieur à 50 %.
-* Ne reproduisez pas le contenu — l’espace Web du GC est intégré. Collaborez avec les autres ou créer des liens vers le contenu existant
+* Ne reproduisez pas le contenu — l’espace Web du GC est intégré, alors collaborez avec les autres ou créer des liens vers le contenu existant
 * Suivez les normes du GC pour la conception Web sur le site conception.canada.ca.
 
 ## Pour en savoir davantage
