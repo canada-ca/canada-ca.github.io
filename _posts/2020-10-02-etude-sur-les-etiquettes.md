@@ -41,7 +41,7 @@ src="/images/label-FR.png" width="700">
 <summary>Exemple d'une question dans l'étude.</summary>
 <p>Trouver : "Quelle est l'approche stratégique pour lever les restrictions de santé publique? Où cliqueriez-vous? Les options comprennent :</p>
 <ul>
-<li> Protection de la santé publique</li>
+<li>Protection de la santé publique</li>
 <li>La réponse du Canada</li>
   <li>Limiter la propagation</li>
   <li>Réouverture en toute sécurité</li>
@@ -76,12 +76,14 @@ Aujourd’hui, la page d’accueil sur le coronavirus tient compte d’une grand
 Par exemple, l’étiquette «&nbsp;Protecting public health&nbsp;» a remporté de fortes majorités en anglais pour les tâches sur les vaccins et l’immunité. «&nbsp;Protection de la santé publique&nbsp;» a fait aussi bonne figure auprès des répondants français. Ces tâches sont liées à l’état de santé personnel. Les vaccins sont notre cinquième tâche principale (première à l’OMS) et l’immunité est la 17e (quatrième à l’OMS). À mesure que Santé Canada élabore du contenu à l’appui des tâches liées aux vaccins, cette étiquette de catégorie est testée et prête à être utilisée. 
 
 <br><figure>
-<img class="img-responsive border" alt="Page d'accueil de la maladie à coronavirus (COVID-19) sur Canada.ca avec les nouvelles bandes. Les étiquettes comprennent : Choisir de porter un masque non médical, Situation actuelle, Soutien financier, Votre santé, Limiter la propagation, Voyage et immigration, Comment vous pouvez aider, Renseignements ciblés."
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
 src="/images/label-5.png" width="500">
 </figure>
-<figcaption>Page d'accueil de la maladie à coronavirus (COVID-19)</figcaption>
+<details>
+<summary>Page d'accueil de la maladie à coronavirus (COVID-19)</summary>
+<p>Page d'accueil de la maladie à coronavirus (COVID-19) sur Canada.ca avec les nouvelles bandes. Les étiquettes comprennent : Choisir de porter un masque non médical, Situation actuelle, Soutien financier, Votre santé, Limiter la propagation, Voyage et immigration, Comment vous pouvez aider, Renseignements ciblés.</p>
+</details>
 <br>
-
 
 ## Utiliser des étiquettes qui fonctionnent pour les gens
 
