@@ -73,7 +73,7 @@ Today, the Coronavirus landing page reflects a lot of what we found from this re
 For example, the “Protecting public health” label won strong majorities in English for vaccine and immunity tasks. “Protection de la santé publique” performed similarly well with French respondents. These tasks are related to personal medical health. Vaccines is our #5 top task (#1 at WHO) and immunity is #17 (#4 at WHO). As Health Canada develops content supporting vaccine tasks,  this category label is tested and ready to use. 
 
 <br><figure>
-<img class="img-responsive border" alt="Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on."
+<img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/label-4.png" width="500">
 </figure>
 <details>
