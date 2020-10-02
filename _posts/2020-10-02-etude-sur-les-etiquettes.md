@@ -34,10 +34,22 @@ En juin 2020, le Bureau de la transformation numérique (BTN) et Santé Canada o
 Les participants ont répondu aux questions en cliquant sur l’une des options d’étiquette possibles indiquées avec la question. Dans le sondage, on leur demandait de choisir comme s’ils tentaient d’accomplir la tâche sur le site Web. Chaque question présentait différents ensembles d’options d’étiquettes pour les liens et les catégories. Cela nous permet d’explorer comment différentes options s’intègrent à des scénarios de tâches particulières.
 
 <br><figure>
-<img class="img-responsive border" alt="Trouver : Quelle est l'approche stratégique pour lever les restrictions de santé publique? Où cliqueriez-vous? Les options comprennent : Protection de la santé publique, La réponse du Canada, Limiter la propagation, Réouverture en toute sécurité, Stratégie de reprise, Contenir la pandémie, Stratégie du gouvernment"
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
 src="/images/label-FR.png" width="700">
 </figure>
-<figcaption>Exemple d'une question dans l'étude.</figcaption>
+<details>
+<summary>Exemple d'une question dans l'étude.</summary>
+<p>Trouver : "Quelle est l'approche stratégique pour lever les restrictions de santé publique? Où cliqueriez-vous? Les options comprennent :</p>
+<ul>
+<li> Protection de la santé publique</li>
+<li>La réponse du Canada</li>
+  <li>Limiter la propagation</li>
+  <li>Réouverture en toute sécurité</li>
+<li>Stratégie de reprise</li>
+<li>Contenir la pandémie</li>
+ <li>Stratégie du gouvernment</li>
+</ul>
+</details>
 <br>
 
 ## Prendre des mesures en fonction des résultats
@@ -69,6 +81,7 @@ src="/images/label-5.png" width="500">
 </figure>
 <figcaption>Page d'accueil de la maladie à coronavirus (COVID-19)</figcaption>
 <br>
+
 
 ## Utiliser des étiquettes qui fonctionnent pour les gens
 
