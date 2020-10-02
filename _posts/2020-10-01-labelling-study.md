@@ -86,7 +86,7 @@ Audiences behave and interact differently in the digital space compared to how t
 * People don't read, they scan — use short meaningful section headers
 * People look for easy to follow directions or steps, otherwise they give up, call or email
 * Small screens need less content — mobile traffic is greater than 50%
-* Don’t duplicate content — GC web space is integrated. Collaborate with others or link to existing content
+* Don’t duplicate content — GC web space is **integrated, so collaborate** with others or link to existing content
 * Follow GC standards for web design at design.canada.ca
 
 ## Learn more
