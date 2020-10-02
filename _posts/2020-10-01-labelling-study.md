@@ -80,7 +80,7 @@ Web is a service and it’s a shared responsibility. What the Government of Cana
 
 Audiences behave and interact differently in the digital space compared to how they behave and interact with traditional communication channels. 
 
-Remember:
+### Remember
 
 * Web is a “doing” place for most — focus on tasks
 * People don't read, they scan — use short meaningful section headers
