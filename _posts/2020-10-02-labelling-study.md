@@ -76,7 +76,10 @@ For example, the “Protecting public health” label won strong majorities in E
 <img class="img-responsive border" alt="Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on."
 src="/images/label-4.png" width="500">
 </figure>
-<figcaption>Coronavirus disease (COVID-19) landing page</figcaption>
+<details>
+<summary>Coronavirus disease (COVID-19) landing page</summary>
+<p>Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on.</p>
+</details>
 <br>
 
 ## Use labels that work for people
