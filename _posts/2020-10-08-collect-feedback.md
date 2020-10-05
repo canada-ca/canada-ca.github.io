@@ -28,8 +28,8 @@ The page feedback widget is just a question that sits at the bottom of a page, w
 This simple widget is a powerful tool for content owners. It lets them passively monitor the effectiveness of their content. It provides regular insight into whether content is working as intended, and if not, why. 
 
 On May 11 we added the widget to the bottom of two COVID-related pages:
-*[Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html) 
-*[Prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)  
+* [Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html) 
+* [Prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)  
 
 Our goal for this pilot study was to:
 
