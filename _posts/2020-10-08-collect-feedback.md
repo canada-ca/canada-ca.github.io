@@ -43,6 +43,34 @@ Our goal for this pilot study was to:
 
 Service Canada/Principal Publisher built the widget.  By embedding it into pages, departments can capture both qualitative and quantitative feedback from Canadians. 
 
+<br><figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/feedback-1.png" width="700">
+</figure>
+<details>
+<summary>Page Feedback Widget</summary>
+<p>Widget displays the question: "Did you find what you were looking for?" and offers yes and no options.</p>
+</details>
+<br>
+
+<br><figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/label-4.png" width="500">
+</figure>
+<details>
+<summary>Next screen of Page Feedback Widget.</summary>
+ <p>When users select "no," they are asked "What was wrong?" and given the following options:</p>
+ <ul>
+<li>The answer I need is missing</li>
+<li>The information isn't clear</li>
+<li>I'm not in the right place</li>
+<li>Something is broken or incorrect</li>
+<li>Other reason</li>
+ </ul>
+<p>Selecting "other reason" displays a free text field where they can provide more details, with direction not to include any personal information.</p>
+</details>
+<br>
+
 ## Processing feedback
 
 Adobe Analytics processes the quantitative data - the number of yes vs no responses, and the preset answers for what was wrong. For the pilot study, text-based feedback went to a generic email account at Health Canada. Huge kudos to Health Canada/PHAC for going through the feedback and analyzing it.
