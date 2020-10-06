@@ -91,7 +91,25 @@ Based on the advice we got, the DTO created a process to strip personal informat
 
 As of June 10, there were 5083 responses to the widget that we had added to the 2 pilot pages. That represented an average of 164 responses per day.
 
-When people answered that they had not found what they were looking for, their answers for what was wrong gave us a clue about the top usability issues on the pages. 
+When people answered that they had not found what they were looking for, their answers for what was wrong gave us a clue about the top usability issues on the pages.
+
+<br><figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/feedback-graph-1.png" width="700">
+</figure>
+<details>
+<summary>Next screen of Page Feedback Widget.</summary>
+ <p>When users select "no," they are asked "What was wrong?" and given the following options:</p>
+ <ul>
+<li>The answer I need is missing</li>
+<li>The information isn't clear</li>
+<li>I'm not in the right place</li>
+<li>Something is broken or incorrect</li>
+<li>Other reason</li>
+ </ul>
+<p>Selecting "other reason" displays a free text field where they can provide more details, with direction not to include any personal information.</p>
+</details>
+<br>
 
 Of the 1015 “what was wrong” submissions, 782 (77%) provided more detail about what was wrong in their own words, using the text box.  
 
