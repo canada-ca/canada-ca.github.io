@@ -43,7 +43,7 @@ Our goal for this pilot study was to:
 
 Service Canada/Principal Publisher built the widget.  By embedding it into pages, departments can capture both qualitative and quantitative feedback from Canadians. 
 
-<br><figure>
+<figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/feedback-1.png" width="700">
 </figure>
@@ -51,11 +51,10 @@ src="/images/feedback-1.png" width="700">
 <summary>Page Feedback Widget</summary>
 <p>Widget displays the question: "Did you find what you were looking for?" and offers yes and no options.</p>
 </details>
-<br>
 
 <br><figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/label-4.png" width="500">
+src="/images/feedback-2.png" width="700">
 </figure>
 <details>
 <summary>Next screen of Page Feedback Widget.</summary>
