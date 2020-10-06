@@ -95,7 +95,7 @@ When people answered that they had not found what they were looking for, their a
 
 <br><figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/feedback-graph-1.png" width="700">
+src="/images/Feedback-graph-1.png" width="700">
 </figure>
 <details>
 <summary>Next screen of Page Feedback Widget.</summary>
@@ -114,6 +114,24 @@ src="/images/feedback-graph-1.png" width="700">
 Of the 1015 “what was wrong” submissions, 782 (77%) provided more detail about what was wrong in their own words, using the text box.  
 
 Using this feedback, we started to get a better picture of what was causing issues for people during their visit.  Content specialists then looked at the feedback to understand the detailed intent and causes of frustration.
+
+<br><figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/Feedback-graph-1.png" width="700">
+</figure>
+<details>
+<summary>Next screen of Page Feedback Widget.</summary>
+ <p>When users select "no," they are asked "What was wrong?" and given the following options:</p>
+ <ul>
+<li>The answer I need is missing</li>
+<li>The information isn't clear</li>
+<li>I'm not in the right place</li>
+<li>Something is broken or incorrect</li>
+<li>Other reason</li>
+ </ul>
+<p>Selecting "other reason" displays a free text field where they can provide more details, with direction not to include any personal information.</p>
+</details>
+<br>
 
 This detail enabled Health Canada/PHAC to: 
 * triage efforts based on how often they saw similar feedback
