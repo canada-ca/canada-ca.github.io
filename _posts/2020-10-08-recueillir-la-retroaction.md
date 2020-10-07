@@ -23,7 +23,7 @@ En mai 2020, quelques équipes ont collaboré au lancement de l’étude pilote 
 * Éditeur principal;
 * Bureau du Conseil privé.  
 
-Le widget de rétroaction sur la page est une simple question qui se trouve au bas de celle-ci, où se trouve habituellement le widget « Signaler un problème ». Il s’agit de, « Avez-vous trouvé ce que vous cherchiez? » Les utilisateurs peuvent répondre par oui ou par non. S’ils répondent non, ils ont la possibilité de fournir plus de détails.
+Le widget de rétroaction sur la page est une simple question qui se trouve au bas de celle-ci, où se trouve habituellement le widget «&nbsp;Signaler un problème&nbsp;». Il s’agit de, «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;» Les utilisateurs peuvent répondre par oui ou par non. S’ils répondent non, ils ont la possibilité de fournir plus de détails.
 
 Ce widget simple est un outil puissant pour les propriétaires de contenu. Il leur permet de surveiller passivement l’efficacité de leur contenu. Il offre en outre la possibilité de vérifier régulièrement si le contenu fonctionne comme prévu et, si ce n’est pas le cas, pourquoi. 
 
@@ -34,7 +34,7 @@ Le 11 mai, nous avons ajouté le widget au bas de deux pages liées à la COVID 
 Notre objectif pour cette étude pilote était ce qui suit :
 
 * mettre à l’essai une nouvelle approche pour la recherche en conception et la mesure de la réussite des tâches;
-* découvrir si nous recevrions plus de commentaires utilisables qu’avec le widget « Signaler un problème »;
+* découvrir si nous recevrions plus de commentaires utilisables qu’avec le widget «&nbsp;Signaler un problème&nbsp;»;
 * cerner les problèmes de convivialité; 
 * éclairer les améliorations itératives du contenu;  
 * faire des expériences avec l’apprentissage automatique et le traitement du langage naturel pour aider à trier les commentaires.
@@ -72,7 +72,7 @@ src="/images/feedback-2.png" width="700">
 
 ## Traitement de la rétroaction
 
-Adobe Analytics traite les données quantitatives, c’est-à-dire le nombre de « oui » par rapport au nombre de « non », et les réponses prédéfinies pour ce qui n’allait pas. Pour l’étude pilote, la rétroaction textuelle était envoyée à un compte de courriel générique de Santé Canada. Félicitations à Santé Canada et à l’ASPC pour avoir passé en revue la rétroaction et d’en avoir fait l’analyse.
+Adobe Analytics traite les données quantitatives, c’est-à-dire le nombre de « oui » par rapport au nombre de «&nbsp;non&nbsp;», et les réponses prédéfinies pour ce qui n’allait pas. Pour l’étude pilote, la rétroaction textuelle était envoyée à un compte de courriel générique de Santé Canada. Félicitations à Santé Canada et à l’ASPC pour avoir passé en revue la rétroaction et d’en avoir fait l’analyse.
 
 Depuis ce projet pilote, nous avons mis au point un processus qui permet d’extraire la rétroaction textuelle directement vers une base de données. Nous avons fait des expériences avec l’apprentissage automatique pour la classer automatiquement. Nous avons également créé une interface Web pour aider les ministères à passer en revue la rétroaction afin d’en dégager des tendances et des idées.
 
@@ -111,7 +111,7 @@ src="/images/Feedback-graph-1.png" width="700">
 </details>
 <br>
 
-Sur les 1015 personnes qui ont répondu à « ce qui n’allait pas », 782 (77 %) ont utilisé la zone de texte pour fournir plus de détails dans leurs propres mots sur ce qui ne fonctionnait pas.
+Sur les 1015 personnes qui ont répondu à «&nbsp;ce qui n’allait pas&nbsp;», 782 (77 %) ont utilisé la zone de texte pour fournir plus de détails dans leurs propres mots sur ce qui ne fonctionnait pas.
 
 Grâce à cette rétroaction, nous avons commencé à avoir une meilleure idée des éléments qui causaient des problèmes aux gens pendant leur visite. Les spécialistes du contenu ont ensuite examiné la rétroaction pour en saisir l’intention et les causes détaillées de la frustration.
 
@@ -160,14 +160,14 @@ Pour finir, le but de la rétroaction est d’améliorer les services Web afin q
 * Mettre le widget à l’essai sur d’autres pages à l’intérieur et à l’extérieur de l’outil AEM (Adobe Experience Manager)
 * Parfaire certaines fonctionnalités du widget
 * Continuer d’améliorer nos processus d’apprentissage automatique
-* Élaborer des « tableaux de bord » pour avoir un aperçu des tendances et des problèmes
+* Élaborer des «&nbsp;tableaux de bord&nbsp;» pour avoir un aperçu des tendances et des problèmes
 * Travailler à un déploiement plus large de l’outil
 
 Enfin, un grand merci à nos partenaires pour ce projet pilote.
 
 ## Pour en savoir davantage
 
-* [Increase the feedback - Gerry McGovern](https://medium.com/@gerrymcgovern/increase-the-feedback-3a0d4c904762) (en anglais seulement)
+* [Increase the feedback - Gerry McGovern](https://medium.com/@gerrymcgovern/increase-the-feedback-3a0d4c904762)(en anglais seulement)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
