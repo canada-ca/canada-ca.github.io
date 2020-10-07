@@ -41,7 +41,7 @@ Our goal for this pilot study was to:
 
 ## Feedback widget
 
-Service Canada/Principal Publisher built the widget.  By embedding it into pages, departments can capture both qualitative and quantitative feedback from Canadians. 
+Service Canada/Principal Publisher built the widget. By embedding it into pages, departments can capture both qualitative and quantitative feedback from Canadians. 
 
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
@@ -117,7 +117,7 @@ Using this feedback, we started to get a better picture of what was causing issu
 
 <br><figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/Feedback-graph-1.png" width="700">
+src="/images/feedback-graph-2.png" width="700">
 </figure>
 <details>
 <summary>Next screen of Page Feedback Widget.</summary>
