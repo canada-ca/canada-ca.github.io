@@ -44,29 +44,29 @@ Notre objectif pour cette étude pilote était ce qui suit :
 Service Canada et l’éditeur principal ont conçu le widget. En l’intégrant dans les pages, les ministères peuvent recueillir les commentaires qualitatifs et quantitatifs des Canadiens.
 
 <figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/feedback-1.png" width="700">
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
+src="/images/feedback-3.png" width="700">
 </figure>
 <details>
-<summary>Page Feedback Widget</summary>
-<p>Widget displays the question: "Did you find what you were looking for?" and offers yes and no options.</p>
+<summary>Le widget de rétroaction sur la page</summary>
+<p>Le widget affiche la question : "Avez-vous trouvé ce que vous cherchiez ?" et propose des options oui et non.</p>
 </details>
 
 <br><figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
 src="/images/feedback-2.png" width="700">
 </figure>
 <details>
-<summary>Next screen of Page Feedback Widget.</summary>
- <p>When users select "no," they are asked "What was wrong?" and given the following options:</p>
+<summary>Écran suivant de le widget de rétroaction sur la page</summary>
+ <p>Lorsque les utilisateurs choisissent "non", on leur demande "Qu'est-ce qui n'allait pas" et on leur donne les options suivantes :</p>
  <ul>
-<li>The answer I need is missing</li>
-<li>The information isn't clear</li>
-<li>I'm not in the right place</li>
-<li>Something is broken or incorrect</li>
-<li>Other reason</li>
+<li>La réponse dont j'ai besoin manque</li>
+<li>L'information n'est pas claire</li>
+<li>Je ne suis pas au bon endroit</li>
+<li>Quelque chose est cassé ou incorrect</li>
+<li>Autre raison</li>
  </ul>
-<p>Selecting "other reason" displays a free text field where they can provide more details, with direction not to include any personal information.</p>
+<p>En sélectionnant "autre raison", ils affichent un champ de texte libre où ils peuvent fournir plus de détails, avec la consigne de ne pas inclure d'informations personnelles.</p>
 </details>
 <br>
 
@@ -94,7 +94,7 @@ En date du 10 juin, il y avait 5083 réponses au widget que nous avions ajouté 
 Lorsque les gens ont répondu qu’ils n’avaient pas trouvé ce qu’ils cherchaient, leurs réponses concernant ce qui n’allait pas nous ont donné une idée des principaux problèmes de convivialité sur les pages.
 
 <br><figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
 src="/images/Feedback-graph-1.png" width="700">
 </figure>
 <details>
@@ -116,7 +116,7 @@ Sur les 1015 personnes qui ont répondu à «&nbsp;ce qui n’allait pas&nbsp;»
 Grâce à cette rétroaction, nous avons commencé à avoir une meilleure idée des éléments qui causaient des problèmes aux gens pendant leur visite. Les spécialistes du contenu ont ensuite examiné la rétroaction pour en saisir l’intention et les causes détaillées de la frustration.
 
 <br><figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
 src="/images/feedback-graph-2.png" width="700">
 </figure>
 <details>
