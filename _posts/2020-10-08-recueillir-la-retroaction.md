@@ -54,7 +54,7 @@ src="/images/feedback-3.png" width="700">
 
 <br><figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/feedback-2.png" width="700">
+src="/images/feedback-4.png" width="700">
 </figure>
 <details>
 <summary>Écran suivant de le widget de rétroaction sur la page</summary>
