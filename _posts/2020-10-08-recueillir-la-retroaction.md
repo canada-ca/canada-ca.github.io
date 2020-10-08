@@ -119,11 +119,11 @@ Grâce à cette rétroaction, nous avons commencé à avoir une meilleure idée 
 
 <br><figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/feedback-graph-2.png" width="700">
+src="/images/feedback-graph-4.png" width="700">
 </figure>
 <details>
 <summary>Résultats de l'analyse des textes ouverts.</summary>
- <h3>Top 10 des thèmes référencés</h3>
+ <h3>Les 10 premiers thèmes référencés</h3>
  <ul>
 <li>Symptômes</li>
 <li>Activités autorisées</li>
