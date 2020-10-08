@@ -155,19 +155,19 @@ Par exemple, nous avons remarqué un grand pourcentage de commentaires liés à 
 * Sur les pages très achalandées, deux semaines semblaient suffisantes pour déterminer les tendances et les points à améliorer.
 * Le widget est une méthode rapide et rentable pour recueillir des observations sur le contenu.
 * L’outil aide à normaliser la mesure de l’efficacité de votre contenu et la capacité d’y apporter des améliorations itératives après sa publication.
-* La nature continue du widget permet aux équipes, grâce à la surveillance des changements dans le type de rétroaction qu’elles reçoivent, de constater immédiatement les effets des améliorations apportées.    
+* La nature continue du widget permet aux équipes, grâce à la surveillance des changements dans le type de rétroaction qu’elles reçoivent, de constater immédiatement les effets des améliorations apportées.
 
-## Mot de la fin
-
-Pour finir, le but de la rétroaction est d’améliorer les services Web afin que notre contenu puisse mieux répondre aux besoins des Canadiens. Le widget de rétroaction sur la page est un outil utile qui fournit aux équipes du Web, des programmes et des politiques des renseignements précieux pour la prestation de services. Les leçons apprises peuvent nous aider à appuyer l’orientation et les recommandations relatives au contenu.
-
-### Prochaines étapes de ce projet pilote
+## Prochaines étapes de ce projet pilote
 
 * Mettre le widget à l’essai sur d’autres pages à l’intérieur et à l’extérieur de l’outil AEM (Adobe Experience Manager)
 * Parfaire certaines fonctionnalités du widget
 * Continuer d’améliorer nos processus d’apprentissage automatique
 * Élaborer des «&nbsp;tableaux de bord&nbsp;» pour avoir un aperçu des tendances et des problèmes
 * Travailler à un déploiement plus large de l’outil
+
+## Mot de la fin
+
+Pour finir, le but de la rétroaction est d’améliorer les services Web afin que notre contenu puisse mieux répondre aux besoins des Canadiens. Le widget de rétroaction sur la page est un outil utile qui fournit aux équipes du Web, des programmes et des politiques des renseignements précieux pour la prestation de services. Les leçons apprises peuvent nous aider à appuyer l’orientation et les recommandations relatives au contenu.
 
 Enfin, un grand merci à nos partenaires pour ce projet pilote.
 
