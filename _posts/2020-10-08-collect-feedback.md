@@ -95,7 +95,7 @@ When people answered that they had not found what they were looking for, their a
 
 <br><figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/feedback-graph-1.png" width="700">
+src="/images/Feedback-graph-1.png" width="700">
 </figure>
 <details>
 <summary>Results of radio buttons analysis.</summary>
