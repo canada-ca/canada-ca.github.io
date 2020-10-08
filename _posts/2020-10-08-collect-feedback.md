@@ -125,7 +125,7 @@ src="/images/feedback-graph-2.png" width="700">
 <summary>Results of open text analysis.</summary>
  <h3>Top 10 Themes Referenced</h3>
  <ul>
-<li>Symptons</li>
+<li>Symptoms</li>
 <li>Permissible activities</li>
 <li>Testing</li>
 <li>Transmission</li>
