@@ -85,7 +85,7 @@ Nous savions qu’il existait une possibilité que nous recevions des renseignem
 * Division de la gestion de la sécurité nationale, Santé Canada;
 * Sécurité de la TI, Santé Canada.
  
-À la lumière des conseils que nous avons reçus, Santé Canada a créé un processus pour retirer les renseignements personnels présents dans la rétroaction. Il a été ainsi possible d’éviter un autre élément du traitement manuel. Plus le nombre d’étapes automatisées sera grand, plus les équipes auront le temps de se concentrer sur les améliorations.
+À la lumière des conseils que nous avons reçus, le BTN a créé un processus pour retirer les renseignements personnels présents dans la rétroaction. Il a été ainsi possible d’éviter un autre élément du traitement manuel. Plus le nombre d’étapes automatisées sera grand, plus les équipes auront le temps de se concentrer sur les améliorations.
 
 ## Ce que nous avons constaté
 
