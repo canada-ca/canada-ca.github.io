@@ -147,7 +147,7 @@ This detail enabled Health Canada/PHAC to:
 
 For example, we saw a large percentage of feedback asking about less common COVID-19 symptoms that weren’t listed on the Symptoms page. This insight provided evidence to support adding those symptoms to the list.
 
-## Key Lessons learned
+## Key lessons learned
 
 * The text box provides meaningful feedback from people that is directly related to the content and what they are looking for
 * Text-based feedback lets web teams identify terms used by Canadians to support plain language 
