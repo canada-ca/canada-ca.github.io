@@ -105,10 +105,10 @@ src="/images/Feedback-graph-1.png" width="700">
  <ul>
 <li>La réponse dont j'ai besoin n'est pas là</li>
 <li>Aucune raison invoquée</li>
-<li>Other reason</li>
-<li>The information isn't clear</li>
-<li>I'm not in the right place</li>
-<li>Something is broken or incorrect</li>
+<li>Autre raison</li>
+<li>L'information n'est pas claire</li>
+<li>Je ne suis pas au bon endroit</li>
+<li>Quelque chose est brisé ou incorrect</li>
 </ul>
 </details>
 <br>
@@ -122,18 +122,18 @@ Grâce à cette rétroaction, nous avons commencé à avoir une meilleure idée 
 src="/images/feedback-graph-2.png" width="700">
 </figure>
 <details>
-<summary>Results of open text analysis.</summary>
- <h3>Top 10 Themes Referenced</h3>
+<summary>Résultats de l'analyse des textes ouverts.</summary>
+ <h3>Top 10 des thèmes référencés</h3>
  <ul>
-<li>Symptons</li>
-<li>Permissible activities</li>
-<li>Testing</li>
+<li>Symptômes</li>
+<li>Activités autorisées</li>
+<li>Tester</li>
 <li>Transmission</li>
-<li>Quarantine isolation self-isolation</li>
-<li>Treatment</li>
-<li>Workplaces</li>
-<li>Financial support</li>
-<li>Vulnerable Populations</li>
+<li>Isolement en quarantaine auto-isolement</li>
+<li>Traitement</li>
+<li>Lieux de travail</li>
+<li>Soutien financier</li>
+<li>Populations vulnérables</li>
 <li>PPE</li>
 </ul>
 </details>
