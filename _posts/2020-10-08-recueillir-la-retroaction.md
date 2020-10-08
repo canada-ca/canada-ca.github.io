@@ -97,7 +97,7 @@ Lorsque les gens ont répondu qu’ils n’avaient pas trouvé ce qu’ils cherc
 
 <br><figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/Feedback-graph-1.png" width="700">
+src="/images/Feedback-graph-3.png" width="700">
 </figure>
 <details>
 <summary>Résultats de l'analyse des boutons radio.</summary>
@@ -127,14 +127,14 @@ src="/images/feedback-graph-2.png" width="700">
  <ul>
 <li>Symptômes</li>
 <li>Activités autorisées</li>
-<li>Tester</li>
+<li>Dépistage</li>
 <li>Transmission</li>
 <li>Isolement en quarantaine auto-isolement</li>
 <li>Traitement</li>
 <li>Lieux de travail</li>
 <li>Soutien financier</li>
 <li>Populations vulnérables</li>
-<li>PPE</li>
+<li>EPI</li>
 </ul>
 </details>
 <br>
