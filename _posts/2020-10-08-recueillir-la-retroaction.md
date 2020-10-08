@@ -31,6 +31,8 @@ Le 11 mai, nous avons ajouté le widget au bas de deux pages liées à la COVID 
 * [Symptômes et traitement](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html) 
 * [Prévention et risques](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)  
 
+### Objectif du pilote
+
 Notre objectif pour cette étude pilote était ce qui suit :
 
 * mettre à l’essai une nouvelle approche pour la recherche en conception et la mesure de la réussite des tâches;
@@ -49,7 +51,7 @@ src="/images/feedback-3.png" width="700">
 </figure>
 <details>
 <summary>Le widget de rétroaction sur la page</summary>
-<p>Le widget affiche la question : "Avez-vous trouvé ce que vous cherchiez ?" et propose des options oui et non.</p>
+<p>Le widget affiche la question : « Avez-vous trouvé ce que vous cherchiez? » et propose des options oui et non.</p>
 </details>
 
 <br><figure>
@@ -66,13 +68,13 @@ src="/images/feedback-4.png" width="700">
 <li>Quelque chose est cassé ou incorrect</li>
 <li>Autre raison</li>
  </ul>
-<p>En sélectionnant "autre raison", ils affichent un champ de texte libre où ils peuvent fournir plus de détails, avec la consigne de ne pas inclure d'informations personnelles.</p>
+<p>En sélectionnant « autre raison », ils affichent un champ de texte libre où ils peuvent fournir plus de détails, avec la consigne de ne pas inclure d'informations personnelles.</p>
 </details>
 <br>
 
 ## Traitement de la rétroaction
 
-Adobe Analytics traite les données quantitatives, c’est-à-dire le nombre de « oui » par rapport au nombre de «&nbsp;non&nbsp;», et les réponses prédéfinies pour ce qui n’allait pas. Pour l’étude pilote, la rétroaction textuelle était envoyée à un compte de courriel générique de Santé Canada. Félicitations à Santé Canada et à l’ASPC pour avoir passé en revue la rétroaction et d’en avoir fait l’analyse.
+Adobe Analytics traite les données quantitatives, c’est-à-dire le nombre de «&nbsp;oui&nbsp;» par rapport au nombre de «&nbsp;non&nbsp;», et les réponses prédéfinies pour ce qui n’allait pas. Pour l’étude pilote, la rétroaction textuelle était envoyée à un compte de courriel générique de Santé Canada. Félicitations à Santé Canada et à l’ASPC pour avoir passé en revue la rétroaction et d’en avoir fait l’analyse.
 
 Depuis ce projet pilote, nous avons mis au point un processus qui permet d’extraire la rétroaction textuelle directement vers une base de données. Nous avons fait des expériences avec l’apprentissage automatique pour la classer automatiquement. Nous avons également créé une interface Web pour aider les ministères à passer en revue la rétroaction afin d’en dégager des tendances et des idées.
 
@@ -98,16 +100,16 @@ Lorsque les gens ont répondu qu’ils n’avaient pas trouvé ce qu’ils cherc
 src="/images/Feedback-graph-1.png" width="700">
 </figure>
 <details>
-<summary>Next screen of Page Feedback Widget.</summary>
- <p>When users select "no," they are asked "What was wrong?" and given the following options:</p>
+<summary>Résultats de l'analyse des boutons radio.</summary>
+ <h3>Qu'est-ce qui n'allait pas?</h3>
  <ul>
-<li>The answer I need is missing</li>
+<li>La réponse dont j'ai besoin manque</li>
+<li>No reason given</li>
+<li>Other reason</li>
 <li>The information isn't clear</li>
 <li>I'm not in the right place</li>
 <li>Something is broken or incorrect</li>
-<li>Other reason</li>
- </ul>
-<p>Selecting "other reason" displays a free text field where they can provide more details, with direction not to include any personal information.</p>
+</ul>
 </details>
 <br>
 
@@ -120,16 +122,20 @@ Grâce à cette rétroaction, nous avons commencé à avoir une meilleure idée 
 src="/images/feedback-graph-2.png" width="700">
 </figure>
 <details>
-<summary>Next screen of Page Feedback Widget.</summary>
- <p>When users select "no," they are asked "What was wrong?" and given the following options:</p>
+<summary>Results of open text analysis.</summary>
+ <h3>Top 10 Themes Referenced</h3>
  <ul>
-<li>The answer I need is missing</li>
-<li>The information isn't clear</li>
-<li>I'm not in the right place</li>
-<li>Something is broken or incorrect</li>
-<li>Other reason</li>
- </ul>
-<p>Selecting "other reason" displays a free text field where they can provide more details, with direction not to include any personal information.</p>
+<li>Symptons</li>
+<li>Permissible activities</li>
+<li>Testing</li>
+<li>Transmission</li>
+<li>Quarantine isolation self-isolation</li>
+<li>Treatment</li>
+<li>Workplaces</li>
+<li>Financial support</li>
+<li>Vulnerable Populations</li>
+<li>PPE</li>
+</ul>
 </details>
 <br>
 
