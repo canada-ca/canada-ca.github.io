@@ -23,11 +23,11 @@ En mai 2020, quelques équipes ont collaboré au lancement de l’étude pilote 
 * Éditeur principal;
 * Bureau du Conseil privé.  
 
-Le widget de rétroaction sur la page est une simple question qui se trouve au bas de celle-ci, où se trouve habituellement le widget «&nbsp;Signaler un problème&nbsp;». Il s’agit de, «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;» Les utilisateurs peuvent répondre par oui ou par non. S’ils répondent non, ils ont la possibilité de fournir plus de détails.
+Le widget de rétroaction sur la page est une simple question qui se trouve au bas de celle-ci, où se trouve habituellement le widget «&nbsp;Signaler un problème&nbsp;». Il s’agit de, «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;». Les utilisateurs peuvent répondre par oui ou par non. S’ils répondent non, ils ont la possibilité de fournir plus de détails.
 
 Ce widget simple est un outil puissant pour les propriétaires de contenu. Il leur permet de surveiller passivement l’efficacité de leur contenu. Il offre en outre la possibilité de vérifier régulièrement si le contenu fonctionne comme prévu et, si ce n’est pas le cas, pourquoi. 
 
-Le 11 mai, nous avons ajouté le widget au bas de deux pages liées à la COVID 19 :
+Le 11 mai, nous avons ajouté le widget au bas de deux pages liées à la COVID-19 :
 * [Symptômes et traitement](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html) 
 * [Prévention et risques](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)  
 
@@ -43,7 +43,7 @@ Notre objectif pour cette étude pilote était ce qui suit :
 
 ## Widget de rétroaction
 
-Service Canada et l’éditeur principal ont conçu le widget. En l’intégrant dans les pages, les ministères peuvent recueillir les commentaires qualitatifs et quantitatifs des Canadiens.
+L’éditeur principal à Service Canada a conçu le widget. En l’intégrant dans les pages, les ministères peuvent recueillir les commentaires qualitatifs et quantitatifs des Canadiens. 
 
 <figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
