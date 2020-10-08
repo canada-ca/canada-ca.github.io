@@ -62,10 +62,10 @@ src="/images/feedback-4.png" width="700">
 <summary>Écran suivant de le widget de rétroaction sur la page</summary>
  <p>Lorsque les utilisateurs choisissent "non", on leur demande "Qu'est-ce qui n'allait pas" et on leur donne les options suivantes :</p>
  <ul>
-<li>La réponse dont j'ai besoin manque</li>
+<li>La réponse dont j'ai besoin n'est pas là</li>
 <li>L'information n'est pas claire</li>
 <li>Je ne suis pas au bon endroit</li>
-<li>Quelque chose est cassé ou incorrect</li>
+<li>Quelque chose est brisé ou incorrect</li>
 <li>Autre raison</li>
  </ul>
 <p>En sélectionnant « autre raison », ils affichent un champ de texte libre où ils peuvent fournir plus de détails, avec la consigne de ne pas inclure d'informations personnelles.</p>
@@ -103,8 +103,8 @@ src="/images/Feedback-graph-1.png" width="700">
 <summary>Résultats de l'analyse des boutons radio.</summary>
  <h3>Qu'est-ce qui n'allait pas?</h3>
  <ul>
-<li>La réponse dont j'ai besoin manque</li>
-<li>No reason given</li>
+<li>La réponse dont j'ai besoin n'est pas là</li>
+<li>Aucune raison invoquée</li>
 <li>Other reason</li>
 <li>The information isn't clear</li>
 <li>I'm not in the right place</li>
