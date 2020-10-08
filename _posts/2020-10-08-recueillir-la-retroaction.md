@@ -91,7 +91,7 @@ Nous savions qu’il existait une possibilité que nous recevions des renseignem
 
 ## Ce que nous avons constaté
 
-En date du 10 juin, il y avait 5083 réponses au widget que nous avions ajouté aux deux pages du projet pilote, soit une moyenne de 164 réponses par jour.
+En date du 10 juin, nous avions reçu 5083 réponses par le biais des 2 pages pilotes du widget. Cela représente une moyenne de 164 réponses par jour.
 
 Lorsque les gens ont répondu qu’ils n’avaient pas trouvé ce qu’ils cherchaient, leurs réponses concernant ce qui n’allait pas nous ont donné une idée des principaux problèmes de convivialité sur les pages.
 
@@ -145,7 +145,7 @@ Ce détail a permis à Santé Canada et à l’ASPC de réaliser ce qui suit :
 * cerner les lacunes potentielles dans le contenu;
 * constater si une page contenait des problèmes généraux à évaluer.
 
-Par exemple, nous avons remarqué un grand pourcentage de commentaires liés à des symptômes moins courants de la COVID 19 qui n’étaient pas énumérés sur la page des symptômes. Cet aperçu a fourni des données probantes à l’appui de l’ajout de ces symptômes à la liste.
+Par exemple, nous avons remarqué un grand pourcentage de commentaires liés à des symptômes moins courants de la COVID-19 qui n’étaient pas énumérés sur la page des symptômes. Cet aperçu a fourni des données probantes à l’appui de l’ajout de ces symptômes à la liste.
 
 ## Leçons essentielles apprises
 
@@ -159,11 +159,11 @@ Par exemple, nous avons remarqué un grand pourcentage de commentaires liés à 
 
 ## Prochaines étapes de ce projet pilote
 
-* Mettre le widget à l’essai sur d’autres pages à l’intérieur et à l’extérieur de l’outil AEM (Adobe Experience Manager)
-* Parfaire certaines fonctionnalités du widget
-* Continuer d’améliorer nos processus d’apprentissage automatique
-* Élaborer des «&nbsp;tableaux de bord&nbsp;» pour avoir un aperçu des tendances et des problèmes
-* Travailler à un déploiement plus large de l’outil
+* Mettre le widget à l’essai sur d’autres pages à l’intérieur et à l’extérieur de l’outil AEM (Adobe Experience Manager).
+* Parfaire certaines fonctionnalités du widget.
+* Continuer d’améliorer nos processus d’apprentissage automatique.
+* Élaborer des «&nbsp;tableaux de bord&nbsp;» pour avoir un aperçu des tendances et des problèmes.
+* Travailler à un déploiement plus large de l’outil.
 
 ## Mot de la fin
 
@@ -173,7 +173,7 @@ Enfin, un grand merci à nos partenaires pour ce projet pilote.
 
 ## Pour en savoir davantage
 
-* [Increase the feedback - Gerry McGovern](https://medium.com/@gerrymcgovern/increase-the-feedback-3a0d4c904762)(en anglais seulement)
+* [Increase the feedback - Gerry McGovern](https://medium.com/@gerrymcgovern/increase-the-feedback-3a0d4c904762) (en anglais seulement)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
