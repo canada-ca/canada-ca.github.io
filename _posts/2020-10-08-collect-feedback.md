@@ -155,9 +155,9 @@ For example, we saw a large percentage of feedback asking about less common COVI
 * The tool helps normalize measuring your content effectiveness and making iterative improvements after it’s published
 * The continuous nature of the widget lets teams see the effects of their improvements immediately by monitoring changes in the type of feedback they get  
 
-### Next steps from this pilot
+## Next steps from this pilot
 
-* Pilot the widget on more pages both within and external to AEM
+* Pilot the widget on more pages both within and external to AEM (Adobe Experience Manager)
 * Refine some functionality of the widget
 * Continue refining our machine learning processes
 * Develop “dashboards” to see trends and issues at a glance
