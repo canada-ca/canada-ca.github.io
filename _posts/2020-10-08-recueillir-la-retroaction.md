@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "Recueillir la rétroaction, trouver les problèmes"
-description: " "
+description: "Obtenir régulièrement de la rétroaction des Canadiens aide les équipes dans l’ensemble du gouvernement à améliorer continuellement la prestation des services sur le site Canada.ca. En mai 2020, quelques équipes ont collaboré au lancement de l’étude pilote d’un widget pour obtenir la rétroaction des gens sur les pages Canada.ca."
 ---
 En 2020, les interactions de la majorité des Canadiens avec leur gouvernement se font principalement en ligne. Les pages Web du gouvernement du Canada sont plus qu’un simple outil de communication. Elles sont un important point de prestation de services. 
 
@@ -60,7 +60,7 @@ src="/images/feedback-4.png" width="700">
 </figure>
 <details>
 <summary>Écran suivant de le widget de rétroaction sur la page</summary>
- <p>Lorsque les utilisateurs choisissent "non", on leur demande "Qu'est-ce qui n'allait pas" et on leur donne les options suivantes :</p>
+ <p>Lorsque les utilisateurs choisissent « non », on leur demande « Qu'est-ce qui n'allait pas? » et on leur donne les options suivantes :</p>
  <ul>
 <li>La réponse dont j'ai besoin n'est pas là</li>
 <li>L'information n'est pas claire</li>
@@ -91,13 +91,13 @@ Nous savions qu’il existait une possibilité que nous recevions des renseignem
 
 ## Ce que nous avons constaté
 
-En date du 10 juin, il y avait 5083 réponses au widget que nous avions ajouté aux deux pages du projet pilote, soit une moyenne de 164 réponses par jour.
+En date du 10 juin, nous avions reçu 5083 réponses par le biais des 2 pages pilotes du widget. Cela représente une moyenne de 164 réponses par jour.
 
 Lorsque les gens ont répondu qu’ils n’avaient pas trouvé ce qu’ils cherchaient, leurs réponses concernant ce qui n’allait pas nous ont donné une idée des principaux problèmes de convivialité sur les pages.
 
 <br><figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/Feedback-graph-1.png" width="700">
+src="/images/Feedback-graph-3.png" width="700">
 </figure>
 <details>
 <summary>Résultats de l'analyse des boutons radio.</summary>
@@ -127,14 +127,14 @@ src="/images/feedback-graph-2.png" width="700">
  <ul>
 <li>Symptômes</li>
 <li>Activités autorisées</li>
-<li>Tester</li>
+<li>Dépistage</li>
 <li>Transmission</li>
 <li>Isolement en quarantaine auto-isolement</li>
 <li>Traitement</li>
 <li>Lieux de travail</li>
 <li>Soutien financier</li>
 <li>Populations vulnérables</li>
-<li>PPE</li>
+<li>EPI</li>
 </ul>
 </details>
 <br>
@@ -145,7 +145,7 @@ Ce détail a permis à Santé Canada et à l’ASPC de réaliser ce qui suit :
 * cerner les lacunes potentielles dans le contenu;
 * constater si une page contenait des problèmes généraux à évaluer.
 
-Par exemple, nous avons remarqué un grand pourcentage de commentaires liés à des symptômes moins courants de la COVID 19 qui n’étaient pas énumérés sur la page des symptômes. Cet aperçu a fourni des données probantes à l’appui de l’ajout de ces symptômes à la liste.
+Par exemple, nous avons remarqué un grand pourcentage de commentaires liés à des symptômes moins courants de la COVID-19 qui n’étaient pas énumérés sur la page des symptômes. Cet aperçu a fourni des données probantes à l’appui de l’ajout de ces symptômes à la liste.
 
 ## Leçons essentielles apprises
 
@@ -159,11 +159,11 @@ Par exemple, nous avons remarqué un grand pourcentage de commentaires liés à 
 
 ## Prochaines étapes de ce projet pilote
 
-* Mettre le widget à l’essai sur d’autres pages à l’intérieur et à l’extérieur de l’outil AEM (Adobe Experience Manager)
-* Parfaire certaines fonctionnalités du widget
-* Continuer d’améliorer nos processus d’apprentissage automatique
-* Élaborer des «&nbsp;tableaux de bord&nbsp;» pour avoir un aperçu des tendances et des problèmes
-* Travailler à un déploiement plus large de l’outil
+* Mettre le widget à l’essai sur d’autres pages à l’intérieur et à l’extérieur de l’outil AEM (Adobe Experience Manager).
+* Parfaire certaines fonctionnalités du widget.
+* Continuer d’améliorer nos processus d’apprentissage automatique.
+* Élaborer des «&nbsp;tableaux de bord&nbsp;» pour avoir un aperçu des tendances et des problèmes.
+* Travailler à un déploiement plus large de l’outil.
 
 ## Mot de la fin
 
@@ -173,7 +173,7 @@ Enfin, un grand merci à nos partenaires pour ce projet pilote.
 
 ## Pour en savoir davantage
 
-* [Increase the feedback - Gerry McGovern](https://medium.com/@gerrymcgovern/increase-the-feedback-3a0d4c904762)(en anglais seulement)
+* [Increase the feedback - Gerry McGovern](https://medium.com/@gerrymcgovern/increase-the-feedback-3a0d4c904762) (en anglais seulement)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
