@@ -60,7 +60,7 @@ src="/images/feedback-4.png" width="700">
 </figure>
 <details>
 <summary>Écran suivant de le widget de rétroaction sur la page</summary>
- <p>Lorsque les utilisateurs choisissent "non", on leur demande "Qu'est-ce qui n'allait pas" et on leur donne les options suivantes :</p>
+ <p>Lorsque les utilisateurs choisissent « non », on leur demande « Qu'est-ce qui n'allait pas? » et on leur donne les options suivantes :</p>
  <ul>
 <li>La réponse dont j'ai besoin n'est pas là</li>
 <li>L'information n'est pas claire</li>
