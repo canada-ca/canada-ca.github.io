@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "Recueillir la rétroaction, trouver les problèmes"
-description: "En mai 2020, quelques équipes ont collaboré au lancement de l’étude pilote d’un widget pour obtenir la rétroaction des gens sur les pages Canada.ca."
+description: "Obtenir régulièrement de la rétroaction des Canadiens aide les équipes dans l’ensemble du gouvernement à améliorer continuellement la prestation des services sur le site Canada.ca. En mai 2020, quelques équipes ont collaboré au lancement de l’étude pilote d’un widget pour obtenir la rétroaction des gens sur les pages Canada.ca."
 ---
 En 2020, les interactions de la majorité des Canadiens avec leur gouvernement se font principalement en ligne. Les pages Web du gouvernement du Canada sont plus qu’un simple outil de communication. Elles sont un important point de prestation de services. 
 
