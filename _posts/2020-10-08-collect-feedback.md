@@ -131,8 +131,10 @@ src="/images/feedback-graph-2.png" width="700">
 <li>Transmission</li>
 <li>Quarantine isolation self-isolation</li>
 <li>Treatment</li>
-<li>Workplace</li>
-  
+<li>Workplaces</li>
+<li>Financial support</li>
+<li>Vulnerable Populations</li>
+<li>PPE</li>
 </ul>
 </details>
 <br>
