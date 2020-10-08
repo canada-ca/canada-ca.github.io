@@ -97,7 +97,7 @@ Lorsque les gens ont répondu qu’ils n’avaient pas trouvé ce qu’ils cherc
 
 <br><figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/Feedback-graph-3.png" width="700">
+src="/images/feedback-graph-3.png" width="700">
 </figure>
 <details>
 <summary>Résultats de l'analyse des boutons radio.</summary>
