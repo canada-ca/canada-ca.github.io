@@ -19,7 +19,7 @@ But what if we could know sooner when people aren’t finding their answers onli
 ## Pilot study
 
 In May 2020, a few teams collaborated to launch a pilot study of a widget for getting people’s feedback on Canada.ca pages. The Digital Transformation Office (DTO) worked with: 
-* Health Canada/Public Health Agency of Canada 
+* Health Canada/Public Health Agency of Canada (PHAC) 
 * Principal Publisher
 * Privy Council Office 
 
@@ -29,7 +29,9 @@ This simple widget is a powerful tool for content owners. It lets them passively
 
 On May 11 we added the widget to the bottom of two COVID-related pages:
 * [Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html) 
-* [Prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)  
+* [Prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html) 
+
+### Goal of the pilot
 
 Our goal for this pilot study was to:
 
@@ -72,7 +74,7 @@ src="/images/feedback-2.png" width="700">
 
 ## Processing feedback
 
-Adobe Analytics processes the quantitative data - the number of yes vs no responses, and the preset answers for what was wrong. For the pilot study, text-based feedback went to a generic email account at Health Canada. Huge kudos to Health Canada/PHAC for going through the feedback and analyzing it.
+Adobe Analytics processes the quantitative data - the number of yes versus no responses, and the preset answers for what was wrong. For the pilot study, text-based feedback went to a generic email account at Health Canada. Huge kudos to Health Canada/PHAC for going through the feedback and analyzing it.
 
 Since this pilot, we’ve built a process that pulls text-based feedback directly into a database. We've been experimenting with machine learning to automatically classify it.  We’ve also built a web-based interface to help departments go through the feedback to find trends and insights.
 
@@ -85,11 +87,11 @@ We knew there was a chance we could receive unsolicited personal information eve
 * National Security Management Division, Health Canada
 * IT Security, Health Canada
  
-Based on the advice we got, the DTO created a process to strip personal information from incoming feedback. This helped reduce another element of manual processing. The more parts we can automate, the more time teams will have to focus on improvements
+Based on the advice we got, the DTO created a process to strip personal information from incoming feedback. This helped reduce another element of manual processing. The more parts we can automate, the more time teams will have to focus on improvements.
 
 ## What we found
 
-As of June 10, there were 5083 responses to the widget that we had added to the 2 pilot pages. That represented an average of 164 responses per day.
+As of June 10, we had received 5083 responses through the 2 pilot pages the widget was on. That represented an average of 164 responses per day.
 
 When people answered that they had not found what they were looking for, their answers for what was wrong gave us a clue about the top usability issues on the pages.
 
@@ -139,7 +141,7 @@ This detail enabled Health Canada/PHAC to:
 * triage efforts based on how often they saw similar feedback
 * identify areas for improvement
 * identify potential gaps in content
-* understand if a page had broad issues they they needed to assess
+* understand if a page had broad issues they needed to assess
 
 For example, we saw a large percentage of feedback asking about less common COVID-19 symptoms that weren’t listed on the Symptoms page. This insight provided evidence to support adding those symptoms to the list.
 
@@ -153,10 +155,6 @@ For example, we saw a large percentage of feedback asking about less common COVI
 * The tool helps normalize measuring your content effectiveness and making iterative improvements after it’s published
 * The continuous nature of the widget lets teams see the effects of their improvements immediately by monitoring changes in the type of feedback they get  
 
-## Final word
-
-Ultimately, the purpose of receiving feedback is to improve web services so that our content can better meet the needs of Canadians. The page feedback widget is a useful tool that provides web, program, and policy teams with valuable insight for service delivery. Lessons learned from this can help us support content guidance and recommendations.
-
 ### Next steps from this pilot
 
 * Pilot the widget on more pages both within and external to AEM
@@ -164,6 +162,10 @@ Ultimately, the purpose of receiving feedback is to improve web services so that
 * Continue refining our machine learning processes
 * Develop “dashboards” to see trends and issues at a glance
 * Work towards a wider roll-out of the tool
+
+## Final word
+
+Ultimately, the purpose of receiving feedback is to improve web services so that our content can better meet the needs of Canadians. The page feedback widget is a useful tool that provides web, program, and policy teams with valuable insight for service delivery. Lessons learned from this can help us support content guidance and recommendations.
 
 Finally, a big thank you goes to our partners on this pilot. 
 
