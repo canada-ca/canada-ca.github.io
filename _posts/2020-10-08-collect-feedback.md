@@ -98,16 +98,16 @@ When people answered that they had not found what they were looking for, their a
 src="/images/Feedback-graph-1.png" width="700">
 </figure>
 <details>
-<summary>Next screen of Page Feedback Widget.</summary>
- <p>When users select "no," they are asked "What was wrong?" and given the following options:</p>
+<summary>Results of radio buttons analysis.</summary>
+ <h3>What was wrong?</h3>
  <ul>
 <li>The answer I need is missing</li>
+<li>No reason given</li>
+<li>Other reason</li>
 <li>The information isn't clear</li>
 <li>I'm not in the right place</li>
 <li>Something is broken or incorrect</li>
-<li>Other reason</li>
- </ul>
-<p>Selecting "other reason" displays a free text field where they can provide more details, with direction not to include any personal information.</p>
+</ul>
 </details>
 <br>
 
@@ -120,16 +120,18 @@ Using this feedback, we started to get a better picture of what was causing issu
 src="/images/feedback-graph-2.png" width="700">
 </figure>
 <details>
-<summary>Next screen of Page Feedback Widget.</summary>
- <p>When users select "no," they are asked "What was wrong?" and given the following options:</p>
+<summary>Results of open text analysis.</summary>
+ <h3>Top 10 Themes Referenced</h3>
  <ul>
-<li>The answer I need is missing</li>
-<li>The information isn't clear</li>
-<li>I'm not in the right place</li>
-<li>Something is broken or incorrect</li>
-<li>Other reason</li>
- </ul>
-<p>Selecting "other reason" displays a free text field where they can provide more details, with direction not to include any personal information.</p>
+<li>Symptons</li>
+<li>Permissible activities</li>
+<li>Testing</li>
+<li>Transmission</li>
+<li>Quarantine isolation self-isolation</li>
+<li>Treatment</li>
+<li>Workplace</li>
+  
+</ul>
 </details>
 <br>
 
