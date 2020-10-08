@@ -2,13 +2,13 @@
 layout: post
 title:  "Collect feedback, find issues"
 pubdate: "October 8, 2020"
-langpage: "https://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes.html"
+langpage: "https://blogue.canada.ca/2020/10/02/recueillir-la-retroaction.html"
 date:   2020-10-08
 published: true
 draft: true
 lang: en
 alt: "Collect feedback, find issues"
-description: " "
+description: "Getting feedback from Canadians on a regular basis helps teams across government continuously improve the service delivery on Canada.ca. In May 2020, a few teams collaborated to launch a pilot study of a widget for getting people’s feedback on Canada.ca pages."
 ---
 In 2020, the main way most Canadians interact with their government is online. Government of Canada web pages are more than just a communications tool. They’re an important service delivery point. 
 
