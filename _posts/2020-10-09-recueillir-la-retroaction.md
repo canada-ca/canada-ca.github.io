@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Recueillir la rétroaction, trouver les problèmes"
-pubdate: "8 octobre 2020"
-langpage: "https://blog.canada.ca/2020/10/08/collect-feedback.html"
-date:   2020-10-08
+pubdate: "9 octobre 2020"
+langpage: "https://blog.canada.ca/2020/10/09/collect-feedback.html"
+date:   2020-10-09
 published: true
 draft: true
 lang: fr
