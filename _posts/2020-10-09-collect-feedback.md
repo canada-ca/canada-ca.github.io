@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Collect feedback, find issues"
-pubdate: "October 8, 2020"
-langpage: "https://blogue.canada.ca/2020/10/02/recueillir-la-retroaction.html"
-date:   2020-10-08
+pubdate: "October 9, 2020"
+langpage: "https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html"
+date:   2020-10-09
 published: true
 draft: true
 lang: en
