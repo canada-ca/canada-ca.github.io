@@ -14,7 +14,7 @@ Throughout the pandemic, there have been unparalleled levels of collaboration ac
 
 Since June 2020, federal partners have been meeting regularly with web managers in the provinces and territories to coordinate COVID-19 communication efforts between jurisdictions. Together, we are working to provide a better user experience and to reflect Canada's diverse population as much as possible (including seniors, youth, Indigenous peoples, and people from a wide variety of ethnic origins).
 
-In August, the [Northwest Territories](https://www.gov.nt.ca/)(NWT) shared how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities. 
+In August, the [Northwest Territories](https://www.gov.nt.ca/) (NWT) shared how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities. 
 
 ## Regional Context of Northwest Territories
 
