@@ -39,7 +39,7 @@ The NWT web team talked about how they are ensuring their government communicati
 As you can imagine, creating quality web content quickly is challenging. Applying plain language principles so that everyone can understand is essential. 
 
 ### Other challenges in the NWT 
-* Many people who speak Indigenous languages cannot read or write them
+* Many Indigenous languages are passed down orally, and written versions often vary between dialects
 * The websites do not support Inuktitut and Tłįchǫ Unicode fonts
 * Some elders and communities have limited access to digital hardware and platforms
 * Access to translators is limited and turn-around time varies
