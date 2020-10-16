@@ -2,13 +2,13 @@
 layout: post
 title:  "Using graphics to bridge language gaps"
 pubdate: "October 19, 2020"
-langpage: "https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html"
+langpage: "https://blogue.canada.ca/2020/10/19/utiliser-des-graphiques.html"
 date:   2020-10-19
 published: true
 draft: true
 lang: en
 alt: "Using graphics to bridge language gaps"
-description: "Getting feedback from Canadians on a regular basis helps teams across government continuously improve the service delivery on Canada.ca. In May 2020, a few teams collaborated to launch a pilot study of a widget for getting people’s feedback on Canada.ca pages."
+description: "In this post, the Northwest Territories (NWT) share how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities."
 ---
 Throughout the pandemic, there have been unparalleled levels of collaboration across government to provide the tools Canadians need to stay safe, healthy and informed. 
 
