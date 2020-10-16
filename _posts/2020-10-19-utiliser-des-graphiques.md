@@ -2,8 +2,8 @@
 layout: post
 title:  "Utiliser des graphiques pour combler les lacunes linguistiques"
 pubdate: "19 octobre 2020"
-langpage: "https://blog.canada.ca/2020/10/09/collect-feedback.html"
-date:   2020-10-09
+langpage: "https://blog.canada.ca/2020/10/09/using-graphics.html"
+date:   2020-10-19
 published: true
 draft: true
 lang: fr
