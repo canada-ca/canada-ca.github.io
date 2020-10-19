@@ -80,7 +80,7 @@ Thank you to the NWT web team for sharing your lessons!
 
 ## Learn more
 
-* [Canada.ca style guide: Images and videos](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc10)(how and when to use them and how to make them accessible)
+* [Canada.ca style guide: Images and videos](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc10) (how and when to use them and how to make them accessible)
 * [Canada.ca style guide: Plain language](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6)
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
