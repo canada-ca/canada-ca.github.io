@@ -16,7 +16,7 @@ Since June 2020, federal partners have been meeting regularly with web managers 
 
 In August, the [Northwest Territories](https://www.gov.nt.ca/) (NWT) shared how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities. 
 
-## Regional Context of Northwest Territories
+## Regional Context of the Northwest Territories
 
 The NWT is a land of diversity which consists of 33 communities spread over 1.3 million kilometers. Twelve of those communities are fly-in only. With a mix of urban and rural living, the speed and cost for digital infrastructure can vary significantly. Literacy levels also vary. 70% of Indigenous adults are below IALSS level 3 (international functional literacy standard) in English.
 
