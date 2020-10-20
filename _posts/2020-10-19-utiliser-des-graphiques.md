@@ -38,7 +38,7 @@ L’équipe Web des T.N.-O. a expliqué la façon dont elle veille à ce que les
 Comme vous pouvez l’imaginer, il est difficile de créer rapidement du contenu Web de qualité. Il est essentiel d’appliquer des principes de langage clair et simple, afin que tout le monde puisse comprendre.
 
 ### Autres défis aux Territoires du Nord-Ouest
-* Un grand nombre de personnes qui parlent une langue autochtone ne peuvent pas la lire ou l’écrire.
+* De nombreuses langues autochtones sont transmises oralement, et les versions écrites varient souvent d'un dialecte à l'autre.
 * Les sites Web ne prennent pas en charge les polices Unicode inuktitut et tłįchǫ.
 * Certains Aînés et certaines collectivités ont un accès limité au matériel et aux plateformes numériques.
 * L’accès aux traducteurs est limité et le délai d’exécution varie.
