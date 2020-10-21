@@ -18,7 +18,7 @@ In August, the [Northwest Territories](https://www.gov.nt.ca/) (NWT) shared how 
 
 ## Regional context of Northwest Territories
 
-The NWT is a land of diversity which consists of 33 communities spread over 1.3 million kilometers. Twelve of those communities are fly-in only. With a mix of urban and rural living, the speed and cost for digital infrastructure can vary significantly. Literacy levels also vary. 70% of Indigenous adults are below IALSS level 3 (international functional literacy standard) in English.
+The NWT is a land of diversity which consists of 33 communities spread over 1.3 million kilometers. Twelve of those communities are fly-in only. With a mix of urban and rural living, the speed and cost for digital infrastructure can vary significantly. 
 
 ### Languages
 
