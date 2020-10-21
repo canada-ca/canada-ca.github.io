@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Using graphics to bridge language gaps"
-pubdate: "October 19, 2020"
-langpage: "https://blogue.canada.ca/2020/10/19/utiliser-des-graphiques.html"
-date:   2020-10-19
+pubdate: "October 21, 2020"
+langpage: "https://blogue.canada.ca/2020/10/21/utiliser-des-graphiques.html"
+date:   2020-10-21
 published: true
 draft: true
 lang: en
@@ -16,7 +16,7 @@ Since June 2020, federal partners have been meeting regularly with web managers 
 
 In August, the [Northwest Territories](https://www.gov.nt.ca/) (NWT) shared how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities. 
 
-## Regional Context of Northwest Territories
+## Regional context of Northwest Territories
 
 The NWT is a land of diversity which consists of 33 communities spread over 1.3 million kilometers. Twelve of those communities are fly-in only. With a mix of urban and rural living, the speed and cost for digital infrastructure can vary significantly. Literacy levels also vary. 70% of Indigenous adults are below IALSS level 3 (international functional literacy standard) in English.
 
