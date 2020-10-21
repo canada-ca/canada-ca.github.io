@@ -14,11 +14,11 @@ Throughout the pandemic, there have been unparalleled levels of collaboration ac
 
 Since June 2020, federal partners have been meeting regularly with web managers in the provinces and territories to coordinate COVID-19 communication efforts between jurisdictions. Together, we are working to provide a better user experience and to reflect Canada's diverse population as much as possible (including seniors, youth, Indigenous peoples, and people from a wide variety of ethnic origins).
 
-In August, the [Northwest Territories](https://www.gov.nt.ca/) (NWT) shared how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities. 
+In August, the Northwest Territories (NWT) shared how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities. 
 
-## Regional context of Northwest Territories
+## Regional context of the Northwest Territories
 
-The NWT is a land of diversity which consists of 33 communities spread over 1.3 million kilometers. Twelve of those communities are fly-in only. With a mix of urban and rural living, the speed and cost for digital infrastructure can vary significantly. 
+The NWT is a land of diversity which consists of 33 communities spread over 1.3 million kilometers. Of those, 12 communities are fly-in only. With a mix of urban and rural living, the speed and cost for digital infrastructure can vary significantly. 
 
 ### Languages
 
@@ -83,6 +83,7 @@ Thank you to the NWT web team for sharing your lessons!
 
 * [Canada.ca style guide: Images and videos](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc10) (how and when to use them and how to make them accessible)
 * [Canada.ca style guide: Plain language](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6)
+* [Government of Northwest Territories](https://www.gov.nt.ca/)
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
