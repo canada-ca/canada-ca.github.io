@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Utiliser des graphiques pour combler les lacunes linguistiques"
-pubdate: "19 octobre 2020"
-langpage: "https://blog.canada.ca/2020/10/09/using-graphics.html"
-date:   2020-10-19
+pubdate: "21 octobre 2020"
+langpage: "https://blog.canada.ca/2020/10/21/using-graphics.html"
+date:   2020-10-21
 published: true
 draft: true
 lang: fr
@@ -45,22 +45,22 @@ Comme vous pouvez l’imaginer, il est difficile de créer rapidement du contenu
 
 ## Surmonter les barrières linguistiques à l’aide d’images
 
-Bien que le langage clair et simple soit toujours une priorité absolue, l’équipe Web des T.N.-O. a également constaté que les images peuvent aider à améliorer la compréhension d’autres langues. Toutefois, dans les régions éloignées où les forfaits de données coûtent cher et où les vitesses de téléchargement peuvent être très lentes, les images peuvent créer un problème d’accessibilité. Pour régler le problème, elles utilisent des illustrations plutôt que des photos. Le fait d’utiliser une résolution plus faible réduit la taille des fichiers et diminue le temps de chargement.
+Bien que le langage clair et simple soit toujours une priorité absolue, l’équipe Web des T.N.-O. a également constaté que les images peuvent aider à améliorer la compréhension d’autres langues. Toutefois, dans les régions éloignées où les forfaits de données coûtent cher et où les vitesses de téléchargement peuvent être très lentes, les images peuvent créer un problème d’accessibilité. Pour régler le problème, l'équipe Web utilisent des illustrations plutôt que des photos. Le fait d’utiliser une résolution plus faible réduit la taille des fichiers et diminue le temps de chargement.
 
 <br>
 <figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
 src="/images/NWT-image2.png" width="700">
 </figure>
 <details>
-<summary>Screen capture of NWT illustrated social media ad</summary>
-<p>Screen capture of an informational video on COVID-19 prevention measures produced by the NWT using a low-bandwidth illustration style.</p>
+<summary>Capture d'écran de la publicité illustrée des T.N.-O. dans les médias sociaux</summary>
+<p>Capture d'écran d'une vidéo d'information sur les mesures de prévention COVID-19 produite par les T.N.-O. en utilisant un style d'illustration à faible largeur de bande.</p>
 </details>
 <br>
 
 Tout au long de la pandémie, les publicités illustrées dans les médias sociaux des T.N.-O. (comme Facebook et Instagram) ont porté sur le changement de comportement, l’hygiène générale et certaines ordonnances de santé publique.
  
-Des icônes et des illustrations simples ont été utilisées dans leurs sites Web, tout comme des outils téléchargeables comme des formulaires de vérification des symptômes. Il était ainsi plus facile de comprendre le contenu si la copie n’était pas traduite.
+Des icônes et des illustrations simples ont été utilisées dans leurs sites Web, tout comme des outils téléchargeables comme des formulaires de vérification des symptômes. Il était ainsi plus facile de comprendre le contenu si le texte n’était pas traduit.
 
 ### Une question d’équilibre entre la rapidité, la langue et la technologie
  
