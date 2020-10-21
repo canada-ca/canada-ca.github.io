@@ -18,7 +18,7 @@ En août, les [Territoires du Nord-Ouest](https://www.gov.nt.ca/fr) (T.N.-O.) on
 
 ## Contexte régional des Territoires du Nord-Ouest
 
-Les T.N.-O. sont un territoire de diversité composé de 33 collectivités réparties sur 1,3 million de kilomètres. Douze de ces collectivités ne sont accessibles que par avion. Compte tenu du mélange de vie urbaine et de vie rurale, la vitesse et le coût de l’infrastructure numérique peuvent varier considérablement. Les niveaux d’alphabétisation varient également. Soixante-dix pour cent des adultes autochtones sont sous le niveau 3 de l’EIACA (norme internationale d’alphabétisation fonctionnelle) en anglais.
+Les T.N.-O. sont un territoire de diversité composé de 33 collectivités réparties sur 1,3 million de kilomètres. Douze de ces collectivités ne sont accessibles que par avion. Compte tenu du mélange de vie urbaine et de vie rurale, la vitesse et le coût de l’infrastructure numérique peuvent varier considérablement.
 
 ### Langues
 
