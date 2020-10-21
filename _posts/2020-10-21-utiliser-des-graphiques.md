@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "Utiliser des graphiques pour combler les lacunes linguistiques"
-description: "Obtenir régulièrement de la rétroaction des Canadiens aide les équipes dans l’ensemble du gouvernement à améliorer continuellement la prestation des services sur le site Canada.ca. En mai 2020, quelques équipes ont collaboré au lancement de l’étude pilote d’un widget pour obtenir la rétroaction des gens sur les pages Canada.ca."
+description: "Dans cet article, les Territoires du Nord-Ouest (T.N.-O.) ont expliqué la façon dont ils utilisent des illustrations pour rendre le contenu Web et les produits de communication sur la COVID-19 plus accessibles à toutes leurs collectivités."
 ---
 Tout au long de la pandémie, un niveau inégalé de collaboration a été démontré à l’échelle du gouvernement pour fournir aux Canadiens les outils dont ils ont besoin pour demeurer en sécurité, en santé et informés.
 
