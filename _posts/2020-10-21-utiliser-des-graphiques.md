@@ -14,11 +14,11 @@ Tout au long de la pandémie, un niveau inégalé de collaboration a été démo
 
 Depuis juin 2020, les partenaires fédéraux et les gestionnaires Web des provinces et des territoires se réunissent régulièrement pour coordonner les efforts de communication en matière de COVID-19 entre les administrations. Ensemble, nous œuvrons à offrir une meilleure expérience utilisateur et à tenir compte le plus possible de la diversité de la population canadienne (y compris les aînés, les jeunes, les Autochtones et les personnes d’origines ethniques très diverses).
 
-En août, les [Territoires du Nord-Ouest](https://www.gov.nt.ca/fr) (T.N.-O.) ont expliqué la façon dont ils utilisent des illustrations pour rendre le contenu Web et les produits de communication sur la COVID-19 plus accessibles à toutes leurs collectivités.
+En août, les Territoires du Nord-Ouest (T.N.-O.) ont expliqué la façon dont ils utilisent des illustrations pour rendre le contenu Web et les produits de communication sur la COVID-19 plus accessibles à toutes leurs collectivités.
 
 ## Contexte régional des Territoires du Nord-Ouest
 
-Les T.N.-O. sont un territoire de diversité composé de 33 collectivités réparties sur 1,3 million de kilomètres. Douze de ces collectivités ne sont accessibles que par avion. Compte tenu du mélange de vie urbaine et de vie rurale, la vitesse et le coût de l’infrastructure numérique peuvent varier considérablement.
+Les T.N.-O. sont un territoire de diversité composé de 33 collectivités réparties sur 1,3 million de kilomètres. De ces collectivités, 12 ne sont accessibles que par avion. Compte tenu du mélange de vie urbaine et de vie rurale, la vitesse et le coût de l’infrastructure numérique peuvent varier considérablement.
 
 ### Langues
 
@@ -38,10 +38,10 @@ L’équipe Web des T.N.-O. a expliqué la façon dont elle veille à ce que les
 Comme vous pouvez l’imaginer, il est difficile de créer rapidement du contenu Web de qualité. Il est essentiel d’appliquer des principes de langage clair et simple, afin que tout le monde puisse comprendre.
 
 ### Autres défis aux Territoires du Nord-Ouest
-* Un grand nombre de personnes qui parlent une langue autochtone ne peuvent pas la lire ou l’écrire.
+* De nombreuses langues indigènes sont transmises oralement, et les versions écrites varient souvent entre les dialectes.
 * L’accès aux traducteurs est limité et le délai d’exécution varie.
 * 70% des adultes autochtones sont sous le niveau 3 de la norme internationale d’alphabétisation fonctionnelle en anglais.
-* Les sites Web ne prennent pas en charge les polices Unicode inuktitut et tłįchǫ.
+* Les sites Web ne supportent pas les polices Unicode inuktitut et tłįchǫ.
 * Certains Aînés et certaines collectivités ont un accès limité au matériel et aux plateformes numériques.
 
 ## Surmonter les barrières linguistiques à l’aide d’images
@@ -82,6 +82,7 @@ Merci à l’équipe Web des T.N.-O. d’avoir partagé vos leçons!
 ## Pour en savoir davantage
 * [Guide de rédaction du contenu du site Canada.ca : Images et vidéos](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc10) (quand et comment les utiliser et comment les rendre accessibles)
 * [Guide de rédaction du contenu du site Canada.ca : Langage clair et simple](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc6)
+* [Gouvernement des Territoires du Nord-Ouest](https://www.gov.nt.ca/fr)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
