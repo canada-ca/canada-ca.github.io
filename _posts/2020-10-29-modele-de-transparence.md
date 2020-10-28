@@ -13,7 +13,7 @@ description: "Dans cet article, les Territoires du Nord-Ouest (T.N.-O.) ont expl
 
 L’amélioration de la prestation des services sur Canada.ca est un travail d’équipe continu et axé sur la collaboration. Les employés de la fonction publique de l’ensemble du gouvernement du Canada travaillent ensemble pour créer une expérience numérique qui respecte les principes d’accessibilité, de responsabilisation et de transparence.
 
-Il n’y a pas si longtemps, les Services consultatifs numériques du Secrétariat du Conseil du Trésor du Canada ont collaboré avec le Bureau de la transformation numérique à l’élaboration de concepts visant à accroître la transparence. Comme la période des rapports annuels approche à grands pas, nous avons pensé publier les résultats de leurs travaux.
+Il n’y a pas si longtemps, les Services consultatifs numériques (SCN) du Secrétariat du Conseil du Trésor du Canada ont collaboré avec le Bureau de la transformation numérique (BTN) à l’élaboration de concepts visant à accroître la transparence. Comme la période des rapports annuels approche à grands pas, nous avons pensé publier les résultats de leurs travaux.
 
 Ensemble, ils ont lancé un nouveau modèle de transparence dans le système de conception de Canada.ca plus tôt cette année.
 
