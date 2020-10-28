@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Increasing transparency on Canada.ca"
-pubdate: "October 29, 2020"
-langpage: "https://blogue.canada.ca/2020/10/21/utiliser-des-graphiques.html"
-date:   2020-10-29
+pubdate: "October 28, 2020"
+langpage: "https://blogue.canada.ca/2020/10/28/modele-de-transparence.html"
+date:   2020-10-28
 published: true
 draft: true
 lang: en
