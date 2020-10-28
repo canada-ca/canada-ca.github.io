@@ -8,15 +8,15 @@ published: true
 draft: true
 lang: en
 alt: "Increasing transparency on Canada.ca"
-description: "In this post, the Northwest Territories (NWT) share how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities."
+description: "The Treasury Board of Canada Secretariat’s Digital Advisory Services (DAS) collaborated with the Digital Transformation Office (DTO) on design concepts to increase transparency."
 ---
-Improving the service delivery on Canada.ca is a collaborative and continuous team effort. Public servants across the GC are working together to create a digital experience that follows the principles of accessibility, accountability, and transparency. 
+Improving service delivery on Canada.ca is a collaborative and continuous team effort. Public servants across the GC are working together to create a digital experience that follows the principles of accessibility, accountability, and transparency. 
 
 Not long ago, the Treasury Board of Canada Secretariat’s Digital Advisory Services (DAS) collaborated with the Digital Transformation Office (DTO) on design concepts to increase transparency. With annual report season coming soon, we thought we’d share the results of their work.
 
 Together they launched a new transparency template in the GC Design System earlier this year.  
 
-[Transparency and corporate reporting - recommended template](Transparency and corporate reporting - recommended template)
+[Transparency and corporate reporting - recommended template](https://design.canada.ca/recommended-templates/transparency.html)
 
 ## What is the transparency template?
 
@@ -29,13 +29,13 @@ The common layout makes it easier for members of the public to complete tasks re
 
 Making this information available to the public is a key piece of our democracy. It ensures that Canadians can hold their government and public sector officials to account.
 
-The new  transparency template:
-* **supports** a consistent approach to the presentation of corporate reporting information across departments
-* **enables** task completion by prioritizing access to tasks related to corporate reporting
-* **complements** the objectives of the institutional landing pages by offering institution-specific information on proactive disclosure
-* **limits** the amount of content used to describe proactive disclosure
+The new transparency template:
+* **supports a consistent approach** to the presentation of corporate reporting information across departments
+* **enables task completion** by prioritizing access to tasks related to corporate reporting
+* **complements the objectives of the institutional landing pages** by offering institution-specific information on proactive disclosure
+* **limits the amount of content** used to describe proactive disclosure
 
-This template is optional, but we recommend you use it. It’s a user-proven means to publish corporate reporting information. 
+This template is optional, but it’s user-proven. We recommend you use it  for publishing corporate reporting information. 
 
 Using this template as well as the GC design system provides a more usable, consistent and trustworthy online experience for people who access Government of Canada digital services.
 
