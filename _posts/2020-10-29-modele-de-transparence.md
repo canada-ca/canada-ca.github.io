@@ -17,22 +17,25 @@ Il n’y a pas si longtemps, les Services consultatifs numériques du Secrétari
 
 Ensemble, ils ont lancé un nouveau modèle de transparence dans le système de conception de Canada.ca plus tôt cette année.
 
-Transparence et rapports sur l’organisation – modèle recommandé
+[Transparence et rapports sur l’organisation – modèle recommandé](https://conception.canada.ca/modeles-recommandes/transparence.html)
 
 ## Quel est le modèle de transparence?
 
 Le modèle de transparence fournit une mise en page commune pour rendre l’information gouvernementale publique. Il comprend des modèles :
-•	de rapports financiers trimestriels;
-•	d’attribution de contrats;
-•	de déclaration des dépenses de voyages et d’accueil.
+*	de rapports financiers trimestriels;
+*	d’attribution de contrats;
+*	de déclaration des dépenses de voyages et d’accueil.
+
 La présentation commune permet au public d’accomplir plus facilement les tâches liées à la transparence institutionnelle.
+
 Rendre ces renseignements accessibles au public est un élément clé de notre démocratie et permet aux Canadiens de demander des comptes à leur gouvernement et aux responsables du secteur public.
 
 Le nouveau modèle de transparence :
-•	appuie une approche cohérente de la présentation des renseignements liée à la production de rapports sur l’organisation dans l’ensemble des ministères;
-•	facilite l’achèvement des tâches en donnant la priorité à l’accès aux tâches liées à la déclaration des renseignements sur l’organisation;
-•	complète les objectifs des pages d’accueil institutionnelles en offrant des renseignements propres aux institutions sur la divulgation proactive;
-•	limite la quantité de contenu utilisée pour décrire la divulgation proactive.
+*	appuie une approche cohérente de la présentation des renseignements liée à la production de rapports sur l’organisation dans l’ensemble des ministères;
+*	facilite l’achèvement des tâches en donnant la priorité à l’accès aux tâches liées à la déclaration des renseignements sur l’organisation;
+*	complète les objectifs des pages d’accueil institutionnelles en offrant des renseignements propres aux institutions sur la divulgation proactive;
+*	limite la quantité de contenu utilisée pour décrire la divulgation proactive.
+
 Ce modèle est facultatif, mais nous vous recommandons de l’utiliser. Il s’agit d’un moyen éprouvé de publier des rapports sur l’organisation.
 
 Utiliser ce modèle ainsi que le système de conception de Canada.ca offre une meilleure expérience d’utilisation en ligne, plus uniforme et plus fiable, aux personnes qui accèdent aux services numériques du gouvernement du Canada.
@@ -41,8 +44,8 @@ Utiliser ce modèle ainsi que le système de conception de Canada.ca offre une m
 
 Commencer avec des modèles et des configurations de conception testés par les utilisateurs aide les équipes à aller de l’avant rapidement, ce qui vous fait économiser temps et argent. Nous créons ces ressources pour aider les équipes à concevoir du contenu numérique axé sur les tâches que les utilisateurs tentent d’accomplir.
 
-•	Bibliothèque de modèles et de configurations de conception pour Canada.ca
-•	Guide de rédaction du contenu du site Canada.ca
+*	[Bibliothèque de modèles et de configurations de conception pour Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html)
+*	[Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
 
 ## Mot de la fin
 
@@ -53,14 +56,13 @@ Nous voulons encourager d’autres personnes à contribuer à l’amélioration 
 Si vous souhaitez contribuer à cet effort, communiquez avec nous au Bureau de la transformation numérique (voir les canaux ci-dessous).
 
 ## Pour en savoir davantage
-*	Derniers changements apportés au système de conception de Canada.ca
-*	Normes numériques du gouvernement du Canada
-*	Établissement de rapports à l’échelle du gouvernement
-*	Plan d’action national du Canada pour un gouvernement ouvert de 2018-2020
 
-## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor
+*	[Derniers changements apportés au système de conception de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/derniers-changements.html)
+*	[Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
+*	[Établissement de rapports à l’échelle du gouvernement](https://www.canada.ca/fr/transparence/rapports.html)
+*	[Plan d’action national du Canada pour un gouvernement ouvert de 2018-2020](https://ouvert.canada.ca/fr/contenu/plan-daction-national-du-canada-pour-un-gouvernement-ouvert-de-2018-2020#toc6)
 
-•	Courriel : dto.btn@tbs-sct.gc.ca
-•	Twitter : #Canadapointca (en français) / #Canadadotca (en anglais)
-•	Slack : http://design-GC-conception.slack.com
-
+## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
+* Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
+* Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
