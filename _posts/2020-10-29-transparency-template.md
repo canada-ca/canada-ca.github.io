@@ -37,7 +37,7 @@ The new transparency template:
 
 This template is optional, but it’s user-proven. We recommend you use it  for publishing corporate reporting information. 
 
-Using this template as well as the GC design system provides a more usable, consistent and trustworthy online experience for people who access Government of Canada digital services.
+Deploying this template as well as the GC design system provides a more usable, consistent and trustworthy online experience for people who access Government of Canada digital services.
 
 ### Start with user-tested templates and patterns
 
