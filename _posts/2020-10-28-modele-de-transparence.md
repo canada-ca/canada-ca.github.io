@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Accroître la transparence sur Canada.ca"
-pubdate: "29 octobre 2020"
-langpage: "https://blog.canada.ca/2020/10/29/transparency-template.html"
-date:   2020-10-29
+pubdate: "28 octobre 2020"
+langpage: "https://blog.canada.ca/2020/10/28/transparency-template.html"
+date:   2020-10-28
 published: true
 draft: true
 lang: fr
 alt: "Accroître la transparence sur Canada.ca"
-description: "Dans cet article, les Territoires du Nord-Ouest (T.N.-O.) ont expliqué la façon dont ils utilisent des illustrations pour rendre le contenu Web et les produits de communication sur la COVID-19 plus accessibles à toutes leurs collectivités."
+description: "Les Services consultatifs numériques (SCN) du Secrétariat du Conseil du Trésor du Canada ont collaboré avec le Bureau de la transformation numérique (BTN) à l’élaboration de concepts visant à accroître la transparence."
 ---
 
 L’amélioration de la prestation des services sur Canada.ca est un travail d’équipe continu et axé sur la collaboration. Les employés de la fonction publique de l’ensemble du gouvernement du Canada travaillent ensemble pour créer une expérience numérique qui respecte les principes d’accessibilité, de responsabilisation et de transparence.
@@ -31,14 +31,14 @@ La présentation commune permet au public d’accomplir plus facilement les tâc
 Rendre ces renseignements accessibles au public est un élément clé de notre démocratie et permet aux Canadiens de demander des comptes à leur gouvernement et aux responsables du secteur public.
 
 Le nouveau modèle de transparence :
-*	appuie une approche cohérente de la présentation des renseignements liée à la production de rapports sur l’organisation dans l’ensemble des ministères;
-*	facilite l’achèvement des tâches en donnant la priorité à l’accès aux tâches liées à la déclaration des renseignements sur l’organisation;
-*	complète les objectifs des pages d’accueil institutionnelles en offrant des renseignements propres aux institutions sur la divulgation proactive;
-*	limite la quantité de contenu utilisée pour décrire la divulgation proactive.
+*	**appuie une approche cohérente** de la présentation des renseignements liée à la production de rapports sur l’organisation dans l’ensemble des ministères;
+*	**facilite l’achèvement des tâches** en donnant la priorité à l’accès aux tâches liées à la déclaration des renseignements sur l’organisation;
+*	**complète les objectifs des pages d’accueil** institutionnelles en offrant des renseignements propres aux institutions sur la divulgation proactive;
+*	**limite la quantité de contenu** utilisée pour décrire la divulgation proactive.
 
-Ce modèle est facultatif, mais nous vous recommandons de l’utiliser. Il s’agit d’un moyen éprouvé de publier des rapports sur l’organisation.
+Ce modèle est facultatif, mais il a fait ses preuves auprès des utilisateurs. Nous vous recommandons de l'utiliser pour  publier des rapports sur l’organisation.
 
-Utiliser ce modèle ainsi que le système de conception de Canada.ca offre une meilleure expérience d’utilisation en ligne, plus uniforme et plus fiable, aux personnes qui accèdent aux services numériques du gouvernement du Canada.
+Déployer ce modèle ainsi que le système de conception de Canada.ca, offre une meilleure expérience d’utilisation en ligne, plus uniforme et plus fiable, aux personnes qui accèdent aux services numériques du gouvernement du Canada.
 
 ### Commencer avec des modèles et des configurations de conception testés par des utilisateurs
 
