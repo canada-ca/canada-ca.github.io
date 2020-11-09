@@ -42,7 +42,7 @@ P6: “I’d check off all of them. I mean whichever ones apply to me”
 
 P19: “I like that you can see it is checked”
 
-Canada Child Benefit - Who can apply
+[Canada Child Benefit - Who can apply](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html)
 
 In response to COVID-19, the Government of Canada launched new economic benefits on very tight schedules. The CRA and ESDC used eligibility checklists to help users work through the eligibility criteria and choose which department to apply with.  In both pre- and post-launch testing, participants had positive feedback about the interactive lists: 
 
@@ -52,7 +52,7 @@ P2: “The green checkmarks feel really reassuring”
 
 P4: “I love the green check mark”
 
-Canada Recovery Benefit - Who can apply
+[Canada Recovery Benefit - Who can apply](https://www.canada.ca/en/revenue-agency/services/benefits/recovery-benefit/crb-who-apply.html)
 
 ## Final word
 
@@ -62,11 +62,11 @@ Carefully analyzing how to break things down using interactive elements can sign
 
 ## Learn more
 
-Canada.ca Content Style Guide
-Latest changes to the Canada.ca design system
-Content improvement projects
-Research summary: Contact the CRA
-Government of Canada Digital Standards
+* [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
+* [Latest changes to the Canada.ca design system](https://www.canada.ca/en/government/about/design-system/latest-changes.html)
+* [Content improvement projects](https://blog.canada.ca/pages/project-overview.html)
+* [Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
+* [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
