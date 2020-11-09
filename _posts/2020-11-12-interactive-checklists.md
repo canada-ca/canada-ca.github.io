@@ -26,11 +26,11 @@ Faced with the standard approach of explaining eligibility criteria with long pa
 
 Last month, we added a beta design for large checkboxes and radio buttons to the Canada.ca design system. This update makes it easier for people on mobile devices to see and touch the controls on a small screen.
 
-Design pattern: Checkboxes and radio buttons
+Design pattern: [Checkboxes and radio buttons](https://design.canada.ca/common-design-patterns/checkboxes-radio-buttons.html)
 
 Combining these controls with interactive questions lets you present people with a sequence of simple questions and lead them to the specific answer they need.
  
-Design pattern: Interactive questions
+Design pattern: [Interactive questions](https://design.canada.ca/common-design-patterns/interactive-questions.html)
 
 Interpreting eligibility correctly is extremely important for applicants and program staff alike. Neither wants to waste time if the applicant isn't eligible. Designing eligibility criteria content to include interactive checklists means you are better able to ensure people understand and complete every step they need.
 
@@ -38,19 +38,19 @@ Interpreting eligibility correctly is extremely important for applicants and pro
 
 In 2019, the CRA and DTO first tested and later implemented an eligibility checklist in the Canada Child Benefit optimization project. Participants in the testing had very positive comments about the design pattern.
 
-P6: “I’d check off all of them. I mean whichever ones apply to me”
+> P6: “I’d check off all of them. I mean whichever ones apply to me”
 
-P19: “I like that you can see it is checked”
+> P19: “I like that you can see it is checked”
 
 [Canada Child Benefit - Who can apply](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html)
 
 In response to COVID-19, the Government of Canada launched new economic benefits on very tight schedules. The CRA and ESDC used eligibility checklists to help users work through the eligibility criteria and choose which department to apply with.  In both pre- and post-launch testing, participants had positive feedback about the interactive lists: 
 
-P6: “These checkboxes are good”
+> P6: “These checkboxes are good”
 
-P2: “The green checkmarks feel really reassuring”
+> P2: “The green checkmarks feel really reassuring”
 
-P4: “I love the green check mark”
+> P4: “I love the green check mark”
 
 [Canada Recovery Benefit - Who can apply](https://www.canada.ca/en/revenue-agency/services/benefits/recovery-benefit/crb-who-apply.html)
 
