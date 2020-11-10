@@ -2,7 +2,7 @@
 layout: post
 title:  "Using interactive checklists to simplify eligibility criteria"
 pubdate: "November 12, 2020"
-langpage: "https://blogue.canada.ca/2020/10/28/modele-de-transparence.html"
+langpage: "https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html"
 date:   2020-11-12
 published: true
 draft: true

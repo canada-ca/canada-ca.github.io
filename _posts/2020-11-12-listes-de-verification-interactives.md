@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "Utilisation de listes de vérification interactives pour simplifier les critères d’admissibilité"
-description: "Dans cet article, les Territoires du Nord-Ouest (T.N.-O.) ont expliqué la façon dont ils utilisent des illustrations pour rendre le contenu Web et les produits de communication sur la COVID-19 plus accessibles à toutes leurs collectivités."
+description: "Au cours des dernières années, le Bureau de la transformation numérique a étudié l’utilisation de listes de vérification interactives pour simplifier la façon dont nous présentons les critères d’admissibilité."
 ---
 De par leur nature, les sites gouvernementaux ont tendance à être complexes. Ils doivent couvrir une multitude de priorités et s’adresser à une multitude de publics. Il est donc très difficile pour les gens d’obtenir facilement les réponses dont ils ont besoin de la part de leur gouvernement.
 
@@ -23,11 +23,11 @@ Les listes de vérification aident les gens à décomposer des listes d’admiss
 <br>
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/eligibility-1.PNG" width="700">
+src="/images/criteres-2.PNG" width="700">
 </figure>
 <details>
 <summary>Critères d’admissibilité à la Prestation canadienne de la relance économique</summary>
-<p>Eligibility checklist for the Canada Recovery Benefit, showing interactive checkboxes beside each eligibility requirement.</p>
+<p>Critères d’admissibilité à la Prestation canadienne de la relance économique, en affichant des listes de vérification interactives à côté de chaque condition d'éligibilité.</p>
 </details>
 <br>
 
