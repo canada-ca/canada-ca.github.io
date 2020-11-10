@@ -22,7 +22,7 @@ Les listes de vérification aident les gens à décomposer des listes d’admiss
 
 <br>
 <figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
 src="/images/criteres-2.PNG" width="700">
 </figure>
 <details>
