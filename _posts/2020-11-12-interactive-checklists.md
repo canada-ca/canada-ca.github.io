@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "Using interactive checklists to simplify eligibility criteria"
-description: " "
+description: "In the last couple of years, the Digital Transformation Office has been studying the use of interactive checklists to simplify the way we present eligibility criteria. "
 ---
 Government sites by their very nature tend to be complex. They must cover a multitude of priorities and speak to a multitude of audiences. This presents real challenges in terms of making it easy for people to get the answers they need from their government.
 
@@ -23,7 +23,7 @@ Checklists help people break down complex eligibility lists to ensure that they 
 <br>
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/eligibility-1.png" width="700">
+src="/images/eligibility-1.PNG" width="700">
 </figure>
 <details>
 <summary>Eligibility checklist for the Canada Recovery Benefit</summary>
