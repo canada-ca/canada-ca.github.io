@@ -53,7 +53,7 @@ In 2019, the CRA and DTO first tested and later implemented an eligibility check
 
 [Canada Child Benefit - Who can apply](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html)
 
-In response to COVID-19, the Government of Canada launched new economic benefits on very tight schedules. The CRA and ESDC used eligibility checklists to help users work through the eligibility criteria and choose which department to apply with.  In both pre- and post-launch testing, participants had positive feedback about the interactive lists: 
+In response to COVID-19, the Government of Canada launched new economic benefits on very tight schedules. The CRA and Employment and Social Development Canada (ESDC) used eligibility checklists to help users work through the eligibility criteria and choose which department to apply with.  In both pre- and post-launch testing, participants had positive feedback about the interactive lists: 
 
 > P6: “These checkboxes are good”
 
