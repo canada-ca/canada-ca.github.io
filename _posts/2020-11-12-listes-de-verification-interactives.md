@@ -45,7 +45,7 @@ Il est extrêmement important pour les demandeurs et le personnel du programme d
 
 ## Ce que les utilisateurs disent au sujet des listes de vérification 
 
-En 2019, l’ARC et le BTN ont d’abord mis à l’essai, puis mis en œuvre une liste de vérification de l’admissibilité dans le cadre du projet d’optimisation de l’Allocation canadienne pour enfants. Les participants aux essais ont formulé des commentaires très positifs au sujet de la configuration de conception.
+En 2019, l’Agence du revenu du Canada (ARC) et le BTN ont d’abord mis à l’essai, puis mis en œuvre une liste de vérification de l’admissibilité dans le cadre du projet d’optimisation de l’Allocation canadienne pour enfants. Les participants aux essais ont formulé des commentaires très positifs au sujet de la configuration de conception.
 
 > P6: « Je cocherais toutes les cases, c’est-à-dire dire tous les choix qui s’appliquent à moi. »
 
@@ -53,7 +53,7 @@ En 2019, l’ARC et le BTN ont d’abord mis à l’essai, puis mis en œuvre un
 
 [Allocation canadienne pour enfants – Qui peut faire une demande](https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants-apercu/allocation-canadienne-enfants-avant-faire-demande.html)
 
-En réponse à la pandémie de COVID-19, le gouvernement du Canada a lancé de nouvelles prestations économiques dans des délais très serrés. L’ARC et EDSC ont utilisé des listes de vérification de l’admissibilité pour aider les utilisateurs à passer en revue les critères d’admissibilité et à choisir le ministère avec lequel présenter une demande.  Lors des essais qui ont précédé et suivi le lancement, les participants ont émis des commentaires positifs sur les listes interactives : 
+En réponse à la pandémie de COVID-19, le gouvernement du Canada a lancé de nouvelles prestations économiques dans des délais très serrés. L’ARC et Emploi et Développement social Canada (EDSC) ont utilisé des listes de vérification de l’admissibilité pour aider les utilisateurs à passer en revue les critères d’admissibilité et à choisir le ministère avec lequel présenter une demande.  Lors des essais qui ont précédé et suivi le lancement, les participants ont émis des commentaires positifs sur les listes interactives : 
 
 > P6: « Ces cases à cocher sont une bonne chose. »
 
