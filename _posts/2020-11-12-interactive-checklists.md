@@ -35,11 +35,11 @@ Faced with the standard approach of explaining eligibility criteria with long pa
 
 Last month, we added a beta design for large checkboxes and radio buttons to the Canada.ca design system. This update makes it easier for people on mobile devices to see and touch the controls on a small screen.
 
-[Checkboxes and radio buttons design patter](https://design.canada.ca/common-design-patterns/checkboxes-radio-buttons.html)
+[Checkboxes and radio buttons design pattern](https://design.canada.ca/common-design-patterns/checkboxes-radio-buttons.html)
 
 Combining these controls with interactive questions lets you present people with a sequence of simple questions and lead them to the specific answer they need.
  
-[Interactive questions design patter](https://design.canada.ca/common-design-patterns/interactive-questions.html)
+[Interactive questions design pattern](https://design.canada.ca/common-design-patterns/interactive-questions.html)
 
 Interpreting eligibility correctly is extremely important for applicants and program staff alike. Neither wants to waste time if the applicant isn't eligible. Designing eligibility criteria content to include interactive checklists means you are better able to ensure people understand and complete every step they need.
 
