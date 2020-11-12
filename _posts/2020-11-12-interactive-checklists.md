@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "Using interactive checklists to simplify eligibility criteria"
-description: "In the last couple of years, the Digital Transformation Office has been studying the use of interactive checklists to simplify the way we present eligibility criteria. "
+description: "In the last couple of years, the Digital Transformation Office(DTO) has been studying the use of interactive checklists to simplify the way we present eligibility criteria. "
 ---
 Government sites by their very nature tend to be complex. They must cover a multitude of priorities and speak to a multitude of audiences. This presents real challenges in terms of making it easy for people to get the answers they need from their government.
 
