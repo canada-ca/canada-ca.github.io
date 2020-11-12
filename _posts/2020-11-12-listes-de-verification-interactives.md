@@ -33,9 +33,9 @@ src="/images/criteres-2.PNG" width="700">
 
 Face à la démarche habituelle qui consiste à expliquer les critères d’admissibilité au moyen de longues pages de contenu statique, nous avons constaté que certains utilisateurs ne comprennent pas exactement ce dont ils ont besoin pour être admissibles à un programme. Une liste de vérification les aide à parcourir méthodiquement le contenu Web en leur faisant répondre à des questions ou à valider des choix. L’interaction les aide à s’engager de façon plus approfondie pour trouver la bonne réponse à leur situation particulière. Les cases à cocher et les boutons radio interactifs permettent à la page de ressembler davantage à une application mobile. 
 
-Le mois dernier, nous avons ajouté une conception bêta applicable aux grandes cases à cocher et aux boutons radio du système de conception de Canada.ca. Cette mise à jour permet aux utilisateurs d’appareils mobiles de voir et de toucher plus facilement les commandes d’un petit écran.
+Le mois dernier, nous avons ajouté une conception bêta applicable aux grandes cases à cocher et aux boutons radio du système de conception de Canada.ca. Cette mise à jour permet aux utilisateurs d’appareils mobiles de voir et de toucher plus facilement les commandes d’un petit écran. Cases à cocher et boutons radio - configuration de conception
 
-Configuration de conception : [Cases à cocher et boutons radio](https://conception.canada.ca/configurations-conception-communes/cases-cocher-boutons-radio.html)
+[Cases à cocher et boutons radio-configuration de conception](https://conception.canada.ca/configurations-conception-communes/cases-cocher-boutons-radio.html)
 
 En combinant ces commandes avec des questions interactives, vous pouvez présenter aux gens une série de questions simples et les amener à la réponse précise dont ils ont besoin.
  
