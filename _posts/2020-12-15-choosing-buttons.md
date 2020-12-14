@@ -78,11 +78,11 @@ Notice how the primary and secondary task buttons work together in this survey i
 <br>
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/eligibility-1.PNG" width="700">
+src="/images/improve-CA.PNG" width="700">
 </figure>
 <details>
-<summary>Eligibility checklist for the Canada Recovery Benefit</summary>
-<p>Eligibility checklist for the Canada Recovery Benefit, showing interactive checkboxes beside each eligibility requirement.</p>
+<summary>Example of primary and secondary task buttons</summary>
+<p>Example of primary and secondary task buttons working together. </p>
 </details>
 <br>
 
