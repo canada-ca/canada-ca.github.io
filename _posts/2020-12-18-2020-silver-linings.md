@@ -14,8 +14,8 @@ It almost feels like an understatement to say that 2020 has been a challenging y
 
 As we countdown to 2021, the #GCDigital web community would like to share some of our silver linings from the past year.
 
-<blockquote>
-<p>1. “COVID-19 has introduced a whole new set of challenges and opportunities. For the first time ever, the Web team at Finance Canada has had to adapt to an unprecedented global crisis that has affected every facet of our government.</p>
+1. <blockquote>
+<p>“COVID-19 has introduced a whole new set of challenges and opportunities. For the first time ever, the Web team at Finance Canada has had to adapt to an unprecedented global crisis that has affected every facet of our government.</p>
  
 <p>Over this past year, we’ve learned to come together while staying apart. The interdepartmental collaboration with various working groups has been memorable and informative.</p>
  
