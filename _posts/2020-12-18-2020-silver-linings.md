@@ -21,7 +21,6 @@ As we countdown to 2021, the #GCDigital web community would like to share some o
 <p>One of our stand-out memories has been with our collaboration with DTO on the launch of the Economic Response Plan. Their data-driven UI/UX guidance has been instrumental in the delivery of information related to financial support to Canadians during the pandemic.</p> 
  
 <p>As we continue to strengthen our connections and learn from each other, we’re left hopeful that the challenges presented by this global pandemic will be overcome and improve us as individuals and teams.” </p>
-</blockquote>
  
 <p>- <b>Itthiphol (Bob) Piromnam, Finance Canada</b></p>
 
@@ -43,15 +42,15 @@ As we countdown to 2021, the #GCDigital web community would like to share some o
 
 <p>- <b>David Pepin, Digital Transformation Office</b></p>
 
-<p>5.  “Joining the web comms working group felt like being the little bee girl in the Blind Melon music video for ‘No Rain.’ It felt like stumbling into a meadow full of people who were thinking in ways I was thinking, and asking the important questions I was asking, and even more importantly, finding some answers to those questions about how to improve the Government of Canada’s web content for everyone in Canada and outside Canada accessing our services. It felt supportive and friendly, and I don’t think the projects I was working on (the COVID-19 Individual Benefits Finder and COVID Alert) would have been as successful without this space to collaborate.”</p>
+<p>5. “Joining the web comms working group felt like being the little bee girl in the Blind Melon music video for ‘No Rain.’ It felt like stumbling into a meadow full of people who were thinking in ways I was thinking, and asking the important questions I was asking, and even more importantly, finding some answers to those questions about how to improve the Government of Canada’s web content for everyone in Canada and outside Canada accessing our services. It felt supportive and friendly, and I don’t think the projects I was working on (the COVID-19 Individual Benefits Finder and COVID Alert) would have been as successful without this space to collaborate.”</p>
 
- - **Yael Berger, Canadian Digital Service**
+ <p>- <b>Yael Berger, Canadian Digital Service</b></p>
 
 <p>6. “This year we took rapid testing and prototyping to a new level.  In nine months, we completed 50 usability studies that informed many of the top pandemic tasks.  This turned into over twelve thousand commits to our prototype pages on Github.</p> 
 
 <p>On a personal level, I’m thankful to my DTO colleagues and our partners who helped me learn more about usability testing and communicating results… quickly! I also feel like my family finally understands what I do for a job.  A true usability silver lining."</p>
 
-<p>- <b>Lana Stewart, Digital Transformation Office</p></p>
+<p>- <b>Lana Stewart, Digital Transformation Office</b></p>
 
 <p>7. “It has been a case study on remote work that has (I think) convinced my senior management that employees can work effectively from home more often. Just days before the lockdown, I was trying to convince my DG to authorize one of my employees to work from home 2 days/week to facilitate his wife going back to work. We were told no, 2 days was too much of a risk. Now we're all doing it and if anything our productivity has gone up.</p>
 
