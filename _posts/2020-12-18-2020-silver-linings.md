@@ -93,7 +93,7 @@ We are looking forward to continuing to strengthen and grow our GCDigital commun
 
 ## Learn more
 
-* Top ten content design lessons the Canada.ca design team learned in 2019
+* [Top ten content design lessons the Canada.ca design team learned in 2019](https://blog.canada.ca/2019/12/20/top-ten-lessons.html)
 
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
