@@ -34,6 +34,17 @@ Use this button to launch the main task or next step - **when that task or step 
 
 We first used the super task button on the CRA institutional landing page. There, the majority of visitors are looking for how and where to sign into one of their CRA accounts. Since that’s what most people are there to do, the CRA makes it easy by placing the “Sign in to a CRA account” super task button right at the top of the page.
 
+<br>
+<figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/green-button-1.PNG" width="700">
+</figure>
+<details>
+<summary>Example of primary and secondary task buttons</summary>
+<p>Example of primary and secondary task buttons working together. </p>
+</details>
+<br>
+
 Canada Revenue Agency - Institutional landing page (image)
 
 In the spring of 2020, when the Coronavirus landing page was receiving extremely heavy traffic, anxiety about the virus was high. Data showed that an enormous number of visitors wanted to check symptoms to see if they had COVID-19. To support them, we worked with Health Canada to add a super task button at the top of the page. It led to the newly developed symptoms checker. Again, this worked well because it was what most visitors were coming to the page for at that time. When that behaviour changed, HC removed the button.
@@ -43,6 +54,17 @@ In the spring of 2020, when the Coronavirus landing page was receiving extremely
 There are times when using a super task button makes sense, but placing it further down the page is more effective than having it at the top. 
 
 For example, the Canada Recovery Benefit uses a green “Sign in to your CRA my account” button part way down the “Apply” page. 
+
+<br>
+<figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/apply-online-1.PNG" width="700">
+</figure>
+<details>
+<summary>Example of primary and secondary task buttons</summary>
+<p>Example of primary and secondary task buttons working together. </p>
+</details>
+<br>
 
 Canada Recovery Benefit - How to apply (image)
 
