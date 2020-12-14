@@ -14,7 +14,7 @@ It almost feels like an understatement to say that 2020 has been a challenging y
 
 As we countdown to 2021, the #GCDigital web community would like to share some of our silver linings from the past year.
 
-1. “COVID-19 has introduced a whole new set of challenges and opportunities. For the first time ever, the Web team at Finance Canada has had to adapt to an unprecedented global crisis that has affected every facet of our government.
+> 1. “COVID-19 has introduced a whole new set of challenges and opportunities. For the first time ever, the Web team at Finance Canada has had to adapt to an unprecedented global crisis that has affected every facet of our government.
  
 Over this past year, we’ve learned to come together while staying apart. The interdepartmental collaboration with various working groups has been memorable and informative.
  
@@ -24,19 +24,20 @@ As we continue to strengthen our connections and learn from each other, we’re 
  
 - Itthiphol (Bob) Piromnam, Finance Canada
 
-2.  “2020 has not been easy. I have watched as colleagues were battered by the isolation of lockdowns, the stress and sameness of working full time from home and the guilt of abandoning home schooling in favour of far too many hours of screen time for their kids. 
+> 2.  “2020 has not been easy. I have watched as colleagues were battered by the isolation of lockdowns, the stress and sameness of working full time from home and the guilt of abandoning home schooling in favour of far too many hours of screen time for their kids. 
 
 But I’ve also been amazed at their resilience and the enduring fight they bring day in and day out as they struggle through exhaustion, when the adrenaline keeping them going has long since been spent. And it occurs to me that it is through hardship that the strongest bonds of friendship are built. 
 
 We’ve collaborated more widely and more deeply these past many months than ever before. And in each moment of collaboration, we invited our colleagues into our homes and our lives. Take a moment as this year ends, to think of all the colleagues who have been a part of your day-to-day since March. They will forever share your lived experience of this pandemic. They will forever be the ones who walked with you on the journey, and the bonds you formed will be special and meaningful for a very long time to come. I am inspired by the dedication, resilience, and commitment to serving Canadians that I have witnessed in my colleagues from across government, and I am grateful to have been a part of your journey, as you have all been a part of mine.”
+
 Laura Piper, Digital Transformation Office
 
 
-3. “Through adverse circumstances and a complete shift to remote work, collaboration was the biggest asset within the GC that enabled common solutions, responsive changes based on evidence and true advancements enabling the government as a whole to better communicate with Canadians through a time of crisis.  Not only did we innovate, we also provided reliable, secure and timely information for the public when they most needed it.”
+> 3. “Through adverse circumstances and a complete shift to remote work, collaboration was the biggest asset within the GC that enabled common solutions, responsive changes based on evidence and true advancements enabling the government as a whole to better communicate with Canadians through a time of crisis.  Not only did we innovate, we also provided reliable, secure and timely information for the public when they most needed it.”
 
 - Melissa Teasdale, Principal Publisher 
 
-4.  “As web teams across the government scrambled to create new content, it was amazing to see people embrace usability research and evidence-based content design. The web community came together to help quickly prototype and test solutions to make it easier for Canadians to get what they need from the government in this time of crisis. 
+>4.  “As web teams across the government scrambled to create new content, it was amazing to see people embrace usability research and evidence-based content design. The web community came together to help quickly prototype and test solutions to make it easier for Canadians to get what they need from the government in this time of crisis. 
 
 During the course of the year, we piloted a new way of gathering direct feedback from people who use our web content. Real-time insights on what makes people fail at completing their task is humbling.  A constant reminder that we need to continue improving content for Canadians. ”
 
