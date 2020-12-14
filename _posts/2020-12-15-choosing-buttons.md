@@ -97,18 +97,18 @@ The danger button is an option when an action may have unintended consequences. 
 </div>
 <details>
   <summary>Code</summary>
-                  <pre><code>&lt;button class="btn btn-danger"&gt;Erase form&lt;/button&gt;</code></pre>
-               </details>
+  <pre><code>&lt;button class="btn btn-danger"&gt;Erase form&lt;/button&gt;</code></pre>
+ </details>
 
 Finally, the link button pattern offers an option for a rarely used action that must not compete with a primary or secondary task button. Restarting an application or clearing a form are good examples. You wouldn’t want those controls to compete with the “Submit” button, but you might want to style the control as a button for consistency.
 
 <div class="pattern-demo mrgn-bttm-md">
-                  <button class="btn btn-link">Restart calculator</button>
-               </div>
-               <details>
-                  <summary>Code</summary>
-                  <pre><code>&lt;button class="btn btn-link"&gt;Restart calculator&lt;/button&gt;</code></pre>
-               </details>
+  <button class="btn btn-link">Restart calculator</button>
+</div>
+<details>
+<summary>Code</summary>
+<pre><code>&lt;button class="btn btn-link"&gt;Restart calculator&lt;/button&gt;</code></pre>
+</details>
 
 ## Final word
 
