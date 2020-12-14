@@ -14,13 +14,15 @@ It almost feels like an understatement to say that 2020 has been a challenging y
 
 As we countdown to 2021, the #GCDigital web community would like to share some of our silver linings from the past year.
 
-<blockquote>1. “COVID-19 has introduced a whole new set of challenges and opportunities. For the first time ever, the Web team at Finance Canada has had to adapt to an unprecedented global crisis that has affected every facet of our government.
+<blockquote>
+<p>1. “COVID-19 has introduced a whole new set of challenges and opportunities. For the first time ever, the Web team at Finance Canada has had to adapt to an unprecedented global crisis that has affected every facet of our government.</p>
  
-Over this past year, we’ve learned to come together while staying apart. The interdepartmental collaboration with various working groups has been memorable and informative.
+<p>Over this past year, we’ve learned to come together while staying apart. The interdepartmental collaboration with various working groups has been memorable and informative.</p>
  
-One of our stand-out memories has been with our collaboration with DTO on the launch of the Economic Response Plan. Their data-driven UI/UX guidance has been instrumental in the delivery of information related to financial support to Canadians during the pandemic. 
+<p>One of our stand-out memories has been with our collaboration with DTO on the launch of the Economic Response Plan. Their data-driven UI/UX guidance has been instrumental in the delivery of information related to financial support to Canadians during the pandemic.</p> 
  
-As we continue to strengthen our connections and learn from each other, we’re left hopeful that the challenges presented by this global pandemic will be overcome and improve us as individuals and teams.” </blockquote>
+<p>As we continue to strengthen our connections and learn from each other, we’re left hopeful that the challenges presented by this global pandemic will be overcome and improve us as individuals and teams.” </p>
+</blockquote>
  
 <p>- Itthiphol (Bob) Piromnam, Finance Canada</p>
 
