@@ -75,7 +75,16 @@ The secondary button is useful for alternate steps in a process - like a “prev
 
 Notice how the primary and secondary task buttons work together in this survey invitation to distinguish between “Yes” as the primary action to take, and “No” as the alternate option.
 
-(insert image)
+<br>
+<figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/eligibility-1.PNG" width="700">
+</figure>
+<details>
+<summary>Eligibility checklist for the Canada Recovery Benefit</summary>
+<p>Eligibility checklist for the Canada Recovery Benefit, showing interactive checkboxes beside each eligibility requirement.</p>
+</details>
+<br>
 
 ## Danger and link buttons
 
@@ -84,10 +93,10 @@ The Canada.ca design system includes 2 other button styles or patterns as well.
 The danger button is an option when an action may have unintended consequences. Leaving an authenticated application or deleting the contents of a form are examples of correct use cases. Use this button sparingly.
 
 <div class="pattern-demo mrgn-bttm-md">
-                  <button class="btn btn-danger">Erase form</button>
-               </div>
-               <details>
-                  <summary>Code</summary>
+<button class="btn btn-danger">Erase form</button>
+</div>
+<details>
+  <summary>Code</summary>
                   <pre><code>&lt;button class="btn btn-danger"&gt;Erase form&lt;/button&gt;</code></pre>
                </details>
 
