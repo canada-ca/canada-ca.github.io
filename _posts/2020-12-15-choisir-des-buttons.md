@@ -80,7 +80,23 @@ Le système de conception de Canada.ca comprend également deux autres styles ou
 
 Le bouton danger consiste en une option lorsqu’une action peut avoir des conséquences imprévues. Laisser une application authentifiée et supprimer le contenu d’un formulaire constituent des exemples de cas d’utilisation adéquats. Utilisez ce bouton avec parcimonie.
 
+<div class="pattern-demo mrgn-bttm-md">
+<button class="btn btn-danger">Effacer le formulaire</button>
+</div>
+<details>
+<summary>Code</summary>
+<pre><code>&lt;button class="btn btn-danger"&gt;Effacer le formulaire&lt;/button&gt;</code></pre>
+</details>
+
 Enfin, la configuration de bouton lien offre une option pour une action rarement utilisée qui ne doit pas entrer en concurrence avec un bouton de tâche primaire ou secondaire. Le lancement de nouveau d’une application et la suppression des données dans un formulaire en sont de bons exemples. Vous ne voudriez pas que ces commandes entrent en concurrence avec le bouton «&nbsp;Soumettre&nbsp;», mais vous pourriez vouloir concevoir la commande sous la forme d’un bouton pour assurer l’uniformité.
+
+<div class="pattern-demo mrgn-bttm-md">
+<button class="btn btn-link">Redémarrer le calculateur</button>
+</div>
+ <details>
+<summary>Code</summary>
+<pre><code>&lt;button class="btn btn-link"&gt;Redémarrer le calculateur&lt;/button&gt;</code></pre>
+</details>
 
 ## Mot de la fin
 
