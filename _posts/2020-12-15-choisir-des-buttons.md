@@ -38,7 +38,7 @@ Nous avons d’abord utilisé le bouton de super tâche accessible à partir de 
 
 [Agence du revenu du Canada – page d’accueil institutionnelle](https://www.canada.ca/fr/agence-revenu.html) (image)
 
-Au printemps 2020, alors que la page d’accueil du site portant sur la maladie à coronavirus faisait l’objet d’un trafic extrêmement intense, l’inquiétude quant au virus était grande. Les données ont révélé qu’un nombre très élevé de visiteurs voulaient passer en revue les symptômes de la maladie afin de déterminer s’ils étaient atteints de la COVID 19. Pour les soutenir, nous avons travaillé avec Santé Canada afin d’ajouter un bouton de super tâche au haut de la page. Cette collaboration a mené à la mise au point d’un nouvel outil de vérification des symptômes. Encore une fois, cette initiative a bien fonctionné parce que c’est ce pour quoi la plupart des visiteurs consultaient la page à ce moment-là. Lorsque des changements ont été constatés quant à ce comportement, Santé Canada a retiré le bouton.
+Au printemps 2020, alors que la page d'accueil du Coronavirus recevait un trafic extrêmement important, l'anxiété à propos du virus était grande. Les centres d'appels étaient submergés de personnes qui voulaient vérifier leurs symptômes pour savoir si elles étaient atteintes du COVID-19. Pour les aider, nous avons travaillé avec Santé Canada pour ajouter un bouton de super tâche en haut de la page. Cela a donné naissance au nouvel outil de vérification des symptômes. Encore une fois, cela a bien fonctionné car il a fourni une réponse à une tâche clé pour laquelle les visiteurs venaient sur la page à ce moment-là. Santé Canada a répété cette approche récemment lorsqu'il est devenu obligatoire pour les voyageurs d'utiliser l'application ArriveCan pour entrer dans le pays. Le bouton "super tâche" situé en haut de la page a permis de soutenir les utilisateurs et de les rediriger vers le contenu du site web plutôt que vers les centres d'appels. 
 
 ## Un moment pour le milieu de la page
 
@@ -54,12 +54,9 @@ Dans ce cas, le bouton apparaît au bas de la page. À ce moment-là, les utilis
 
 Que se passe-t-il lorsque vous utilisez le bouton de super tâche pour promouvoir quelque chose qui n’est pas la tâche principale que les gens recherchent sur cette page?
 
-Amener les gens à télécharger l’application Alerte COVID a été une priorité pour le gouvernement du Canada, à mesure que le nombre de cas de COVID 19 augmentait et que le dépistage des contacts devenait plus difficile. Ce bouton vert constituait une façon simple d’attirer l’attention des gens. 
+Faire en sorte que les gens téléchargent l'application COVIDAlert a été une priorité essentielle pour le gouvernement du Canada, alors que les cas de COVID-19 augmentent et que la recherche des contacts devient plus difficile. Ce bouton vert était une manière tentante d'essayer d'attirer l'attention des gens. 
 
-Encore une fois, cette avenue s’est révélée efficace sur la page d’accueil de la COVID 19. Cependant, le bouton n’a pas permis de générer les mêmes résultats positifs lorsqu’il a été intégré sur les pages suivantes : 
-•	Symptômes et traitement
-•	Réponse du Canada
-•	Activités personnelles et sociales
+* Lorsque le bouton de super tâche était placé sur des pages où il ne supportait pas directement le contenu de la page, le bouton n'était pas efficace. 
 
 Ces résultats moins concluants étaient dus au fait que les gens n’étaient pas venus sur ces pages pour télécharger l’application. Ils ont vu alors le bouton davantage comme une publicité qui faisait obstacle à ce qu’ils cherchaient. Le résultat? Ils n’en ont pas tenu compte.
 
@@ -99,4 +96,3 @@ La plupart du temps, vous n’avez pas besoin de boutons sur une page Web – de
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
 * Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-
