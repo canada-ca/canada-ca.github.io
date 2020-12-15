@@ -47,7 +47,7 @@ src="/images/green-button-1.PNG" width="700">
 
 Canada Revenue Agency - Institutional landing page (image)
 
-In the spring of 2020, when the Coronavirus landing page was receiving extremely heavy traffic, anxiety about the virus was high. Data showed that an enormous number of visitors wanted to check symptoms to see if they had COVID-19. To support them, we worked with Health Canada to add a super task button at the top of the page. It led to the newly developed symptoms checker. Again, this worked well because it was what most visitors were coming to the page for at that time. When that behaviour changed, HC removed the button.
+In the spring of 2020, when the Coronavirus landing page was receiving extremely heavy traffic, anxiety about the virus was high. Call centres were swamped with people wanting to check their symptoms to see if they had COVID-19. To support them, we worked with Health Canada to add a super task button at the top of the page. It led to the newly developed symptoms checker. Again, this worked well because it provided an answer for a key task visitors were coming to the page for at that time. Health Canada repeated this approach recently when it became mandatory for travellers to use the ArriveCan app to enter the country. The super task button at the top of the page supported users and redirected them to web content instead of call centres.
 
 ## A time for the middle of the page
 
@@ -76,10 +76,7 @@ So what happens when you use the super task button to get people’s attention f
 
 Getting people to download the COVIDAlert app has been a key priority for the Government of Canada as cases of COVID-19 rise and contact tracing becomes more difficult. That green button was a tempting way to try to catch people’s attention. 
 
-Once again, it worked effectively on the COVID-19 landing page. However, the button didn’t have the same positive results when it appeared on any of these pages: 
-* Symptoms and treatment
-* Canada’s response
-* Personal and social activities
+When the super task button was placed on pages where it didn’t directly support page content, the button was not effective. 
 
 This was because downloading the app wasn’t what people had come to those pages to do. They saw the button more like an ad that was in the way of what they were looking for. The result? They ignored it.
 
