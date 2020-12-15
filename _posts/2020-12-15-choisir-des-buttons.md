@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  "Choisir le bon bouton pour réussir sa tâche"
+title:  "Choisir le bon bouton pour la réussite des tâches"
 pubdate: "15 décembre 2020"
 langpage: "https://blog.canada.ca/2020/12/15/choisir-des-buttons.html"
 date:   2020-12-15
 published: true
 draft: true
 lang: fr
-alt: "Choisir le bon bouton pour réussir sa tâche"
+alt: "Choisir le bon bouton pour la réussite des tâches"
 description: "Au cours des dernières années, le Bureau de la transformation numérique a étudié l’utilisation de listes de vérification interactives pour simplifier la façon dont nous présentons les critères d’admissibilité."
 ---
 Les boutons consistent en un élément de conception qui vous permet d’ajouter une interaction à une page. 
 
 Pensez à utiliser des boutons dans les cas suivants :
 
-*	aider une personne à amorcer ou à mener à bien une transaction (un bouton « Se connecter », par exemple);
-*	invoquer une fonction, comme « Partager cette page »;
-*	offrir un ensemble permanent de commandes d’interface utilisateur dans une série de pages, par exemple « précédent », « suivant », ou « retour à la table des matières ».
+*	aider une personne à amorcer ou à mener à bien une transaction (un bouton «&nbsp;Se connecter&nbsp;», par exemple);
+*	invoquer une fonction, comme «&nbsp;Partager cette page&nbsp;»;
+*	offrir un ensemble permanent de commandes d’interface utilisateur dans une série de pages, par exemple «&nbsp;précédent&nbsp;», «&nbsp;suivant&nbsp;», ou «&nbsp;retour à la table des matières&nbsp;».
 
 N’utilisez pas de boutons lorsqu’un lien de texte ordinaire fera tout autant l’affaire. La surutilisation de ces derniers réduit leur efficacité visuelle.
 
@@ -26,7 +26,7 @@ La configuration des boutons dans le système de conception de Canada.ca compren
 
 ## Le bouton de super tâche
 
-Parmi les options de boutons dans le système de conception se trouve le bouton de super tâche. Il s’agit d’un gros bouton vert attrayant qui attire vraiment votre attention! Ce bouton peut être puissant... mais « avec de grands pouvoirs viennent de grandes responsabilités ». 
+Parmi les options de boutons dans le système de conception se trouve le bouton de super tâche. Il s’agit d’un gros bouton vert attrayant qui attire vraiment votre attention! Ce bouton peut être puissant... mais «&nbsp;avec de grands pouvoirs viennent de grandes responsabilités&nbsp;». 
 
 Alors, comment doit-on utiliser ce bouton adéquatement?
 
@@ -34,7 +34,7 @@ Utilisez ce bouton pour lancer la tâche principale ou l’étape suivante – *
 
 ## Un moment pour le haut de la page
 
-Nous avons d’abord utilisé le bouton de super tâche accessible à partir de la page d’accueil institutionnelle de l’Agence du revenu du Canada (ARC). À partir de là, la majorité des visiteurs cherchent comment et où ouvrir une session dans l’un de leurs comptes de l’ARC. Puisque c’est ce que la plupart des gens font, l’ARC facilite les choses en plaçant le bouton « Se connecter à un compte de l’ARC » au haut de la page.
+Nous avons d’abord utilisé le bouton de super tâche accessible à partir de la page d’accueil institutionnelle de l’Agence du revenu du Canada (ARC). À partir de là, la majorité des visiteurs cherchent comment et où ouvrir une session dans l’un de leurs comptes de l’ARC. Puisque c’est ce que la plupart des gens font, l’ARC facilite les choses en plaçant le bouton «&nbsp;Se connecter à un compte de l’ARC&nbsp;» au haut de la page.
 
 [Agence du revenu du Canada – page d’accueil institutionnelle](https://www.canada.ca/fr/agence-revenu.html) (image)
 
@@ -44,7 +44,7 @@ Au printemps 2020, alors que la page d’accueil du site portant sur la maladie 
 
 Il y a des circonstances où il est logique d’utiliser un bouton de super tâche, mais il est plus efficace de le positionner au bas qu’au haut de la page. 
 
-Par exemple, le site réservé à la Prestation canadienne de la relance économique (PCRE) comporte un bouton vert associé à la mention « Se connecter à mon dossier de l’ARC » situé en bas de la page « Comment faire une demande ». 
+Par exemple, le site réservé à la Prestation canadienne de la relance économique (PCRE) comporte un bouton vert associé à la mention «&nbsp;Se connecter à mon dossier de l’ARC&nbsp;» situé en bas de la page «&nbsp;Comment faire une demande&nbsp;». 
 
 [Prestation de rétablissement du Canada – Comment faire une demande](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-relance-economique/pcre-comment-demande.html)(image)
 
@@ -71,11 +71,11 @@ Nous parlerons davantage de la façon de présenter les promotions de manière e
 
 Nous avons établi que le bouton de super tâche fonctionne bien lorsque nous voulons qu’il soit extrêmement facile d’accéder à la tâche ou au processus que la plupart des gens qui accèdent à une page tentent d’accomplir.
 
-Une fois que les gens accèdent au processus, il est temps d’utiliser le bouton de tâche primaire. Ce bouton se démarque un peu moins que le bouton de super tâche, mais il prend toujours en charge la tâche principale sur la page. Ainsi, le bouton semble faire partie du processus et appuie une logique claire de la « prochaine étape » pour les utilisateurs. Utilisez ce bouton pour les actions que quelqu’un est susceptible d’exécuter sur la page, comme « soumettre » ou « suivant ».
+Une fois que les gens accèdent au processus, il est temps d’utiliser le bouton de tâche primaire. Ce bouton se démarque un peu moins que le bouton de super tâche, mais il prend toujours en charge la tâche principale sur la page. Ainsi, le bouton semble faire partie du processus et appuie une logique claire de la «&nbsp;prochaine étape&nbsp;» pour les utilisateurs. Utilisez ce bouton pour les actions que quelqu’un est susceptible d’exécuter sur la page, comme «&nbsp;soumettre&nbsp;» ou «&nbsp;suivant&nbsp;».
 
-Le bouton de tâche secondaire est utile pour d’autres étapes d’un processus, comme un bouton « précédent ». Utilisez-le pour les étapes qui constituent « le chemin le moins fréquenté ».
+Le bouton de tâche secondaire est utile pour d’autres étapes d’un processus, comme un bouton «&nbsp;précédent&nbsp;». Utilisez-le pour les étapes qui constituent «&nbsp;le chemin le moins fréquenté&nbsp;».
 
-Remarquez comment les boutons de tâche primaire et secondaire fonctionnent de concert dans cette invitation au sondage pour faire la distinction entre « Oui » comme action principale à prendre et « Non » comme option de rechange.
+Remarquez comment les boutons de tâche primaire et secondaire fonctionnent de concert dans cette invitation au sondage pour faire la distinction entre «&nbsp;Oui&nbsp;» comme action principale à prendre et «&nbsp;Non&nbsp;» comme option de rechange.
 
 ## Boutons danger et lien
 
@@ -83,7 +83,7 @@ Le système de conception de Canada.ca comprend également deux autres styles ou
 
 Le bouton danger consiste en une option lorsqu’une action peut avoir des conséquences imprévues. Laisser une application authentifiée et supprimer le contenu d’un formulaire constituent des exemples de cas d’utilisation adéquats. Utilisez ce bouton avec parcimonie.
 
-Enfin, la configuration de bouton lien offre une option pour une action rarement utilisée qui ne doit pas entrer en concurrence avec un bouton de tâche primaire ou secondaire. Le lancement de nouveau d’une application et la suppression des données dans un formulaire en sont de bons exemples. Vous ne voudriez pas que ces commandes entrent en concurrence avec le bouton « Soumettre », mais vous pourriez vouloir concevoir la commande sous la forme d’un bouton pour assurer l’uniformité.
+Enfin, la configuration de bouton lien offre une option pour une action rarement utilisée qui ne doit pas entrer en concurrence avec un bouton de tâche primaire ou secondaire. Le lancement de nouveau d’une application et la suppression des données dans un formulaire en sont de bons exemples. Vous ne voudriez pas que ces commandes entrent en concurrence avec le bouton «&nbsp;Soumettre&nbsp;», mais vous pourriez vouloir concevoir la commande sous la forme d’un bouton pour assurer l’uniformité.
 
 ## Mot de la fin
 
