@@ -2,7 +2,7 @@
 layout: post
 title:  "Choosing the right button for task success"
 pubdate: "December 15, 2020"
-langpage: "https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html"
+langpage: "https://blogue.canada.ca/2020/12/15/choisir-des-buttons.html"
 date:   2020-12-15
 published: true
 draft: true
