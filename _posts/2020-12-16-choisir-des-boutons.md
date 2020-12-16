@@ -110,19 +110,18 @@ Le système de conception de Canada.ca comprend également deux autres styles ou
 Le bouton danger consiste en une option lorsqu’une action peut avoir des conséquences imprévues. Laisser une application authentifiée et supprimer le contenu d’un formulaire constituent des exemples de cas d’utilisation adéquats. Utilisez ce bouton avec parcimonie.
 
 <br>
-<figure>
-<img class="img-responsive border" alt="Bouton de danger : rouge avec texte blanc"
-src="/images/bouton-danger.PNG" width="300">
-</figure>
-<br>
+<div class="pattern-demo mrgn-bttm-md">
+<button class="btn btn-danger">Effacer le formulaire</button>
+</div>
+<summary>Bouton de danger : rouge avec texte blanc</summary>
 
 Enfin, la configuration de bouton lien offre une option pour une action rarement utilisée qui ne doit pas entrer en concurrence avec un bouton de tâche primaire ou secondaire. Le lancement de nouveau d’une application et la suppression des données dans un formulaire en sont de bons exemples. Vous ne voudriez pas que ces commandes entrent en concurrence avec le bouton «&nbsp;Soumettre&nbsp;», mais vous pourriez vouloir concevoir la commande sous la forme d’un bouton pour assurer l’uniformité, ou pour fournir une zone cible légèrement plus grande que les liens ordinaires.
 
 <br>
-<figure>
-<img class="img-responsive border" alt="Bouton lien : sans couleur de fond"
-src="/images/bouton-lien.PNG" width="300">
-</figure>
+<div class="pattern-demo mrgn-bttm-md">
+<button class="btn btn-link">Redémarrer le calculateur</button>
+</div>
+<summary>Bouton lien : sans couleur de fond</summary>
 <br>
 
 ## Mot de la fin
@@ -132,7 +131,7 @@ La plupart du temps, vous n’avez pas besoin de boutons sur une page Web – de
 ## Pour en savoir davantage
 
 *	[Boutons – Configuration de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/boutons.html)
-*	[Caractéristiques propres au contexte – Configuration de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/boutons.html)
+*	[Promotions contextuelles - Configuration de conception de Canada.ca ](https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html)
 * [Agence du revenu du Canada – page d’accueil institutionnelle](https://www.canada.ca/fr/agence-revenu.html)
 * [Prestation de rétablissement du Canada – Comment faire une demande](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-relance-economique/pcre-comment-demande.html)
 
