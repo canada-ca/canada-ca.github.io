@@ -20,6 +20,8 @@ Consider using buttons when:
 
 Don’t use buttons when an ordinary text link will do the job just as well. Overuse reduces their visual impact.
 
+The buttons pattern in the Canada.ca design system includes 5 different styles of buttons. Using the right style in the right situation can help people succeed better on your web page. 
+
 [Buttons - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/buttons.html)
 
 ## The super task button
@@ -41,7 +43,7 @@ src="/images/green-button-1.PNG" width="700">
 </figure>
 <details>
 <summary>Canada Revenue Agency - Institutional landing page</summary>
-<p><a href="https://www.canada.ca/en/revenue-agency.html">Canada Revenue Agency - Institutional landing page</a></p>
+<p>Super task button appears directly below the main title of the page, ahead of other content.</p>
 </details>
 <br>
 
@@ -60,7 +62,7 @@ src="/images/apply-online-1.PNG" width="700">
 </figure>
 <details>
 <summary>Canada Recovery Benefit - How to apply</summary>
-<p><a href="https://www.canada.ca/en/revenue-agency.html">Canada Recovery Benefit - How to apply</a></p>
+<p>Super task button appears part way down the page, below the in the Apply online or by phone heading </a></p>
 </details>
 <br>
 
@@ -86,7 +88,7 @@ We’ve established that the super task button works well when we want to make i
 
 Once you get people into the process, it’s time to use the primary task button. This button stands out a little less than the super task button, but still supports the primary task on the page. That means it feels more like part of the process, and supports a clear “next step” logic for users. Use this button for actions someone is likely to take on the page, like “submit” or “next.”
 
-The secondary button is useful for alternate steps in a process - like a “previous” button. Use it for steps that represent “the road less travelled”.
+The secondary task button is useful for alternate steps in a process - like a “previous” button. Use it for steps that represent “the road less travelled”.
 
 Notice how the primary and secondary task buttons work together in this survey invitation to distinguish between “Yes” as the primary action to take, and “No” as the alternate option.
 
@@ -107,32 +109,31 @@ The Canada.ca design system includes 2 other button styles or patterns as well.
 
 The danger button is an option when an action may have unintended consequences. Leaving an authenticated application or deleting the contents of a form are examples of correct use cases. Use this button sparingly.
 
-<div class="pattern-demo mrgn-bttm-md">
-<button class="btn btn-danger">Erase form</button>
-</div>
-<details>
-  <summary>Code</summary>
-  <pre><code>&lt;button class="btn btn-danger"&gt;Erase form&lt;/button&gt;</code></pre>
- </details>
+<br>
+<figure>
+<img class="img-responsive border" alt="Danger button: red with white text"
+src="/images/improve-CA.PNG" width="700">
+</figure>
 
-Finally, the link button pattern offers an option for a rarely used action that must not compete with a primary or secondary task button. Restarting an application or clearing a form are good examples. You wouldn’t want those controls to compete with the “Submit” button, but you might want to style the control as a button for consistency.
+Finally, the link button pattern offers an option for a rarely used action that must not compete with a primary or secondary task button. Restarting an application or clearing a form are good examples. You wouldn’t want those controls to compete with the “Submit” button, but you might want to style the control as a button for consistency, or to provide a slightly larger target area than rectangular links.
 
-<div class="pattern-demo mrgn-bttm-md">
-  <button class="btn btn-link">Restart calculator</button>
-</div>
-<details>
-<summary>Code</summary>
-<pre><code>&lt;button class="btn btn-link"&gt;Restart calculator&lt;/button&gt;</code></pre>
-</details>
+<br>
+<figure>
+<img class="img-responsive border" alt="Link button: no coloured background"
+src="/images/improve-CA.PNG" width="700">
+</figure>
 
 ## Final word
 
-Most of the time, you don't need buttons on a web page - simple text links are often sufficient. When you do use a button, take care to limit their use. In a situation where you need to use multiple buttons on a single page, creating a hierarchy avoids having the buttons compete with each other. The more common or important the action, the more its button should stand out. Choosing the right button style lets you signal the relative importance of one action to the other. It helps you create a logical flow through your process or content.  
+Most of the time, you don't need buttons on a web page - simple text links are often sufficient. When you do use a button, take care to limit their use. In a situation where you need to use multiple buttons on a single page, avoid having the buttons compete with each other. The more common or important the action, the more its button should stand out. Choosing the right button style lets you signal the relative importance of one action to the other. It helps you create a logical flow through your process or content.  
 
 ## Learn more
 
 * [Buttons - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/buttons.html)
 * [Context-specific features - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/feature-tiles.html)
+* [Canada Revenue Agency - Institutional landing page](https://www.canada.ca/en/revenue-agency.html)
+* [Canada Recovery Benefit - How to apply](https://www.canada.ca/en/revenue-agency.html)
+
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
