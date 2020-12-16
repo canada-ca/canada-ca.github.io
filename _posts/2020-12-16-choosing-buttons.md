@@ -112,7 +112,7 @@ The danger button is an option when an action may have unintended consequences. 
 <br>
 <figure>
 <img class="img-responsive border" alt="Danger button: red with white text"
-src="/images/improve-CA.PNG" width="700">
+src="/images/danger-button.PNG" width="500">
 </figure>
 
 Finally, the link button pattern offers an option for a rarely used action that must not compete with a primary or secondary task button. Restarting an application or clearing a form are good examples. You wouldn’t want those controls to compete with the “Submit” button, but you might want to style the control as a button for consistency, or to provide a slightly larger target area than rectangular links.
@@ -120,7 +120,7 @@ Finally, the link button pattern offers an option for a rarely used action that 
 <br>
 <figure>
 <img class="img-responsive border" alt="Link button: no coloured background"
-src="/images/improve-CA.PNG" width="700">
+src="/images/link-button.PNG" width="500">
 </figure>
 
 ## Final word
