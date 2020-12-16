@@ -34,7 +34,7 @@ Utilisez ce bouton pour lancer la tâche principale ou l’étape suivante – *
 
 ## Un moment pour le haut de la page
 
-Nous avons d’abord utilisé le bouton de super tâche accessible à partir de la page d’accueil institutionnelle de l’Agence du revenu du Canada (ARC). À partir de là, la majorité des visiteurs cherchent comment et où ouvrir une session dans l’un de leurs comptes de l’ARC. Puisque c’est ce que la plupart des gens font, l’ARC facilite les choses en plaçant le bouton «&nbsp;Se connecter à un compte de l’ARC&nbsp;» au haut de la page.
+Nous avons d’abord utilisé le bouton de super tâche à partir de la page d’accueil institutionnelle de l’Agence du revenu du Canada (ARC). À partir de là, la majorité des visiteurs cherchent comment et où ouvrir une session dans l’un de leurs comptes de l’ARC. Puisque c’est ce que la plupart des gens font, l’ARC facilite les choses en plaçant le bouton «&nbsp;Se connecter à un compte de l’ARC&nbsp;» au haut de la page.
 
 <br>
 <figure>
@@ -43,17 +43,17 @@ src="/images/bouton-2.PNG" width="700">
 </figure>
 <details>
 <summary>Agence du revenu du Canada – page d’accueil institutionnelle</summary>
-<p>Le bouton "Super tâche" apparaît directement sous le titre principal de la page, avant les autres contenus.</p>
+<p>Le bouton de super tâche apparaît directement sous le titre principal de la page, avant les autres contenus.</p>
 </details>
 <br>
 
-Au printemps 2020, alors que la page d'accueil du Coronavirus recevait un trafic extrêmement important, l'anxiété à propos du virus était grande. Les centres d'appels étaient submergés de personnes qui voulaient vérifier leurs symptômes pour savoir si elles étaient atteintes du COVID-19. Pour les aider, nous avons travaillé avec Santé Canada pour ajouter un bouton de super tâche en haut de la page. Cela a donné naissance au nouvel outil de vérification des symptômes. Encore une fois, cela a bien fonctionné car il a fourni une réponse à une tâche clé pour laquelle les visiteurs venaient sur la page à ce moment-là. Santé Canada a répété cette approche récemment lorsqu'il est devenu obligatoire pour les voyageurs d'utiliser l'application ArriveCan pour entrer dans le pays. Le bouton "super tâche" situé en haut de la page a permis de soutenir les utilisateurs et de les rediriger vers le contenu du site web plutôt que vers les centres d'appels. 
+Au printemps 2020, alors que la page d'accueil du Coronavirus recevait un trafic extrêmement important, l'anxiété à propos du virus était grande. Les centres d'appels étaient submergés de personnes qui voulaient vérifier leurs symptômes pour savoir si elles étaient atteintes du COVID-19. Pour les aider, nous avons travaillé avec Santé Canada pour ajouter un bouton de super tâche en haut de la page. Le bouton donnait accès au nouvel outil de vérification des symptômes. Encore une fois, cela a bien fonctionné car il a fourni une réponse à une tâche clé pour laquelle les visiteurs venaient sur la page à ce moment-là. Santé Canada a répété cette approche récemment lorsqu'il est devenu obligatoire pour les voyageurs d'utiliser l'application ArriveCan pour entrer dans le pays. Le bouton de super tâche situé en haut de la page a permis de soutenir les utilisateurs et de les rediriger vers le contenu du site web plutôt que vers les centres d'appels. 
 
 ## Un moment pour le milieu de la page
 
-Il y a des circonstances où il est logique d’utiliser un bouton de super tâche, mais il est plus efficace de le positionner au bas qu’au haut de la page. 
+Il y a des circonstances où il est logique d’utiliser un bouton de super tâche, mais le placer plus bas dans la page est plus efficace que de l'avoir en haut. 
 
-Par exemple, le site réservé à la Prestation canadienne de la relance économique (PCRE) comporte un bouton vert associé à la mention «&nbsp;Se connecter à mon dossier de l’ARC&nbsp;» situé en bas de la page «&nbsp;Comment faire une demande&nbsp;». 
+Par exemple, le site réservé à la Prestation canadienne de la relance économique (PCRE) comporte un bouton vert associé à la mention «&nbsp;Se connecter à mon dossier de l’ARC&nbsp;» situé plus bas dans la page «&nbsp;Comment faire une demande&nbsp;». 
 
 <br>
 <figure>
@@ -62,11 +62,11 @@ src="/images/ARC-2.PNG" width="700">
 </figure>
 <details>
 <summary>Prestation de rétablissement du Canada – Comment faire une demande</summary>
-<p>Le bouton "Super tâche" apparaît au bas de la page, sous la rubrique "Postuler en ligne ou par téléphone </p>
+<p>Le bouton de super tâche apparaît sous l’en-tête «&nbsp;Postuler en ligne ou par téléphone&nbsp;» </p>
 </details>
 <br>
 
-Dans ce cas, le bouton apparaît au bas de la page. À ce moment-là, les utilisateurs disposent de tout ce dont ils ont besoin pour être prêts à faire une demande. Pour la grande majorité des gens qui accèdent à la page, la raison pour laquelle ils le font consiste à cliquer sur ce bouton. Cependant, comme ils doivent savoir certaines choses avant de commencer, le bouton est là où il doit être pour assurer la réussite de la tâche.
+Dans ce cas, le bouton apparaît plus bas dans la page. À ce moment-là, les utilisateurs disposent de tout ce dont ils ont besoin pour être prêts à faire une demande. Pour la grande majorité des gens qui accèdent à la page, la raison pour laquelle ils le font consiste à cliquer sur ce bouton. Cependant, comme ils doivent savoir certaines choses avant de commencer, le bouton est là où il doit être pour assurer la réussite de la tâche.
 
 ## Éviter d’utiliser le bouton de super tâche pour la promotion
 
@@ -74,11 +74,11 @@ Que se passe-t-il lorsque vous utilisez le bouton de super tâche pour promouvoi
 
 Faire en sorte que les gens téléchargent l'application COVIDAlert a été une priorité essentielle pour le gouvernement du Canada, alors que les cas de COVID-19 augmentent et que la recherche des contacts devient plus difficile. Ce bouton vert était une manière tentante d'essayer d'attirer l'attention des gens. 
 
-* Lorsque le bouton de super tâche était placé sur des pages où il ne supportait pas directement le contenu de la page, le bouton n'était pas efficace. 
+Lorsque le bouton de super tâche était placé sur des pages où il n'était pas directement lié au contenu de la page, le bouton n'était pas efficace. 
 
 Ces résultats moins concluants étaient dus au fait que les gens n’étaient pas venus sur ces pages pour télécharger l’application. Ils ont vu alors le bouton davantage comme une publicité qui faisait obstacle à ce qu’ils cherchaient. Le résultat? Ils n’en ont pas tenu compte.
 
-Ainsi, non seulement l’ajout du bouton sur ces pages n’a pas donné les résultats escomptés, mais les gens ont vu en ce dernier un élément irritant plutôt que quelque chose d’utile. Un contenu Web efficace respecte les conventions du support. Autrement dit, plus le contenu Web est prévisible, plus il est facile à utiliser. Les promotions devraient ressembler à des promotions, et pas à des boutons. Ils ne devraient pas nuire à la tâche première pour laquelle la page est destinée. Les boutons devraient plutôt apparaître à la fin d’une tâche, comme une mesure de courtoisie, une option ou quelque chose destiné à enrichir l’expérience.
+Ainsi, non seulement l’ajout du bouton sur ces pages n’a pas donné les résultats escomptés, mais les gens ont vu en ce dernier un élément irritant plutôt que quelque chose d’utile. Un contenu Web efficace respecte les conventions du Web. Autrement dit, plus le contenu Web est prévisible, plus il est facile à utiliser. Les promotions devraient ressembler à des promotions, et pas à des boutons. Ils ne devraient pas nuire à la tâche première pour laquelle la page est destinée. Les promotions devraient plutôt apparaître à la fin d’une tâche, comme une mesure de courtoisie, une option ou quelque chose destiné à enrichir l’expérience.
 
 Nous parlerons davantage de la façon de présenter les promotions de manière efficace dans un prochain billet de blogue.
 
@@ -99,7 +99,7 @@ src="/images/pouvez-vous.PNG" width="700">
 </figure>
 <details>
 <summary>Exemple de boutons de tâches primaires et secondaires</summary>
-<p>Exemple de boutons de tâches primaires et secondaires fonctionnant ensemble.</p>
+<p>Une invitation à participer à un sondage sur Canada.ca utilise le style de la tâche principale pour l'option "Oui, après ma visite", et le style de la tâche secondaire pour l'option "Non, merci".</p>
 </details>
 <br>
 
@@ -116,18 +116,18 @@ src="/images/bouton-danger.PNG" width="300">
 </figure>
 <br>
 
-Enfin, la configuration de bouton lien offre une option pour une action rarement utilisée qui ne doit pas entrer en concurrence avec un bouton de tâche primaire ou secondaire. Le lancement de nouveau d’une application et la suppression des données dans un formulaire en sont de bons exemples. Vous ne voudriez pas que ces commandes entrent en concurrence avec le bouton «&nbsp;Soumettre&nbsp;», mais vous pourriez vouloir concevoir la commande sous la forme d’un bouton pour assurer l’uniformité.
+Enfin, la configuration de bouton lien offre une option pour une action rarement utilisée qui ne doit pas entrer en concurrence avec un bouton de tâche primaire ou secondaire. Le lancement de nouveau d’une application et la suppression des données dans un formulaire en sont de bons exemples. Vous ne voudriez pas que ces commandes entrent en concurrence avec le bouton «&nbsp;Soumettre&nbsp;», mais vous pourriez vouloir concevoir la commande sous la forme d’un bouton pour assurer l’uniformité, ou pour fournir une zone cible légèrement plus grande que les liens ordinaires.
 
 <br>
 <figure>
-<img class="img-responsive border" alt="Bouton de lien : pas de fond coloré"
+<img class="img-responsive border" alt="Bouton lien : sans couleur de fond"
 src="/images/bouton-lien.PNG" width="300">
 </figure>
 <br>
 
 ## Mot de la fin
 
-La plupart du temps, vous n’avez pas besoin de boutons sur une page Web – des liens texte simples suffisent souvent. Lorsque vous utilisez un bouton, veillez à en limiter l’utilisation. Dans une situation où vous devez utiliser plusieurs boutons sur une seule page, la création d’une hiérarchie évite que les boutons se fassent concurrence. Plus l’action est commune ou importante, plus le bouton y étant associé doit se démarquer. Choisir le bon style de bouton vous permet de signaler l’importance relative d’une action par rapport à une autre. Il vous aide à créer un enchaînement logique dans votre processus ou votre contenu.
+La plupart du temps, vous n’avez pas besoin de boutons sur une page Web – des liens texte simples suffisent souvent. Lorsque vous utilisez un bouton, veillez à en limiter l’utilisation. Dans une situation où vous devez utiliser plusieurs boutons sur une seule page, utilisez différents styles pour créer une hiérarchie. Cela permet d'éviter que les boutons se fassent concurrence. Plus l’action est commune ou importante, plus le bouton y étant associé doit se démarquer. Choisir le bon style de bouton vous permet de signaler l’importance relative d’une action par rapport à une autre. Il vous aide à créer un enchaînement logique dans votre processus ou votre contenu.
 
 ## Pour en savoir davantage
 
