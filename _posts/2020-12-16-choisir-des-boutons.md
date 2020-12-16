@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Choisir le bon bouton pour la réussite des tâches"
-pubdate: "15 décembre 2020"
-langpage: "https://blog.canada.ca/2020/12/15/choosing-buttons.html"
-date:   2020-12-15
+pubdate: "16 décembre 2020"
+langpage: "https://blog.canada.ca/2020/12/16/choosing-buttons.html"
+date:   2020-12-16
 published: true
 draft: true
 lang: fr
