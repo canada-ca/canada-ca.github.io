@@ -95,7 +95,7 @@ Remarquez comment les boutons de tâche primaire et secondaire fonctionnent de c
 <br>
 <figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/improve-CA.PNG" width="700">
+src="/images/pouvez-vous.PNG" width="700">
 </figure>
 <details>
 <summary>Exemple de boutons de tâches primaires et secondaires</summary>
