@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "Choosing the right button for task success"
-description: "In the last couple of years, the Digital Transformation Office(DTO) has been studying the use of interactive checklists to simplify the way we present eligibility criteria. "
+description: "The super task button is a large-ish, attractive green button and it really gets your attention!...How using the right button style in the right situation can help people succeed better on your web page."
 ---
 Buttons are a design element that let you add interaction to a page. 
 
