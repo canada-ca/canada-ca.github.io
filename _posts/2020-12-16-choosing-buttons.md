@@ -45,8 +45,6 @@ src="/images/green-button-1.PNG" width="700">
 </details>
 <br>
 
-Canada Revenue Agency - Institutional landing page (image)
-
 In the spring of 2020, when the Coronavirus landing page was receiving extremely heavy traffic, anxiety about the virus was high. Call centres were swamped with people wanting to check their symptoms to see if they had COVID-19. To support them, we worked with Health Canada to add a super task button at the top of the page. It led to the newly developed symptoms checker. Again, this worked well because it provided an answer for a key task visitors were coming to the page for at that time. Health Canada repeated this approach recently when it became mandatory for travellers to use the ArriveCan app to enter the country. The super task button at the top of the page supported users and redirected them to web content instead of call centres.
 
 ## A time for the middle of the page
@@ -61,12 +59,10 @@ For example, the Canada Recovery Benefit uses a green “Sign in to your CRA my 
 src="/images/apply-online-1.PNG" width="700">
 </figure>
 <details>
-<summary>Example of primary and secondary task buttons</summary>
-<p>Example of primary and secondary task buttons working together. </p>
+<summary>Canada Recovery Benefit - How to apply</summary>
+  <p><a href="https://www.canada.ca/en/revenue-agency.html">Canada Recovery Benefit - How to apply</a></p>
 </details>
 <br>
-
-Canada Recovery Benefit - How to apply (image)
 
 In this case, the button appears part way down the page. At that point, users have everything they need to be ready to launch into the process of applying. For the vast majority of people on the page, clicking that button is the reason they’re there. However, since there are a few things they need to know before they begin, the button is where it needs to be to ensure task success.
 
