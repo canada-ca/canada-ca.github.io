@@ -60,7 +60,7 @@ src="/images/apply-online-1.PNG" width="700">
 </figure>
 <details>
 <summary>Canada Recovery Benefit - How to apply</summary>
-  <p><a href="https://www.canada.ca/en/revenue-agency.html">Canada Recovery Benefit - How to apply</a></p>
+<p><a href="https://www.canada.ca/en/revenue-agency.html">Canada Recovery Benefit - How to apply</a></p>
 </details>
 <br>
 
