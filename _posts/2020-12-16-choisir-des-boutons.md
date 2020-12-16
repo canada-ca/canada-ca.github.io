@@ -58,7 +58,7 @@ Par exemple, le site réservé à la Prestation canadienne de la relance économ
 <br>
 <figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/apply-online-1.PNG" width="700">
+src="/images/ARC-2.PNG" width="700">
 </figure>
 <details>
 <summary>Prestation de rétablissement du Canada – Comment faire une demande</summary>
@@ -98,8 +98,8 @@ Remarquez comment les boutons de tâche primaire et secondaire fonctionnent de c
 src="/images/improve-CA.PNG" width="700">
 </figure>
 <details>
-<summary>Example of primary and secondary task buttons</summary>
-<p>Example of primary and secondary task buttons working together. </p>
+<summary>Exemple de boutons de tâches primaires et secondaires</summary>
+<p>Exemple de boutons de tâches primaires et secondaires fonctionnant ensemble.</p>
 </details>
 <br>
 
