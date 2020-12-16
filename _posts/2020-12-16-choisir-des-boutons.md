@@ -36,7 +36,16 @@ Utilisez ce bouton pour lancer la tâche principale ou l’étape suivante – *
 
 Nous avons d’abord utilisé le bouton de super tâche accessible à partir de la page d’accueil institutionnelle de l’Agence du revenu du Canada (ARC). À partir de là, la majorité des visiteurs cherchent comment et où ouvrir une session dans l’un de leurs comptes de l’ARC. Puisque c’est ce que la plupart des gens font, l’ARC facilite les choses en plaçant le bouton «&nbsp;Se connecter à un compte de l’ARC&nbsp;» au haut de la page.
 
-[Agence du revenu du Canada – page d’accueil institutionnelle](https://www.canada.ca/fr/agence-revenu.html) (image)
+<br>
+<figure>
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
+src="/images/green-button-1.PNG" width="700">
+</figure>
+<details>
+<summary>Agence du revenu du Canada – page d’accueil institutionnelle</summary>
+<p><a href="https://www.canada.ca/fr/agence-revenu.html">Agence du revenu du Canada – page d’accueil institutionnelle</a></p>
+</details>
+<br>
 
 Au printemps 2020, alors que la page d'accueil du Coronavirus recevait un trafic extrêmement important, l'anxiété à propos du virus était grande. Les centres d'appels étaient submergés de personnes qui voulaient vérifier leurs symptômes pour savoir si elles étaient atteintes du COVID-19. Pour les aider, nous avons travaillé avec Santé Canada pour ajouter un bouton de super tâche en haut de la page. Cela a donné naissance au nouvel outil de vérification des symptômes. Encore une fois, cela a bien fonctionné car il a fourni une réponse à une tâche clé pour laquelle les visiteurs venaient sur la page à ce moment-là. Santé Canada a répété cette approche récemment lorsqu'il est devenu obligatoire pour les voyageurs d'utiliser l'application ArriveCan pour entrer dans le pays. Le bouton "super tâche" situé en haut de la page a permis de soutenir les utilisateurs et de les rediriger vers le contenu du site web plutôt que vers les centres d'appels. 
 
@@ -46,7 +55,16 @@ Il y a des circonstances où il est logique d’utiliser un bouton de super tâc
 
 Par exemple, le site réservé à la Prestation canadienne de la relance économique (PCRE) comporte un bouton vert associé à la mention «&nbsp;Se connecter à mon dossier de l’ARC&nbsp;» situé en bas de la page «&nbsp;Comment faire une demande&nbsp;». 
 
-[Prestation de rétablissement du Canada – Comment faire une demande](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-relance-economique/pcre-comment-demande.html)(image)
+<br>
+<figure>
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
+src="/images/apply-online-1.PNG" width="700">
+</figure>
+<details>
+<summary>Prestation de rétablissement du Canada – Comment faire une demande</summary>
+<p><a href="https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-relance-economique/pcre-comment-demande.html">Prestation de rétablissement du Canada – Comment faire une demande</a></p>
+</details>
+<br>
 
 Dans ce cas, le bouton apparaît au bas de la page. À ce moment-là, les utilisateurs disposent de tout ce dont ils ont besoin pour être prêts à faire une demande. Pour la grande majorité des gens qui accèdent à la page, la raison pour laquelle ils le font consiste à cliquer sur ce bouton. Cependant, comme ils doivent savoir certaines choses avant de commencer, le bouton est là où il doit être pour assurer la réussite de la tâche.
 
@@ -73,6 +91,17 @@ Une fois que les gens accèdent au processus, il est temps d’utiliser le bouto
 Le bouton de tâche secondaire est utile pour d’autres étapes d’un processus, comme un bouton «&nbsp;précédent&nbsp;». Utilisez-le pour les étapes qui constituent «&nbsp;le chemin le moins fréquenté&nbsp;».
 
 Remarquez comment les boutons de tâche primaire et secondaire fonctionnent de concert dans cette invitation au sondage pour faire la distinction entre «&nbsp;Oui&nbsp;» comme action principale à prendre et «&nbsp;Non&nbsp;» comme option de rechange.
+
+<br>
+<figure>
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
+src="/images/improve-CA.PNG" width="700">
+</figure>
+<details>
+<summary>Example of primary and secondary task buttons</summary>
+<p>Example of primary and secondary task buttons working together. </p>
+</details>
+<br>
 
 ## Boutons danger et lien
 
