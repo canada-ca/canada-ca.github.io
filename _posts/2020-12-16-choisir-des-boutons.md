@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "Choisir le bon bouton pour la réussite des tâches"
-description: "Au cours des dernières années, le Bureau de la transformation numérique a étudié l’utilisation de listes de vérification interactives pour simplifier la façon dont nous présentons les critères d’admissibilité."
+description: "Le super bouton de tâche est un bouton vert attrayant relativement gros, et il attire vraiment votre attention! La façon d’utiliser le bon style de bouton dans la bonne situation peut aider les gens à mieux réussir sur votre page Web."
 ---
 Les boutons consistent en un élément de conception qui vous permet d’ajouter une interaction à une page. 
 
@@ -43,7 +43,7 @@ src="/images/bouton-2.PNG" width="700">
 </figure>
 <details>
 <summary>Agence du revenu du Canada – page d’accueil institutionnelle</summary>
-<p><a href="https://www.canada.ca/fr/agence-revenu.html">Agence du revenu du Canada – page d’accueil institutionnelle</a></p>
+<p>Le bouton "Super tâche" apparaît directement sous le titre principal de la page, avant les autres contenus.</p>
 </details>
 <br>
 
@@ -62,7 +62,7 @@ src="/images/ARC-2.PNG" width="700">
 </figure>
 <details>
 <summary>Prestation de rétablissement du Canada – Comment faire une demande</summary>
-<p><a href="https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-relance-economique/pcre-comment-demande.html">Prestation de rétablissement du Canada – Comment faire une demande</a></p>
+<p>Le bouton "Super tâche" apparaît au bas de la page, sous la rubrique "Postuler en ligne ou par téléphone </p>
 </details>
 <br>
 
@@ -109,23 +109,21 @@ Le système de conception de Canada.ca comprend également deux autres styles ou
 
 Le bouton danger consiste en une option lorsqu’une action peut avoir des conséquences imprévues. Laisser une application authentifiée et supprimer le contenu d’un formulaire constituent des exemples de cas d’utilisation adéquats. Utilisez ce bouton avec parcimonie.
 
-<div class="pattern-demo mrgn-bttm-md">
-<button class="btn btn-danger">Effacer le formulaire</button>
-</div>
-<details>
-<summary>Code</summary>
-<pre><code>&lt;button class="btn btn-danger"&gt;Effacer le formulaire&lt;/button&gt;</code></pre>
-</details>
+<br>
+<figure>
+<img class="img-responsive border" alt="Bouton de danger : rouge avec texte blanc"
+src="/images/danger-button.PNG" width="300">
+</figure>
+<br>
 
 Enfin, la configuration de bouton lien offre une option pour une action rarement utilisée qui ne doit pas entrer en concurrence avec un bouton de tâche primaire ou secondaire. Le lancement de nouveau d’une application et la suppression des données dans un formulaire en sont de bons exemples. Vous ne voudriez pas que ces commandes entrent en concurrence avec le bouton «&nbsp;Soumettre&nbsp;», mais vous pourriez vouloir concevoir la commande sous la forme d’un bouton pour assurer l’uniformité.
 
-<div class="pattern-demo mrgn-bttm-md">
-<button class="btn btn-link">Redémarrer le calculateur</button>
-</div>
- <details>
-<summary>Code</summary>
-<pre><code>&lt;button class="btn btn-link"&gt;Redémarrer le calculateur&lt;/button&gt;</code></pre>
-</details>
+<br>
+<figure>
+<img class="img-responsive border" alt="Bouton de lien : pas de fond coloré"
+src="/images/link-button.PNG" width="300">
+</figure>
+<br>
 
 ## Mot de la fin
 
@@ -135,6 +133,8 @@ La plupart du temps, vous n’avez pas besoin de boutons sur une page Web – de
 
 *	[Boutons – Configuration de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/boutons.html)
 *	[Caractéristiques propres au contexte – Configuration de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/boutons.html)
+* [Agence du revenu du Canada – page d’accueil institutionnelle](https://www.canada.ca/fr/agence-revenu.html)
+* [Prestation de rétablissement du Canada – Comment faire une demande](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-relance-economique/pcre-comment-demande.html)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 
