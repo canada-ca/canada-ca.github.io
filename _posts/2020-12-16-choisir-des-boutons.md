@@ -39,7 +39,7 @@ Nous avons d’abord utilisé le bouton de super tâche accessible à partir de 
 <br>
 <figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/green-button-1.PNG" width="700">
+src="/images/bouton-2.PNG" width="700">
 </figure>
 <details>
 <summary>Agence du revenu du Canada – page d’accueil institutionnelle</summary>
