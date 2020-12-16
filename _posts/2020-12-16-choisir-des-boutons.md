@@ -112,7 +112,7 @@ Le bouton danger consiste en une option lorsqu’une action peut avoir des cons�
 <br>
 <figure>
 <img class="img-responsive border" alt="Bouton de danger : rouge avec texte blanc"
-src="/images/danger-button.PNG" width="300">
+src="/images/bouton-danger.PNG" width="300">
 </figure>
 <br>
 
@@ -121,7 +121,7 @@ Enfin, la configuration de bouton lien offre une option pour une action rarement
 <br>
 <figure>
 <img class="img-responsive border" alt="Bouton de lien : pas de fond coloré"
-src="/images/link-button.PNG" width="300">
+src="/images/bouton-lien.PNG" width="300">
 </figure>
 <br>
 
