@@ -109,6 +109,10 @@ The Canada.ca design system includes 2 other button styles or patterns as well.
 
 The danger button is an option when an action may have unintended consequences. Leaving an authenticated application or deleting the contents of a form are examples of correct use cases. Use this button sparingly.
 
+<div class="pattern-demo mrgn-bttm-md">
+<button class="btn btn-danger">Erase form</button>
+</div>
+
 <br>
 <figure>
 <img class="img-responsive border" alt="Danger button: red with white text"
@@ -117,6 +121,10 @@ src="/images/danger-button.PNG" width="300">
 <br>
 
 Finally, the link button pattern offers an option for a rarely used action that must not compete with a primary or secondary task button. Restarting an application or clearing a form are good examples. You wouldn’t want those controls to compete with the “Submit” button, but you might want to style the control as a button for consistency, or to provide a slightly larger target area than rectangular links.
+
+<div class="pattern-demo mrgn-bttm-md">
+<button class="btn btn-link">Restart calculator</button>
+</div>
 
 <br>
 <figure>
