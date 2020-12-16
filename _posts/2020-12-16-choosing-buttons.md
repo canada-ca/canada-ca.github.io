@@ -41,7 +41,7 @@ src="/images/green-button-1.PNG" width="700">
 </figure>
 <details>
 <summary>Canada Revenue Agency - Institutional landing page</summary>
-<p>[Canada Revenue Agency - Institutional landing page](https://www.canada.ca/en/revenue-agency.html)</p>
+<p><a href="https://www.canada.ca/en/revenue-agency.html">Canada Revenue Agency - Institutional landing page</a></p>
 </details>
 <br>
 
