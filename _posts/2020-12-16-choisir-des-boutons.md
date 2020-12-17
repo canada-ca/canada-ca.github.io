@@ -10,7 +10,7 @@ lang: fr
 alt: "Choisir le bon bouton pour la réussite des tâches"
 description: "Le super bouton de tâche est un bouton vert attrayant relativement gros, et il attire vraiment votre attention! La façon d’utiliser le bon style de bouton dans la bonne situation peut aider les gens à mieux réussir sur votre page Web."
 ---
-Les boutons consistent en un élément de conception qui vous permet d’ajouter une interaction à une page. 
+Les boutons consistent en un élément de conception qui vous permet d’ajouter une interaction à une page.
 
 Pensez à utiliser des boutons dans les cas suivants :
 
@@ -20,13 +20,13 @@ Pensez à utiliser des boutons dans les cas suivants :
 
 N’utilisez pas de boutons lorsqu’un lien de texte ordinaire fera tout autant l’affaire. La surutilisation de ces derniers réduit leur efficacité visuelle.
 
-La configuration des boutons dans le système de conception de Canada.ca comprend cinq styles de boutons différents. Utiliser le bon style dans la bonne situation peut aider les gens à mieux naviguer sur votre page Web. 
+La configuration des boutons dans le système de conception de Canada.ca comprend cinq styles de boutons différents. Utiliser le bon style dans la bonne situation peut aider les gens à mieux naviguer sur votre page Web.
 
 [Boutons – Configuration de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/boutons.html)
 
 ## Le bouton de super tâche
 
-Parmi les options de boutons dans le système de conception se trouve le bouton de super tâche. Il s’agit d’un gros bouton vert attrayant qui attire vraiment votre attention! Ce bouton peut être puissant... mais «&nbsp;avec de grands pouvoirs viennent de grandes responsabilités&nbsp;». 
+Parmi les options de boutons dans le système de conception se trouve le bouton de super tâche. Il s’agit d’un gros bouton vert attrayant qui attire vraiment votre attention! Ce bouton peut être puissant... mais «&nbsp;un grand pouvoir implique de grandes responsabilités&nbsp;». 
 
 Alors, comment doit-on utiliser ce bouton adéquatement?
 
@@ -47,13 +47,13 @@ src="/images/bouton-2.PNG" width="700">
 </details>
 <br>
 
-Au printemps 2020, alors que la page d'accueil du Coronavirus recevait un trafic extrêmement important, l'anxiété à propos du virus était grande. Les centres d'appels étaient submergés de personnes qui voulaient vérifier leurs symptômes pour savoir si elles étaient atteintes du COVID-19. Pour les aider, nous avons travaillé avec Santé Canada pour ajouter un bouton de super tâche en haut de la page. Le bouton donnait accès au nouvel outil de vérification des symptômes. Encore une fois, cela a bien fonctionné car il a fourni une réponse à une tâche clé pour laquelle les visiteurs venaient sur la page à ce moment-là. Santé Canada a répété cette approche récemment lorsqu'il est devenu obligatoire pour les voyageurs d'utiliser l'application ArriveCan pour entrer dans le pays. Le bouton de super tâche situé en haut de la page a permis de soutenir les utilisateurs et de les rediriger vers le contenu du site web plutôt que vers les centres d'appels. 
+Au printemps 2020, alors que la page d'accueil du Coronavirus recevait un trafic extrêmement important, l'anxiété à propos du virus était grande. Les centres d'appels étaient submergés de personnes qui voulaient vérifier leurs symptômes pour savoir si elles étaient atteintes du COVID-19. Pour les aider, nous avons travaillé avec Santé Canada pour ajouter un bouton de super tâche en haut de la page. Le bouton donnait accès au nouvel outil de vérification des symptômes. Encore une fois, cela a bien fonctionné car il a fourni une réponse à une tâche clé pour laquelle les visiteurs venaient sur la page à ce moment-là. Santé Canada a répété cette approche récemment lorsqu'il est devenu obligatoire pour les voyageurs d'utiliser l'application ArriveCan pour entrer dans le pays. Le bouton de super tâche situé en haut de la page a permis de soutenir les utilisateurs et de les rediriger vers le contenu du site web plutôt que vers les centres d'appels.
 
 ## Un moment pour le milieu de la page
 
-Il y a des circonstances où il est logique d’utiliser un bouton de super tâche, mais le placer plus bas dans la page est plus efficace que de l'avoir en haut. 
+Il y a des circonstances où il est logique d’utiliser un bouton de super tâche, mais le placer plus bas dans la page est plus efficace que de l'avoir en haut.
 
-Par exemple, le site réservé à la Prestation canadienne de la relance économique (PCRE) comporte un bouton vert associé à la mention «&nbsp;Se connecter à mon dossier de l’ARC&nbsp;» situé plus bas dans la page «&nbsp;Comment faire une demande&nbsp;». 
+Par exemple, le site réservé à la Prestation canadienne de la relance économique (PCRE) comporte un bouton vert associé à la mention «&nbsp;Se connecter à mon dossier de l’ARC&nbsp;» situé plus bas dans la page «&nbsp;Comment faire une demande&nbsp;».
 
 <br>
 <figure>
@@ -72,9 +72,9 @@ Dans ce cas, le bouton apparaît plus bas dans la page. À ce moment-là, les ut
 
 Que se passe-t-il lorsque vous utilisez le bouton de super tâche pour promouvoir quelque chose qui n’est pas la tâche principale que les gens recherchent sur cette page?
 
-Faire en sorte que les gens téléchargent l'application COVIDAlert a été une priorité essentielle pour le gouvernement du Canada, alors que les cas de COVID-19 augmentent et que la recherche des contacts devient plus difficile. Ce bouton vert était une manière tentante d'essayer d'attirer l'attention des gens. 
+Faire en sorte que les gens téléchargent l'application COVIDAlert a été une priorité essentielle pour le gouvernement du Canada, alors que les cas de COVID-19 augmentent et que la recherche des contacts devient plus difficile. Ce bouton vert était une manière tentante d'essayer d'attirer l'attention des gens.
 
-Lorsque le bouton de super tâche était placé sur des pages où il n'était pas directement lié au contenu de la page, le bouton n'était pas efficace. 
+Lorsque le bouton de super tâche était placé sur des pages où il n'était pas directement lié au contenu de la page, le bouton n'était pas efficace.
 
 Ces résultats moins concluants étaient dus au fait que les gens n’étaient pas venus sur ces pages pour télécharger l’application. Ils ont vu alors le bouton davantage comme une publicité qui faisait obstacle à ce qu’ils cherchaient. Le résultat? Ils n’en ont pas tenu compte.
 
@@ -135,7 +135,7 @@ La plupart du temps, vous n’avez pas besoin de boutons sur une page Web – de
 * [Agence du revenu du Canada – page d’accueil institutionnelle](https://www.canada.ca/fr/agence-revenu.html)
 * [Prestation de rétablissement du Canada – Comment faire une demande](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-relance-economique/pcre-comment-demande.html)
 
-## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
+## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor
 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter :  #Canadapointca (français) / #Canadadotca (anglais)

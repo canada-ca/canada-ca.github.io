@@ -10,7 +10,7 @@ lang: en
 alt: "Choosing the right button for task success"
 description: "The super task button is a large-ish, attractive green button and it really gets your attention!...How using the right button style in the right situation can help people succeed better on your web page."
 ---
-Buttons are a design element that let you add interaction to a page. 
+Buttons are a design element that let you add interaction to a page.
 
 Consider using buttons when:
 
@@ -20,13 +20,13 @@ Consider using buttons when:
 
 Don’t use buttons when an ordinary text link will do the job just as well. Overuse reduces their visual impact.
 
-The buttons pattern in the Canada.ca design system includes 5 different styles of buttons. Using the right style in the right situation can help people succeed better on your web page. 
+The buttons pattern in the Canada.ca design system includes 5 different styles of buttons. Using the right style in the right situation can help people succeed better on your web page.
 
 [Buttons - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/buttons.html)
 
 ## The super task button
 
-Among the button options in the design system is the super task button. It’s a large-ish, attractive green button and it really gets your attention! This button can be powerful...but “with great power comes great responsibility.” 
+Among the button options in the design system is the super task button. It’s a large-ish, attractive green button and it really gets your attention! This button can be powerful...but “with great power comes great responsibility.”
 
 So, how do you use this button properly?
 
@@ -51,9 +51,9 @@ In the spring of 2020, when the Coronavirus landing page was receiving extremely
 
 ## A time for the middle of the page
 
-There are times when using a super task button makes sense, but placing it further down the page is more effective than having it at the top. 
+There are times when using a super task button makes sense, but placing it further down the page is more effective than having it at the top.
 
-For example, the Canada Recovery Benefit uses a green “Sign in to your CRA my account” button part way down the “Apply” page. 
+For example, the Canada Recovery Benefit uses a green “Sign in to your CRA my account” button part way down the “How to apply” page. 
 
 <br>
 <figure>
@@ -72,9 +72,9 @@ In this case, the button appears part way down the page. At that point, users ha
 
 So what happens when you use the super task button to get people’s attention for something that isn’t what they’re on the page to do?
 
-Getting people to download the COVIDAlert app has been a key priority for the Government of Canada as cases of COVID-19 rise and contact tracing becomes more difficult. That green button was a tempting way to try to catch people’s attention. 
+Getting people to download the COVIDAlert app has been a key priority for the Government of Canada as cases of COVID-19 rise and contact tracing becomes more difficult. That green button was a tempting way to try to catch people’s attention.
 
-When the super task button was placed on pages where it didn’t directly support page content, the button was not effective. 
+When the super task button was placed on pages where it didn’t directly support page content, the button was not effective.
 
 This was because downloading the app wasn’t what people had come to those pages to do. They saw the button more like an ad that was in the way of what they were looking for. The result? They ignored it.
 
