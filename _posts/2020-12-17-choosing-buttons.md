@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Choosing the right button for task success"
-langpage: "https://blogue.canada.ca/2020/12/16/choisir-des-boutons.html"
-date:   2020-12-16
+langpage: "https://blogue.canada.ca/2020/12/17/choisir-des-boutons.html"
+date:   2020-12-17
 published: true
 draft: true
 lang: en
@@ -46,7 +46,7 @@ src="/images/green-button-1.PNG" width="700">
 </details>
 <br>
 
-In the spring of 2020, when the Coronavirus landing page was receiving extremely heavy traffic, anxiety about the virus was high. Call centres were swamped with people wanting to check their symptoms to see if they had COVID-19. To support them, we worked with Health Canada to add a super task button at the top of the page. It led to the newly developed symptoms checker. Again, this worked well because it provided an answer for a key task visitors were coming to the page for at that time. Health Canada repeated this approach recently when it became mandatory for travellers to use the ArriveCan app to enter the country. The super task button at the top of the page supported users and redirected them to web content instead of call centres.
+In the spring of 2020, when the Coronavirus landing page was receiving extremely heavy traffic, anxiety about the virus was high. Call centres were swamped with people wanting to check their symptoms to see if they had COVID-19. To support them, we worked with Health Canada to add a super task button at the top of the page. It led to the newly developed symptoms checker. Again, this worked well because it provided an answer for a key task visitors were coming to the page for at that time. The super task button at the top of the page supported users and redirected them to web content instead of call centres.
 
 ## A time for the middle of the page
 
@@ -112,7 +112,6 @@ The danger button is an option when an action may have unintended consequences. 
 <div class="pattern-demo mrgn-bttm-md">
 <button class="btn btn-danger">Erase form</button>
 </div>
-<summary>Danger button: red with white text</summary>
 <br>
 
 Finally, the link button pattern offers an option for a rarely used action that must not compete with a primary or secondary task button. Restarting an application or clearing a form are good examples. You wouldn’t want those controls to compete with the “Submit” button, but you might want to style the control as a button for consistency, or to provide a slightly larger target area than rectangular links.
@@ -121,7 +120,6 @@ Finally, the link button pattern offers an option for a rarely used action that 
 <div class="pattern-demo mrgn-bttm-md">
 <button class="btn btn-link">Restart calculator</button>
 </div>
-<summary>Link button: no coloured background</summary>
 <br>
 
 ## Final word
