@@ -114,7 +114,7 @@ The danger button is an option when an action may have unintended consequences. 
 </div>
 <br>
 
-Finally, the link button pattern offers an option for a rarely used action that must not compete with a primary or secondary task button. Restarting an application or clearing a form are good examples. You wouldn’t want those controls to compete with the “Submit” button, but you might want to style the control as a button for consistency, or to provide a slightly larger target area than rectangular links.
+Finally, the link button pattern offers an option for a rarely used action that must not compete with a primary or secondary task button. You wouldn’t want those controls to compete with the “Submit” button, but you might want to style the control as a button for consistency, or to provide a slightly larger target area than rectangular links.
 
 <br>
 <div class="pattern-demo mrgn-bttm-md">
