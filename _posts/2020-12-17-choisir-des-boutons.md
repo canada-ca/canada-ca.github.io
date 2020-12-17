@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Choisir le bon bouton pour la réussite des tâches"
-pubdate: "16 décembre 2020"
-langpage: "https://blog.canada.ca/2020/12/16/choosing-buttons.html"
-date:   2020-12-16
+langpage: "https://blog.canada.ca/2020/12/17/choosing-buttons.html"
+date:   2020-12-17
 published: true
 draft: true
 lang: fr
@@ -47,7 +46,7 @@ src="/images/bouton-2.PNG" width="700">
 </details>
 <br>
 
-Au printemps 2020, alors que la page d'accueil du Coronavirus recevait un trafic extrêmement important, l'anxiété à propos du virus était grande. Les centres d'appels étaient submergés de personnes qui voulaient vérifier leurs symptômes pour savoir si elles étaient atteintes du COVID-19. Pour les aider, nous avons travaillé avec Santé Canada pour ajouter un bouton de super tâche en haut de la page. Le bouton donnait accès au nouvel outil de vérification des symptômes. Encore une fois, cela a bien fonctionné car il a fourni une réponse à une tâche clé pour laquelle les visiteurs venaient sur la page à ce moment-là. Santé Canada a répété cette approche récemment lorsqu'il est devenu obligatoire pour les voyageurs d'utiliser l'application ArriveCan pour entrer dans le pays. Le bouton de super tâche situé en haut de la page a permis de soutenir les utilisateurs et de les rediriger vers le contenu du site web plutôt que vers les centres d'appels.
+Au printemps 2020, alors que la page d'accueil du Coronavirus recevait un trafic extrêmement important, l'anxiété à propos du virus était grande. Les centres d'appels étaient submergés de personnes qui voulaient vérifier leurs symptômes pour savoir si elles étaient atteintes du COVID-19. Pour les aider, nous avons travaillé avec Santé Canada pour ajouter un bouton de super tâche en haut de la page. Le bouton donnait accès au nouvel outil de vérification des symptômes. Encore une fois, cela a bien fonctionné car il a fourni une réponse à une tâche clé pour laquelle les visiteurs venaient sur la page à ce moment-là. Le bouton de super tâche situé en haut de la page a permis de soutenir les utilisateurs et de les rediriger vers le contenu du site web plutôt que vers les centres d'appels.
 
 ## Un moment pour le milieu de la page
 
@@ -113,15 +112,14 @@ Le bouton danger consiste en une option lorsqu’une action peut avoir des cons�
 <div class="pattern-demo mrgn-bttm-md">
 <button class="btn btn-danger">Effacer le formulaire</button>
 </div>
-<summary>Bouton de danger : rouge avec texte blanc</summary>
+<br>
 
-Enfin, la configuration de bouton lien offre une option pour une action rarement utilisée qui ne doit pas entrer en concurrence avec un bouton de tâche primaire ou secondaire. Le lancement de nouveau d’une application et la suppression des données dans un formulaire en sont de bons exemples. Vous ne voudriez pas que ces commandes entrent en concurrence avec le bouton «&nbsp;Soumettre&nbsp;», mais vous pourriez vouloir concevoir la commande sous la forme d’un bouton pour assurer l’uniformité, ou pour fournir une zone cible légèrement plus grande que les liens ordinaires.
+Enfin, la configuration de bouton lien offre une option pour une action rarement utilisée qui ne doit pas entrer en concurrence avec un bouton de tâche primaire ou secondaire. Vous ne voudriez pas que ces commandes entrent en concurrence avec le bouton «&nbsp;Soumettre&nbsp;», mais vous pourriez vouloir concevoir la commande sous la forme d’un bouton pour assurer l’uniformité, ou pour fournir une zone cible légèrement plus grande que les liens ordinaires.
 
 <br>
 <div class="pattern-demo mrgn-bttm-md">
 <button class="btn btn-link">Redémarrer le calculateur</button>
 </div>
-<summary>Bouton lien : sans couleur de fond</summary>
 <br>
 
 ## Mot de la fin
