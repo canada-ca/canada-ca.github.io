@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Choosing the right button for task success"
-pubdate: "December 16, 2020"
 langpage: "https://blogue.canada.ca/2020/12/16/choisir-des-boutons.html"
 date:   2020-12-16
 published: true
