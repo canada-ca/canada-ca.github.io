@@ -23,7 +23,7 @@ Alors que 2021 pointe à l’horizon, la communauté #GCnumérique souhaiterait 
  
 <p>- <b>Itthiphol (Bob) Piromnam, ministère des Finances Canada</b></p>
  
-<p>2. « 2020 n’a pas été une année facile. J’ai vu des collègues terrassés par l’isolation des confinements, le stress et la monotonie du travail à temps plein à partir de la maison et la culpabilité liée à une surconsommation des écrans pour leurs enfants, au détriment de l’école à la maison.</p>
+<p>2. « 2020 n’a pas été une année facile. J’ai vu des collègues terrassés par l’isolation des confinements, le stress et la monotonie du travail à temps plein à partir de la maison et la culpabilité liée au fait d'avoir laissé leurs enfants passer beaucoup trop d'heures devant un écran, au détriment de l’école à la maison.</p>
  
 <p>J’ai également été émerveillée par leur résilience et leur volonté persistante et quotidienne, malgré leur combat contre la fatigue et même si l’adrénaline n’est plus qu’un souvenir du passé. Cela me fait penser que les situations les plus difficiles créent les liens d’amitié les plus forts.</p>
  
@@ -39,7 +39,7 @@ Alors que 2021 pointe à l’horizon, la communauté #GCnumérique souhaiterait 
  
 <p>4. « Dans l’ensemble du gouvernement, les équipes Web ont travaillé dur pour créer du nouveau contenu. Pendant ce temps, c’était génial de voir les gens adopter les tests de convivialité et la conception de contenu reposant sur des données probantes. La communauté Web s’est regroupée rapidement, dans le but d’aider à concevoir et à évaluer des solutions permettant à la population d’obtenir l’information qu’elle souhaitait avoir de la part du gouvernement durant cette période de crise.</p>
  
-<p>Cette année, nous avons mis en place une nouvelle façon de recueillir des rétroactions directes, de la part des utilisateurs de nos contenus Web. Obtenir de l’information en temps réel au sujet des facteurs poussant les gens à ne pas accomplir leurs tâches remet les choses en perspective, en plus d’être un rappel constant que nous nous devons de continuer à améliorer le contenu fourni à la population. »</p>
+<p>Cette année, nous avons mis en place une nouvelle façon de recueillir des rétroactions directes de la part des utilisateurs de nos contenus Web. Obtenir de l’information en temps réel au sujet des facteurs poussant les gens à ne pas accomplir leurs tâches remet les choses en perspective, en plus d’être un rappel constant que nous nous devons de continuer à améliorer le contenu fourni à la population. »</p>
  
 <p>- <b>David Pepin, Bureau de la transformation numérique</b></p>
  
@@ -47,7 +47,7 @@ Alors que 2021 pointe à l’horizon, la communauté #GCnumérique souhaiterait 
  
 <p>- <b>Yael Berger, Service numérique canadien</b></p>
  
-<p>6. « Cette année a battu des records, en ce qui a trait aux essais rapides et à la création de prototypes. En l’espace de 9 mois, nous avons effectué 50 études de convivialité, qui ont façonné un bon nombre de tâches majeures lors de la lutte contre la pandémie. Cela se traduit par 12 000 contributions sur la page Github liée à nos prototypes.</p>
+<p>6. « Cette année a battu des records, en ce qui a trait aux essais rapides et à la création de prototypes. En l’espace de 9 mois, nous avons effectué 50 études de convivialité qui ont façonné un bon nombre de tâches majeures lors de la lutte contre la pandémie. Cela se traduit par 12 000 contributions sur la page Github liée à nos prototypes.</p>
  
 <p>Sur une note plus personnelle, je tiens à remercier mes collègues du BTN et nos partenaires. Ils m’ont permis d’en apprendre davantage au sujet des tests de convivialité et du partage des résultats… rapidement! Je crois également que ma famille comprend finalement mon métier. Un aspect positif… et convivial! » </p>
  
@@ -55,7 +55,7 @@ Alors que 2021 pointe à l’horizon, la communauté #GCnumérique souhaiterait 
  
 <p>7. « Cela a été une étude de cas sur le travail à distance qui a (je crois) convaincu ma haute gestion que les employés peuvent travailler efficacement à partir de leur domicile plus souvent. Dans les jours précédant le confinement, j’ai tenté de convaincre mon directeur général de permettre à l’un de mes employés de travailler à partir de la maison deux jours par semaine, pour permettre à son épouse de retourner au travail. Sans succès. Le fait de travailler deux jours à l’extérieur du milieu de travail représentait un risque trop élevé. Maintenant, nous travaillons tous à distance. Notre productivité? Elle a augmenté.</p>
 
-<p>Les relations personnelles avec nos coéquipiers des régions sont également plus fortes. Le travail à distance égalise les chances. Des plateformes comme Slack et MS Teams nous ont permis de redéfinir nos conversations de couloir. Nos deux employés régionaux sont tout aussi présents dans les conversations légères qui ont lieu dans notre section hors-sujet. Ils ont maintenant des liens sociaux plus forts avec les autres membres de l’équipe. »</p>
+<p>Les relations personnelles avec nos coéquipiers des régions sont également plus fortes. Le travail à distance égalise les chances. Des plateformes comme Slack et MS Teams nous ont permis de redéfinir nos conversations de couloir. Nos deux employés régionaux sont tout aussi présents dans les conversations légères qui ont lieu dans notre section #hors-sujet. Ils ont maintenant des liens sociaux plus forts avec les autres membres de l’équipe. »</p>
  
 <p>- <b>Fiona Currie, Agriculture et Agroalimentaire Canada</b></p>
  
