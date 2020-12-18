@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Silver linings from 2020"
-pubdate: "December 18, 2020"
-langpage: "https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html"
+langpage: "https://blogue.canada.ca/2020/12/18/lueurs-despoir-2020.html"
 date:   2020-12-18
 published: true
 draft: true
