@@ -18,7 +18,7 @@ As we countdown to 2021, the #GCDigital web community would like to share some o
  
 <p>Over this past year, we’ve learned to come together while staying apart. The interdepartmental collaboration with various working groups has been memorable and informative.</p>
  
-<p>One of our stand-out memories has been with our collaboration with DTO on the launch of the Economic Response Plan. Their data-driven UI/UX guidance has been instrumental in the delivery of information related to financial support to Canadians during the pandemic.</p> 
+<p>One of our stand-out memories has been our collaboration with DTO on the launch of the Economic Response Plan. Their data-driven user interface/user experience guidance has been instrumental in the delivery of information related to financial support to Canadians during the pandemic.</p> 
  
 <p>As we continue to strengthen our connections and learn from each other, we’re left hopeful that the challenges presented by this global pandemic will be overcome and improve us as individuals and teams.” </p>
  
@@ -28,11 +28,13 @@ As we countdown to 2021, the #GCDigital web community would like to share some o
 
 <p>But I’ve also been amazed at their resilience and the enduring fight they bring day in and day out as they struggle through exhaustion, when the adrenaline keeping them going has long since been spent. And it occurs to me that it is through hardship that the strongest bonds of friendship are built. </p>
 
-<p>We’ve collaborated more widely and more deeply these past many months than ever before. And in each moment of collaboration, we invited our colleagues into our homes and our lives. Take a moment as this year ends, to think of all the colleagues who have been a part of your day-to-day since March. They will forever share your lived experience of this pandemic. They will forever be the ones who walked with you on the journey, and the bonds you formed will be special and meaningful for a very long time to come. I am inspired by the dedication, resilience, and commitment to serving Canadians that I have witnessed in my colleagues from across government, and I am grateful to have been a part of your journey, as you have all been a part of mine.”</p>
+<p>We’ve collaborated more widely and more deeply these past many months than ever before. And in each moment of collaboration, we invited our colleagues into our homes and our lives. Take a moment as this year ends, to think of all the colleagues who have been a part of your day-to-day since March. They will forever share your lived experience of this pandemic. They will forever be the ones who walked with you on the journey, and the bonds you formed will be special and meaningful for a very long time to come.</p>
+ 
+<p>I am inspired by the dedication, resilience, and commitment to serving Canadians that I have witnessed in my colleagues from across government, and I am grateful to have been a part of your journey, as you have all been a part of mine.”</p>
 
- <p>- <b>Laura Piper, Digital Transformation Office</b></p>
+<p>- <b>Laura Piper, Digital Transformation Office</b></p>
 
-<p> 3. “Through adverse circumstances and a complete shift to remote work, collaboration was the biggest asset within the GC that enabled common solutions, responsive changes based on evidence and true advancements enabling the government as a whole to better communicate with Canadians through a time of crisis.  Not only did we innovate, we also provided reliable, secure and timely information for the public when they most needed it.”</p>
+<p>3. “Through adverse circumstances and a complete shift to remote work, collaboration was the biggest asset within the GC that enabled common solutions, responsive changes based on evidence and true advancements enabling the government as a whole to better communicate with Canadians through a time of crisis.  Not only did we innovate, we also provided reliable, secure and timely information for the public when they most needed it.”</p>
 
 <p>- <b>Melissa Teasdale, Principal Publisher</b></p>
 
@@ -44,7 +46,7 @@ As we countdown to 2021, the #GCDigital web community would like to share some o
 
 <p>5. “Joining the web comms working group felt like being the little bee girl in the Blind Melon music video for ‘No Rain.’ It felt like stumbling into a meadow full of people who were thinking in ways I was thinking, and asking the important questions I was asking, and even more importantly, finding some answers to those questions about how to improve the Government of Canada’s web content for everyone in Canada and outside Canada accessing our services. It felt supportive and friendly, and I don’t think the projects I was working on (the COVID-19 Individual Benefits Finder and COVID Alert) would have been as successful without this space to collaborate.”</p>
 
- <p>- <b>Yael Berger, Canadian Digital Service</b></p>
+<p>- <b>Yael Berger, Canadian Digital Service</b></p>
 
 <p>6. “This year we took rapid testing and prototyping to a new level.  In nine months, we completed 50 usability studies that informed many of the top pandemic tasks.  This turned into over twelve thousand commits to our prototype pages on Github.</p> 
 
@@ -66,7 +68,7 @@ As we countdown to 2021, the #GCDigital web community would like to share some o
 
 <p>These months have forced me out of my comfort zone — I’m more used to doing things than asking other people to do things. I’m always grateful and impressed with how folks step up to help, whether by answering a quick text or sharing a prototype or hopping on call.</p>
 
-<p>This community is rising to the occasion in an incredible way and facilitating meaningful culture change in the process—our collective efforts make a huge difference. And I just think, If we can make so much progress in such a short time under adverse conditions, imagine what we’ll be able to accomplish together once we’re out the other side of this and all a little better rested!</p>
+<p>This community is rising to the occasion in an incredible way and facilitating meaningful culture change in the process—our collective efforts make a huge difference. And I just think, if we can make so much progress in such a short time under adverse conditions, imagine what we’ll be able to accomplish together once we’re out the other side of this and all a little better rested!</p>
 
 <p>Working with all of you inspires me. Thank you.”</p>
 
