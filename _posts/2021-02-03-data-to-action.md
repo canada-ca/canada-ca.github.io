@@ -24,11 +24,15 @@ While at times the data can feel overwhelming to sort through, you shouldn’t i
 A key focus of the Digital Transformation Office (DTO) is to make online information and services easier to find and understand for the people using them. We wanted to share some of our most recent experiences with using data to make important content work better. 
 
 ## Analytics can signal that you need a mobile-first design 
+
 Sometimes the first design iteration of a web page doesn’t perfectly reflect how people are using the page. An early design of the Canada.ca/coronavirus page used tiles and graphics to provide access to 6 key topics about the emerging COVID-19 outbreak. The design was visually appealing, but as the number of topics grew, it wasn’t ideal for people using a mobile device. It required too much scrolling. Looking at the analytics revealed that up to 70% of people visiting the page were using their phones. 
 
 Based on these analytics, we worked with Health Canada to create a new design that grouped links by task categories into alternating bands. This approach was more effective for phone users because they could see more links without scrolling. It was also more flexible and allowed Health Canada to add or remove topics as needed.
+
 The analytics data prompted us to make this simple but important change to the page design to better meet the needs of the audience. On a content page, similar data showing a primarily mobile audience might signal the need for less text, shorter paragraphs and more headings.
-Using click-through rates to curate links
+
+## Using click-through rates to curate links
+
 One way to manage a page with a lot of links is to look at click-through rates. The Canada.ca/coronavirus landing page has been a crucial door to everything from travel updates to financial aid, to vaccine updates. The page needed a strategy to ensure it stayed simple and effective. 
 
 The original mobile-friendly design in March 2020 had 15 links and 4 category bars. However, by September, the page had ballooned to 38 links in 7 bars. Looking at click-through rates we saw that ⅔ of the links were hardly used. 
@@ -37,12 +41,12 @@ The original mobile-friendly design in March 2020 had 15 links and 4 category ba
 
 So, we worked with Health Canada to limit the number of links on the page. If a link has less than a 0.5% click-through rate, it’s a signal for Health Canada to look at whether it’s time to remove the link from the page and/or move it to a lower level page.  This ensures that the page evolves based on what people are actually looking for.
 Looking at click-through rates can also help you refine link text to support better findability of important content. Comparing the click-through rates of different link labels can help you decide which are more effective. We used this method early in the Pandemic to help more people find mental health resources.
-A case for descriptive link text (blog post)
 
-Rich write-in feedback
+* A case for descriptive link text (blog post)
+
+## Rich write-in feedback
+
 The Digital Transformation Office has been piloting better ways to get   feedback from people on some COVID-19 top tasks since July.  We’ve been experimenting with a new tool that invites people to provide feedback in their own words at the moment of completing a task. This sort of data can give you very rich insights about common frustrations or content gaps.
-
-
 
 In December 2020, when Health Canada approved the first COVID vaccine, we added the feedback tool at the bottom of the vaccine content pages. 
 The feedback we received immediately highlighted a major content gap that we wouldn’t have identified through analytics alone. 
@@ -63,38 +67,48 @@ XX
 December 15, 2020
 2
 
-Use insights to iterate
+### Use insights to iterate
 We continue to use insights from user feedback on vaccines to iterate content and navigation improvements.
 
 While not every content page benefits from this write-in feedback tool, similar feedback is likely coming in through your general email boxes, call centres or service desks. Make sure you’re connected with the teams seeing that data, so you can act on it when you see trends developing. 
-Inclusive data 
+
+## Inclusive data 
+
 It’s important to remember that the data from any one source only tells part of the story. For example, accessibility issues aren’t always easy to recognize through a general feedback tool, or looking at click-maps and analytics. However, usability testing can be a way to gain more specific insights from people using assistive technology like screen readers or magnifiers.
+
 In November 2020, the Public Health Agency of Canada (PHAC) collaborated with the DTO to conduct moderated usability testing on the ArriveCAN website. Of the 20 participants in the study 5 were using assistive technology.
  
-Barriers for screen reader users
+### Barriers for screen reader users
 The first thing that jumped out in this study was that screen reader users were encountering a major barrier with the privacy agreement right at the very start of their ArriveCAN experience. The privacy agreement required people to check a box to agree before they could continue. Screen reader users were getting lost in the agreement text and missing the check box. All of the participants on screen readers struggled to get through this step. One took more than 3 minutes to get past the initial Privacy Agreement page. 
-Data to action
+
+### Data to action
+
 We knew that a privacy agreement had to be available, but we needed to find a better way to provide it.  We changed the approach and put the notice in an expand-collapse design. This way, it was available to those who wanted to read it, and didn’t create a barrier or extra step for everyone else, especially screen reader users.  
 We’ve since updated the disclaimers pattern in the design system to reflect the results of this study.
 
  Privacy disclaimer - Canada.ca design pattern
 
+### Validating design choices
 
-
-
-Validating design choices
 As we worked on the ArriveCAN content, we held co-editing sessions to address issues we saw in the usability testing and page feedback. Once each update went live, we looked for a reduction in the comments about that topic in the page feedback. This process helped us validate the design decisions we were making.
 
-Final word
+## Final word
 Content that doesn’t meet people’s expectations can undermine the credibility of the content and of the government. 
-Look at various sources of data to help guide your efforts at iterating and regularly improving your web presence
-Monitor how changes you make affect the data coming in, so you can validate that you’re doing the right thing
-Develop relationships with the people in your organization who interact directly with your key audiences - they’ve got gold to share (more on that in an upcoming blog post)
-Analyse direct feedback from users so your recommendations get to the root of the problem...without guessing
+* Look at various sources of data to help guide your efforts at iterating and regularly improving your web presence
+* Monitor how changes you make affect the data coming in, so you can validate that you’re doing the right thing
+* Develop relationships with the people in your organization who interact directly with your key audiences - they’ve got gold to share (more on that in an upcoming blog post)
+* Analyse direct feedback from users so your recommendations get to the root of the problem...without guessing
 
-Learn more
-Canada.ca design system
-Canada.ca Content Style Guide
-Collect feedback, find issues
-Designing for accessibility
-ArriveCAN website
+## Learn more
+* Canada.ca design system
+* Canada.ca Content Style Guide
+* Collect feedback, find issues
+* Designing for accessibility
+* ArriveCAN website
+
+## Connect with the Digital Transformation Office at Treasury Board Secretariat
+
+* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Twitter: #Canadadotca (English) / #Canadapointca (French)
+* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
+
