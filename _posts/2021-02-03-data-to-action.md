@@ -124,10 +124,8 @@ We’ve since updated the disclaimers pattern in the design system to reflect th
 <div class="pattern-demo mrgn-bttm-md">
 	<details><summary>Privacy disclaimer</summary>
 		<p>The personal information provided is governed in accordance with the <cite>Privacy Act</cite>. This personal information is being collected as part of the Government of Canada’s... </p>
-
-		<p>[Include the full privacy disclaimer in the expand/collapse, including headings, sub-headings, etc.]</p
-
-		</details>
+<p>[Include the full privacy disclaimer in the expand/collapse, including headings, sub-headings, etc.]</p>
+</details>
 </div>
 
 ### Validating design choices
