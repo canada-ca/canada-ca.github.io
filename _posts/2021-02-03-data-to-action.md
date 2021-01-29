@@ -37,7 +37,7 @@ One way to manage a page with a lot of links is to look at click-through rates. 
 
 The original mobile-friendly design in March 2020 had 15 links and 4 category bars. However, by September, the page had ballooned to 38 links in 7 bars. Looking at click-through rates we saw that ⅔ of the links were hardly used. 
 
-“Oh boy, on mobile this is just way too much scrolling!” --usability testing participant 
+> “Oh boy, on mobile this is just way too much scrolling!” --usability testing participant 
 
 So, we worked with Health Canada to limit the number of links on the page. If a link has less than a 0.5% click-through rate, it’s a signal for Health Canada to look at whether it’s time to remove the link from the page and/or move it to a lower level page.  This ensures that the page evolves based on what people are actually looking for.
 Looking at click-through rates can also help you refine link text to support better findability of important content. Comparing the click-through rates of different link labels can help you decide which are more effective. We used this method early in the Pandemic to help more people find mental health resources.
@@ -50,10 +50,10 @@ The Digital Transformation Office has been piloting better ways to get feedback 
 
 In December 2020, when Health Canada approved the first COVID vaccine, we added the feedback tool at the bottom of the vaccine content pages. 
 The feedback we received immediately highlighted a major content gap that we wouldn’t have identified through analytics alone. 
-Quotes?
-“I wanted to know the ingredients because I have an allergy and want to get the shot.” --usability testing participant
+
+> “I wanted to know the ingredients because I have an allergy and want to get the shot.” --usability testing participant
 (For French version: “Je veux savoir les ingrédients de ce vaccin fabriqué par pfizer”)
-“where is the list of ingredients??”
+> “where is the list of ingredients??”
 
 Between December 11 and 14, 60% (87/144) of comments were about ingredients and allergies. Seeing this user need in the data, Health Canada quickly added an ingredient list to the page on December 14. Feedback about ingredients on the Pfizer-BioNTech “What you should know” page went from 35 comments per day to 2 after Health Canada added the ingredient list. 
 
@@ -63,7 +63,7 @@ Number of comments about ingredients and allergies
 December 13, 2020
 35
 December 14, 2020
-XX
+16
 December 15, 2020
 2
 
