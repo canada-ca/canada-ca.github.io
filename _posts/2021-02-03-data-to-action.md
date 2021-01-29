@@ -48,6 +48,7 @@ Looking at click-through rates can also help you refine link text to support bet
 
 The Digital Transformation Office has been piloting better ways to get feedback from people on some COVID-19 top tasks since July. We’ve been experimenting with a new tool that invites people to provide feedback in their own words at the moment of completing a task. This sort of data can give you very rich insights about common frustrations or content gaps.
 
+<br>
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/feedback-1.png" width="700">
@@ -56,6 +57,7 @@ src="/images/feedback-1.png" width="700">
 <summary>Page Feedback Widget</summary>
 <p>The page feedback component  sits at the bottom of key web pages. It displays the question "Did you find what you were looking for?" and provides both a "yes" and "no" button.</p>
 </details>
+<br>
 
 In December 2020, when Health Canada approved the first COVID vaccine, we added the feedback tool at the bottom of the vaccine content pages. 
 The feedback we received immediately highlighted a major content gap that we wouldn’t have identified through analytics alone. 
@@ -67,6 +69,34 @@ The feedback we received immediately highlighted a major content gap that we wou
 > “where is the list of ingredients??”
 
 Between December 11 and 14, 60% (87/144) of comments were about ingredients and allergies. Seeing this user need in the data, Health Canada quickly added an ingredient list to the page on December 14. Feedback about ingredients on the Pfizer-BioNTech “What you should know” page went from 35 comments per day to 2 after Health Canada added the ingredient list. 
+
+<br>
+<figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/action-2.png" width="700">
+</figure>
+<details>
+<summary>Feedback from ingredient list</summary>
+<table style="width:100%">
+  <tr>
+    <th>Date</th>
+    <th>Number of comments about ingredients and allergies</th> 
+  </tr>
+  <tr>
+    <td>December 13, 2020</td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td>December 14, 2020</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>December 15, 2020</td>
+    <td>2</td>
+  </tr>
+</table>
+</details>
+<br>
 
 
 Date
