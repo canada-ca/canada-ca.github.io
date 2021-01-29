@@ -7,7 +7,7 @@ published: true
 draft: true
 lang: en
 alt: "Using data to make better content"
-description: "As we countdown to 2021, the #GCDigital web community would like to share some of our silver linings from the past year."
+description: "We wanted to share some of our most recent experiences with using data to make important content work better."
 ---
 Working in digital, there are many ways to collect data on content you publish. Analyzing that data can give you valuable insights into user behaviour and points of failure. 
 
@@ -46,7 +46,7 @@ Looking at click-through rates can also help you refine link text to support bet
 
 ## Rich write-in feedback
 
-The Digital Transformation Office has been piloting better ways to get   feedback from people on some COVID-19 top tasks since July.  We’ve been experimenting with a new tool that invites people to provide feedback in their own words at the moment of completing a task. This sort of data can give you very rich insights about common frustrations or content gaps.
+The Digital Transformation Office has been piloting better ways to get feedback from people on some COVID-19 top tasks since July. We’ve been experimenting with a new tool that invites people to provide feedback in their own words at the moment of completing a task. This sort of data can give you very rich insights about common frustrations or content gaps.
 
 In December 2020, when Health Canada approved the first COVID vaccine, we added the feedback tool at the bottom of the vaccine content pages. 
 The feedback we received immediately highlighted a major content gap that we wouldn’t have identified through analytics alone. 
@@ -68,6 +68,7 @@ December 15, 2020
 2
 
 ### Use insights to iterate
+
 We continue to use insights from user feedback on vaccines to iterate content and navigation improvements.
 
 While not every content page benefits from this write-in feedback tool, similar feedback is likely coming in through your general email boxes, call centres or service desks. Make sure you’re connected with the teams seeing that data, so you can act on it when you see trends developing. 
@@ -79,6 +80,7 @@ It’s important to remember that the data from any one source only tells part o
 In November 2020, the Public Health Agency of Canada (PHAC) collaborated with the DTO to conduct moderated usability testing on the ArriveCAN website. Of the 20 participants in the study 5 were using assistive technology.
  
 ### Barriers for screen reader users
+
 The first thing that jumped out in this study was that screen reader users were encountering a major barrier with the privacy agreement right at the very start of their ArriveCAN experience. The privacy agreement required people to check a box to agree before they could continue. Screen reader users were getting lost in the agreement text and missing the check box. All of the participants on screen readers struggled to get through this step. One took more than 3 minutes to get past the initial Privacy Agreement page. 
 
 ### Data to action
@@ -86,7 +88,9 @@ The first thing that jumped out in this study was that screen reader users were 
 We knew that a privacy agreement had to be available, but we needed to find a better way to provide it.  We changed the approach and put the notice in an expand-collapse design. This way, it was available to those who wanted to read it, and didn’t create a barrier or extra step for everyone else, especially screen reader users.  
 We’ve since updated the disclaimers pattern in the design system to reflect the results of this study.
 
- Privacy disclaimer - Canada.ca design pattern
+[Privacy disclaimer - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/privacy-disclaimer.html)
+
+(insert image)
 
 ### Validating design choices
 
@@ -100,11 +104,11 @@ Content that doesn’t meet people’s expectations can undermine the credibilit
 * Analyse direct feedback from users so your recommendations get to the root of the problem...without guessing
 
 ## Learn more
-* Canada.ca design system
-* Canada.ca Content Style Guide
-* Collect feedback, find issues
-* Designing for accessibility
-* ArriveCAN website
+* [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html)
+* [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
+* [Collect feedback, find issues](https://blog.canada.ca/2020/10/09/collect-feedback.html)
+* [Designing for accessibility](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html)
+* [ArriveCAN website](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html)
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
