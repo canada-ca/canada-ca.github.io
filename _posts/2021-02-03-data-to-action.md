@@ -73,7 +73,7 @@ Between December 11 and 14, 60% (87/144) of comments were about ingredients and 
 <br>
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/action-2.png" width="700">
+src="/images/action-2.PNG" width="700">
 </figure>
 <details>
 <summary>Feedback from ingredient list</summary>
@@ -97,16 +97,6 @@ src="/images/action-2.png" width="700">
 </table>
 </details>
 <br>
-
-
-Date
-Number of comments about ingredients and allergies
-December 13, 2020
-35
-December 14, 2020
-16
-December 15, 2020
-2
 
 ### Use insights to iterate
 
