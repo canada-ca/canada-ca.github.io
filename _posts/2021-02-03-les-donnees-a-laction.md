@@ -25,7 +25,15 @@ L’un des principaux objectifs du Bureau de la transformation numérique (BTN) 
 
 ## Les données peuvent révéler que vous avez besoin d’une conception destinée aux appareils mobiles 
 
-Parfois, la première version de conception d’une page Web ne reflète pas exactement la façon dont les internautes l’utilisent. 
+Parfois, la première version de conception d’une page Web ne reflète pas exactement la façon dont les internautes l’utilisent. À l’origine, sur la page Canada.ca/coronavirus, il y avait des tuiles et des graphiques pour présenter les six sujets relatifs à la pandémie de COVID-19. La conception était visuellement attrayante, mais avec l’augmentation du nombre de sujets, la consultation de la page sur un appareil mobile est devenue laborieuse. Le défilement était trop important. Les données ont révélé que près de 70 % des visiteurs utilisaient leur téléphone. 
+
+À partir de là, nous avons collaboré avec Santé Canada pour créer une nouvelle conception regroupant les liens par catégories dans des bandeaux avec une alternance de couleurs. Cette conception s’est avérée plus conviviale pour les utilisateurs de téléphone mobile, qui pouvaient consulter un plus grand nombre de liens sans avoir besoin de faire défiler le texte. Elle s’est également révélée plus souple et a permis à Santé Canada d’ajouter ou de supprimer facilement des catégories.
+
+Les données de l’analytique nous ont poussés à procéder à cet ajustement simple mais important afin de mieux répondre aux besoins du public. Une page visitée majoritairement depuis un appareil mobile révèle la nécessité d’écrire moins de texte, de faire des paragraphes plus courts et de créer davantage d’en-têtes.
+
+## Examiner les taux de clics pour bien choisir ses liens
+
+Pour gérer une page contenant un grand nombre de liens, il convient d’examiner les taux de clics. 
 
 <br><figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
@@ -37,15 +45,7 @@ src="/images/click-2.png" width="700">
 </details>
 <br>
 
-À l’origine, sur la page Canada.ca/coronavirus, il y avait des tuiles et des graphiques pour présenter les six sujets relatifs à la pandémie de COVID-19. La conception était visuellement attrayante, mais avec l’augmentation du nombre de sujets, la consultation de la page sur un appareil mobile est devenue laborieuse. Le défilement était trop important. Les données ont révélé que près de 70 % des visiteurs utilisaient leur téléphone. 
-
-À partir de là, nous avons collaboré avec Santé Canada pour créer une nouvelle conception regroupant les liens par catégories dans des bandeaux avec une alternance de couleurs. Cette conception s’est avérée plus conviviale pour les utilisateurs de téléphone mobile, qui pouvaient consulter un plus grand nombre de liens sans avoir besoin de faire défiler le texte. Elle s’est également révélée plus souple et a permis à Santé Canada d’ajouter ou de supprimer facilement des catégories.
-
-Les données de l’analytique nous ont poussés à procéder à cet ajustement simple mais important afin de mieux répondre aux besoins du public. Une page visitée majoritairement depuis un appareil mobile révèle la nécessité d’écrire moins de texte, de faire des paragraphes plus courts et de créer davantage d’en-têtes.
-
-## Examiner les taux de clics pour bien choisir ses liens
-
-Pour gérer une page contenant un grand nombre de liens, il convient d’examiner les taux de clics. La page d’accueil Canada.ca/coronavirus est la page de référence pour tout ce qui concerne les voyages, les aides financières et la vaccination. Il fallait trouver une stratégie pour que la page reste simple et efficace. 
+La page d’accueil Canada.ca/coronavirus est la page de référence pour tout ce qui concerne les voyages, les aides financières et la vaccination. Il fallait trouver une stratégie pour que la page reste simple et efficace. 
 
 En 2020, la première conception de la page destinée aux appareils mobiles comportait 15 liens et quatre bandeaux. En septembre 2020, la page comptait 38 liens répartis dans sept bandeaux. En regardant de plus près les taux de clics, nous avons constaté que le taux était faible sur près de deux tiers des liens. 
 
