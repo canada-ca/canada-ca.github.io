@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using data to make better content"
-langpage: "https://blogue.canada.ca/2020/12/18/lueurs-despoir-2020.html"
+langpage: "https://blogue.canada.ca/2021/02/03/les-donnees-a-laction.html"
 date:   2021-02-03
 published: true
 draft: true
