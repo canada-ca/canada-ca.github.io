@@ -13,7 +13,6 @@ Dans l’univers du numérique, les façons de recueillir des données sur le co
 
 Les données peuvent vous aider dans les domaines suivants : 
 
-
 * détermination des écarts de contenu ou des problèmes de compréhension liés à la page;
 * problèmes de navigation;
 *	conception des pages (liens brisés);
@@ -38,7 +37,7 @@ Pour gérer une page contenant un grand nombre de liens, il convient d’examine
 
 En 2020, la première conception de la page destinée aux appareils mobiles comportait 15 liens et quatre bandeaux. En septembre 2020, la page comptait 38 liens répartis dans sept bandeaux. En regardant de plus près les taux de clics, nous avons constaté que le taux était faible sur près de deux tiers des liens. 
 
-« Tout ce défilement est bien trop pénible sur un mobile! » --participant au test d’utilisabilité 
+> « Tout ce défilement est bien trop pénible sur un mobile! » --participant au test d’utilisabilité 
 
 Nous avons donc travaillé avec Santé Canada pour réduire le nombre de liens sur la page. Si le taux de clics d’un lien est inférieur à 0,5 %, Santé Canada détermine s’il est temps de supprimer le lien de la page ou de le déplacer vers une page de moindre importance.  La page évolue ainsi en fonction de ce que les visiteurs recherchent réellement.
 L’examen du taux de clics peut également vous aider à rendre le texte de vos liens plus clair pour faciliter le repérage et l’accès au contenu important. La comparaison des taux de clics de différents textes d’ancrage peut vous aider à déterminer lesquels sont les plus efficaces. Nous avons utilisé cette méthode au début de la pandémie pour aider les personnes à la recherche de soutien en santé mentale.
@@ -48,6 +47,15 @@ L’examen du taux de clics peut également vous aider à rendre le texte de vos
 ## Une rétroaction écrite précieuse
 
 Depuis juillet, le Bureau de la transformation numérique met à l’essai des façons d’obtenir des commentaires de la part des visiteurs sur certaines tâches principales liées à la COVID-19.  Nous avons expérimenté un nouvel outil qui invite les visiteurs à donner leur avis par écrit au moment d’accomplir une tâche. Ces données peuvent vous apporter de précieux renseignements sur les contrariétés des utilisateurs et les écarts de contenu courants.
+
+<figure>
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
+src="/images/feedback-3.png" width="700">
+</figure>
+<details>
+<summary>Le widget de rétroaction sur la page</summary>
+<p>Le widget affiche la question : « Avez-vous trouvé ce que vous cherchiez? » et propose des options oui et non.</p>
+</details>
 
 En décembre 2020, lorsque Santé Canada a approuvé le premier vaccin contre la COVID-19, nous avons ajouté l’outil de rétroaction au bas des pages sur le vaccin. 
 Les commentaires que nous avons reçus ont immédiatement mis en évidence un écart de contenu majeur que nous n’aurions pas pu déceler uniquement sur la base de l’analyse des données. 
