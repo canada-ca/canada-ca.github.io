@@ -42,7 +42,7 @@ The original mobile-friendly design in March 2020 had 15 links and 4 category ba
 So, we worked with Health Canada to limit the number of links on the page. If a link has less than a 0.5% click-through rate, it’s a signal for Health Canada to look at whether it’s time to remove the link from the page and/or move it to a lower level page.  This ensures that the page evolves based on what people are actually looking for.
 Looking at click-through rates can also help you refine link text to support better findability of important content. Comparing the click-through rates of different link labels can help you decide which are more effective. We used this method early in the Pandemic to help more people find mental health resources.
 
-* [A case for descriptive link text (blog post)](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)
+[A case for descriptive link text (blog post)](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)
 
 ## Rich write-in feedback
 
@@ -63,8 +63,6 @@ In December 2020, when Health Canada approved the first COVID vaccine, we added 
 The feedback we received immediately highlighted a major content gap that we wouldn’t have identified through analytics alone. 
 
 > “I wanted to know the ingredients because I have an allergy and want to get the shot.” --usability testing participant
-
-(For French version: “Je veux savoir les ingrédients de ce vaccin fabriqué par pfizer”)
 
 > “where is the list of ingredients??”
 
