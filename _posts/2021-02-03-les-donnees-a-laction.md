@@ -62,13 +62,15 @@ Entre le 11 et le 14 décembre, 60 % (87/144) des commentaires portaient sur la 
 
 Date	Nombre de commentaires sur la composition et les allergies
 13 décembre 2020	35
-14 décembre 2020	XX
+14 décembre 2020	16
 15 décembre 2020	2
 
 ### Utiliser la rétroaction pour apporter des améliorations itératives
+
 Nous continuons d’exploiter les commentaires des visiteurs sur les vaccins pour apporter des améliorations itératives et propres à la navigation.
 
 Même si toutes les pages ne sont pas dotées de cet outil de rétroaction écrit, vous recevrez probablement de tels commentaires dans les courriels, les centres d’appels ou les bureaux de service. Communiquez avec les équipes qui font le constat de ces données afin de pouvoir les exploiter lorsque des tendances se dessinent. 
+
 ## Des données inclusives 
 Il est important de garder à l’esprit que les données, quelle que soit la source, ne donnent pas de renseignements complets. Par exemple, les problèmes d’accessibilité sont parfois difficiles à reconnaître avec l’outil de rétroaction générale, l’examen des cartes thermiques de clics et l’analyse des données. Les tests d’utilisabilité permettent toutefois d’obtenir des renseignements plus précis sur les visiteurs qui utilisent des dispositifs d’assistance, comme un lecteur d’écran ou une loupe.
 En novembre 2020, l’Agence de la santé publique du Canada (ASPC) a collaboré avec le BTN pour mener des tests d’utilisabilité sur le site Web ArriveCAN. Sur les 20 participants à l’étude, cinq utilisaient un dispositif d’assistance.
