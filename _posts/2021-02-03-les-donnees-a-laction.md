@@ -48,7 +48,7 @@ L’examen du taux de clics peut également vous aider à rendre le texte de vos
 
 Depuis juillet, le Bureau de la transformation numérique met à l’essai des façons d’obtenir des commentaires de la part des visiteurs sur certaines tâches principales liées à la COVID-19.  Nous avons expérimenté un nouvel outil qui invite les visiteurs à donner leur avis par écrit au moment d’accomplir une tâche. Ces données peuvent vous apporter de précieux renseignements sur les contrariétés des utilisateurs et les écarts de contenu courants.
 
-<figure>
+<br><figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
 src="/images/feedback-3.png" width="700">
 </figure>
@@ -56,6 +56,7 @@ src="/images/feedback-3.png" width="700">
 <summary>Le widget de rétroaction sur la page</summary>
 <p>Le widget affiche la question : « Avez-vous trouvé ce que vous cherchiez? » et propose des options oui et non.</p>
 </details>
+<br>
 
 En décembre 2020, lorsque Santé Canada a approuvé le premier vaccin contre la COVID-19, nous avons ajouté l’outil de rétroaction au bas des pages sur le vaccin. 
 Les commentaires que nous avons reçus ont immédiatement mis en évidence un écart de contenu majeur que nous n’aurions pas pu déceler uniquement sur la base de l’analyse des données. 
@@ -67,11 +68,33 @@ Citations :
 
 Entre le 11 et le 14 décembre, 60 % (87/144) des commentaires portaient sur la composition et les allergies. Devant ce constat, Santé Canada a ajouté la liste des ingrédients à la page le 14 décembre. Les commentaires sur les ingrédients de la page « Vaccin de Pfizer-BioNTech contre la COVID-19 : Ce que vous devez savoir » sont passés de 35 à deux par jour, après la publication de la liste des ingrédients par Santé Canada. 
 
-
-Date	Nombre de commentaires sur la composition et les allergies
-13 décembre 2020	35
-14 décembre 2020	16
-15 décembre 2020	2
+<br>
+<figure>
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
+src="/images/action-2.PNG" width="700">
+</figure>
+<details>
+<summary>Retour d'information sur la liste des ingrédients</summary>
+<table style="width:100%">
+  <tr>
+    <th>Date</th>
+    <th>Nombre de commentaires sur les ingrédients et les allergies</th> 
+  </tr>
+  <tr>
+    <td>13 décembre 2020</td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td>14 décembre 2020</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>15 décembre 2020</td>
+    <td>2</td>
+  </tr>
+</table>
+</details>
+<br>
 
 ### Utiliser la rétroaction pour apporter des améliorations itératives
 
@@ -92,11 +115,19 @@ Nous savions que nous devions mettre à disposition un accord sur la protection 
 
 Nous avons depuis mis à jour le modèle d’avis de confidentialité dans le système de conception, en nous appuyant sur les résultats de cette étude.
 
- Avis de confidentialité – Système de conception de Canada.ca
+[Avis de confidentialité – Système de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/avis-confidentialite.html)
 
+<div class="pattern-demo mrgn-bttm-md">
+	<details><summary>Avis de confidentialité</summary>
+		<p>Les renseignements personnels fournis sont régis conformément à la <cite>Loi sur la protection des renseignements personnels</cite>. Ces renseignements personnels sont recueillis dans le cadre de la réponse du gouvernement du Canada...</p>
 
+<p>[Incluez l'avis de confidentialité en entier dans la configuration afficher/masquer]</p>
+
+</details>
+</div>
 
 ### Valider les décisions de conception
+
 Lors de notre travail sur le contenu d’ArriveCAN, nous avons modifié conjointement le contenu pour résoudre les problèmes soulevés dans les commentaires des utilisateurs et observés pendant les tests d’utilisabilité. Après chaque mise à jour, nous avons constaté une baisse du nombre de commentaires sur la page de la rubrique en question. Cette méthode nous a ainsi permis de savoir que nous avions pris les bonnes décisions de conception.
 
 ## Mot de la fin
@@ -109,11 +140,11 @@ Un contenu qui ne répond pas aux attentes des visiteurs peut porter préjudice 
 *	Analysez les commentaires directs des utilisateurs afin que vos recommandations traitent le problème à la racine... sans faire de suppositions.
 
 ## Pour en savoir davantage
-*	Système de conception de Canada.ca
-*	Guide de rédaction du contenu du site Canada.ca
-*	Recueillir la rétroaction, trouver les problèmes
-*	Conception axée sur l’accessibilité
-*	Site Web ArriveCAN
+*	[Système de conception de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html)
+*	[Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
+*	[Recueillir la rétroaction, trouver les problèmes](https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html)
+*	[Conception axée sur l’accessibilité](https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html)
+*	[Site Web ArriveCAN](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/arrivecan.html)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor
 
