@@ -40,7 +40,9 @@ One way to manage a page with a lot of links is to look at click-through rates.
 <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/click-1.png" width="700">
 </figure>
+<details>
 <summary>Click-through rates on Canada.ca/Coronavirus from Jan. 1 - 30, 2020.</summary>
+</details>
 <br>
 
 The Canada.ca/coronavirus landing page has been a crucial door to everything from travel updates to financial aid, to vaccine updates. The page needed a strategy to ensure it stayed simple and effective. 
