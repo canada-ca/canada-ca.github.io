@@ -7,7 +7,7 @@ published: true
 draft: true
 lang: fr
 alt: "Exploiter les données pour améliorer le contenu"
-description: "Alors que 2021 pointe à l’horizon, la communauté #GCnumérique souhaiterait mettre en lumière certains des points positifs durant l’année qui se termine."
+description: "Nous avons voulu partager certaines de nos expériences les plus récentes en matière d'utilisation des données pour améliorer le fonctionnement de contenus importants."
 ---
 Dans l’univers du numérique, les façons de recueillir des données sur le contenu que vous publiez sont nombreuses. L’analyse de ces données peut vous permettre d’obtenir de précieux renseignements sur le comportement des visiteurs et ce qui les empêchent de réussir leur tâche. 
 
@@ -66,7 +66,7 @@ src="/images/feedback-3.png" width="700">
 </figure>
 <details>
 <summary>Le widget de rétroaction sur la page</summary>
-<p>Le widget affiche la question : « Avez-vous trouvé ce que vous cherchiez? » et propose des options oui et non.</p>
+<p>Le composant de rétroaction de la page se trouve au bas des principales pages web. Il affiche la question "Avez-vous trouvé ce que vous cherchiez ?" et propose un bouton "oui" et un bouton "non".</p>
 </details>
 <br>
 
