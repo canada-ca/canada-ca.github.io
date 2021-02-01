@@ -25,7 +25,19 @@ L’un des principaux objectifs du Bureau de la transformation numérique (BTN) 
 
 ## Les données peuvent révéler que vous avez besoin d’une conception destinée aux appareils mobiles 
 
-Parfois, la première version de conception d’une page Web ne reflète pas exactement la façon dont les internautes l’utilisent. À l’origine, sur la page Canada.ca/coronavirus, il y avait des tuiles et des graphiques pour présenter les six sujets relatifs à la pandémie de COVID-19. La conception était visuellement attrayante, mais avec l’augmentation du nombre de sujets, la consultation de la page sur un appareil mobile est devenue laborieuse. Le défilement était trop important. Les données ont révélé que près de 70 % des visiteurs utilisaient leur téléphone. 
+Parfois, la première version de conception d’une page Web ne reflète pas exactement la façon dont les internautes l’utilisent. 
+
+<br><figure>
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
+src="/images/click-2.png" width="700">
+</figure>
+<details>
+<summary>Le widget de rétroaction sur la page</summary>
+<p>Le widget affiche la question : « Avez-vous trouvé ce que vous cherchiez? » et propose des options oui et non.</p>
+</details>
+<br>
+
+À l’origine, sur la page Canada.ca/coronavirus, il y avait des tuiles et des graphiques pour présenter les six sujets relatifs à la pandémie de COVID-19. La conception était visuellement attrayante, mais avec l’augmentation du nombre de sujets, la consultation de la page sur un appareil mobile est devenue laborieuse. Le défilement était trop important. Les données ont révélé que près de 70 % des visiteurs utilisaient leur téléphone. 
 
 À partir de là, nous avons collaboré avec Santé Canada pour créer une nouvelle conception regroupant les liens par catégories dans des bandeaux avec une alternance de couleurs. Cette conception s’est avérée plus conviviale pour les utilisateurs de téléphone mobile, qui pouvaient consulter un plus grand nombre de liens sans avoir besoin de faire défiler le texte. Elle s’est également révélée plus souple et a permis à Santé Canada d’ajouter ou de supprimer facilement des catégories.
 
