@@ -33,7 +33,20 @@ The analytics data prompted us to make this simple but important change to the p
 
 ## Using click-through rates to curate links
 
-One way to manage a page with a lot of links is to look at click-through rates. The Canada.ca/coronavirus landing page has been a crucial door to everything from travel updates to financial aid, to vaccine updates. The page needed a strategy to ensure it stayed simple and effective. 
+One way to manage a page with a lot of links is to look at click-through rates. 
+
+<br>
+<figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/click-1.png" width="700">
+</figure>
+<details>
+<summary>Page Feedback Widget</summary>
+<p>The page feedback component  sits at the bottom of key web pages. It displays the question "Did you find what you were looking for?" and provides both a "yes" and "no" button.</p>
+</details>
+<br>
+
+The Canada.ca/coronavirus landing page has been a crucial door to everything from travel updates to financial aid, to vaccine updates. The page needed a strategy to ensure it stayed simple and effective. 
 
 The original mobile-friendly design in March 2020 had 15 links and 4 category bars. However, by September, the page had ballooned to 38 links in 7 bars. Looking at click-through rates we saw that ⅔ of the links were hardly used. 
 
