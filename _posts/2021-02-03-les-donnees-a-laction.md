@@ -40,8 +40,7 @@ Pour gérer une page contenant un grand nombre de liens, il convient d’examine
 src="/images/click-2.png" width="700">
 </figure>
 <details>
-<summary>Le widget de rétroaction sur la page</summary>
-<p>Le widget affiche la question : « Avez-vous trouvé ce que vous cherchiez? » et propose des options oui et non.</p>
+<summary>Taux de clics sur Canada.ca/Coronavirus du 1er au 30 janvier 2020.</summary>
 </details>
 <br>
 
