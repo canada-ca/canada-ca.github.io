@@ -37,7 +37,7 @@ Pour gérer une page contenant un grand nombre de liens, il convient d’examine
 
 En 2020, la première conception de la page destinée aux appareils mobiles comportait 15 liens et quatre bandeaux. En septembre 2020, la page comptait 38 liens répartis dans sept bandeaux. En regardant de plus près les taux de clics, nous avons constaté que le taux était faible sur près de deux tiers des liens. 
 
-> « Tout ce défilement est bien trop pénible sur un mobile! » --participant au test d’utilisabilité 
+> « Tout ce défilement est bien trop pénible sur un mobile! » -- participant au test d’utilisabilité 
 
 Nous avons donc travaillé avec Santé Canada pour réduire le nombre de liens sur la page. Si le taux de clics d’un lien est inférieur à 0,5 %, Santé Canada détermine s’il est temps de supprimer le lien de la page ou de le déplacer vers une page de moindre importance.  La page évolue ainsi en fonction de ce que les visiteurs recherchent réellement.
 
@@ -63,10 +63,9 @@ En décembre 2020, lorsque Santé Canada a approuvé le premier vaccin contre la
 
 Les commentaires que nous avons reçus ont immédiatement mis en évidence un contenu manquant important que nous n’aurions pas pu déceler uniquement sur la base de l’analyse des données. 
 
-Citations :
-« J’aurais aimé connaître la composition du vaccin car j’aimerais me faire vacciner, mais j’ai des allergies. » --participant au test d’utilisabilité
- « Je cherche les ingrédients de ce vaccin fabriqué par Pfizer. »
-« Où trouver la liste des ingrédients? »
+> « J’aurais aimé connaître la composition du vaccin car j’aimerais me faire vacciner, mais j’ai des allergies. » -- participant au test d’utilisabilité
+
+> « Je veux savoir les ingrédients de ce vaccin fabriqué par pfizer. »
 
 Entre le 11 et le 14 décembre, 60 % (87/144) des commentaires portaient sur la composition et les allergies. Devant ce constat, Santé Canada a ajouté la liste des ingrédients à la page le 14 décembre. Les commentaires sur les ingrédients de la page « Vaccin de Pfizer-BioNTech contre la COVID-19 : Ce que vous devez savoir » sont passés de 35 à deux par jour, après la publication de la liste des ingrédients par Santé Canada. 
 
