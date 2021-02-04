@@ -42,6 +42,40 @@ src="/images/click-1.png" width="700">
 </figure>
 <details>
 <summary>Click-through rates on Canada.ca/Coronavirus from Jan. 1 - 30, 2020.</summary>
+<table style="width:100%">
+  <tr>
+    <th>Label</th>
+    <th> Click-through rate </th> 
+  </tr>
+  <tr>
+    <td> Canada.ca </td>
+    <td>3,409</td>
+  </tr>
+  <tr>
+    <td> Covid-19 outbreak update </td>
+    <td>166,246</td>
+  </tr>
+  <tr>
+    <td> Latest announcements </td>
+    <td>68,690</td>
+  </tr>
+  <tr>
+    <td> Get email updates </td>
+    <td>3,214</td>
+  </tr>
+  <tr>
+    <td> Epidemiological and economic research data </td>
+    <td>12,319</td>
+  </tr>
+<tr>
+    <td> Canada’s response </td>
+    <td>4,619</td>
+  </tr>
+<tr>
+    <td> COVID Trends </td>
+    <td>2,417</td>
+  </tr>
+</table>
 </details>
 <br>
 
