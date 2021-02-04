@@ -41,6 +41,40 @@ src="/images/click-2.png" width="700">
 </figure>
 <details>
 <summary>Taux de clics sur Canada.ca/Coronavirus du 1er au 30 janvier 2020.</summary>
+<table style="width:100%">
+  <tr>
+    <th>Label</th>
+    <th>Taux de clics</th> 
+  </tr>
+  <tr>
+    <td>Canada.ca </td>
+    <td>593</td>
+  </tr>
+  <tr>
+    <td>Mise à jour de l'éclosion de COVID-19</td>
+    <td>19,184</td>
+  </tr>
+  <tr>
+    <td>Dernières annonces</td>
+    <td>7,607</td>
+  </tr>
+  <tr>
+    <td>Obtenir les nouvelles par courriel</td>
+    <td>603</td>
+  </tr>
+  <tr>
+    <td>Recherches et données épidémiologiques et économiques </td>
+    <td>1,140</td>
+  </tr>
+<tr>
+    <td>Réponse du Canada</td>
+    <td>421</td>
+  </tr>
+<tr>
+    <td>TendancesCOVID</td>
+    <td>245</td>
+  </tr>
+</table>
 </details>
 <br>
 
