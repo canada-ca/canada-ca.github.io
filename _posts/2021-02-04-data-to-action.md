@@ -127,6 +127,7 @@ The first thing that jumped out in this study was that screen reader users were 
 ### Data to action
 
 We knew that a privacy agreement had to be available, but we needed to find a better way to provide it.  We changed the approach and put the notice in an expand-collapse design. This way, it was available to those who wanted to read it, and didn’t create a barrier or extra step for everyone else, especially screen reader users.  
+
 We’ve since updated the disclaimers pattern in the design system to reflect the results of this study.
 
 [Privacy disclaimer - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/privacy-disclaimer.html)
