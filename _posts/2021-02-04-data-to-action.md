@@ -45,7 +45,7 @@ src="/images/click-1.png" width="700">
 <table style="width:100%">
   <tr>
     <th>Label</th>
-    <th> Click-through rate </th> 
+    <th>Click-through rate </th> 
   </tr>
   <tr>
     <td> Canada.ca </td>
@@ -56,23 +56,23 @@ src="/images/click-1.png" width="700">
     <td>166,246</td>
   </tr>
   <tr>
-    <td> Latest announcements </td>
+    <td>Latest announcements </td>
     <td>68,690</td>
   </tr>
   <tr>
-    <td> Get email updates </td>
+    <td>Get email updates </td>
     <td>3,214</td>
   </tr>
   <tr>
-    <td> Epidemiological and economic research data </td>
+    <td>Epidemiological and economic research data </td>
     <td>12,319</td>
   </tr>
 <tr>
-    <td> Canada’s response </td>
+    <td>Canada’s response </td>
     <td>4,619</td>
   </tr>
 <tr>
-    <td> COVID Trends </td>
+    <td>COVIDTrends </td>
     <td>2,417</td>
   </tr>
 </table>
