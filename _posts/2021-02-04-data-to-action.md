@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Using data to make better content"
-langpage: "https://blogue.canada.ca/2021/02/03/les-donnees-a-laction.html"
-date:   2021-02-03
+langpage: "https://blogue.canada.ca/2021/02/04/les-donnees-a-laction.html"
+date:   2021-02-04
 published: true
 draft: true
 lang: en
@@ -58,7 +58,7 @@ Looking at click-through rates can also help you refine link text to support bet
 
 ## Rich write-in feedback
 
-The Digital Transformation Office has been piloting better ways to get feedback from people on some COVID-19 top tasks since July. We’ve been experimenting with a new tool that invites people to provide feedback in their own words at the moment of completing a task. This sort of data can give you very rich insights about common frustrations or content gaps.
+The DTO has been piloting better ways to get feedback from people on some COVID-19 top tasks since July. We’ve been experimenting with a new tool that invites people to provide feedback in their own words at the moment of completing a task. This sort of data can give you very rich insights about common frustrations or content gaps.
 
 <br>
 <figure>
@@ -67,7 +67,7 @@ src="/images/feedback-1.png" width="700">
 </figure>
 <details>
 <summary>Page Feedback Widget</summary>
-<p>The page feedback component  sits at the bottom of key web pages. It displays the question "Did you find what you were looking for?" and provides both a "yes" and "no" button.</p>
+<p>The page feedback component sits at the bottom of key web pages. It displays the question "Did you find what you were looking for?" and provides both a "yes" and "no" button.</p>
 </details>
 <br>
 
@@ -76,7 +76,7 @@ The feedback we received immediately highlighted a major content gap that we wou
 
 > “I wanted to know the ingredients because I have an allergy and want to get the shot.” --usability testing participant
 
-> “where is the list of ingredients??”
+> “where is the list of ingredients??” --usability testing participant
 
 Between December 11 and 14, 60% (87/144) of comments were about ingredients and allergies. Seeing this user need in the data, Health Canada quickly added an ingredient list to the page on December 14. Feedback about ingredients on the Pfizer-BioNTech “What you should know” page went from 35 comments per day to 2 after Health Canada added the ingredient list. 
 
