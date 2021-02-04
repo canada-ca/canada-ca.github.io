@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Exploiter les données pour améliorer le contenu"
-langpage: "https://blog.canada.ca/2021/02/03/data-to-action.html"
-date: 2021-02-03
+langpage: "https://blog.canada.ca/2021/02/04/data-to-action.html"
+date: 2021-02-04
 published: true
 draft: true
 lang: fr
@@ -13,7 +13,7 @@ Dans l’univers du numérique, les façons de recueillir des données sur le co
 
 Les données peuvent vous aider dans les domaines suivants : 
 
-* identification de contenu manquant  ou de problèmes de compréhension liés à la page;
+* identification de contenu manquant ou de problèmes de compréhension liés à la page;
 * problèmes de navigation;
 * conception des pages (liens brisés);
 * interactions (ouvertures de session);
@@ -46,7 +46,7 @@ src="/images/click-2.png" width="700">
 
 La page d’accueil Canada.ca/coronavirus est la page de référence pour tout ce qui concerne les voyages, les aides financières et la vaccination. Il fallait trouver une stratégie pour que la page reste simple et efficace. 
 
-En 2020, la première conception de la page destinée aux appareils mobiles comportait 15 liens et quatre bandeaux. En septembre 2020, la page comptait 38 liens répartis dans sept bandeaux. En regardant de plus près les taux de clics, nous avons constaté que le taux était faible sur près de deux tiers des liens. 
+En 2020, la première conception de la page destinée aux appareils mobiles comportait 15 liens et 4 bandeaux. En septembre 2020, la page comptait 38 liens répartis dans 7 bandeaux. En regardant de plus près les taux de clics, nous avons constaté que le taux était faible sur près de deux tiers des liens. 
 
 > « Tout ce défilement est bien trop pénible sur un mobile! » -- participant au test d’utilisabilité 
 
@@ -58,7 +58,7 @@ L’examen du taux de clics peut également vous aider à rendre le texte de vos
 
 ## Une rétroaction écrite précieuse
 
-Depuis juillet, le Bureau de la transformation numérique met à l’essai des façons d’obtenir des commentaires de la part des visiteurs sur certaines tâches principales liées à la COVID-19. Nous avons expérimenté un nouvel outil qui invite les visiteurs à donner leur avis par écrit au moment d’accomplir une tâche. Ces données peuvent vous apporter de précieux renseignements sur les contrariétés courantes des utilisateurs et les contenus manquants.
+Depuis juillet, le BTN met à l’essai des façons d’obtenir des commentaires de la part des visiteurs sur certaines tâches principales liées à la COVID-19. Nous avons expérimenté un nouvel outil qui invite les visiteurs à donner leur avis par écrit au moment d’accomplir une tâche. Ces données peuvent vous apporter de précieux renseignements sur les contrariétés courantes des utilisateurs et les contenus manquants.
 
 <br><figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
@@ -76,7 +76,7 @@ Les commentaires que nous avons reçus ont immédiatement mis en évidence un co
 
 > « J’aurais aimé connaître la composition du vaccin car j’aimerais me faire vacciner, mais j’ai des allergies. » -- participant au test d’utilisabilité
 
-> « Je veux savoir les ingrédients de ce vaccin fabriqué par pfizer. »
+> « Je veux savoir les ingrédients de ce vaccin fabriqué par pfizer. » -- participant au test d’utilisabilité
 
 Entre le 11 et le 14 décembre, 60 % (87/144) des commentaires portaient sur la composition et les allergies. Devant ce constat, Santé Canada a ajouté la liste des ingrédients à la page le 14 décembre. Les commentaires sur les ingrédients de la page « Vaccin de Pfizer-BioNTech contre la COVID-19 : Ce que vous devez savoir » sont passés de 35 à deux par jour, après la publication de la liste des ingrédients par Santé Canada. 
 
