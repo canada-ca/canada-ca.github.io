@@ -78,7 +78,7 @@ Les commentaires que nous avons reçus ont immédiatement mis en évidence un co
 
 > « Je veux savoir les ingrédients de ce vaccin fabriqué par pfizer. » -- participant au test d’utilisabilité
 
-Entre le 11 et le 14 décembre, 60 % (87/144) des commentaires portaient sur la composition et les allergies. Devant ce constat, Santé Canada a ajouté la liste des ingrédients à la page le 14 décembre. Les commentaires sur les ingrédients de la page « Vaccin de Pfizer-BioNTech contre la COVID-19 : Ce que vous devez savoir » sont passés de 35 à deux par jour, après la publication de la liste des ingrédients par Santé Canada. 
+Entre le 11 et le 14 décembre, 60 % (87/144) des commentaires portaient sur la composition et les allergies. Devant ce constat, Santé Canada a ajouté la liste des ingrédients à la page le 14 décembre. Les commentaires sur les ingrédients de la page « Vaccin de Pfizer-BioNTech contre la COVID-19 : Ce que vous devez savoir » sont passés de 35 à 2 par jour, après la publication de la liste des ingrédients par Santé Canada. 
 
 <br>
 <figure>
@@ -118,11 +118,11 @@ Même si toutes les pages ne sont pas dotées de cet outil de rétroaction écri
 
 Il est important de garder à l’esprit que les données, quelle que soit la source, ne donnent pas de renseignements complets. Par exemple, les problèmes d’accessibilité sont parfois difficiles à reconnaître avec l’outil de rétroaction général, l’examen des cartes thermiques de clics et l’analyse des données. Les tests d’utilisabilité permettent toutefois d’obtenir des renseignements plus précis sur les visiteurs qui utilisent des dispositifs d’assistance, comme un lecteur d’écran ou une loupe.
 
-En novembre 2020, l’Agence de la santé publique du Canada (ASPC) a collaboré avec le BTN pour mener des tests d’utilisabilité sur le site Web ArriveCAN. Sur les 20 participants à l’étude, cinq utilisaient un dispositif d’assistance.
+En novembre 2020, l’Agence de la santé publique du Canada (ASPC) a collaboré avec le BTN pour mener des tests d’utilisabilité sur le site Web ArriveCAN. Sur les 20 participants à l’étude, 5 utilisaient un dispositif d’assistance.
  
 ### Obstacles pour les utilisateurs de lecteurs d’écran
 
-La premier constat de cette étude est que les utilisateurs de lecteurs d’écran étaient confrontés à un obstacle majeur dès leur arrivée sur le site ArriveCAN, en raison de l’énoncésur la protection des renseignements personnels. Cet énoncé demandait aux visiteurs de cocher une case pour donner leur accord avant de pouvoir poursuivre leur navigation. Les utilisateurs d’un lecteur d’écran se perdaient dans le texte de l’énoncé et ne parvenaient pas à cocher la case. Tous les participants ayant eu recours à un lecteur d’écran ont eu de la difficulté à franchir cette étape. Il a même fallu plus de trois minutes à l’un d’entre eux pour passer la page initiale de l’énoncé sur la protection des renseignements personnels. 
+La premier constat de cette étude est que les utilisateurs de lecteurs d’écran étaient confrontés à un obstacle majeur dès leur arrivée sur le site ArriveCAN, en raison de l’énoncésur la protection des renseignements personnels. Cet énoncé demandait aux visiteurs de cocher une case pour donner leur accord avant de pouvoir poursuivre leur navigation. Les utilisateurs d’un lecteur d’écran se perdaient dans le texte de l’énoncé et ne parvenaient pas à cocher la case. Tous les participants ayant eu recours à un lecteur d’écran ont eu de la difficulté à franchir cette étape. Il a même fallu plus de 3 minutes à l’un d’entre eux pour passer la page initiale de l’énoncé sur la protection des renseignements personnels. 
 
 ### Exploiter les données
 
