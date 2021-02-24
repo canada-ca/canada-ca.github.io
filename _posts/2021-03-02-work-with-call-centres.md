@@ -54,8 +54,19 @@ Testing these solutions showed positive results. People looked for the answers o
 src="/images/phone-2.png" width="700">
 </figure>
 <details>
-<summary>Page Feedback Widget</summary>
-<p>The page feedback component sits at the bottom of key web pages. It displays the question "Did you find what you were looking for?" and provides both a "yes" and "no" button.</p>
+<summary>Alert banner - before (over one full mobile screen)</summary>
+<p>Original alert banner text said "Contacting us during the COVID-19 pandemic" as the heading. It covered more than a full mobile screen, included a lot of text, several concepts  and multiple links.</p>
+</details>
+<br>
+
+<br>
+<figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/phone-2.PNG" width="700">
+</figure>
+<details>
+<summary>We put answers to the most-asked questions right at the top of the page, using the expand/collapse pattern.</summary>
+<p>Immediately below the shortened alert banner, a series of 5 expand/collapse fields provide the answers to the top questions - like "If you received two payments of $2000."</p>
 </details>
 <br>
 
