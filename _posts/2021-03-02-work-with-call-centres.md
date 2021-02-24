@@ -51,7 +51,7 @@ Testing these solutions showed positive results. People looked for the answers o
 <br>
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/alert-2.PNG" width="700">
+src="/images/alert-2.PNG" width="500">
 </figure>
 <details>
 <summary>Alert banner - before (over one full mobile screen)</summary>
