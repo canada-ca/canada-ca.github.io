@@ -74,15 +74,15 @@ As shown in the example above, the original page had two alerts that occupied mo
 
 [Canada.ca alerts and service disruptions](https://design.canada.ca/crisis/alerts.html)
 
-### 2.Put most requested items first
+### 2. Put most requested items first
 
 By shortening the alert text, the answers to top questions became visible on the first screen. Then we watched the analytics so we could respond quickly to what people were looking for. As we saw the needs changing, we changed the answers we included, and the order they appeared in.  
 
-### 3.Put wait times ahead of the phone numbers
+### 3. Put wait times ahead of the phone numbers
 
 To help reduce the volume of calls, we re-ordered some sections of the page. We put wait time information higher up and then moved information about how to call below answers to common questions.  This encouraged people to try to find the answers on the web page first.
 
-### 4.Give people answers where they are
+### 4. Give people answers where they are
 
 When we ask people to follow a link to read more information, we place an extra burden on them. When they have a choice between selecting a phone number that is right in front of them or taking another step, most choose what is right in front of them. The extra step and effort of clicking a link can be enough to discourage them. Keep it simple for users!
 
