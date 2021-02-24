@@ -48,6 +48,17 @@ Second, we tried putting answers to the most-asked questions right at the top of
 
 Testing these solutions showed positive results. People looked for the answers on the page and found them. 
 
+<br>
+<figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/phone-2.png" width="700">
+</figure>
+<details>
+<summary>Page Feedback Widget</summary>
+<p>The page feedback component sits at the bottom of key web pages. It displays the question "Did you find what you were looking for?" and provides both a "yes" and "no" button.</p>
+</details>
+<br>
+
 ## Analyzing call drivers daily 
 Service Canada launched the new page design and then prepared to adjust the content regularly based on needs.
 
