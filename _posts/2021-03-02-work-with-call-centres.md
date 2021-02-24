@@ -48,6 +48,17 @@ Second, we tried putting answers to the most-asked questions right at the top of
 
 Testing these solutions showed positive results. People looked for the answers on the page and found them. 
 
+<br>
+<figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/phone-2.png" width="700">
+</figure>
+<details>
+<summary>Page Feedback Widget</summary>
+<p>The page feedback component sits at the bottom of key web pages. It displays the question "Did you find what you were looking for?" and provides both a "yes" and "no" button.</p>
+</details>
+<br>
+
 ## Analyzing call drivers daily 
 Service Canada launched the new page design and then prepared to adjust the content regularly based on needs.
 
@@ -74,15 +85,15 @@ As shown in the example above, the original page had two alerts that occupied mo
 
 [Canada.ca alerts and service disruptions](https://design.canada.ca/crisis/alerts.html)
 
-### 2.Put most requested items first
+### 2. Put most requested items first
 
 By shortening the alert text, the answers to top questions became visible on the first screen. Then we watched the analytics so we could respond quickly to what people were looking for. As we saw the needs changing, we changed the answers we included, and the order they appeared in.  
 
-### 3.Put wait times ahead of the phone numbers
+### 3. Put wait times ahead of the phone numbers
 
 To help reduce the volume of calls, we re-ordered some sections of the page. We put wait time information higher up and then moved information about how to call below answers to common questions.  This encouraged people to try to find the answers on the web page first.
 
-### 4.Give people answers where they are
+### 4. Give people answers where they are
 
 When we ask people to follow a link to read more information, we place an extra burden on them. When they have a choice between selecting a phone number that is right in front of them or taking another step, most choose what is right in front of them. The extra step and effort of clicking a link can be enough to discourage them. Keep it simple for users!
 
