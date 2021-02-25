@@ -120,5 +120,3 @@ Plus vous collaborerez étroitement avec le personnel de première ligne de votr
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter :  #CanadaPointCa (français) / #CanadaDotCa (anglais)
 * Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-
-
