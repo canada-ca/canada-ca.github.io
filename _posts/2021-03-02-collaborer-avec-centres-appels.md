@@ -50,6 +50,28 @@ Les essais de ces solutions ont donné des résultats positifs. Les gens chercha
 
 Bannière d’alerte antérieure (sur un écran mobile complet)
 
+<br>
+<figure>
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
+src="/images/alert-2.PNG" width="500">
+</figure>
+<details>
+<summary>Bannière d’alerte antérieure - avant « sur un écran mobile complet »</summary>
+<p>Le texte original de la bannière d'alerte indiquait comme titre "Nous contacter pendant la pandémie COVID-19". Elle couvrait plus qu'un écran mobile complet, comprenait beaucoup de texte, plusieurs concepts et de multiples liens.</p>
+</details>
+<br>
+
+<br>
+<figure>
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
+src="/images/telephone-2.PNG" width="700">
+</figure>
+<details>
+<summary>Nous avons placé les réponses aux questions les plus posées tout en haut de la page, en utilisant le modèle d'expansion/réduction </summary>
+<p>Immédiatement en dessous de la bannière d'alerte raccourcie, une série de 5 champs de développement/réduction fournissent les réponses aux questions principales - comme "Si vous avez reçu deux paiements de 2000 $".</p>
+</details>
+<br>
+
 ## Analyse quotidienne des raisons des appels 
 
 Service Canada a lancé la nouvelle mise en page et s’est ensuite préparé à rajuster régulièrement le contenu en fonction des besoins.
