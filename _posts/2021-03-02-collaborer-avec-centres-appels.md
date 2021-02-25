@@ -13,9 +13,9 @@ La « conception avec les utilisateurs » fait partie des normes numériques
 
 Pour créer des services numériques qui fonctionnent pour les utilisateurs, il est essentiel de bien comprendre qui sont vos utilisateurs, quels sont leurs besoins et quelle sera l’incidence de votre service sur leur vie.
 
-Les agents des centres d’appels savent bien des choses de vos clients que vous devriez connaître, c’est-à-dire les plaintes, les griefs, les éloges, les avantages des produits et bien d’autres encore, et ce, sans filtrage. Ils constituent une source déjà existante d’informations précieuses provenant de vos nombreux publics cibles. 
+Les agents des centres d’appels savent bien des choses de vos clients que vous devriez connaître, c’est-à-dire les plaintes, les griefs, les éloges, les félicitations sur les produits et bien d’autres encore, et ce, sans filtrage. Ils constituent une source déjà existante d’informations précieuses provenant de vos nombreux publics cibles. 
 
-Que vous dirigiez un centre d’appels interne ou que vous externalisiez la gestion de votre centre d’appel en faisant appel à un partenaire de confiance, les **agents sont la clé** pour tirer parti des commentaires des clients. L’utilisation de ces données peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes.
+Que vous dirigiez un centre d’appels interne ou que vous externalisiez la gestion de votre centre d’appel en faisant appel par le biais d'un partenaire de confiance, les **agents sont la clé** pour tirer parti des commentaires des clients. L’utilisation de ces données peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes.
 
 Voici un exemple de la façon dont la collaboration avec le personnel du centre d’appels nous a permis d’améliorer rapidement le contenu pour offrir un meilleur service sur Canada.ca.
 
@@ -40,25 +40,24 @@ Nous avons utilisé l’analytique Web et les volumes d’appels au début du mo
 
 La page d’origine contenait un long message d’alerte dans la partie supérieure au sujet du temps d’attente pour les appels et des liens vers d’autres pages où l’on pouvait trouver des réponses. Nous avons supposé que les gens ne lisaient pas vraiment le long message d’alerte et qu’ils étaient réticents à quitter la page des coordonnées parce qu’ils avaient déjà décidé qu’ils devaient contacter quelqu’un. Ils n’étaient pas incités à chercher des réponses ailleurs, car un numéro de téléphone d’assistance se trouvait juste devant eux. 
 
-Nous avons prototypé deux idées, que nous avons ensuite mis à l’essai. 
+Nous avons prototypé deux idées, que nous avons ensuite mises à l’essai. 
 
 Tout d’abord, nous avons essayé une bannière d’alerte beaucoup plus petite en haut de la page. Le message d’alerte initial prenait plus qu’un écran complet d’un appareil mobile et comprenait des liens hors de la page. Le nouveau message d’alerte ne comportait qu’une seule phrase et invitait les gens à consulter les informations de la page pour obtenir une réponse avant de téléphoner. 
 
-Ensuite, nous avons essayé de placer les réponses aux questions les **plus fréquemment posées** en haut de la page, en utilisant le modèle « agrandir/réduire ». De cette façon, les gens n’avaient pas à quitter la page. Ils ne pouvaient qu’agrandir la réponse qu’ils souhaitaient obtenir. L’utilisation du modèle « agrandir/réduire » nous a permis d’avoir une page courte et simple, tout en fournissant le contenu dont les gens avaient le plus besoin.
+Ensuite, nous avons essayé de placer les réponses aux questions les **plus fréquemment posées** en haut de la page, en utilisant le modèle « afficher/masquer ». De cette façon, les gens n’avaient pas à quitter la page. Ils n’avaient qu’à aafficherla réponse qu’ils souhaitaient obtenir. L’utilisation du modèle « afficher/masquer » nous a permis d’avoir une page courte et simple, tout en fournissant le contenu dont les gens avaient le plus besoin.
 
 Les essais de ces solutions ont donné des résultats positifs. Les gens cherchaient les réponses sur la page et les trouvaient. 
 
 Bannière d’alerte antérieure (sur un écran mobile complet)
 
-
-## Analyse au quotidien des raisons des appels 
+## Analyse quotidienne des raisons des appels 
 
 Service Canada a lancé la nouvelle mise en page et s’est ensuite préparé à rajuster régulièrement le contenu en fonction des besoins.
 
 Chaque matin, Service Canada a fourni à l’équipe de projet une liste des principales questions de la veille. Nous les avons analysées pour voir si nous pouvions contribuer à réduire le nombre d’appels et de courriels en ajoutant des réponses aux questions les plus courantes.
 
 Chaque jour, nous avons également utilisé l’analytique Web pour voir quelles réponses suscitaient le plus d’intérêt. Nous avons examiné :
-* l’utilisation des sections agrandir/réduire de la page (celles-ci comportaient des détails supplémentaires pour des tâches spécifiques);
+* l’utilisation des sections afficher/masquer de la page (celles-ci comportaient des détails supplémentaires pour des tâches spécifiques);
 * les taux de clics pour les liens vers le contenu de soutien;
 * les courriels envoyés au moyen du formulaire des coordonnées.
 
@@ -98,7 +97,7 @@ Lorsque les utilisateurs ont **déjà pris la décision de vous contacter direct
 
 > « Si le processus de collecte des commentaires des clients est inexistant ou mal conçu, les informations de vos clients passeront inaperçues. Les agents peuvent avoir en main les informations que vous souhaitez obtenir, mais il n’existe aucun processus pour les transmettre en amont de la chaîne d’approvisionnement, ce qui peut sembler un peu simple et évident, mais qui peut être difficile à exécuter correctement ».  -- Agent du centre d’appels, Service Canada
 
-Les équipes Web et les centres d’appel doivent travailler ensemble pour améliorer la conception des services. Tout commence en permettant à vos agents de recueillir des commentaires et en veillant à ces commentaires puissent circuler librement, sans entrave, vers les équipes de direction qui peuvent mettre en œuvre le changement.  
+Les équipes Web et les centres d’appel doivent travailler ensemble pour améliorer la conception des services. Tout commence en permettant à vos agents de recueillir des commentaires et en veillant à ce que ces commentaires puissent circuler librement, sans entrave, vers les équipes de direction qui peuvent mettre en œuvre le changement.  
 
 Merci, Service Canada, d’avoir agi rapidement et d’avoir su répondre aux besoins changeants du public.
 
