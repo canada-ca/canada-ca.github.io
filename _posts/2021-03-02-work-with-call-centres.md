@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The importance of working with call centres"
-langpage: "https://blogue.canada.ca/2021/02/04/les-donnees-a-laction.html"
+langpage: "https://blogue.canada.ca/2021/03/02/collaborer-avec-centres-appels.html"
 date:   2021-03-02
 published: true
 draft: true
@@ -44,7 +44,7 @@ We prototyped and tested two ideas.
 
 First, we tried a much smaller alert banner at the top of the page. The original alert took more than a full mobile screen and included links away from the page. The new alert was a single sentence. It encouraged people to look at the information on the page for their answer before calling. 
 
-Second, we tried putting answers to the most-asked questions right at the top of the page, using the expand/collapse pattern. This way, people didn’t have to leave the page. They could expand only the answer they were actually looking for. Using the expand/collapse pattern meant we could keep the page short and simple, while providing the content that people needed most. 
+Second, we tried putting answers to the **most-asked** questions right at the top of the page, using the expand/collapse pattern. This way, people didn’t have to leave the page. They could expand only the answer they were actually looking for. Using the expand/collapse pattern meant we could keep the page short and simple, while providing the content that people needed most. 
 
 Testing these solutions showed positive results. People looked for the answers on the page and found them. 
 
