@@ -61,6 +61,7 @@ Chaque jour, nous avons également utilisé l’analytique Web pour voir quelles
 * l’utilisation des sections agrandir/réduire de la page (celles-ci comportaient des détails supplémentaires pour des tâches spécifiques);
 * les taux de clics pour les liens vers le contenu de soutien;
 * les courriels envoyés au moyen du formulaire des coordonnées.
+
 En combinant les données quotidiennes du centre d’appel avec l’analytique Web, nous avons pu itérer et affiner les réponses fournies sur la page. 
 
 Après avoir mis en œuvre cette solution, nous avons constaté que seulement 17 % des visiteurs de la page avaient soumis une demande par courrier électronique, ce qui s’avérait être moins de la moitié du taux précédent. 
@@ -95,7 +96,7 @@ Lorsque les utilisateurs ont **déjà pris la décision de vous contacter direct
 
 ## Mise en œuvre du changement
 
-« Si le processus de collecte des commentaires des clients est inexistant ou mal conçu, les informations de vos clients passeront inaperçues. Les agents peuvent avoir en main les informations que vous souhaitez obtenir, mais il n’existe aucun processus pour les transmettre en amont de la chaîne d’approvisionnement, ce qui peut sembler un peu simple et évident, mais qui peut être difficile à exécuter correctement ».  -- Agent du centre d’appels, Service Canada
+> « Si le processus de collecte des commentaires des clients est inexistant ou mal conçu, les informations de vos clients passeront inaperçues. Les agents peuvent avoir en main les informations que vous souhaitez obtenir, mais il n’existe aucun processus pour les transmettre en amont de la chaîne d’approvisionnement, ce qui peut sembler un peu simple et évident, mais qui peut être difficile à exécuter correctement ».  -- Agent du centre d’appels, Service Canada
 
 Les équipes Web et les centres d’appel doivent travailler ensemble pour améliorer la conception des services. Tout commence en permettant à vos agents de recueillir des commentaires et en veillant à ces commentaires puissent circuler librement, sans entrave, vers les équipes de direction qui peuvent mettre en œuvre le changement.  
 
