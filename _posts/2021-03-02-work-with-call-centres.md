@@ -62,7 +62,7 @@ src="/images/alert-2.PNG" width="500">
 <br>
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/phone-2.PNG" width="700">
+src="/images/phone-3.PNG" width="700">
 </figure>
 <details>
 <summary>We put answers to the most-asked questions right at the top of the page, using the expand/collapse pattern.</summary>
