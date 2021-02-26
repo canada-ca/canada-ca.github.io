@@ -13,7 +13,7 @@ description: "We wanted to share some of our most recent experiences with using 
 
 A key part of building digital services that work for users is developing a good understanding of who your users are, what their needs are and how your service will impact their lives.
 
-Call centre agents are privy to the good stuff – all of your customers’ unfiltered complaints, grievances, praise, product blessings, and much, much more.  They are an already-existing source of valuable insights from your many audiences. 
+Call centre agents are privy to the good stuff – all of your customers’ unfiltered complaints, grievances, praise, product blessings, and much, much more. They are an existing source of valuable insights from your many audiences. 
 
 Whether you run an in-house call center or outsource your call center to a trusted partner, **agents are the key** to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind.
 
