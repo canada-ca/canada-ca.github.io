@@ -9,7 +9,7 @@ lang: fr
 alt: "L’importance de collaborer avec les centres d’appels"
 description: "Nous avons voulu partager certaines de nos expériences les plus récentes en matière d'utilisation des données pour améliorer le fonctionnement de contenus importants."
 ---
-La « conception avec les utilisateurs » fait partie des normes numériques du gouvernement du Canada. Cela dit, comment concevoir avec les utilisateurs lorsque vous devez composer avec des délais serrés et des contraintes financières? Collaborez avec vos centres d’appels.
+La «&nbsp;conception avec les utilisateurs&nbsp;» fait partie des normes numériques du gouvernement du Canada. Cela dit, comment concevoir avec les utilisateurs lorsque vous devez composer avec des délais serrés et des contraintes financières? Collaborez avec vos centres d’appels.
 
 Pour créer des services numériques qui fonctionnent pour les utilisateurs, il est essentiel de bien comprendre qui sont vos utilisateurs, quels sont leurs besoins et quelle sera l’incidence de votre service sur leur vie.
 
@@ -46,7 +46,7 @@ Nous avons prototypé deux idées, que nous avons ensuite mises à l’essai.
 
 Tout d’abord, nous avons essayé une bannière d’alerte beaucoup plus petite en haut de la page. Le message d’alerte initial prenait plus qu’un écran complet d’un appareil mobile et comprenait des liens hors de la page. Le nouveau message d’alerte ne comportait qu’une seule phrase et invitait les gens à consulter les informations de la page pour obtenir une réponse avant de téléphoner. 
 
-Ensuite, nous avons essayé de placer les réponses aux questions les **plus fréquemment posées** en haut de la page, en utilisant le modèle « afficher/masquer ». De cette façon, les gens n’avaient pas à quitter la page. Ils n’avaient qu’à aafficherla réponse qu’ils souhaitaient obtenir. L’utilisation du modèle « afficher/masquer » nous a permis d’avoir une page courte et simple, tout en fournissant le contenu dont les gens avaient le plus besoin.
+Ensuite, nous avons essayé de placer les réponses aux questions les **plus fréquemment posées** en haut de la page, en utilisant le modèle «&nbsp;afficher/masquer&nbsp;». De cette façon, les gens n’avaient pas à quitter la page. Ils n’avaient qu’à aafficherla réponse qu’ils souhaitaient obtenir. L’utilisation du modèle «&nbsp;afficher/masquer&nbsp;» nous a permis d’avoir une page courte et simple, tout en fournissant le contenu dont les gens avaient le plus besoin.
 
 Les essais de ces solutions ont donné des résultats positifs. Les gens cherchaient les réponses sur la page et les trouvaient. 
 
@@ -107,13 +107,13 @@ En raccourcissant le message d’alerte, il était possible de voir les réponse
 
 ### 3.	Placez le temps d’attente avant les numéros de téléphone
 
-Afin de réduire le volume d’appels, nous avons réorganisé certaines sections de la page. Nous avons placé les informations sur le temps d’attente plus haut et avons ensuite déplacé les informations sur la façon de téléphoner en dessous des réponses aux questions les plus courantes.  Les gens étaient ainsi incités à essayer de trouver les réponses sur la page Web en premier lieu.
+Afin de réduire le volume d’appels, nous avons réorganisé certaines sections de la page. Nous avons placé les informations sur le temps d’attente plus haut et avons ensuite déplacé les informations sur la façon de téléphoner en dessous des réponses aux questions les plus courantes. Les gens étaient ainsi incités à essayer de trouver les réponses sur la page Web en premier lieu.
 
 ### 4.	Donnez aux gens les réponses là où ils se trouvent
 
 Lorsque nous demandons aux gens de suivre un lien pour obtenir plus d’informations, nous leur imposons une charge supplémentaire. Lorsqu’ils ont le choix entre composer un numéro de téléphone qui se trouve juste devant eux ou franchir une autre étape, la plupart choisissent ce qui se trouve juste devant eux. L’étape supplémentaire et l’effort que représente le fait de cliquer sur un lien peuvent suffire à les décourager. Facilitez la tâche des utilisateurs.
 
-Lorsque les utilisateurs ont **déjà pris la décision de vous contacter directement**, songez à mettre les **réponses** aux questions les plus importantes **sur une page « Contactez-nous »**. 
+Lorsque les utilisateurs ont **déjà pris la décision de vous contacter directement**, songez à mettre les **réponses** aux questions les plus importantes **sur une page «&nbsp;Contactez-nous&nbsp;»**. 
 
 [Éviter les FAQ, à une exception près (article de blogue)](https://blogue.canada.ca/2020/05/25/eviter-les-faq.html)
 
