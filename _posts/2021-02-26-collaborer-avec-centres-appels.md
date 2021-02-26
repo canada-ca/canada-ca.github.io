@@ -13,6 +13,8 @@ La « conception avec les utilisateurs » fait partie des normes numériques
 
 Pour créer des services numériques qui fonctionnent pour les utilisateurs, il est essentiel de bien comprendre qui sont vos utilisateurs, quels sont leurs besoins et quelle sera l’incidence de votre service sur leur vie.
 
+Travaillez-vous avec vos centres d'appel ?
+
 Les agents des centres d’appels savent bien des choses de vos clients que vous devriez connaître, c’est-à-dire les plaintes, les griefs, les éloges, les félicitations sur les produits et bien d’autres encore, et ce, sans filtrage. Ils constituent une source existante d’informations précieuses provenant de vos nombreux publics cibles. 
 
 Que vous dirigiez un centre d’appels interne ou que vous externalisiez la gestion de votre centre d’appel en faisant appel par le biais d'un partenaire de confiance, les **agents sont la clé** pour tirer parti des commentaires des clients. L’utilisation de ces données peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes.
@@ -23,9 +25,9 @@ Voici un exemple de la façon dont la collaboration avec le personnel du centre 
 
 À la fin mars 2020, les centres d’appels ont reçu de nombreux appels et courriels au sujet de l’assurance-emploi (AE) et de la Prestation canadienne d’urgence (PCU). Le centre d’appels du numéro principal 1-800 O-Canada du gouvernement du Canada a reçu le plus grand nombre d’appels et Service Canada, le plus grand nombre de courriels. 
 
-Les centres d’appels débordés faisaient les manchettes, car les Canadiens inquiets devaient attendre des heures pour obtenir l’aide dont ils avaient besoin. Il a donc fallu agir rapidement. 
+Le fait que les centres d'appels soient débordés faisait la une des journaux, car les Canadiens inquiets attendaient pendant des heures pour obtenir de l'aide sur leur dossier. Il fallait donc agir rapidement.  
 
-Service Canada a demandé l’aide du Bureau de la transformation numérique (BTN) pour améliorer ses pages de coordonnées de téléphone et de courriel. Service Canada voulait tabler sur le succès que nous avions eu dans le cadre du travail sur les pages de coordonnées avec l’Agence du revenu du Canada (ARC) qui visaient à orienter les gens vers les bonnes informations en ligne.
+Service Canada a demandé l'aide du Bureau de la transformation numérique (DTO) pour améliorer ses pages de coordonnées par téléphone et par courriel. L’objectif était d'encourager les personnes qui visitent le site web à adopter un comportement plus libre-service. Ils voulaient s'appuyer sur le succès que nous avions eu en travaillant sur les pages de coordonnées avec l'Agence du revenu du Canada (ARC), dans l'espoir de réduire le volume d'appels.
 
 ## Les centres d’appels débordés ne font plaisir à personne
 
@@ -53,7 +55,7 @@ Bannière d’alerte antérieure (sur un écran mobile complet)
 <br>
 <figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/alert-2.PNG" width="500">
+src="/images/alerte-3.png" width="500">
 </figure>
 <details>
 <summary>Bannière d’alerte antérieure - avant « sur un écran mobile complet »</summary>
