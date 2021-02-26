@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The importance of working with call centres"
-langpage: "https://blogue.canada.ca/2021/03/02/collaborer-avec-centres-appels.html"
+langpage: "https://blogue.canada.ca/2021/02/26/collaborer-avec-centres-appels.html"
 date:   2021-02-26
 published: true
 draft: true
@@ -57,7 +57,7 @@ src="/images/alert-2.PNG" width="400">
 </figure>
 <details>
 <summary>Alert banner - before (over one full mobile screen)</summary>
-<p>Original alert banner text said "Contacting us during the COVID-19 pandemic" as the heading. It covered more than a full mobile screen, included a lot of text, several concepts  and multiple links.</p>
+<p>Original alert banner text said "Contacting us during the COVID-19 pandemic" as the heading. It covered more than a full mobile screen, included a lot of text, several concepts and multiple links.</p>
 </details>
 <br>
 
@@ -118,7 +118,7 @@ When users have **already made the decision to contact you directly**, consider 
 
 > “If the process to collect customer feedback is non-existent or poorly designed, your customers’ insights arrive at a dead-end. Agents may have the insights you desire, but there’s no process to deliver it up the food chain. This may seem a bit simple and obvious, but can be difficult to execute correctly.” -- call centre agent, Service Canada
 
-Web teams and call centres need to work together to improve service design.It all begins with enabling your agents to collect feedback and ensuring it can flow freely, uninhibited to management teams can enact change.  
+Web teams and call centres need to work together to improve service design. It all begins with enabling your agents to collect feedback and ensuring it can flow freely, uninhibited to management teams can enact change.  
 
 Thank you, Service Canada, for taking swift action and being responsive to the changing needs of the public!
 
