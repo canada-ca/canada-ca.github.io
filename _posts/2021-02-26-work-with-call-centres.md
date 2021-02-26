@@ -7,7 +7,7 @@ published: true
 draft: true
 lang: en
 alt: "The importance of working with call centres"
-description: "We wanted to share some of our most recent experiences with using data to make important content work better."
+description: "Whether you run an in-house call center or outsource your call center to a trusted partner, agents are the key to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind."
 ---
 “Design with users” is one of the Government of Canada’s Digital Standards. But how do you design with users when you’re under the pressure of tight deadlines and financial constraints? 
 
