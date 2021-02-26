@@ -13,7 +13,7 @@ La « conception avec les utilisateurs » fait partie des normes numériques
 
 Pour créer des services numériques qui fonctionnent pour les utilisateurs, il est essentiel de bien comprendre qui sont vos utilisateurs, quels sont leurs besoins et quelle sera l’incidence de votre service sur leur vie.
 
-Les agents des centres d’appels savent bien des choses de vos clients que vous devriez connaître, c’est-à-dire les plaintes, les griefs, les éloges, les félicitations sur les produits et bien d’autres encore, et ce, sans filtrage. Ils constituent une source déjà existante d’informations précieuses provenant de vos nombreux publics cibles. 
+Les agents des centres d’appels savent bien des choses de vos clients que vous devriez connaître, c’est-à-dire les plaintes, les griefs, les éloges, les félicitations sur les produits et bien d’autres encore, et ce, sans filtrage. Ils constituent une source existante d’informations précieuses provenant de vos nombreux publics cibles. 
 
 Que vous dirigiez un centre d’appels interne ou que vous externalisiez la gestion de votre centre d’appel en faisant appel par le biais d'un partenaire de confiance, les **agents sont la clé** pour tirer parti des commentaires des clients. L’utilisation de ces données peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes.
 
