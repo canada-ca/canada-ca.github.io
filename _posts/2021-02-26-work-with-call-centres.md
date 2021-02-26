@@ -27,7 +27,7 @@ At the end of March 2020, there were a lot of calls and emails coming into all c
 
 The fact that call centres were swamped was making the news, as worried Canadians waited for hours to get help with their cases.  This called for swift action. 
 
-Service Canada asked for help from the Digital Transformation Office (DTO) to improve their phone and email contact pages to try to encourage more self-serve behaviour from people visiting the web site. They wanted to build on success we had had working on contact pages with the Canada Revenue Agency (CRA), in the hopes of reducing call volumes.
+Service Canada asked for help from the Digital Transformation Office (DTO) to improve their phone and email contact pages. The objective was to encourage more self-serve behaviour from people visiting the web site. They wanted to build on success we had had working on contact pages with the Canada Revenue Agency (CRA), in the hopes of reducing call volumes.
 
 ## Swamped call centres don’t make anyone happy
 
@@ -118,7 +118,7 @@ When users have **already made the decision to contact you directly**, consider 
 
 > “If the process to collect customer feedback is non-existent or poorly designed, your customers’ insights arrive at a dead-end. Agents may have the insights you desire, but there’s no process to deliver it up the food chain. This may seem a bit simple and obvious, but can be difficult to execute correctly.” -- call centre agent, Service Canada
 
-Web teams and call centres need to work together to improve service design. It all begins with enabling your agents to collect feedback and ensuring it can flow freely, uninhibited to management teams can enact change.  
+Web teams and call centres need to work together to improve service design. It all begins with enabling your agents to collect feedback and ensuring it can flow freely, uninhibited to management teams who can enact change.  
 
 Thank you, Service Canada, for taking swift action and being responsive to the changing needs of the public!
 
