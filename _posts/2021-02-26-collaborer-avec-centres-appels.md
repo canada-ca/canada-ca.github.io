@@ -55,7 +55,7 @@ Bannière d’alerte antérieure (sur un écran mobile complet)
 <br>
 <figure>
 <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/alerte-3.PNG" width="500">
+src="/images/alerte-3.png" width="500">
 </figure>
 <details>
 <summary>Bannière d’alerte antérieure - avant « sur un écran mobile complet »</summary>
