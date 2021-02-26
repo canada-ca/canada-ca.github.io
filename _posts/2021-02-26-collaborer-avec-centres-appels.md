@@ -7,7 +7,7 @@ published: true
 draft: true
 lang: fr
 alt: "L’importance de collaborer avec les centres d’appels"
-description: "Nous avons voulu partager certaines de nos expériences les plus récentes en matière d'utilisation des données pour améliorer le fonctionnement de contenus importants."
+description: "Que vous dirigiez un centre d’appels interne ou que vous externalisiez la gestion de votre centre d’appel en faisant appel par le biais d'un partenaire de confiance, les agents sont la clé pour tirer parti des commentaires des clients. L’utilisation de ces données peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes."
 ---
 La «&nbsp;conception avec les utilisateurs&nbsp;» fait partie des normes numériques du gouvernement du Canada. Cela dit, comment concevoir avec les utilisateurs lorsque vous devez composer avec des délais serrés et des contraintes financières? Collaborez avec vos centres d’appels.
 
