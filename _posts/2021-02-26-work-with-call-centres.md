@@ -2,18 +2,20 @@
 layout: post
 title:  "The importance of working with call centres"
 langpage: "https://blogue.canada.ca/2021/03/02/collaborer-avec-centres-appels.html"
-date:   2021-03-02
+date:   2021-02-26
 published: true
 draft: true
 lang: en
 alt: "The importance of working with call centres"
 description: "We wanted to share some of our most recent experiences with using data to make important content work better."
 ---
-“Design with users” is one of the Government of Canada’s Digital Standards. But how do you design with users when you’re under the pressure of tight deadlines and financial constraints? Work with your call centres. 
+“Design with users” is one of the Government of Canada’s Digital Standards. But how do you design with users when you’re under the pressure of tight deadlines and financial constraints? 
 
 A key part of building digital services that work for users is developing a good understanding of who your users are, what their needs are and how your service will impact their lives.
 
-Call centre agents are privy to the good stuff – all of your customers’ unfiltered complaints, grievances, praise, product blessings, and much, much more.  They are an already-existing source of valuable insights from your many audiences. 
+Are you working with your call centres?
+
+Call centre agents are privy to the good stuff – all of your customers’ unfiltered complaints, grievances, praise, product blessings, and much, much more. They are an existing source of valuable insights from your many audiences. 
 
 Whether you run an in-house call center or outsource your call center to a trusted partner, **agents are the key** to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind.
 
@@ -23,9 +25,9 @@ Here is an example of how working with call centre staff helped us make quick co
 
 At the end of March 2020, there were a lot of calls and emails coming into all call centres about Employment Insurance (EI) and the Canada Emergency Response Benefit (CERB). The highest volumes were coming into the Government of Canada’s main 1-800 O Canada number and email managed by Service Canada. 
 
-The swamped call centres were making the news as worried Canadians waited for hours to get help with their cases. This called for swift action. 
+The fact that call centres were swamped was making the news, as worried Canadians waited for hours to get help with their cases.  This called for swift action. 
 
-Service Canada asked for help from the Digital Transformation Office (DTO) to improve their phone and email contact pages. They wanted to build on success we had had working on contact pages with the Canada Revenue Agency (CRA) to divert people to the correct information online.
+Service Canada asked for help from the Digital Transformation Office (DTO) to improve their phone and email contact pages to try to encourage more self-serve behaviour from people visiting the web site. They wanted to build on success we had had working on contact pages with the Canada Revenue Agency (CRA), in the hopes of reducing call volumes.
 
 ## Swamped call centres don’t make anyone happy
 
@@ -51,7 +53,7 @@ Testing these solutions showed positive results. People looked for the answers o
 <br>
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/alert-2.PNG" width="500">
+src="/images/alert-2.PNG" width="400">
 </figure>
 <details>
 <summary>Alert banner - before (over one full mobile screen)</summary>
