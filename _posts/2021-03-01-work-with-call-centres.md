@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The importance of working with call centres"
-langpage: "https://blogue.canada.ca/2021/02/26/collaborer-avec-centres-appels.html"
-date:   2021-02-26
+langpage: "https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html"
+date:   2021-03-01
 published: true
 draft: true
 lang: en
