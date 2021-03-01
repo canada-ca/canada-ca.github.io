@@ -133,7 +133,7 @@ The more closely you collaborate with your frontline call centre staff, the more
 * [Using data to make better content](https://blog.canada.ca/2021/02/04/data-to-action.html)
 * [Avoiding FAQs, with one exception](https://blog.canada.ca/2020/05/25/avoiding-faqs.html)
 * [Canada.ca alerts and service disruptions](https://design.canada.ca/crisis/alerts.html)
-* [Government of Canada Digital Standards](https://design.canada.ca/crisis/alerts.html)
+* [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 * [Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
