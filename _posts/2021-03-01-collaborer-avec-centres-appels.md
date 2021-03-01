@@ -46,7 +46,7 @@ Nous avons prototypé deux idées, que nous avons ensuite mises à l’essai.
 
 Tout d’abord, nous avons essayé une bannière d’alerte beaucoup plus petite en haut de la page. Le message d’alerte initial prenait plus qu’un écran complet d’un appareil mobile et comprenait des liens hors de la page. Le nouveau message d’alerte ne comportait qu’une seule phrase et invitait les gens à consulter les informations de la page pour obtenir une réponse avant de téléphoner. 
 
-Ensuite, nous avons essayé de placer les réponses aux questions les **plus fréquemment posées** en haut de la page, en utilisant le modèle «&nbsp;afficher/masquer&nbsp;». De cette façon, les gens n’avaient pas à quitter la page. Ils n’avaient qu’à aafficherla réponse qu’ils souhaitaient obtenir. L’utilisation du modèle «&nbsp;afficher/masquer&nbsp;» nous a permis d’avoir une page courte et simple, tout en fournissant le contenu dont les gens avaient le plus besoin.
+Ensuite, nous avons essayé de placer les réponses aux questions les **plus fréquemment posées** en haut de la page, en utilisant le modèle «&nbsp;afficher/masquer&nbsp;». De cette façon, les gens n’avaient pas à quitter la page. Ils n’avaient qu’à afficher la réponse qu’ils souhaitaient obtenir. L’utilisation du modèle «&nbsp;afficher/masquer &nbsp;» nous a permis d’avoir une page courte et simple, tout en fournissant le contenu dont les gens avaient le plus besoin.
 
 Les essais de ces solutions ont donné des résultats positifs. Les gens cherchaient les réponses sur la page et les trouvaient. 
 
@@ -69,7 +69,7 @@ src="/images/alerte-3.png" width="500">
 src="/images/telephone-2.PNG" width="700">
 </figure>
 <details>
-<summary>Nous avons placé les réponses aux questions les plus posées tout en haut de la page, en utilisant le modèle d'expansion/réduction </summary>
+<summary>Nous avons placé les réponses aux questions les plus posées tout en haut de la page, en utilisant le modèle d'afficher/masquer </summary>
 <p>Immédiatement en dessous de la bannière d'alerte raccourcie, une série de 5 champs de développement/réduction fournissent les réponses aux questions principales - comme "Si vous avez reçu deux paiements de 2000 $".</p>
 </details>
 <br>
