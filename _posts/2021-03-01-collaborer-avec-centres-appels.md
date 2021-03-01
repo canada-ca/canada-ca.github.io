@@ -70,7 +70,7 @@ src="/images/telephone-2.PNG" width="700">
 </figure>
 <details>
 <summary>Nous avons placé les réponses aux questions les plus posées tout en haut de la page, en utilisant le modèle afficher/masquer</summary>
-<p>Immédiatement en dessous de la bannière d'alerte raccourcie, une série de 5 champs d'afficher/masquer fournissent les réponses aux questions principales - comme "Si vous avez reçu deux paiements de 2000 $".</p>
+<p>Immédiatement en dessous de la bannière d'alerte raccourcie, une série de 7 champs d'afficher/masquer fournissent les réponses aux questions principales - comme "Dois-je faire une nouvelle demande de PCU?".</p>
 </details>
 <br>
 
