@@ -69,8 +69,8 @@ src="/images/alerte-3.png" width="500">
 src="/images/telephone-2.PNG" width="700">
 </figure>
 <details>
-<summary>Nous avons placé les réponses aux questions les plus posées tout en haut de la page, en utilisant le modèle d'afficher/masquer </summary>
-<p>Immédiatement en dessous de la bannière d'alerte raccourcie, une série de 5 champs de développement/réduction fournissent les réponses aux questions principales - comme "Si vous avez reçu deux paiements de 2000 $".</p>
+<summary>Nous avons placé les réponses aux questions les plus posées tout en haut de la page, en utilisant le modèle afficher/masquer</summary>
+<p>Immédiatement en dessous de la bannière d'alerte raccourcie, une série de 5 champs d'afficher/masquer fournissent les réponses aux questions principales - comme "Si vous avez reçu deux paiements de 2000 $".</p>
 </details>
 <br>
 
