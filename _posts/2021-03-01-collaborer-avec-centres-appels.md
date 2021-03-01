@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "L’importance de collaborer avec les centres d’appels"
-langpage: "https://blog.canada.ca/2021/02/26/work-with-call-centres.html"
-date: 2021-02-26
+langpage: "https://blog.canada.ca/2021/03/01/work-with-call-centres.html"
+date: 2021-03-01
 published: true
 draft: true
 lang: fr
