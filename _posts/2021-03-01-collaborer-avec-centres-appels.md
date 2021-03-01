@@ -27,7 +27,7 @@ Voici un exemple de la façon dont la collaboration avec le personnel du centre 
 
 Le fait que les centres d'appels soient débordés faisait la une des journaux, car les Canadiens inquiets attendaient pendant des heures pour obtenir de l'aide sur leur dossier. Il fallait donc agir rapidement.  
 
-Service Canada a demandé l'aide du Bureau de la transformation numérique (DTO) pour améliorer ses pages de coordonnées par téléphone et par courriel. L’objectif était d'encourager les personnes qui visitent le site web à adopter un comportement plus libre-service. Ils voulaient s'appuyer sur le succès que nous avions eu en travaillant sur les pages de coordonnées avec l'Agence du revenu du Canada (ARC), dans l'espoir de réduire le volume d'appels.
+Service Canada a demandé l'aide du Bureau de la transformation numérique (BTN) pour améliorer ses pages de coordonnées par téléphone et par courriel. L’objectif était d'encourager les personnes qui visitent le site web à adopter un comportement plus libre-service. Ils voulaient s'appuyer sur le succès que nous avions eu en travaillant sur les pages de coordonnées avec l'Agence du revenu du Canada (ARC), dans l'espoir de réduire le volume d'appels.
 
 ## Les centres d’appels débordés ne font plaisir à personne
 
