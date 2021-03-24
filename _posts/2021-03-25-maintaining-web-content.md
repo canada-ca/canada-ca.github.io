@@ -44,7 +44,7 @@ However, you should also always consider whether there is a false information sc
 
 Reconsider your information architecture and information scent. We often put a lot of effort into the information architecture when we launch new sections, but it’s just as important to review it regularly as the web content evolves. Look at link labels.
 
-[A case for descriptive link text](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)(blog post)
+[A case for descriptive link text](https://blog.canada.ca/2020/05/26/descriptive-link-text.html) (blog post)
 
 ### 2. People don’t seem to understand the answer
 
@@ -64,11 +64,11 @@ The web is an ecosystem. It’s not just about the words, or the structure, or a
 
 If your page has the answers, but feedback, calls or analytics show people just aren’t getting what they need, look at how the page functions as whole. 
 
-Consider the layout. Is the sequencing logical? Is there enough white space? Are the subtitles accurate to help people scan for what they are looking for?
+**Consider the layout.** Is the sequencing logical? Is there enough white space? Are the subtitles accurate to help people scan for what they are looking for?
 
-Consider the length of the page. Is your page too complicated? Could interactive elements be added or adjusted to help people navigate better through the content? Is the page cluttered with extra information (like unnecessary “related links”) that distracts people?
+**Consider the length of the page.** Is your page too complicated? Could interactive elements be added or adjusted to help people navigate better through the content? Is the page cluttered with extra information (like unnecessary “related links”) that distracts people?
 
-Look at what’s connected to the page. Is your page connected to related pages in a way that makes sense or is there a piece missing from the puzzle? Does your vocabulary match vocabulary being used elsewhere? Does a link from somewhere else point people to the wrong section on the page and create confusion? 
+**Look at what’s connected to the page.** Is your page connected to related pages in a way that makes sense or is there a piece missing from the puzzle? Does your vocabulary match vocabulary being used elsewhere? Does a link from somewhere else point people to the wrong section on the page and create confusion? 
 
 Taking the time to consider the page as a whole can help you uncover issues with how people are interacting with the page.
 
