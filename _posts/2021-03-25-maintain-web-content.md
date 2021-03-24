@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maintaining and improving web content through its life cycle"
-langpage: "https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html"
+langpage: "https://blogue.canada.ca/2021/03/035/maintenir-le-contenu-web.html"
 date:   2021-03-25
 published: true
 draft: true
@@ -42,7 +42,7 @@ This is often a navigation issue. Generally we encourage content designers to pu
 
 However, you should also always consider whether there is a false information scent (we also call these “dirty magnets”) bringing people to the wrong page. Don’t cram pages full of every possible answer. Instead, make sure page titles, headings and navigation properly divide up content to create clear paths. Then make sure people can find what they expect to find on each page.
 
-Reconsider your information architecture, and information scent. We often put a lot of effort into the information architecture when we launch new sections, but it’s just as important to review it regularly as the web content evolves. Look at link labels.
+Reconsider your information architecture and information scent. We often put a lot of effort into the information architecture when we launch new sections, but it’s just as important to review it regularly as the web content evolves. Look at link labels.
 
 [A case for descriptive link text](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)(blog post)
 
