@@ -88,7 +88,7 @@ Small changes to our web content can greatly impact the lives of millions of peo
 
 On a regular basis, look at various sources of data to help guide efforts at iterating and regularly improving your web presence. Create multi-disciplinary spaces with web, strategic communications, policy and program experts. “Let the data flow” and work together on content improvement. 
 
-Monitoring content performance and continuously improving web content is an essential part of the publishing lifecycle. The "set it and forget it" days of publishing are gone. When you see an issue in the data, taking swift action to improve it makes an enormous difference!
+Monitoring content performance and continuously improving web content is an essential part of the publishing lifecycle. When you see an issue in the data, taking swift action to improve it makes an enormous difference!
 
 Share this post with your colleagues who might be interested.
 
