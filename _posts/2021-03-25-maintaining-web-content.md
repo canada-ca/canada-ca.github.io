@@ -64,7 +64,7 @@ The web is an ecosystem. It’s not just about the words, or the structure, or a
 
 If your page has the answers, but feedback, calls or analytics show people just aren’t getting what they need, look at how the page functions as whole. 
 
-**Consider the layout.** Is the sequencing logical? Is there enough white space? Are the subtitles accurate to help people scan for what they are looking for?
+**Consider the layout.** Is the sequencing logical? Is there enough white space? Are the subtitles accurate, and do they help people scan for what they’re looking for?
 
 **Consider the length of the page.** Is your page too complicated? Could interactive elements be added or adjusted to help people navigate better through the content? Is the page cluttered with extra information (like unnecessary “related links”) that distracts people?
 
@@ -76,9 +76,9 @@ Taking the time to consider the page as a whole can help you uncover issues with
 
 ### 4. Program or service doesn’t meet the need
 
-Monitoring task success and feedback can highlight a bigger policy or program design issue. Share feedback with appropriate program/policy channels, and consider setting up a co-design session to address the issue (we will be discussing this in an upcoming post). 
+Monitoring task success and feedback can highlight a bigger policy or program design issue. Share feedback with appropriate program/policy channels, and consider setting up a co-design session to address the issue (we’ll be discussing this in an upcoming post). 
 
-If you are having a hard time convincing your policy or program colleagues to make some changes, consider offering to change them back if the changes don’t work -- being able to make frequent changes is the beauty of the web. 
+If you're having a hard time convincing your policy or program colleagues to make some changes, revert to what you have if the changes don’t work. Being able to adjust things quickly is the beauty of the web.
 
 Check back with them once any changes go live to see if there is a positive effect on the feedback that is coming in.
 
