@@ -9,7 +9,7 @@ lang: fr
 alt: "Maintenir et améliorer le contenu web tout au long de son cycle de vie"
 description: "Que vous dirigiez un centre d’appels interne ou que vous externalisiez la gestion de votre centre d’appel en faisant appel par le biais d'un partenaire de confiance, les agents sont la clé pour tirer parti des commentaires des clients. L’utilisation de ces données peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes."
 ---
-Il est nécessaire de continuellement assurer le maintien du contenu sur Canada.ca pour qu’il demeure pertinent, exact et à jour. L’ère des publications « configurez-les et n’y pensez plus » n’existe pas sur le Web.
+Il est nécessaire de continuellement assurer le maintien du contenu sur Canada.ca pour qu’il demeure pertinent, exact et à jour. L’ère des publications «&nbsp;configurez-les et n’y pensez plus&nbsp;» n’existe pas sur le Web.
 
 À qui revient alors la responsabilité d’améliorer et d’assurer le maintien du contenu?
 
@@ -41,7 +41,7 @@ L’augmentation du nombre d’appels, les signalements concernant un problème,
 
 Il s’agit souvent d’un problème de navigation. En général, nous encourageons les concepteurs de contenu à publier les réponses sur les pages que les gens consultent dans le cadre de leurs recherches. Si vous savez qu’ils cherchent une réponse précise sur une page donnée, il y a de bonnes chances que cette dernière devrait y figurer.
 
-Cependant, vous devez toujours tenir compte des fausses pistes d’information (nous les appelons aussi liens « mirage ») qui amènent les gens au mauvais endroit. Évitez d’encombrer les pages en y affichant toutes les réponses possibles. Assurez-vous plutôt que les titres, les en-têtes et les éléments de navigation divisent correctement le contenu et créent un chemin facile à suivre. Assurez-vous ensuite que chaque page contient ce que les gens s’attendent à y trouver.
+Cependant, vous devez toujours tenir compte des fausses pistes d’information (nous les appelons aussi liens «&nbsp;mirage&nbsp;») qui amènent les gens au mauvais endroit. Évitez d’encombrer les pages en y affichant toutes les réponses possibles. Assurez-vous plutôt que les titres, les en-têtes et les éléments de navigation divisent correctement le contenu et créent un chemin facile à suivre. Assurez-vous ensuite que chaque page contient ce que les gens s’attendent à y trouver.
 
 Repensez votre architecture de l’information et vos pistes d’information. Nous consacrons souvent beaucoup d’efforts sur ce premier aspect lorsque nous lançons de nouvelles sections, mais il est tout aussi important de revoir sa conception régulièrement à mesure que le contenu Web évolue. Examinez les étiquettes de lien.
 
@@ -67,7 +67,7 @@ Si les réponses figurent sur votre page, mais que la rétroaction, les appels o
 
 **Tenez compte de la mise en page.** La séquence des éléments est-elle logique? Y a-t-il suffisamment d’espace blanc? Les sous-titres sont-ils exacts? Permettent-ils aux gens de repérer ce qu’ils cherchent?
 
-**Tenez compte de la longueur de la page.** Votre page est-elle trop complexe? Des éléments interactifs pourraient-ils être ajoutés ou modifiés pour aider les gens à naviguer plus facilement dans l’ensemble du contenu? La page est-elle encombrée d’informations complémentaires (comme des « liens connexes » inutiles) qui distraient les gens?
+**Tenez compte de la longueur de la page.** Votre page est-elle trop complexe? Des éléments interactifs pourraient-ils être ajoutés ou modifiés pour aider les gens à naviguer plus facilement dans l’ensemble du contenu? La page est-elle encombrée d’informations complémentaires (comme des «&nbsp;liens connexes&nbsp;» inutiles) qui distraient les gens?
 
 **Examinez ce qui est lié à la page.** Votre page est-elle liée à des pages connexes de façon logique ou une pièce manque-t-elle au casse-tête? Les termes que vous employez correspondent-ils au vocabulaire utilisé ailleurs? Est-ce qu’un lien situé à un autre endroit dirige les gens vers la mauvaise section de la page et crée de la confusion?
 
@@ -87,9 +87,9 @@ Lorsqu’une modification est apportée, vérifiez auprès de vos collègues si 
 
 De petits changements à notre contenu Web peuvent avoir une incidence importante sur la vie de millions de personnes. En les aidant à trouver les réponses dont ils ont besoin sur Canada.ca, vous leur faites gagner du temps et économiser de l’argent, vous réduisez leur stress lorsqu’ils traitent avec le gouvernement et vous vous assurez qu’ils obtiennent un service efficace et fiable.
 
-Examinez régulièrement diverses sources de données pour vous aider à orienter vos efforts d’itération et à améliorer votre présence sur le Web. Créez des espaces multidisciplinaires avec des experts du Web, des communications stratégiques, des politiques et des programmes. « Laissez circuler les données » et travaillez ensemble à l’amélioration du contenu.
+Examinez régulièrement diverses sources de données pour vous aider à orienter vos efforts d’itération et à améliorer votre présence sur le Web. Créez des espaces multidisciplinaires avec des experts du Web, des communications stratégiques, des politiques et des programmes. «&nbsp;Laissez circuler les données&nbsp;» et travaillez ensemble à l’amélioration du contenu.
 
-La surveillance du rendement et l’amélioration constante du contenu Web constituent une partie essentielle de son cycle de vie. L’ère des publications « configurez-les et n’y pensez plus » est révolue sur le Web. Lorsque vous repérez un problème de données, le fait d’intervenir rapidement pour apporter des améliorations fait une énorme différence!
+La surveillance du rendement et l’amélioration constante du contenu Web constituent une partie essentielle de son cycle de vie. L’ère des publications «&nbsp;configurez-les et n’y pensez plus&nbsp;» est révolue sur le Web. Lorsque vous repérez un problème de données, le fait d’intervenir rapidement pour apporter des améliorations fait une énorme différence!
 
 Transmettez cette publication à vos collègues qui pourraient être intéressés.
 
