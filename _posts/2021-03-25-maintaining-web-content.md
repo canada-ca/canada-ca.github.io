@@ -7,7 +7,7 @@ published: true
 draft: true
 lang: en
 alt: "Maintaining and improving web content through its life cycle"
-description: "Whether you run an in-house call center or outsource your call center to a trusted partner, agents are the key to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind."
+description: "Small changes make a big difference to improve Canada.ca. Let’s continue the discussion on data to action. Here are 4 common issues and actions you can take."
 ---
 Content on Canada.ca needs to be continuously maintained to keep it relevant, accurate, and current. The "set it and forget it" days of publishing do not exist on the web.
 
