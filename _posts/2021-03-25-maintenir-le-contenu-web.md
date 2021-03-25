@@ -7,7 +7,7 @@ published: true
 draft: true
 lang: fr
 alt: "Maintenir et améliorer le contenu web tout au long de son cycle de vie"
-description: "Que vous dirigiez un centre d’appels interne ou que vous externalisiez la gestion de votre centre d’appel en faisant appel par le biais d'un partenaire de confiance, les agents sont la clé pour tirer parti des commentaires des clients. L’utilisation de ces données peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes."
+description: "De petits changements font une grande différence pour améliorer Canada.ca. Poursuivons la discussion sur le passage des données à l'action. Voici 4 problèmes courants et les mesures que vous pouvez prendre."
 ---
 Il est nécessaire de continuellement assurer le maintien du contenu sur Canada.ca pour qu’il demeure pertinent, exact et à jour. L’ère des publications «&nbsp;configurez-les et n’y pensez plus&nbsp;» n’existe pas sur le Web.
 
@@ -79,7 +79,7 @@ Prendre le temps d’examiner la page dans son ensemble peut vous aider à déco
 
 Le suivi de la réussite des tâches et la rétroaction peuvent mettre en évidence un problème plus important touchant les politiques ou la conception du programme. Fournissez de la rétroaction aux responsables des programmes et des politiques concernés et envisagez d’organiser une séance de design participatif pour régler le problème (nous en discuterons dans une publication à venir).
 
-Si vous avez de la difficulté à les convaincre d’apporter des changements, envisagez de leur offrir de les modifier de nouveau s’ils ne fonctionnent pas – la capacité d’apporter des modifications fréquentes est la beauté du Web.
+Si vous avez de la difficulté à les convaincre d’apporter des changements, envisagez de leur offrir de les modifier de nouveau s’ils ne fonctionnent pas. La capacité d’apporter des modifications rapides fréquentes est la beauté du Web.
 
 Lorsqu’une modification est apportée, vérifiez auprès de vos collègues si ce changement a un effet positif sur les commentaires que nous recevons.
 
