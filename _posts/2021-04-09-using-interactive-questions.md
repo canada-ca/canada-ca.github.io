@@ -109,12 +109,13 @@ They help more than just visitors though. Interactive questions can:
 
 ## Learn more
 
-* [Using data to make better content](https://blog.canada.ca/2021/02/04/data-to-action.html)
-* [The importance of working with call centres](https://blog.canada.ca/2021/03/01/work-with-call-centres.html)
-* [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html)
-* [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
-* [Collect feedback, find issues](https://blog.canada.ca/2020/10/09/collect-feedback.html)
-* [Designing for accessibility](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html)
+* [Optimize your content for voice search](https://blog.canada.ca/2020/01/28/voice-search-optimization.html)
+* [Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
+* [Government of Canada Service Strategy](https://open.canada.ca/en/content/government-canada-service-strategy)
+* [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
+* [Google Conversation design learning material](https://developers.google.com/actions/design/)
+* [Voice First: The Future of Interaction? (Nielsen Norman Group)](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html)
+* [DialogFlow documentation](https://dialogflow.com/docs)
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
