@@ -65,6 +65,17 @@ Most recently we’ve used this pattern for travellers coming to Canada during t
 
 [Find out if you can enter Canada](https://travel.gc.ca/travel-covid/travel-restrictions/wizard-start)
 
+<br>
+<figure>
+<img class="img-responsive border" alt="A long description can be found after the image."
+src="/images/interactive questions_EN.jpg" width="700">
+</figure>
+<details>
+<summary>The Travel wizard.</summary>
+<p>The "Find out if you can travel to Canada" wizard displays all the answers you've provided as a persistent list at the top of the page above each new question it asks you.</p>
+</details>
+<br>
+
 Other successful examples of this design pattern include:
 * CRA: [How to apply to CERB](https://www.canada.ca/en/services/benefits/ei/cerb-application.html#apply)
 * ESDC: [Find financial help during COVID](https://www.canada.ca/en/services/benefits/ei/cerb-application.html#apply)
