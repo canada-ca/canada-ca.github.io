@@ -69,7 +69,7 @@ Plus récemment, nous avons utilisé ce modèle pour les voyageurs à destinatio
 <br>
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/interactive questions_FR.JPG" width="700">
+src="/images/interactive questions_FR.JPG" width="500">
 </figure>
 <details>
 <summary>The Travel wizard.</summary>
@@ -109,11 +109,13 @@ Toutefois, elles n’aident pas seulement les personnes qui visitent le site Web
 * permettre aux Canadiens d’utiliser un service en toute confiance et leur faire savoir que le gouvernement les appuie.
 
 ## Pour en savoir davantage
-* [Optimiser votre contenu pour la recherche vocale](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html)
-* [Résumé de la recherche : Communiquer avec l’ARC](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
-* [Recueillir la rétroaction, trouver les problèmes](https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html)
-* [Conception axée sur l’accessibilité](https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html)
-* [Site Web ArriveCAN](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/arrivecan.html)
+* [Optimiser votre contenu pour la recherche vocale](https://blogue.canada.ca/2020/01/28/optimisation-recherche-vocale.html)
+* [Résumé de la recherche : Communiquer avec l’ARC](https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html)
+* [Stratégie de service du gouvernement du Canada](https://ouvert.canada.ca/fr/contenu/la-strategie-de-service-du-gouvernement-du-canada)
+* [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
+* [Conception de matériel d’apprentissage sur Google Conversation](https://developers.google.com/actions/design/)
+* [Voice First: The Future of Interaction? (Nielsen Norman Group)](https://www.nngroup.com/articles/voice-first/)
+* [Documentation DialogFlow](https://cloud.google.com/dialogflow/docs/)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor
 
