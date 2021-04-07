@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The magic of using interactive questions"
-langpage: "https://blogue.canada.ca/2021/03/035/maintenir-le-contenu-web.html"
-date:   2021-04-09
+langpage: "https://blogue.canada.ca/2021/04/08/maintenir-le-contenu-web.html"
+date:   2021-04-08
 published: true
 draft: true
 lang: en
@@ -68,7 +68,7 @@ Most recently we’ve used this pattern for travellers coming to Canada during t
 <br>
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/interactive questions_EN.JPG" width="700">
+src="/images/interactive questions_EN.JPG" width="500">
 </figure>
 <details>
 <summary>The Travel wizard.</summary>
