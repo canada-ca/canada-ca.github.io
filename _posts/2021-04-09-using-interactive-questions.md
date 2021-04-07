@@ -68,7 +68,7 @@ Most recently we’ve used this pattern for travellers coming to Canada during t
 <br>
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/interactive questions_EN.jpg" width="700">
+src="/images/interactive questions_EN.JPG" width="700">
 </figure>
 <details>
 <summary>The Travel wizard.</summary>
