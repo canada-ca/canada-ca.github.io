@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "La magie des questions interactives"
+title:  "Les questions interactives pour aider les gens"
 langpage: "https://blog.canada.ca/2021/04/08/utilisation-de-questions-interactives.html"
 date: 2021-04-08
 published: true
 draft: true
 lang: fr
-alt: "La magie des questions interactives"
+alt: "Les questions interactives pour aider les gens"
 description: "Nous avons voulu partager certaines de nos expériences les plus récentes en matière d'utilisation des données pour améliorer le fonctionnement de contenus importants."
 ---
 Nous désignons parfois le modèle de questions interactives comme un « assistant ».
 
-Non, ce n’est pas quelqu’un qui va venir chez vous régler tous vos problèmes de contenu comme par magie. Pourtant, les réponses simples et claires que vos utilisateurs peuvent obtenir d’un assistant peuvent sembler plutôt magiques.
+Non, il ne s’agit  pas de quelqu’un qui va venir chez vous pour vous assister dans toutes vos tâches quotidiennes.. Cela dit, les réponses simples et claires que vos utilisateurs peuvent obtenir d’un assistant peuvent vraiment les aider à trouver les réponses dont ils ont besoin.
 
 Personne ne veut que les gens aient de la difficulté à utiliser les services gouvernementaux en ligne lorsqu’ils essaient d’accomplir des tâches, comme :
 
@@ -68,11 +68,11 @@ Plus récemment, nous avons utilisé ce modèle pour les voyageurs à destinatio
 
 <br>
 <figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
 src="/images/interactive questions_FR.JPG" width="500">
 </figure>
 <details>
-<summary>The Travel wizard.</summary>
+<summary>L'assistant de voyage.</summary>
 <p>L'assistant "Découvrez si vous pouvez voyager au Canada" affiche toutes les réponses que vous avez fournies sous la forme d'une liste permanente en haut de la page, au-dessus de chaque nouvelle question qu'il vous pose.</p>
 </details>
 <br>
