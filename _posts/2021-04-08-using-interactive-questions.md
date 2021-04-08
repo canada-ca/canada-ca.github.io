@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The magic of using interactive questions"
-langpage: "https://blogue.canada.ca/2021/04/08/maintenir-le-contenu-web.html"
+langpage: "https://blogue.canada.ca/2021/04/08/utilisation-de-questions-interactives.html"
 date:   2021-04-08
 published: true
 draft: true
