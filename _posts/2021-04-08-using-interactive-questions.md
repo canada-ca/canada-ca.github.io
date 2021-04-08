@@ -7,7 +7,7 @@ published: true
 draft: true
 lang: en
 alt: "The magic of using interactive questions"
-description: "Small changes make a big difference to improve Canada.ca. Let’s continue the discussion on data to action. Here are 4 common issues and actions you can take."
+description: "This pattern is used to present people with a sequence of simple questions that leads to the specific answer they need to continue with or complete their task."
 ---
 Sometimes we refer to the interactive question pattern as a “wizard”.
 
@@ -42,7 +42,7 @@ This pattern is well suited to helping people understand:
 
 ## Proven, user-tested pattern that improves task success
 
-People are not looking for information on Canada.ca - they’re looking for **answers**, personalized to their situation and what they have to do next. In situations where there’s complexity or math involved, you can improve task success by helping people through their journey with interactive questions and answers.
+People are not looking for information on Canada.ca - they’re looking for **answers**, personalized to their situation and what they have to do next. In situations where there’s complexity or math involved, you can improve task success by helping people through their journey.
 
 Consider the matter of deciding whether to get a visa or eTA to visit Canada.
 
@@ -61,7 +61,9 @@ The tool has been serving visitors on Canada.ca since 2017, and has been updated
 
 [Find out if you need a visa](http://www.cic.gc.ca/english/visit/visas.asp)
 
-Most recently we’ve used this pattern for travellers coming to Canada during the COVID-19 pandemic. Web analytics, call centre data and feedback have all shown that the complex travel restrictions are very hard for people to understand. To help people find answers specific to their personal situation, teams across government worked together to create a set of interactive questions and answers. As you move through the questions, your answers to all previous questions appear in a list at the top of the page. This means you can double check that you’ve accurately described your situation, and you can back up a question if you notice a mistake.
+Most recently we’ve used this pattern for travellers coming to Canada during the COVID-19 pandemic. Web analytics, call centre data and feedback have all shown that the complex travel restrictions are very hard for people to understand. 
+
+To help people find answers specific to their personal situation, teams across government worked together to create a set of interactive questions and answers. As you move through the questions, your answers to all previous questions appear in a list at the top of the page. This means you can double check that you’ve accurately described your situation, and you can back up a question if you notice a mistake.
 
 [Find out if you can enter Canada](https://travel.gc.ca/travel-covid/travel-restrictions/wizard-start)
 
@@ -71,7 +73,7 @@ Most recently we’ve used this pattern for travellers coming to Canada during t
 src="/images/interactive questions_EN.JPG" width="500">
 </figure>
 <details>
-<summary>The Travel wizard.</summary>
+<summary>Interactive questions for travel restrictions</summary>
 <p>The "Find out if you can travel to Canada" wizard displays all the answers you've provided as a persistent list at the top of the page above each new question it asks you.</p>
 </details>
 <br>
@@ -86,7 +88,7 @@ Creating a successful set of interactive questions is very different from tradit
 
 To start out, talk to your call centre to see where there might be a need for this design approach. Chances are, if people are calling frequently about complex services, the text on the web isn’t doing enough for them.
 
-[The importance of working with call centres (blog post)](https://blog.canada.ca/2021/03/01/work-with-call-centres.html)
+[The importance of working with call centres](https://blog.canada.ca/2021/03/01/work-with-call-centres.html) (blog post)
 
 First, map out the flow of decisions people need to make. You can start by sketching on a whiteboard. Then progress to a flowchart in Visio, a jamboard or even in a spreadsheet.
 
