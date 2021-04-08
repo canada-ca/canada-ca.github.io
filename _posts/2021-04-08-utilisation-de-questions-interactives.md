@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Les questions interactives pour aider les gens"
-langpage: "https://blog.canada.ca/2021/04/08/utilisation-de-questions-interactives.html"
+langpage: "https://blog.canada.ca/2021/04/08/using-interactive-questions.html"
 date: 2021-04-08
 published: true
 draft: true
 lang: fr
 alt: "Les questions interactives pour aider les gens"
-description: "Nous avons voulu partager certaines de nos expériences les plus récentes en matière d'utilisation des données pour améliorer le fonctionnement de contenus importants."
+description: "La configuration est utilisée pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever."
 ---
 Nous désignons parfois le modèle de questions interactives comme un «&nbsp;assistant&nbsp;».
 
@@ -15,10 +15,10 @@ Non, il ne s’agit  pas de quelqu’un qui va venir chez vous pour vous assiste
 
 Personne ne veut que les gens aient de la difficulté à utiliser les services gouvernementaux en ligne lorsqu’ils essaient d’accomplir des tâches, comme :
 
-* Déterminer s’ils sont admissibles à une prestation;
-* Déterminer s’ils ont besoin d’une licence ou d’une autorisation;
-* Choisir le bon canal de signalement ou service avec lequel communiquer;
-* Décider si certaines règles s’appliquent à eux.
+* déterminer s’ils sont admissibles à une prestation;
+* déterminer s’ils ont besoin d’une licence ou d’une autorisation;
+* choisir le bon canal de signalement ou service avec lequel communiquer;
+* décider si certaines règles s’appliquent à eux.
 
 Utiliser le modèle de conception de questions interactives pour aider votre équipe à offrir des services modernes, efficaces et fiables aux Canadiens. Cette approche de conception peut leur faire gagner du temps et leur éviter toute frustration engendrée par le regroupement de l’information.
 
@@ -43,7 +43,7 @@ Ce modèle est bien adapté pour aider les gens à comprendre :
 
 ## Modèle éprouvé et testé qui améliore la réussite de la tâche
 
-Les gens ne cherchent pas d’information sur Canada.ca – ils cherchent des **réponses** personnalisées à leur situation et veulent savoir quelles démarches entreprendre par la suite. Dans les situations où il y a de la complexité ou des mathématiques en jeu, vous pouvez améliorer le taux de réussite des tâches en contribuant au cheminement des personnes au moyen de questions et de réponses interactives.
+Les gens ne cherchent pas d’information sur Canada.ca – ils cherchent des **réponses** personnalisées à leur situation et veulent savoir quelles démarches entreprendre par la suite. Dans les situations où il y a de la complexité ou des mathématiques en jeu, vous pouvez améliorer le taux de réussite des tâches en contribuant au cheminement des personnes.
 
 Envisagez s’il faut obtenir un visa ou une AVE pour visiter le Canada.
 
@@ -54,7 +54,7 @@ Cela dépend de ce qui suit :
 * votre pays de citoyenneté;
 * si vous avez ou non la résidence permanente aux États‑Unis;
 
-de nombreux autres facteurs.
+... et de nombreux autres facteurs.
 
 En 2017, nous avons d’abord collaboré avec Immigration, Réfugiés et Citoyenneté Canada pour concevoir et mettre à l’essai un ensemble de questions interactives sur les visas. Les visiteurs potentiels au Canada devaient répondre à quelques questions simples dont la réponse contenait des liens vers la prochaine étape à suivre.
 
@@ -62,7 +62,9 @@ L’outil est au service des visiteurs sur Canada.ca depuis 2017 et est mis à j
 
 [Déterminez si vous avez besoin d’un visa](https://www.cic.gc.ca/visit-visiter/fr/visas)
 
-Plus récemment, nous avons utilisé ce modèle pour les voyageurs à destination du Canada pendant la pandémie de COVID‑19. L’analytique Web, les données des centres d’appels et les rétroactions ont tous montré que les restrictions complexes liées aux voyages sont très difficiles à comprendre pour la plupart des gens. Pour aider les personnes à trouver des réponses propres à leur situation personnelle, les équipes du gouvernement ont uni leurs forces pour créer un ensemble de questions et de réponses interactives. À mesure que vous progressez au fil des questions, vos réponses à toutes les questions précédentes apparaissent dans une liste située en haut de la page. De cette façon, vous pouvez vous assurer d’avoir décrit votre situation avec exactitude, et vous pouvez revenir sur une question si vous constatez avoir fait une erreur.
+Plus récemment, nous avons utilisé ce modèle pour les voyageurs à destination du Canada pendant la pandémie de COVID‑19. L’analytique Web, les données des centres d’appels et les rétroactions ont tous montré que les restrictions complexes liées aux voyages sont très difficiles à comprendre pour la plupart des gens. 
+
+Pour aider les personnes à trouver des réponses propres à leur situation personnelle, les équipes du gouvernement ont uni leurs forces pour créer un ensemble de questions et de réponses interactives. À mesure que vous progressez au fil des questions, vos réponses à toutes les questions précédentes apparaissent dans une liste située en haut de la page. De cette façon, vous pouvez vous assurer d’avoir décrit votre situation avec exactitude, et vous pouvez revenir sur une question si vous constatez avoir fait une erreur.
 
 [Voyez si vous pouvez entrer au Canada](https://voyage.gc.ca/voyage-covid/voyage-restrictions/debut-assistant?_ga=2.234691422.1954857627.1617633945-2059021.1611345059)
 
@@ -72,7 +74,7 @@ Plus récemment, nous avons utilisé ce modèle pour les voyageurs à destinatio
 src="/images/interactive questions_FR.JPG" width="500">
 </figure>
 <details>
-<summary>Questions interactives pour les restrictions de voyage</summary>
+<summary>Questions interactives pour les restrictions liées aux voyages</summary>
 <p>L'assistant "Découvrez si vous pouvez voyager au Canada" affiche toutes les réponses que vous avez fournies sous la forme d'une liste permanente en haut de la page, au-dessus de chaque nouvelle question qu'il vous pose.</p>
 </details>
 <br>
