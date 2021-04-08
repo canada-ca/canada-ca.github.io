@@ -72,7 +72,7 @@ Plus récemment, nous avons utilisé ce modèle pour les voyageurs à destinatio
 src="/images/interactive questions_FR.JPG" width="500">
 </figure>
 <details>
-<summary>L'assistant de voyage.</summary>
+<summary>Questions interactives pour les restrictions de voyage</summary>
 <p>L'assistant "Découvrez si vous pouvez voyager au Canada" affiche toutes les réponses que vous avez fournies sous la forme d'une liste permanente en haut de la page, au-dessus de chaque nouvelle question qu'il vous pose.</p>
 </details>
 <br>
@@ -87,7 +87,7 @@ La création d’un ensemble de questions interactives réussi est très différ
 
 Pour commencer, parlez à votre centre d’appels pour voir où cette approche de conception pourrait s’imposer. Il y a de fortes chances que si les gens téléphonent fréquemment au sujet de services complexes, cela signifie que le texte sur le Web ne les aide pas suffisamment.
 
-[L’importance de collaborer avec les centres d’appels (billet de blogue)](https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html)
+[L’importance de collaborer avec les centres d’appels](https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html) (billet de blogue)
 
 Premièrement, établissez le cheminement des décisions que les gens doivent prendre. Vous pouvez commencer par dessiner sur un tableau blanc. Ensuite, utilisez un organigramme dans Visio, un Jamboard ou même une feuille de calcul.
 
