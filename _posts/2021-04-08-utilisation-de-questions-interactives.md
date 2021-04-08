@@ -9,9 +9,9 @@ lang: fr
 alt: "Les questions interactives pour aider les gens"
 description: "Nous avons voulu partager certaines de nos expériences les plus récentes en matière d'utilisation des données pour améliorer le fonctionnement de contenus importants."
 ---
-Nous désignons parfois le modèle de questions interactives comme un « assistant ».
+Nous désignons parfois le modèle de questions interactives comme un «&nbsp;assistant&nbsp;».
 
-Non, il ne s’agit  pas de quelqu’un qui va venir chez vous pour vous assister dans toutes vos tâches quotidiennes.. Cela dit, les réponses simples et claires que vos utilisateurs peuvent obtenir d’un assistant peuvent vraiment les aider à trouver les réponses dont ils ont besoin.
+Non, il ne s’agit  pas de quelqu’un qui va venir chez vous pour vous assister dans toutes vos tâches quotidiennes. Cela dit, les réponses simples et claires que vos utilisateurs peuvent obtenir d’un assistant peuvent vraiment les aider à trouver les réponses dont ils ont besoin.
 
 Personne ne veut que les gens aient de la difficulté à utiliser les services gouvernementaux en ligne lorsqu’ils essaient d’accomplir des tâches, comme :
 
