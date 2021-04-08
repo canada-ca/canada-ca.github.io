@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La magie des questions interactives"
-langpage: "https://blog.canada.ca/2021/02/04/utilisation-de-questions-interactives.html"
+langpage: "https://blog.canada.ca/2021/04/08/utilisation-de-questions-interactives.html"
 date: 2021-04-08
 published: true
 draft: true
@@ -30,7 +30,7 @@ Les questions interactives présentent aux utilisateurs une série de questions 
 
 Les personnes sont confuses par le contenu qui n’a rien à voir avec la tâche qu’elles sont en train d’accomplir. Lorsque les règles à suivre sont différentes en fonction des situations, il est particulièrement difficile pour les gens d’analyser tout cela et d’en retirer quelque chose de pertinent.
 
-Comme l’a dit un utilisateur, « Vous me dites tout ce que vous savez, mais pas ce que je dois savoir. »
+Comme l’a dit un utilisateur, «&nbsp;Vous me dites tout ce que vous savez, mais pas ce que je dois savoir.&nbsp;»
 
 Lorsque les gens ne comprennent pas quelles règles ou quels renseignements s’appliquent à leur situation, ils téléphonent à Service Canada ou leur rendent visite. Cela entraîne de longs délais d’attente dans les centres d’appels et des visites inutiles aux centres de service.
 
