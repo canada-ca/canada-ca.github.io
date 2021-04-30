@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Thank you Team Canada.ca/coronavirus"
-langpage: "https://blogue.canada.ca/2021/04/08/utilisation-de-questions-interactives.html"
+langpage: "https://blogue.canada.ca/2021/04/30/merci-a-equipe-web.html"
 date:   2021-04-30
 published: true
 draft: true
 lang: en
 alt: "Thank you Team Canada.ca/coronavirus"
-description: "This pattern is used to present people with a sequence of simple questions that leads to the specific answer they need to continue with or complete their task."
+description: "This massive effort was recognized yesterday with a Platinum Award at the 2021 CCO Awards Ceremony."
 ---
 The main way most Canadians interact with the government is online. Since the COVID-19 crisis began, Canadians have turned to Canada.ca, the Government of Canada’s website, for crucial health updates, financial assistance, information, and guidance. 
 
