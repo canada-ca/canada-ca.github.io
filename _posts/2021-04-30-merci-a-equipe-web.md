@@ -27,7 +27,14 @@ Sélectionné par le Secrétariat du Conseil du Trésor et le Bureau du Conseil 
 
 [Prix platine](https://www.canada.ca/fr/conseil-prive/services/bureau-collectivite-communications/prix-excellence-communication/prix-platine.html)
 
-Regardez la vidéo : (insérer le lien)
+Regardez la vidéo :
+
+<figure class="wb-mltmd">
+	<iframe src="https://drive.google.com/file/d/1BVwpR_YGB__Cl5FVDsIfyeU8CtUNkRDM/preview" frameborder="0" allowfullscreen="true"> </iframe>
+	<figcaption>
+		<p>Video de remerciement pour la cérémonie de reconnaissance</p>
+	</figcaption>
+</figure>
 
 Félicitations et merci à tous les stratèges, développeurs ou éditeurs, concepteurs, rédacteurs, gestionnaires, chercheurs et analystes du Web qui ont participé à cet effort!
 
