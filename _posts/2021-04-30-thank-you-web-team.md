@@ -29,8 +29,11 @@ Nominated by Treasury Board Secretariat and the Privy Council Office, this massi
 
 Watch the video: 
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/16TGlwSwpDIVwjoIsYyZBd-nlssnXnbqC/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+<figure class="wb-mltmd">
+	<iframe src="https://drive.google.com/file/d/16TGlwSwpDIVwjoIsYyZBd-nlssnXnbqC/preview" frameborder="0" allowfullscreen="true"> </iframe>
+	<figcaption>
+		<p>Thank you video for the CCO award ceremony</p>
+	</figcaption>
 </figure>
 
 Congratulations and thank you to all the web strategists, developers/publishers, designers, writers, managers, researchers, and analysts involved in this effort!
