@@ -25,11 +25,9 @@ This integration is unprecedented, achieved by and as a community, through growi
 
 Nominated by Treasury Board Secretariat and the Privy Council Office, this massive effort was recognized yesterday with a Platinum Award at the 2021 CCO Awards Ceremony.
 
-Platinum Award
+[Platinum Award](https://www.canada.ca/en/privy-council/services/communications-community-office/communications-awards-excellence/platinum-award.html)
 
 Watch the video: (insert link)
-
-
 
 Congratulations and thank you to all the web strategists, developers/publishers, designers, writers, managers, researchers, and analysts involved in this effort!
 
