@@ -25,7 +25,7 @@ Si cette intégration est sans précédent, ce qui est tout aussi remarquable, c
 
 Sélectionné par le Secrétariat du Conseil du Trésor et le Bureau du Conseil privé, cet énorme travail a été reconnu hier au moyen d’un prix Platine lors de la cérémonie de remise des prix 2021 du BCC. 
 
-Prix platine
+[Prix platine](https://www.canada.ca/fr/conseil-prive/services/bureau-collectivite-communications/prix-excellence-communication/prix-platine.html)
 
 Regardez la vidéo : (insérer le lien)
 
