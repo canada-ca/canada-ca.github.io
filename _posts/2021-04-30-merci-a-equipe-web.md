@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Merci Équipe Canada.ca/coronavirus"
-langpage: "https://blog.canada.ca/2021/04/08/using-interactive-questions.html"
+langpage: "https://blog.canada.ca/2021/04/30/thank-you-web-team.html"
 date: 2021-04-08
 published: true
 draft: true
