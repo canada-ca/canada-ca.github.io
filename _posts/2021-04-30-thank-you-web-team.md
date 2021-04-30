@@ -34,52 +34,52 @@ Watch the video: (insert link)
 Congratulations and thank you to all the web strategists, developers/publishers, designers, writers, managers, researchers, and analysts involved in this effort!
 
 Central coordination:
-●	Health Canada & Public Health Agency of Canada 
-●	Treasury Board of Canada Secretariat 
-●	Privy Council Office 
-●	Principal Publisher/Service Canada
+* Health Canada & Public Health Agency of Canada 
+* Treasury Board of Canada Secretariat 
+* Privy Council Office 
+* Principal Publisher/Service Canada
 
 Key departments and agencies and thematic leads:
-●	Canada Revenue Agency 
-●	Canada Border Services Agency 
-●	Employment and Social Development Canada 
-●	Finance Canada 
-●	Global Affairs Canada 
-●	Innovation, Science and Economic Development Canada 
-●	Public Safety Canada 
-●	Public Services and Procurement Canada 
+* Canada Revenue Agency 
+* Canada Border Services Agency 
+* Employment and Social Development Canada 
+* Finance Canada 
+* Global Affairs Canada 
+* Innovation, Science and Economic Development Canada 
+* Public Safety Canada 
+* Public Services and Procurement Canada 
 
 Contributors, collaborators, and content leads:
-●	Accessibility Standards Canada 
-●	Agriculture and Agri-Food Canada 
-●	Atlantic Canada Opportunities Agency 
-●	Business Development Bank of Canada 
-●	Canada Economic Development for Quebec Regions 
-●	Canada Mortgage and Housing Corporation
-●	Canadian Anti-fraud Centre 
-●	Canadian Centre for Occupational Health and Safety 
-●	Canadian Digital Service 
-●	Canadian Food Inspection Agency 
-●	Canadian Heritage 
-●	Canadian Institutes of Health Research 
-●	Canadian Northern Economic Development Agency 
-●	Communications Security Establishment 
-●	Correctional Service Canada 
-●	Destination Canada
-●	Export Development Canada 
-●	Federal Economic Development Agency for Southern Ontario 
-●	Fisheries and Oceans Canada 
-●	Immigration, Refugees and Citizenship Canada 
-●	Indigenous Services Canada 
-●	Intergovernmental Affairs 
-●	National Defence 
-●	Natural Resources Canada 
-●	Parks Canada 
-●	Shared Services Canada 
-●	Statistics Canada 
-●	Transport Canada 
-●	Veterans Affairs Canada 
-●	Western Economic Diversification Canada 
-●	Women and Gender Equality Canada 
+* Accessibility Standards Canada 
+* Agriculture and Agri-Food Canada 
+* Atlantic Canada Opportunities Agency 
+* Business Development Bank of Canada 
+* Canada Economic Development for Quebec Regions 
+* Canada Mortgage and Housing Corporation
+* Canadian Anti-fraud Centre 
+* Canadian Centre for Occupational Health and Safety 
+* Canadian Digital Service 
+* Canadian Food Inspection Agency 
+* Canadian Heritage 
+* Canadian Institutes of Health Research 
+* Canadian Northern Economic Development Agency 
+* Communications Security Establishment 
+* Correctional Service Canada 
+* Destination Canada
+* Export Development Canada 
+* Federal Economic Development Agency for Southern Ontario 
+* Fisheries and Oceans Canada 
+* Immigration, Refugees and Citizenship Canada 
+* Indigenous Services Canada 
+* Intergovernmental Affairs 
+* National Defence 
+* Natural Resources Canada 
+* Parks Canada 
+* Shared Services Canada 
+* Statistics Canada 
+* Transport Canada 
+* Veterans Affairs Canada 
+* Western Economic Diversification Canada 
+* Women and Gender Equality Canada 
 
 
