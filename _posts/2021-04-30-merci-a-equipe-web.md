@@ -30,7 +30,7 @@ Sélectionné par le Secrétariat du Conseil du Trésor et le Bureau du Conseil 
 Regardez la vidéo :
 
 <figure class="wb-mltmd">
-	<iframe src="https://drive.google.com/file/d/1BVwpR_YGB__Cl5FVDsIfyeU8CtUNkRDM/preview" frameborder="0" allowfullscreen="true"> </iframe>
+	<iframe src="https://drive.google.com/file/d/1BVwpR_YGB__Cl5FVDsIfyeU8CtUNkRDM/preview" frameborder="0" allowfullscreen="true" style="height: 585px;"> </iframe>
 	<figcaption>
 		<p>Video de remerciement pour la cérémonie de reconnaissance</p>
 	</figcaption>
