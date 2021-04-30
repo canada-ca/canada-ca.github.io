@@ -7,7 +7,7 @@ published: true
 draft: true
 lang: fr
 alt: "Merci Équipe Canada.ca/coronavirus"
-description: "La configuration est utilisée pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever."
+description: "Cet énorme travail a été reconnu hier au moyen d’un prix Platine lors de la cérémonie de remise des prix 2021 du BCC."
 ---
 La plupart des Canadiens interagissent principalement en ligne avec le gouvernement. Depuis le début de la crise de la COVID-19, les Canadiens se sont tournés vers Canada.ca, le site Web du gouvernement du Canada, pour obtenir des mises à jour essentielles sur la santé, de l’aide financière, des renseignements et des conseils. 
 
