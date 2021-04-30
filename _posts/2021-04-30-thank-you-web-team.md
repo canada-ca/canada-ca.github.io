@@ -9,7 +9,6 @@ lang: en
 alt: "Thank you Team Canada.ca/coronavirus"
 description: "This pattern is used to present people with a sequence of simple questions that leads to the specific answer they need to continue with or complete their task."
 ---
-
 The main way most Canadians interact with the government is online. Since the COVID-19 crisis began, Canadians have turned to Canada.ca, the Government of Canada’s website, for crucial health updates, financial assistance, information, and guidance. 
 
 Since January 2020, Canada.ca/coronavirus and supporting COVID-19 content has been visited more than 390 million times. At the beginning of the crisis, the site received more than 3 million visits each day, and traffic continues with upwards of 300,000 daily visits.
@@ -84,3 +83,9 @@ Contributors, collaborators, and content leads:
 * Veterans Affairs Canada 
 * Western Economic Diversification Canada 
 * Women and Gender Equality Canada 
+
+## Connect with the Digital Transformation Office at Treasury Board Secretariat
+
+* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)
+* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
