@@ -30,7 +30,7 @@ Nominated by Treasury Board Secretariat and the Privy Council Office, this massi
 Watch the video: 
 
 <figure class="wb-mltmd">
-	<iframe src="https://drive.google.com/file/d/16TGlwSwpDIVwjoIsYyZBd-nlssnXnbqC/preview" frameborder="0" allowfullscreen="true"> </iframe>
+	<iframe src="https://drive.google.com/file/d/16TGlwSwpDIVwjoIsYyZBd-nlssnXnbqC/preview" frameborder="0" allowfullscreen="true"  style="height: 585px;"> </iframe>
 	<figcaption>
 		<p>Thank you video for the CCO award ceremony</p>
 	</figcaption>
